@@ -1,27 +1,21 @@
-name: Unity remote smoke test
+name: Godot mobile project smoke test
 on:
   push:
     branches: [main]
   workflow_dispatch:
 jobs:
-  smoke-build:
-    name: Unity 6000.3.19f1 Linux build
+  smoke-test:
     runs-on: ubuntu-latest
     steps:
       - name: Check out project
         uses: actions/checkout@v4
-      - name: Build with Unity
-        uses: game-ci/unity-builder@v4
-        env:
-          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+      - name: Set up Godot
+        uses: lihop/setup-godot@v3
         with:
-          projectPath: .
-          unityVersion: 6000.3.19f1
-          targetPlatform: StandaloneLinux64
-          buildMethod: SmokeBuild.Build
-      - name: Upload smoke build
-        uses: actions/upload-artifact@v4
-        with:
-          name: hero-13-unity-smoke-build
-          path: Build/hero_13-smoke.x86_64
-          if-no-files-found: error
+          version: 4.4.1-stable
+      - name: Verify engine
+        run: godot --version
+      - name: Import and validate project
+        run: godot --headless --editor --path . --quit
+      - name: Launch main scene headlessly
+        run: godot --headless --path . --quit-after 5
