@@ -1,0 +1,27 @@
+name: Unity remote smoke test
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+jobs:
+  smoke-build:
+    name: Unity 6000.3.19f1 Linux build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out project
+        uses: actions/checkout@v4
+      - name: Build with Unity
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+        with:
+          projectPath: .
+          unityVersion: 6000.3.19f1
+          targetPlatform: StandaloneLinux64
+          buildMethod: SmokeBuild.Build
+      - name: Upload smoke build
+        uses: actions/upload-artifact@v4
+        with:
+          name: hero-13-unity-smoke-build
+          path: Build/hero_13-smoke.x86_64
+          if-no-files-found: error
