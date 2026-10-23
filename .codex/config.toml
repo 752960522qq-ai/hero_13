@@ -1,0 +1,3 @@
+[mcp_servers.godot-agent-tools]
+command = "npx"
+args = ["-y", "godot-agent-tools-mcp"]
