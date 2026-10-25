@@ -1,5 +1,5 @@
 import {Game} from './core.mjs';
-import {CHARACTERS, ATTRIBUTES, ITEMS, RECIPES} from './data.mjs';
+import {CHARACTERS, ATTRIBUTES, ITEMS, RECIPES, RULES} from './data.mjs';
 
 const $ = id => document.getElementById(id);
 const game = new Game();
@@ -147,7 +147,7 @@ function renderAttributes(stats) {
     const label = fixed ? '固定 · 不可升级' : next ? `${number(exp)} / ${next} EXP` : atCap ? '已达上限' : '下一级经验待配置';
     return `<article class="attribute" data-attribute="${attribute.id}"><div class="attribute-top"><span class="attribute-icon">${icons[attribute.id]}</span><span class="attribute-name">${escape(attribute.name)}</span><span class="attribute-level">${level}<small> LV</small></span></div><p class="attribute-effect">${attributeEffect(attribute.id, stats)}</p>${meter(fixed || atCap ? 1 : exp, fixed || atCap ? 1 : next || 1)}<div class="exp-row"><span>${label}</span><span>${fixed ? 'LUCK' : `MAX ${game.definition.attributeCap}`}</span></div></article>`;
   }).join(''));
-  update('growthRules', `<p>生命和体力以 0 级 100 为基准，每级增加 20；百分比加成都以 0 级初始基准相加，不逐级复利。</p><p>0→1 / 1→2 / 2→3 / 3→4 / 4→5：1000 / 1500 / 2500 / 5000 / 10000 EXP。初始等级直接生效，运气固定。</p>${ATTRIBUTES.filter(a => a.id !== 'luck').map(a => `<p><strong>${escape(a.name)}</strong>：${escape(a.description)}</p>`).join('')}<p>运气修正乘在事件原始概率上，并限制在 0—100%。正向 ×(1 + 6% × 等级)，负向 ×(1 − 5% × 等级)。</p><p>待配置：罗甄的成长速度倍率、5→6 级经验；专属技能升级获取方式。专属技能暂按 0—5 级、罗甄 0—6 级开放配置预览。</p>`);
+  update('growthRules', `<p>生命和体力以 0 级 100 为基准，每级增加 20；百分比加成都以 0 级初始基准相加，不逐级复利。</p><p>0→1 / 1→2 / 2→3 / 3→4 / 4→5：1000 / 1500 / 2500 / 5000 / 10000 EXP；罗甄 5→6 级为 ${RULES.luoLevelSixExp} EXP。初始等级直接生效，运气固定。</p>${ATTRIBUTES.filter(a => a.id !== 'luck').map(a => `<p><strong>${escape(a.name)}</strong>：${escape(a.description)}</p>`).join('')}<p>运气修正乘在事件原始概率上，并限制在 0—100%。正向 ×(1 + 6% × 等级)，负向 ×(1 − 5% × 等级)。</p><p>待配置：罗甄的成长速度倍率；专属技能升级获取方式。专属技能暂按 0—5 级、罗甄 0—6 级开放配置预览。</p>`);
 }
 
 function renderVitals(stats) {

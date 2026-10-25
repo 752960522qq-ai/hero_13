@@ -56,11 +56,11 @@ export class Game {
   stats(){return this._stats(this.character);}
   nextExp(attribute,c=this.character){
     if(!attrIds.includes(attribute)||attribute==='luck'||c.levels[attribute]>=characterById.get(c.id).attributeCap)return null;
-    const table=RULES.attributeExp||[1000,1500,2500,5000,10000,null];
-    return c.levels[attribute]===5?(RULES.luoLevelSixExp??null):(table[c.levels[attribute]]??null);
+    const table=RULES.attributeExp||[1000,1500,2500,5000,10000,18000];
+    return c.levels[attribute]===5?(RULES.luoLevelSixExp??table[5]??null):(table[c.levels[attribute]]??null);
   }
   _xp(c,attribute,amount){
-    if(attribute==='luck'||amount<=0)return;
+    if(attribute==='luck'||amount<0)return;
     const d=characterById.get(c.id);
     if(c.levels[attribute]>=d.attributeCap)return;
     c.exp[attribute]+=amount*(c.id==='CHR_001'?(RULES.luoGrowthMultiplier??1):1);
@@ -315,6 +315,8 @@ export class Game {
       for(const def of CHARACTERS){
         const raw=data.characters[def.id],c=state.characters[def.id];if(!raw||!raw.levels||!raw.exp)return this._fail('存档缺少人物记录');
         for(const id of attrIds){c.levels[id]=id==='luck'?def.initialLevels.luck:Math.floor(clamp(raw.levels[id],0,def.attributeCap));c.exp[id]=id==='luck'?0:clamp(raw.exp[id],0,1e9);}
+        // Reconcile banked EXP when a previously pending level threshold is configured.
+        for(const id of attrIds)temporary._xp(c,id,0);
         c.skillLevel=Math.floor(clamp(raw.skillLevel,0,def.skillCap));const s=temporary._stats(c);
         c.hp=clamp(raw.hp,0,s.maxHp);c.stamina=clamp(raw.stamina,0,s.maxStamina);
         c.skill={active:false,thinking:false,energy:clamp(raw.skill?.energy,0,s.skillMaxEnergy),cooldown:clamp(raw.skill?.cooldown,0,100),remaining:0};

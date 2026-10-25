@@ -42,10 +42,45 @@ test('luck multiplies initial probabilities and is bounded',()=>{
   const g=gameFor('CHR_001');near(g.randomChance(.14),.1904);near(g.randomChance(.5,'negative'),.35);
   g.setSkillLevel(6);assert.equal(g.stats().dodgeChance,1);assert.equal(g.nextExp('luck'),null);
 });
-test('Luo sixth attribute threshold remains explicitly unconfigured',()=>{
-  const g=gameFor('CHR_001');g.character.levels.charm=5;
-  g.perform('social',{success:true});assert.equal(g.character.levels.charm,5);
-  assert.equal(g.character.exp.charm,50);assert.equal(g.nextExp('charm'),null);
+test('Luo sixth attribute level requires 18000 EXP for every trainable attribute',()=>{
+  const g=gameFor('CHR_001');
+  const attributes=['health','stamina','shooting','driving','strength','charm','intelligence'];
+  for(const attribute of attributes){
+    g.character.levels[attribute]=5;g.character.exp[attribute]=17999;
+    assert.equal(g.nextExp(attribute),18000);
+    assert.equal(g.character.levels[attribute],5);
+  }
+  g.character.hp=199;g.perform('heal',{amount:1});
+  g.perform('run',{distance:10});g.perform('shoot',{hit:false});
+  g.perform('drive',{distance:100,moving:true});g.perform('melee',{hit:false});
+  g.perform('social',{success:false});g.perform('craft',{success:false});
+  for(const attribute of attributes){
+    assert.equal(g.character.levels[attribute],6,attribute);
+    assert.equal(g.character.exp[attribute],0,attribute);
+    assert.equal(g.nextExp(attribute),null,attribute);
+  }
+  assert.equal(g.stats().maxHp,220);assert.equal(g.stats().maxStamina,220);
+  g.perform('social',{success:true});assert.equal(g.character.levels.charm,6);
+  assert.equal(g.character.exp.charm,0);assert.equal(g.character.levels.luck,6);
+  for(const id of ['CHR_002','CHR_003']){
+    const other=gameFor(id);other.character.levels.charm=5;
+    other.perform('social',{success:true});assert.equal(other.character.levels.charm,5);
+    assert.equal(other.nextExp('charm'),null);
+  }
+});
+test('legacy saved Luo experience reaches level six at 18000 and remains pending at 17999',()=>{
+  const g=gameFor('CHR_001'),saved=g.snapshot(),luo=saved.characters.CHR_001;
+  for(const attribute of ['health','stamina','charm'])luo.levels[attribute]=5;
+  luo.exp.health=18000;luo.exp.stamina=20000;luo.exp.charm=17999;
+  luo.hp=200;luo.stamina=200;luo.levels.luck=0;luo.exp.luck=99999;
+  const restored=new Game();assert.equal(restored.restore(saved).ok,true);
+  assert.equal(restored.character.levels.health,6);assert.equal(restored.character.levels.stamina,6);
+  assert.equal(restored.character.exp.health,0);assert.equal(restored.character.exp.stamina,0);
+  assert.equal(restored.stats().maxHp,220);assert.equal(restored.stats().maxStamina,220);
+  assert.equal(restored.character.hp,200);assert.equal(restored.character.stamina,200);
+  assert.equal(restored.character.levels.charm,5);assert.equal(restored.nextExp('charm'),18000);
+  assert.equal(restored.character.exp.charm,17999);
+  assert.equal(restored.character.levels.luck,6);assert.equal(restored.character.exp.luck,0);
 });
 test('armor absorbs per damage type and cannot absorb more than durability',()=>{
   for(const [type,absorb] of [['bullet',70],['explosion',40],['melee',20]]){

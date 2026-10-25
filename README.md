@@ -17,7 +17,7 @@ python3 -m http.server 8000 --directory xiaqing-motion-lab/dist
 
 规则、编号与待定参数见 [GAME_RULES.md](docs/GAME_RULES.md)；代码接口见 [API.md](xiaqing-motion-lab/dist/game/API.md)。
 
-本地存档属于当前浏览器，不会同步到其他设备。未给出的罗甄第六级经验、成长速度倍率及专属技能升级获取方式保留配置入口。
+本地存档属于当前浏览器，不会同步到其他设备。罗甄 5→6 级需要 18000 EXP；成长速度倍率及专属技能升级获取方式保留配置入口。
 
 ## Engine
 
