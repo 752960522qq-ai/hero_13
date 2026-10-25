@@ -1,0 +1,66 @@
+name: Restore uploaded Xiaqing source
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/restore-xiaqing-source.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: restore-xiaqing-source
+  cancel-in-progress: false
+jobs:
+  restore:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Join, verify and extract uploaded parts
+        run: |
+          python3 - <<'PY'
+          import hashlib, pathlib, tempfile, zipfile
+          root = pathlib.Path.cwd()
+          parts = [root / f"xiaqing-source.zip.{i:03d}" for i in range(1, 6)]
+          for part in parts:
+              if not part.is_file():
+                  raise SystemExit(f"Missing part: {part.name}")
+          with tempfile.TemporaryDirectory() as tmp:
+              archive = pathlib.Path(tmp) / "source.zip"
+              digest = hashlib.sha256()
+              with archive.open("wb") as out:
+                  for part in parts:
+                      with part.open("rb") as src:
+                          while chunk := src.read(1024 * 1024):
+                              out.write(chunk)
+                              digest.update(chunk)
+              expected = "6f4d9ae5ad76819343e024ee3772c96f30cdab52a3b4563ce248d6aa65f94311"
+              if digest.hexdigest() != expected:
+                  raise SystemExit("Archive SHA-256 mismatch")
+              with zipfile.ZipFile(archive) as z:
+                  for info in z.infolist():
+                      path = pathlib.PurePosixPath(info.filename)
+                      if path.is_absolute() or ".." in path.parts or not path.parts or path.parts[0] != "xiaqing-motion-lab":
+                          raise SystemExit(f"Unsafe/unexpected archive path: {info.filename}")
+                      if (info.external_attr >> 16) & 0o170000 == 0o120000:
+                          raise SystemExit(f"Symlink forbidden: {info.filename}")
+                  bad = z.testzip()
+                  if bad:
+                      raise SystemExit(f"Corrupt ZIP member: {bad}")
+                  z.extractall(root)
+                  for info in z.infolist():
+                      if not info.is_dir():
+                          target = root / info.filename
+                          if target.stat().st_size != info.file_size or hashlib.sha256(target.read_bytes()).digest() != hashlib.sha256(z.read(info)).digest():
+                              raise SystemExit(f"Extracted content mismatch: {info.filename}")
+                  print(f"Verified and extracted {len(z.infolist())} entries; SHA-256 {digest.hexdigest()}")
+          PY
+      - name: Commit restored source into main
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f -- xiaqing-motion-lab/
+          if git diff --cached --quiet; then
+            echo "Source already matches uploaded archive."
+            exit 0
+          fi
+          git commit -m "Restore Xiaqing source from five uploaded ZIP parts"
+          git push origin HEAD:main
