@@ -1,0 +1,53 @@
+{
+  "shoeVisibility": [
+    {
+      "variant": "beige",
+      "leftHidden": true,
+      "rightVisible": true,
+      "count": 4
+    },
+    {
+      "variant": "navy",
+      "leftHidden": true,
+      "rightVisible": true,
+      "count": 4
+    },
+    {
+      "variant": "sandal",
+      "leftHidden": true,
+      "rightVisible": true,
+      "count": 4
+    },
+    {
+      "variant": "red",
+      "leftHidden": true,
+      "rightVisible": true,
+      "count": 4
+    },
+    {
+      "variant": "stud",
+      "leftHidden": true,
+      "rightVisible": true,
+      "count": 4
+    },
+    {
+      "variant": "black",
+      "leftHidden": true,
+      "rightVisible": true,
+      "count": 4
+    }
+  ],
+  "restoration": {
+    "equipped": 33072,
+    "restored": 83403,
+    "expected": 83403,
+    "reEquipped": 33072
+  },
+  "outfitModules": 9,
+  "browserErrors": [],
+  "posedPreviews": [
+    "Idle 0s",
+    "Walk 0.3s",
+    "Run 0.18s"
+  ]
+}

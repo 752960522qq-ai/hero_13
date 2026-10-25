@@ -1,0 +1,45 @@
+{
+  "version": "5.0",
+  "fists": [
+    {
+      "side": "Left",
+      "vertices": 2700,
+      "open_edges": 0
+    },
+    {
+      "side": "Right",
+      "vertices": 2700,
+      "open_edges": 0
+    }
+  ],
+  "right_fist_source": "mirrored left fist from body.glb; right source surface malformed",
+  "rest_elbows_degrees": [
+    0.0,
+    0.0
+  ],
+  "walk_max_vertical_step_before": 0.014819353818893433,
+  "walk_max_vertical_step_after": 0.0018690622040978822,
+  "walk_foot_positions_preserved": true,
+  "clips": [
+    {
+      "clip": "Idle",
+      "frames": 251
+    },
+    {
+      "clip": "Walk",
+      "frames": 36
+    },
+    {
+      "clip": "Run",
+      "frames": 22
+    },
+    {
+      "clip": "ArmRaise",
+      "frames": 121
+    },
+    {
+      "clip": "HandTest",
+      "frames": 91
+    }
+  ]
+}

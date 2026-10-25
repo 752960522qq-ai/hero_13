@@ -1,0 +1,12 @@
+[
+  {
+    "clip": "Idle",
+    "frames": 251,
+    "source_direction_error_before_relaxation_degrees": 0.0
+  },
+  {
+    "clip": "Walk",
+    "frames": 36,
+    "source_direction_error_before_relaxation_degrees": 0.0
+  }
+]

@@ -1,0 +1,23 @@
+夏晴 · 动作测试 — 源码与模型资源
+
+此包包含当前网站代码、人物及鞋服 GLB 模型、原始模型、动作资源、模型处理脚本、已保存的 Blender 编辑文件和部分核验记录。
+
+查看网站：
+1. 解压本文件。
+2. 在 xiaqing-motion-lab 文件夹中打开终端。
+3. 已安装 Python 时运行：python -m http.server 8000 --directory dist
+   Windows 也可使用：py -m http.server 8000 --directory dist
+4. 浏览器访问：http://localhost:8000
+网站通过本地服务加载模型；直接双击 HTML 可能无法加载资源。
+
+Blender 编辑文件：
+qa/shirt-trouser/shirt_trouser_fitted.blend
+qa/shirt-trouser/neck_transition.blend
+
+网站入口：dist/index.html
+当前项目说明：CURRENT_MODEL.md
+服装说明：qa/shirt-trouser/STATUS.md
+
+进度说明：这是当前微调版，颈部等接缝仍需继续优化，不代表全部动作和接缝均已通过检查。README.md 中保留了项目早期记录，当前资源以 dist 和 CURRENT_MODEL.md 为准。
+
+依赖目录、Git 登录信息及临时核验缓存未打包。模型加工脚本需要对应的 Python 依赖和 Blender；已有网站资源可按上述方法直接运行。

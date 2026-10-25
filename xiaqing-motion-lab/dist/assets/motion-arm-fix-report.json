@@ -1,0 +1,28 @@
+{
+  "version": "4.3",
+  "bones": 24,
+  "sources": {
+    "Idle": "girl_Idle.fbx",
+    "Walk": "girl Walk.fbx",
+    "Run": "previous Run, arm correction only"
+  },
+  "arm_vertices": 14644,
+  "checks": [
+    {
+      "clip": "Idle",
+      "frame": 126
+    },
+    {
+      "clip": "Walk",
+      "frame": 18
+    },
+    {
+      "clip": "Run",
+      "frame": 9
+    },
+    {
+      "clip": "Run",
+      "frame": 19
+    }
+  ]
+}

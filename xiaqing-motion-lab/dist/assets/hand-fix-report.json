@@ -1,0 +1,23 @@
+{
+  "version": "4.1",
+  "modified_vertices": 6629,
+  "vertices_with_removed_torso_weights": 4711,
+  "targeted_pose_checks": [
+    {
+      "clip": "Idle",
+      "frame": 1,
+      "passed": true
+    },
+    {
+      "clip": "ArmRaise",
+      "frame": 61,
+      "passed": true
+    },
+    {
+      "clip": "HandTest",
+      "frame": 23,
+      "passed": true
+    }
+  ],
+  "topology_changed": false
+}

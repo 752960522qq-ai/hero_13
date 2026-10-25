@@ -1,0 +1,287 @@
+{
+  "version": "6.0",
+  "source": "xiaqing_body_penis.glb",
+  "native_joints": 437,
+  "mapped_joints": 23,
+  "meshes_preserved": 35,
+  "native_skin_and_geometry_unchanged": true,
+  "leg_scale": 1.8109392130336992,
+  "clips": [
+    {
+      "clip": "ArmRaise",
+      "frames": 121,
+      "duration": 4.0
+    },
+    {
+      "clip": "HandTest",
+      "frames": 91,
+      "duration": 3.0
+    },
+    {
+      "clip": "Run",
+      "frames": 22,
+      "duration": 0.699999988079071
+    },
+    {
+      "clip": "Idle",
+      "frames": 251,
+      "duration": 8.333333015441895
+    },
+    {
+      "clip": "Walk",
+      "frames": 36,
+      "duration": 1.1666666269302368
+    }
+  ],
+  "bytes": 25018188,
+  "texture_compression": {
+    "jpeg_quality": 92,
+    "images_reencoded": 38,
+    "dimensions_preserved": true,
+    "alpha_preserved": true
+  },
+  "non_image_buffers_preserved": true,
+  "verified_original_geometry_accessors": 282,
+  "sampled_skin_pose_checks": [
+    {
+      "clip": "ArmRaise",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "ArmRaise",
+      "frame": 60,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "ArmRaise",
+      "frame": 120,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "HandTest",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "HandTest",
+      "frame": 45,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "HandTest",
+      "frame": 90,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Run",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Run",
+      "frame": 11,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Run",
+      "frame": 21,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Idle",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Idle",
+      "frame": 125,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Idle",
+      "frame": 250,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Walk",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Walk",
+      "frame": 18,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Walk",
+      "frame": 35,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    }
+  ]
+}

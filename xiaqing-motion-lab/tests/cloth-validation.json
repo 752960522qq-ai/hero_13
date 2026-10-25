@@ -1,0 +1,1 @@
+{"solver":"CPU XPBD adapted from uploaded Godot compute shader","grid":[20,24],"particles":525,"passed":["wind","fixed pins","sphere collision","capsule collision","drag target","release","floor","reset","pause","JavaScript syntax"],"browser_3d_verification":"blocked: cloud browser WebGL disabled","self_collision":false}

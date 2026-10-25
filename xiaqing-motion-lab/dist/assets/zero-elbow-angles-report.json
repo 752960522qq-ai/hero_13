@@ -1,0 +1,16 @@
+[
+  {
+    "clip": "Idle",
+    "mean_elbow_bend_before": 9.999999960803066,
+    "mean_elbow_bend_after": 0.0,
+    "min_degrees": 0.0,
+    "max_degrees": 0.0
+  },
+  {
+    "clip": "Walk",
+    "mean_elbow_bend_before": 24.999997944639965,
+    "mean_elbow_bend_after": 0.0,
+    "min_degrees": 0.0,
+    "max_degrees": 0.0
+  }
+]

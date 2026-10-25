@@ -1,0 +1,191 @@
+{
+  "version": "6.1",
+  "source": "xiaqing_body_penis.glb",
+  "native_joints": 437,
+  "mapped_joints": 53,
+  "meshes_preserved": 35,
+  "native_skin_and_geometry_unchanged": true,
+  "leg_scale": 0.9035792476822814,
+  "clips": [
+    {
+      "clip": "Idle",
+      "frames": 251,
+      "duration": 8.333333015441895
+    },
+    {
+      "clip": "Walk",
+      "frames": 36,
+      "duration": 1.1666666269302368
+    },
+    {
+      "clip": "Run",
+      "frames": 22,
+      "duration": 0.699999988079071
+    }
+  ],
+  "bytes": 25094132,
+  "texture_compression": {
+    "jpeg_quality": 92,
+    "images_reencoded": 38,
+    "dimensions_preserved": true,
+    "alpha_preserved": true
+  },
+  "non_image_buffers_preserved": true,
+  "verified_original_geometry_accessors": 282,
+  "sampled_skin_pose_checks": [
+    {
+      "clip": "Idle",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Idle",
+      "frame": 125,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Idle",
+      "frame": 250,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Walk",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Walk",
+      "frame": 18,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Walk",
+      "frame": 35,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Run",
+      "frame": 0,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Run",
+      "frame": 11,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    },
+    {
+      "clip": "Run",
+      "frame": 21,
+      "bounds": [
+        [
+          -0.411,
+          0.005,
+          -0.11
+        ],
+        [
+          0.407,
+          1.728,
+          0.391
+        ]
+      ]
+    }
+  ],
+  "manual_motion_overrides": [],
+  "source_fbx_sha256": {
+    "girl_Idle.fbx": "5f900522d98df6506cf2d961171b78e760d57371b68f9968a07a3b3df8d5a4fd",
+    "Running.fbx": "4bd78678bdab7ffb7042944729dc56fb21aa16e5a1932f3d8614adcb4fd96e55",
+    "girl_Walk.fbx": "b1a12ee4fc28fd000e31ef4e9f1f461dad4229c65ab297af7a659e3aabcfd655"
+  },
+  "removed_clips": [
+    "ArmRaise",
+    "HandTest"
+  ]
+}

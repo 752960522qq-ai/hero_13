@@ -1,0 +1,16 @@
+{
+  "character": "夏晴_牛仔裤",
+  "bones": 22,
+  "clips": [
+    "ArmRaise",
+    "HandTest",
+    "Idle",
+    "Run",
+    "Walk"
+  ],
+  "source_vertices": 161752,
+  "welded_vertices": 148564,
+  "open_edges_before_repair": 812,
+  "open_edges_after_repair": 0,
+  "nonmanifold_edges": 0
+}
