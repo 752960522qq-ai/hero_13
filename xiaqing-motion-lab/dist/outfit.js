@@ -11,10 +11,10 @@ export async function attachOutfit(model,modules){
  const neckPatch=model.getObjectByName('pl2001_pl2001_Face_Mat');const neckVisible=neckPatch?.visible;const neckOriginal=neckPatch?.geometry;let neckFitted;const oldNeck=[];model.traverse(o=>{if(o.isMesh&&o.name.startsWith('Neck_continuous_transition'))oldNeck.push({mesh:o,visible:o.visible});});
  const controller={group,enabled:false,setEquipped(on){if(!installed)return;this.enabled=!!on;group.visible=this.enabled;if(neckPatch){neckPatch.visible=neckVisible&&modules.modules.get('head').enabled;neckPatch.geometry=this.enabled&&neckFitted?neckFitted:neckOriginal;}for(const n of oldNeck){n.mesh.userData.outfitCovered=this.enabled;n.mesh.visible=!this.enabled&&n.visible&&modules.modules.get('head').enabled;}modules.setCovered([...attached.keys(),'penis'],this.enabled);setBodyTriangleMask(body,'shirt-trouser',config.hideTriangles,this.enabled);modules.update();}};
  try{
-  const response=await fetch('./assets/wardrobe/shirt_trouser.json?v=22187ccfbb4d');if(!response.ok)throw new Error('套装配置加载失败');config=await response.json();
+  const response=await fetch('./assets/wardrobe/shirt_trouser.json?v=ankle-fit-20261025');if(!response.ok)throw new Error('套装配置加载失败');config=await response.json();
   if(neckPatch && config.neckBridge){const d=config.neckBridge;neckFitted=new THREE.BufferGeometry();neckFitted.setAttribute('position',new THREE.Float32BufferAttribute(d.positions.flat(),3));neckFitted.setAttribute('uv',new THREE.Float32BufferAttribute(d.uv.flat(),2));neckFitted.setAttribute('skinIndex',new THREE.Uint16BufferAttribute(d.joints.flat(),4));neckFitted.setAttribute('skinWeight',new THREE.Float32BufferAttribute(d.weights.flat(),4));neckFitted.setIndex(d.indices.flat());neckFitted.computeVertexNormals();neckFitted.computeBoundingSphere();}
   body=model.getObjectByName('pl2020_Skin_Mat');if(!body?.isSkinnedMesh||body.geometry.attributes.position.count!==config.positionCount)throw new Error('套装与角色不匹配');
-  const gltf=await new GLTFLoader().loadAsync(config.asset+'?v=22187ccfbb4d');const sources=[];let sharedSkeleton=null;gltf.scene.traverse(o=>{if(o.isSkinnedMesh)sources.push(o);});
+  const gltf=await new GLTFLoader().loadAsync(config.asset+'?v=ankle-fit-20261025');const sources=[];let sharedSkeleton=null;gltf.scene.traverse(o=>{if(o.isSkinnedMesh)sources.push(o);});
   if(sources.length!==9)throw new Error('套装部位不完整');
   for(const mesh of sources){
    const id=mesh.name.replace(/^Suit_/,'');if(!modules.modules.has(id))throw new Error('未知套装部位：'+id);

@@ -1,4 +1,4 @@
-import { attachOutfit } from './outfit.js?v=22187ccfbb4d';
+import { attachOutfit } from './outfit.js?v=ankle-fit-20261025';
 import { attachBodyModules } from './body-modules.js?v=2';
 import * as THREE from 'three';
 import { attachFootwear } from './footwear.js?v=9.4';

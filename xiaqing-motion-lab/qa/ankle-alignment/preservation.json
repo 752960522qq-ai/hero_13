@@ -1,0 +1,11 @@
+{
+  "allOtherAccessorsUnchanged": true,
+  "rigAndBindMatricesUnchanged": true,
+  "texturesUnchanged": true,
+  "upperCalfUnchangedAboveMeters": 0.34,
+  "modifiedVertices": {
+    "Suit_calf_l": 2029,
+    "Suit_calf_r": 1854
+  },
+  "changedAccessors": 4
+}

@@ -1,0 +1,22 @@
+{
+  "clearanceMeters": 0.004,
+  "fullFitBelowMeters": 0.27,
+  "unchangedAboveMeters": 0.34,
+  "meshes": [
+    {
+      "name": "Suit_calf_l",
+      "verticesAdjusted": 2029,
+      "maxDisplacementMeters": 0.019706774550254477,
+      "uvLayers": 1,
+      "vertexGroups": 437
+    },
+    {
+      "name": "Suit_calf_r",
+      "verticesAdjusted": 1854,
+      "maxDisplacementMeters": 0.026051162192394298,
+      "uvLayers": 1,
+      "vertexGroups": 437
+    }
+  ],
+  "preserved": "Original indices, UVs, weights, joints, inverse bind matrices, textures and all non-calf geometry"
+}
