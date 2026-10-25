@@ -1,0 +1,4 @@
+这是原始 ZIP 的五个等大小分片，大小最多相差 1 字节。
+请先解压本压缩包，再将五个分片按 001—005 顺序合并为 xiaqing-source.zip，然后解压。
+Windows 命令：copy /b xiaqing-source.zip.001+xiaqing-source.zip.002+xiaqing-source.zip.003+xiaqing-source.zip.004+xiaqing-source.zip.005 xiaqing-source.zip
+macOS/Linux 命令：cat xiaqing-source.zip.00? > xiaqing-source.zip
