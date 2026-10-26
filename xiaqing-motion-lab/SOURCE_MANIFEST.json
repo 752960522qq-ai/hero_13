@@ -22,6 +22,11 @@
       "sha256": "a8aad00ecf667d32a3f8c972911dd0430405e7d61391a61fa9e5b2827434a2a0"
     },
     {
+      "path": "SITE_PUBLICATION.json",
+      "bytes": 994,
+      "sha256": "eb82ee956ca64cb598926bd15df41813bb79ae390889958f4e3475ec9ddd0d53"
+    },
+    {
       "path": "dist/app.js",
       "bytes": 8825,
       "sha256": "7fc34876436484255e03440a72f4c946f06c038da8284dce1d409d906f994060"
@@ -120,6 +125,11 @@
       "path": "dist/vendor/three.module.js",
       "bytes": 603113,
       "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a"
+    },
+    {
+      "path": "dist/vest/index.html",
+      "bytes": 359,
+      "sha256": "193f29221545d7f3bd814b8c72cecede1ebceb5ed38c473d87e586792fbe6ca0"
     },
     {
       "path": "qa/game-framework/VERIFICATION.md",

@@ -2,6 +2,8 @@
 
 夏晴 R6 换装与布料测试已合并到一个网站，主入口为 `xiaqing-motion-lab/dist/index.html`。旧换鞋、旧换装系统及重复网站目录已移除，可从 Git 历史恢复。
 
+在线入口：[夏晴换装与布料统一测试](https://hero13-xiaqing-motion-lab.lovelysky513.chatgpt.site)。发布记录见 `xiaqing-motion-lab/SITE_PUBLICATION.json`。
+
 ## 打开统一网站
 
 ```sh

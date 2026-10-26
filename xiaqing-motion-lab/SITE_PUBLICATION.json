@@ -1,0 +1,16 @@
+{
+  "status": "succeeded",
+  "date_local": "2026-10-26",
+  "project_id": "appgprj_6addd4bb034481919d5219c3953cc97f",
+  "url": "https://hero13-xiaqing-motion-lab.lovelysky513.chatgpt.site",
+  "site_source_commit": "9e0aa1253177bded55af3e5b8f686cb970923a55",
+  "github_implementation_commit": "a545505c169d8e5071746826a4dbc0644a115d91",
+  "deployment_id": "appgdep_6adf45475cfc8191ab08acb90457f787",
+  "version_id": "appgprj_6addd4bb034481919d5219c3953cc97f~appgver_96a768a9d230819188e7af8d0338174a",
+  "updated_at_utc": "2026-10-26T12:19:43.872551+00:00",
+  "experience": ["R6 character wardrobe", "interactive cloth physics"],
+  "legacy_systems_removed": ["shoe changing", "old outfit modules", "duplicate website archives"],
+  "legacy_vest_url_redirects_to_unified_home": true,
+  "character_model_sha256": "9ecb96595ea069c0c650505dd1a8ea545c76bf506bd681ea564d3b041b08de1b",
+  "focused_checks": ["cloth-physics.test.mjs passed", "game-acceptance.test.mjs passed", "JavaScript syntax passed"]
+}
