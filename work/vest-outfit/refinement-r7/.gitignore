@@ -1,0 +1,3 @@
+*.log
+__pycache__/
+pose_adjustments/pose_candidate.blend

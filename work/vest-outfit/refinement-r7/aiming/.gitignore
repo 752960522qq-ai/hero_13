@@ -1,0 +1,4 @@
+*.log
+source_inspect.blend
+aiming_candidate.blend
+__pycache__/

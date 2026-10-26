@@ -13,7 +13,7 @@ scene.add(new THREE.HemisphereLight(0xfffaf0,0x6c7b6c,2.5));
 const key=new THREE.DirectionalLight(0xfff5e8,3.3);key.position.set(3,6,4);key.castShadow=true;key.shadow.mapSize.set(1024,1024);Object.assign(key.shadow.camera,{left:-5,right:5,top:5,bottom:-5});key.shadow.bias=-.0003;scene.add(key);
 const rim=new THREE.DirectionalLight(0xe0ebff,2);rim.position.set(-3,3,-3);scene.add(rim);
 const floor=new THREE.Mesh(new THREE.PlaneGeometry(100,100),new THREE.MeshStandardMaterial({color:0xe2e2db,roughness:.92}));floor.rotation.x=-Math.PI/2;floor.position.y=-.005;floor.receiveShadow=true;scene.add(floor);
-const actor=new THREE.Group();scene.add(actor);const actions={},labels={Idle:'待机',Walk:'行走',Run:'跑步'},ground={Idle:.017692,Walk:.035238,Run:.046244};
+const actor=new THREE.Group();scene.add(actor);const actions={},labels={Idle:'待机',Walk:'行走',Run:'跑步',Aim:'瞄准'},ground={Idle:.017692,Walk:.035238,Run:.046244,Aim:.006148};
 let mode='character',model=null,mixer=null,skeleton=null,currentAction=null,selected='Idle',paused=false,playRate=1,moving=false,autoReturn=false;
 const cloth=createClothTest({scene,camera,renderer,orbit,getModel:()=>model,mount:$('clothControls')});
 function characterView(kind='default'){const offset=kind==='front'?new THREE.Vector3(0,1.05,3.7):kind==='side'?new THREE.Vector3(3.7,1.05,0):new THREE.Vector3(1.4,1.25,3.7);camera.position.copy(actor.position).add(offset);orbit.target.copy(actor.position).add(new THREE.Vector3(0,.86,0));orbit.minDistance=.45;orbit.update();}
@@ -29,7 +29,7 @@ function select(name,manual=true){
  for(const b of document.querySelectorAll('[data-action]'))b.classList.toggle('selected',b.dataset.action===name);$('motionLabel').textContent=labels[name];updateState();
 }
 bridge.onAction(name=>select(name));
-new GLTFLoader().load('./assets/vest_xiaqing.glb?v=wardrobe-cloth-r6-9ecb96595ea0',gltf=>{
+new GLTFLoader().load('./assets/vest_xiaqing.glb?v=wardrobe-cloth-r7-360d7aedba7f',gltf=>{
  model=gltf.scene;model.name='夏晴';model.position.y=ground.Idle;model.traverse(o=>{if(o.isMesh){o.castShadow=true;o.receiveShadow=true;o.frustumCulled=false;}});actor.add(model);mixer=new THREE.AnimationMixer(model);for(const clip of gltf.animations)actions[clip.name]=mixer.clipAction(clip);
  skeleton=new THREE.SkeletonHelper(model);skeleton.material.depthTest=false;skeleton.material.transparent=true;skeleton.material.opacity=.7;skeleton.visible=false;scene.add(skeleton);
  for(const b of document.querySelectorAll('[data-action],#pause,#skeleton'))b.disabled=false;select('Idle');$('loading').hidden=true;updateState();
@@ -46,7 +46,7 @@ function frame(){
  requestAnimationFrame(frame);const dt=Math.min(clock.getDelta(),.05),worldDt=dt*(bridge.enabled?bridge.state.timeScale:1);motion.copy(input);if(keys.size){motion.set((keys.has('KeyD')||keys.has('ArrowRight')?1:0)-(keys.has('KeyA')||keys.has('ArrowLeft')?1:0),(keys.has('KeyS')||keys.has('ArrowDown')?1:0)-(keys.has('KeyW')||keys.has('ArrowUp')?1:0));if(motion.length()>1)motion.normalize();}
  const active=motion.length()>.12&&(!bridge.enabled||!bridge.state.blocked);
  if(model&&active&&!paused){
-  if(!moving&&selected==='Idle')autoReturn=true;const gait=selected==='Run'&&bridge.allows('Run')?'Run':'Walk';select(gait,false);camera.getWorldDirection(forward);forward.y=0;forward.normalize();right.crossVectors(forward,new THREE.Vector3(0,1,0)).normalize();dir.copy(forward).multiplyScalar(-motion.y).addScaledVector(right,motion.x).normalize();
+  if(!moving&&(selected==='Idle'||selected==='Aim'))autoReturn=true;const gait=selected==='Run'&&bridge.allows('Run')?'Run':'Walk';select(gait,false);camera.getWorldDirection(forward);forward.y=0;forward.normalize();right.crossVectors(forward,new THREE.Vector3(0,1,0)).normalize();dir.copy(forward).multiplyScalar(-motion.y).addScaledVector(right,motion.x).normalize();
   const yaw=Math.atan2(dir.x,dir.z),diff=Math.atan2(Math.sin(yaw-actor.rotation.y),Math.cos(yaw-actor.rotation.y));actor.rotation.y+=diff*Math.min(1,worldDt*10);const delta=dir.multiplyScalar(worldDt*(gait==='Run'?2.2:1.05)*motion.length()*playRate*(bridge.enabled?bridge.state.moveMultiplier:1)),proposed=actor.position.clone().add(delta);
   if(proposed.length()<6){actor.position.copy(proposed);bridge.moved(gait==='Run'?'run':'walk',delta.length());if(mode==='character'){camera.position.add(delta);orbit.target.add(delta);}}
  }else if(moving&&autoReturn){select(selected,false);autoReturn=false;}

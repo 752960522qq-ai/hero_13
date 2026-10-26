@@ -1,11 +1,11 @@
 {
   "format": 1,
-  "revision": "R6",
+  "revision": "R7_local",
   "files": [
     {
       "path": "README.md",
-      "bytes": 2755,
-      "sha256": "f4d1eecebec7fbb92215a7e7c1b17d1b36c6d6b86b66a2275d04b235a82216f0"
+      "bytes": 2962,
+      "sha256": "3343bf1897063988e0a1a625f463a0a4cc8ca28a67a227f7cc44ca338a60a932"
     },
     {
       "path": "production_history/README.md",
@@ -378,10 +378,235 @@
       "sha256": "9ecb96595ea069c0c650505dd1a8ea545c76bf506bd681ea564d3b041b08de1b"
     },
     {
+      "path": "refinement-r7/.gitignore",
+      "bytes": 57,
+      "sha256": "38d4a21adb8955a4d5469c113f9643d5e36d3a88a570e0e80a20a31ab64d841a"
+    },
+    {
+      "path": "refinement-r7/FINAL_ASSETS.sha256",
+      "bytes": 174,
+      "sha256": "0dd27ced508864cdefa0f7cd35c3d6636181b50641145fe9343df20bc0d05bd1"
+    },
+    {
+      "path": "refinement-r7/README.md",
+      "bytes": 2728,
+      "sha256": "1a9802cb285f6b93bb24eea50cd07eb2994699c2149d962e41e9c2b26e87d76b"
+    },
+    {
+      "path": "refinement-r7/WORK_STATE.json",
+      "bytes": 1093,
+      "sha256": "65fd60c0bf9da3444534566b5e6f24837992ea160442d0f5e1739795aa2332f4"
+    },
+    {
+      "path": "refinement-r7/after_Idle_full.png",
+      "bytes": 826731,
+      "sha256": "09dfc4c669a0e8ba32bf3a652adaf355c2661d3f9617d30bbaf1c039d799525f"
+    },
+    {
+      "path": "refinement-r7/after_Idle_late.png",
+      "bytes": 825833,
+      "sha256": "f90027aec386214d6eb66678843a5d5608cc1cda996840fc5740cf5ce5546e63"
+    },
+    {
+      "path": "refinement-r7/after_Run_front.png",
+      "bytes": 1066327,
+      "sha256": "f0234c92673e702f16158503393be76026233f11746f56b7d46409ba7a1e7cfe"
+    },
+    {
+      "path": "refinement-r7/after_Run_profile.png",
+      "bytes": 990323,
+      "sha256": "a6feb59640efd828b2a9fcd398148472c009191965e7948b732fcd8b862e353f"
+    },
+    {
+      "path": "refinement-r7/aiming/.gitignore",
+      "bytes": 63,
+      "sha256": "63264673154c92a23079e2a7698f635405b249f559087af24191f730f5bdde45"
+    },
+    {
+      "path": "refinement-r7/aiming/Aim_front.png",
+      "bytes": 853745,
+      "sha256": "df16f1a5a6ad1ed5c64531d8a60525a336c518ae22d8498fea01c890b0b4228a"
+    },
+    {
+      "path": "refinement-r7/aiming/Aim_hands.png",
+      "bytes": 1095223,
+      "sha256": "26e2a19987c60c9dd7240a5118a0b25b8225ab2d035a0307452f1f0e92f29fc3"
+    },
+    {
+      "path": "refinement-r7/aiming/Aim_side.png",
+      "bytes": 881624,
+      "sha256": "6651ea91373377973c54d3dc026359e1674317f8a76b16449eea3d2ba95c6628"
+    },
+    {
+      "path": "refinement-r7/aiming/README.md",
+      "bytes": 1730,
+      "sha256": "fc3765116c8f911b33214f44da833c297b9c557c4eb6e4891b8419ff52ba911c"
+    },
+    {
+      "path": "refinement-r7/aiming/Rifle Aiming Idle.fbx",
+      "bytes": 2070576,
+      "sha256": "9e3c0e23e151b9e01e35e04e752a6ddcf294d05e9dc436b20e523f85ca01b0c7"
+    },
+    {
+      "path": "refinement-r7/aiming/aim_rotation_keys.npz",
+      "bytes": 63435,
+      "sha256": "a465d31dd2c8602f1cd8e20ff8d69fb7f96ed594b0b2c35faf11c73dcbc7d565"
+    },
+    {
+      "path": "refinement-r7/aiming/inspect_source.py",
+      "bytes": 1083,
+      "sha256": "149edaeba1adcaaf138d078785abb064882dcb1c441dbf9f26c7e4b44428187a"
+    },
+    {
+      "path": "refinement-r7/aiming/measure_aim_ground.py",
+      "bytes": 1129,
+      "sha256": "5b4b4135f3c18431a36b804d5d957cbe0e8f71b9000c4951a157608627bceefa"
+    },
+    {
+      "path": "refinement-r7/aiming/preview_ground.json",
+      "bytes": 704,
+      "sha256": "c0b0f3ee09fb48febdedeebb9b228387d6cd2493ea215868a4ac0e9dfe9f850e"
+    },
+    {
+      "path": "refinement-r7/aiming/retarget_aim.py",
+      "bytes": 11551,
+      "sha256": "3b517fb3b9943d1c2bfe0129a8c2eca4edc4b82acbe3fd24ba7439ec75ac6f73"
+    },
+    {
+      "path": "refinement-r7/aiming/retarget_report.json",
+      "bytes": 5438,
+      "sha256": "6865da1ccc9762c8dc725792713a5d1bb50aca7bcae0d6a50a579d09ecc0ff38"
+    },
+    {
+      "path": "refinement-r7/aiming/source_inspection.json",
+      "bytes": 65977,
+      "sha256": "8f1317493f1e4228a9a8b43b95a46909f84773e5b185545138be64c758f752b1"
+    },
+    {
+      "path": "refinement-r7/before_Idle_full.png",
+      "bytes": 828383,
+      "sha256": "8a0aa0aa6be314b2d27558ced48625a2f62c7f9cd3c010bcd93eb4c326304992"
+    },
+    {
+      "path": "refinement-r7/before_Idle_late.png",
+      "bytes": 826748,
+      "sha256": "563e0b27be334ff2cc6ab616c39f1a69fd25a98eb42ae82c136a37a8faf4e7bc"
+    },
+    {
+      "path": "refinement-r7/before_Run_front.png",
+      "bytes": 1064036,
+      "sha256": "53f294e4f3d1439c7fee3239ab7048ec7dbe13743d29d61d07f99a31fb7a7e50"
+    },
+    {
+      "path": "refinement-r7/before_Run_profile.png",
+      "bytes": 986578,
+      "sha256": "cae86bde7e23bcee4bfc833a7af4cdcedf61c88589a7805699be96ae5d9561a0"
+    },
+    {
+      "path": "refinement-r7/check_targeted.py",
+      "bytes": 2551,
+      "sha256": "6d95e044f9106b51c9399bc5d36222597c0ac11e34dd197eabcb1eaacb0ee88c"
+    },
+    {
+      "path": "refinement-r7/comparison.html",
+      "bytes": 2059,
+      "sha256": "9966e76ccc68e509373307bb661b0fc72630277f053314f1b8c69b1d3656db80"
+    },
+    {
+      "path": "refinement-r7/editable_data/animation_keys.npz",
+      "bytes": 1402057,
+      "sha256": "35af04be9da34d330f294d0eb57ca12cc880544329f75902ba590261ea80adbd"
+    },
+    {
+      "path": "refinement-r7/editable_data/animation_manifest.json",
+      "bytes": 127818,
+      "sha256": "e06af9cb778123c85df94f47773d1015041feb14ff5562c610bd8e9c3511e6fa"
+    },
+    {
+      "path": "refinement-r7/editable_data/mesh_manifest.json",
+      "bytes": 424152,
+      "sha256": "7987967d765fc6c7e067d56eb0e8dac77c1af6bb5959debe191a991968d591fe"
+    },
+    {
+      "path": "refinement-r7/editable_data/mesh_skin_data.npz",
+      "bytes": 6613170,
+      "sha256": "69a5af292a89bcd1959dcce963ec6269e4b084b77916728ab08c457caf154ade"
+    },
+    {
+      "path": "refinement-r7/editable_data/rig_rest.json",
+      "bytes": 403601,
+      "sha256": "759fb0c57a6e6ff88d36e6c264f0937867243577b28b3ba03956d6547ade1fa7"
+    },
+    {
+      "path": "refinement-r7/export_r7.py",
+      "bytes": 4581,
+      "sha256": "7610b3bd38432a2e7f8f0ab1d4536529e53ee72d20399a8cf3120506037462e4"
+    },
+    {
+      "path": "refinement-r7/export_r7_report.json",
+      "bytes": 4512,
+      "sha256": "9bfa14547e6246ec6f921f581fa06a4be78f72da005c8cb17717b06686ee15ff"
+    },
+    {
+      "path": "refinement-r7/extract_editable_data.py",
+      "bytes": 4728,
+      "sha256": "56da7bd0838b6924d8dbe55b86ab7e27c693a1b4d9f8f2629523a032d605db2d"
+    },
+    {
+      "path": "refinement-r7/merge_r7.py",
+      "bytes": 2227,
+      "sha256": "3f10f8faf04da6463cd41468b0f7684aca7b0b6eeddd25c4a2b6a159230a1953"
+    },
+    {
+      "path": "refinement-r7/merge_report.json",
+      "bytes": 3536,
+      "sha256": "3c7a3186f7084ee00ed1b3816ee3102da85547532dc7394f74dd81e35c54e36a"
+    },
+    {
+      "path": "refinement-r7/pose_adjustments/fix_idle_run.py",
+      "bytes": 6486,
+      "sha256": "4ce92a64ae249a39b92cc07baaa0ddb74953fb5545f63b83a9a430f387d34465"
+    },
+    {
+      "path": "refinement-r7/pose_adjustments/inspect_neck.py",
+      "bytes": 1104,
+      "sha256": "1cd6264132721d544078f611ffef7fdde79b841c3862522c74f40246370c60c2"
+    },
+    {
+      "path": "refinement-r7/pose_adjustments/neck_before.json",
+      "bytes": 2452,
+      "sha256": "2fb3bcf7090fbb22fa525d278c4f07b623bec394c7422557765553e333346c60"
+    },
+    {
+      "path": "refinement-r7/pose_adjustments/pose_report.json",
+      "bytes": 8069,
+      "sha256": "165dcd9ef5f1a91f190a348ab0e88ce712bc9cc1e124bf2c835367f5e87a5a5e"
+    },
+    {
+      "path": "refinement-r7/review_pose_changes.py",
+      "bytes": 1661,
+      "sha256": "2555a2cdc792603d4c2d7254b8e2cc014989017156c11d7b863e7c4945b8ab63"
+    },
+    {
+      "path": "refinement-r7/targeted_checks.json",
+      "bytes": 1795,
+      "sha256": "5a540ff6811209946f9374ee670a3f7f2cd9fb07ca6adf6ac25275656e5d6db3"
+    },
+    {
+      "path": "refinement-r7/vest_xiaqing_r7.blend",
+      "bytes": 36026674,
+      "sha256": "fc61db2aca1fc24e2b4b0eb3bc35f6a23c770b21b3f5696cb0ae6f0675b0aced"
+    },
+    {
+      "path": "refinement-r7/vest_xiaqing_r7.glb",
+      "bytes": 24855144,
+      "sha256": "360d7aedba7f029bd7a308239fa69128ee0942f06f4c8c5dfc99dd4a70d1df27"
+    },
+    {
       "path": "write_inventory.py",
-      "bytes": 642,
-      "sha256": "4034dc83293e36d6874f4e729babc0ace9c7c4bef62a3f4677cc4acc404fea46"
+      "bytes": 721,
+      "sha256": "7ba5a28a6f9cd36983791710e6a05adbd2285cd70e00d6e4d353ed63109f60b1"
     }
   ],
-  "total_bytes": 101748388
+  "total_bytes": 184118340
 }

@@ -13,13 +13,13 @@
     },
     {
       "path": "CURRENT_MODEL.md",
-      "bytes": 684,
-      "sha256": "a46e2f82aa18249228dcede2e2b5e0ca34a4fc7de047002de9f6adab315acbb3"
+      "bytes": 817,
+      "sha256": "34bca70dca0318e80fd3701e093ab549f41b7c2a64d5fa02f5d17eebeaa93af5"
     },
     {
       "path": "README.md",
-      "bytes": 1248,
-      "sha256": "a8aad00ecf667d32a3f8c972911dd0430405e7d61391a61fa9e5b2827434a2a0"
+      "bytes": 1305,
+      "sha256": "77e352eab78d65e405b23136cbed8dff983d360f59833992b2ed82c2b58b7032"
     },
     {
       "path": "SITE_PUBLICATION.json",
@@ -28,13 +28,13 @@
     },
     {
       "path": "dist/app.js",
-      "bytes": 8825,
-      "sha256": "7fc34876436484255e03440a72f4c946f06c038da8284dce1d409d906f994060"
+      "bytes": 8870,
+      "sha256": "fcba43665450e6ccccd6bd9a6be775da7fc00b1764496b6dff36cc8c604c38bb"
     },
     {
       "path": "dist/assets/vest_xiaqing.glb",
-      "bytes": 24470848,
-      "sha256": "9ecb96595ea069c0c650505dd1a8ea545c76bf506bd681ea564d3b041b08de1b"
+      "bytes": 24855144,
+      "sha256": "360d7aedba7f029bd7a308239fa69128ee0942f06f4c8c5dfc99dd4a70d1df27"
     },
     {
       "path": "dist/assets/xiaqing_native_animated.glb",
@@ -88,8 +88,8 @@
     },
     {
       "path": "dist/index.html",
-      "bytes": 3297,
-      "sha256": "4a7c2f6378a7b72d96077494ce73b0677d43b64a00d4d6d646197b3c81e23a49"
+      "bytes": 3347,
+      "sha256": "2bfdbbe1db4d2da2fd8a2082e534a7069ad691f1d6d0b654093348053fc8bd08"
     },
     {
       "path": "dist/licenses/gpu-cloth-sim-MIT.txt",
@@ -99,7 +99,7 @@
     {
       "path": "dist/style.css",
       "bytes": 7587,
-      "sha256": "f2b5f4a95c24dafdb1e5ee878d0d1509215fa378af7f90bb685af66bc4b243a1"
+      "sha256": "8a1550d93577559e12985f13865396d229e05102eb682a76554d65911615536d"
     },
     {
       "path": "dist/vendor/BufferGeometryUtils.js",

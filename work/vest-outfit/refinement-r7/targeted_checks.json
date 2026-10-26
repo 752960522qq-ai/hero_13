@@ -1,0 +1,83 @@
+{
+  "Idle": [
+    {
+      "fraction": 0,
+      "hands": {
+        "l": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.044825952500104904
+        },
+        "r": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.08133853226900101
+        }
+      }
+    },
+    {
+      "fraction": 0.25,
+      "hands": {
+        "l": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.01831183396279812
+        },
+        "r": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.018430195748806
+        }
+      }
+    },
+    {
+      "fraction": 0.35,
+      "hands": {
+        "l": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.03151794150471687
+        },
+        "r": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.033307623118162155
+        }
+      }
+    },
+    {
+      "fraction": 0.7,
+      "hands": {
+        "l": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.0179966539144516
+        },
+        "r": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.01810000091791153
+        }
+      }
+    },
+    {
+      "fraction": 0.9,
+      "hands": {
+        "l": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.03213541582226753
+        },
+        "r": {
+          "triangle_intersections": 0,
+          "min_vertex_clearance_m": 0.06571105867624283
+        }
+      }
+    }
+  ],
+  "Run": [
+    {
+      "fraction": 0,
+      "neck_forward_degrees": 28.000094235784278
+    },
+    {
+      "fraction": 0.35,
+      "neck_forward_degrees": 27.99997257840728
+    },
+    {
+      "fraction": 0.7,
+      "neck_forward_degrees": 28.251670766000423
+    }
+  ]
+}
