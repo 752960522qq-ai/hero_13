@@ -1,0 +1,43 @@
+{
+  "glb_reimport_success": true,
+  "building_instance_count": 2,
+  "original_road_sidewalk_terrain_unchanged": true,
+  "placeholder_object_count": 487,
+  "placeholder_building_count": 484,
+  "buildings": [
+    {
+      "instance": "CBD_Modern_Glass_02",
+      "source": "modern+glass+2.glb",
+      "height_m": 68.00000190734863,
+      "height_error_m": 1.9073486328125e-06,
+      "uniform_scale_axis_error": 1.9763839503639247e-05,
+      "source_mesh_instances": 1,
+      "foundation_top_clearance_min_m": 0.0799999999999983,
+      "buried_footing_depth_min_m": 0.1999999999999993,
+      "road_overlap_samples": 0,
+      "access_missing_samples": 0,
+      "access_terrain_penetrations": 0,
+      "access_minimum_terrain_clearance_m": 0.11593556974669283,
+      "access_maximum_grade": 0.002649110640528289,
+      "access_end_maximum_lip_m": 0.006014400374461104
+    },
+    {
+      "instance": "CBD_Office_Building_01",
+      "source": "office+building+1.glb",
+      "height_m": 44.0,
+      "height_error_m": 0.0,
+      "uniform_scale_axis_error": 8.905423243277255e-07,
+      "source_mesh_instances": 1,
+      "foundation_top_clearance_min_m": 0.0799999999999983,
+      "buried_footing_depth_min_m": 0.1999999999999993,
+      "road_overlap_samples": 0,
+      "access_missing_samples": 0,
+      "access_terrain_penetrations": 0,
+      "access_minimum_terrain_clearance_m": 0.22088480176418912,
+      "access_maximum_grade": 0.016083943703160384,
+      "access_end_maximum_lip_m": 0.006094929654093306
+    }
+  ],
+  "failures": [],
+  "validation_passed": true
+}

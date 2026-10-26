@@ -1,0 +1,24 @@
+{
+  "original_building_image_bytes_preserved": true,
+  "source_assets_each_once": true,
+  "images": [
+    {
+      "name": "road_atlas",
+      "mime": "image/jpeg",
+      "bytes": 3591974,
+      "sha256": "f539dc6311dbac70b156e5a0fc45beb1cf02077b0cc6ff09867a11b6455a4286"
+    },
+    {
+      "name": "tripo_image_488004c8-2bf4-48a1-bfc7-42691d7b6e1e_0",
+      "mime": "image/jpeg",
+      "bytes": 4510361,
+      "sha256": "11abb6fa62ccea0adcad8a33dfc1ecc35e44fdce6757b1b06fc4fb9a82d8433e"
+    },
+    {
+      "name": "tripo_image_5966475a-cb78-4604-8f8e-a2bfd0dd51cb_0",
+      "mime": "image/jpeg",
+      "bytes": 4288916,
+      "sha256": "1d5096f168f7540674a4c8109ab5ac7e507f99392cdf187dd45739cfb72525d6"
+    }
+  ]
+}
