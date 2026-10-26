@@ -1,0 +1,45 @@
+{
+  "method": "source whole-foot plus high-heel rigid restoration; uniform scale only; lower-shin smooth transition",
+  "uniform_scale": 1.7,
+  "source_cut_z": 0.202,
+  "source_blend_end_z": 0.285,
+  "shoes": {
+    "l": {
+      "source_vertices": 6251,
+      "source_faces": 12400,
+      "translation": [
+        0.0022634058713913024,
+        -0.12196035456657411,
+        -0.11009358811378481
+      ],
+      "rotation": "identity",
+      "source_cut_max_z": 0.208343505859375,
+      "ankle_anchor": [
+        0.1110634058713913,
+        0.022539645433425903,
+        0.1279064118862152
+      ],
+      "object": "Shoe_L"
+    },
+    "r": {
+      "source_vertices": 6189,
+      "source_faces": 12276,
+      "translation": [
+        -0.002263458025455481,
+        -0.12196035456657411,
+        -0.11009343910217287
+      ],
+      "rotation": "identity",
+      "source_cut_max_z": 0.211395263671875,
+      "ankle_anchor": [
+        -0.11106345802545547,
+        0.022539645433425903,
+        0.12790656089782715
+      ],
+      "object": "Shoe_R"
+    }
+  },
+  "body_vertices_after": 55958,
+  "body_transition_changed_vertices": 14821,
+  "r2_vertex_id_policy": "Body retains original R2 IDs, Shoe_L/R r2_vertex_id=-1; source_vertex_id maps original processed source."
+}

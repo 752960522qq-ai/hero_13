@@ -1,0 +1,3990 @@
+{
+  "format": 1,
+  "fps": 24,
+  "fps_base": 1.0,
+  "keys_columns": [
+    "frame",
+    "value",
+    "left_handle_frame",
+    "left_handle_value",
+    "right_handle_frame",
+    "right_handle_value"
+  ],
+  "interpolation_codes": {
+    "CONSTANT": 0,
+    "LINEAR": 1,
+    "BEZIER": 2
+  },
+  "array_file": "animation_keys.npz",
+  "actions": [
+    {
+      "name": "Idle_Jill_Futa_Barefoot",
+      "frame_range": [
+        0.0,
+        200.0
+      ],
+      "channels": [
+        {
+          "prefix": "a0_c0_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c1_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c2_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c3_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c4_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c5_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c6_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c7_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c8_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c9_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c10_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c11_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c12_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c13_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c14_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c15_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c16_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c17_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c18_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c19_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c20_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c21_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c22_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c23_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c24_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c25_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c26_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c27_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c28_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c29_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c30_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c31_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c32_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c33_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c34_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c35_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c36_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c37_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c38_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c39_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c40_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c41_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c42_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c43_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c44_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c45_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c46_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c47_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c48_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c49_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c50_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c51_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c52_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c53_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c54_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c55_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c56_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c57_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c58_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c59_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c60_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c61_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c62_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c63_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c64_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c65_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c66_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c67_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c68_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c69_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c70_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c71_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c72_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c73_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c74_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c75_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c76_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c77_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c78_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c79_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c80_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c81_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c82_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c83_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c84_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c85_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c86_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c87_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c88_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c89_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c90_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c91_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c92_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c93_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c94_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c95_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c96_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c97_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c98_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c99_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c100_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c101_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c102_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c103_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c104_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c105_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c106_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c107_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c108_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c109_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c110_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c111_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c112_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c113_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c114_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c115_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c116_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c117_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c118_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c119_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c120_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c121_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c122_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c123_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c124_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c125_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c126_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c127_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c128_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c129_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c130_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c131_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c132_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c133_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c134_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c135_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c136_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c137_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c138_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c139_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c140_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c141_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c142_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c143_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c144_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c145_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c146_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c147_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c148_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c149_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c150_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c151_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c152_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c153_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c154_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c155_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c156_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c157_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c158_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c159_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c160_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c161_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c162_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c163_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c164_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c165_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c166_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c167_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c168_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c169_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c170_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c171_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c172_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c173_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c174_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c175_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c176_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c177_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c178_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c179_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c180_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c181_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c182_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c183_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c184_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c185_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c186_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c187_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c188_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c189_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c190_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c191_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c192_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c193_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c194_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c195_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c196_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c197_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c198_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c199_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c200_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c201_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c202_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c203_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c204_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c205_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c206_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c207_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c208_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c209_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c210_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c211_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c212_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c213_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c214_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c215_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c216_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c217_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a0_c218_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        }
+      ]
+    },
+    {
+      "name": "Run_Jill_Futa_Barefoot",
+      "frame_range": [
+        0.0,
+        16.799999237060547
+      ],
+      "channels": [
+        {
+          "prefix": "a1_c0_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c1_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c2_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c3_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c4_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c5_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c6_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c7_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c8_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c9_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c10_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c11_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c12_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c13_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c14_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c15_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c16_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c17_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c18_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c19_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c20_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c21_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c22_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c23_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c24_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c25_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c26_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c27_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c28_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c29_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c30_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c31_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c32_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c33_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c34_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c35_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c36_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c37_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c38_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c39_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c40_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c41_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c42_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c43_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c44_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c45_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c46_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c47_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c48_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c49_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c50_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c51_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c52_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c53_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c54_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c55_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c56_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c57_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c58_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c59_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c60_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c61_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c62_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c63_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c64_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c65_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c66_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c67_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c68_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c69_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c70_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c71_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c72_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c73_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c74_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c75_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c76_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c77_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c78_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c79_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c80_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c81_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c82_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c83_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c84_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c85_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c86_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c87_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c88_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c89_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c90_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c91_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c92_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c93_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c94_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c95_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c96_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c97_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c98_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c99_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c100_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c101_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c102_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c103_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c104_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c105_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c106_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c107_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c108_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c109_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c110_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c111_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c112_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c113_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c114_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c115_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c116_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c117_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c118_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c119_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c120_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c121_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c122_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c123_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c124_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c125_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c126_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c127_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c128_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c129_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c130_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c131_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c132_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c133_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c134_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c135_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c136_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c137_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c138_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c139_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c140_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c141_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c142_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c143_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c144_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c145_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c146_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c147_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c148_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c149_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c150_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c151_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c152_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c153_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c154_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c155_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c156_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c157_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c158_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c159_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c160_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c161_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c162_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c163_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c164_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c165_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c166_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c167_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c168_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c169_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c170_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c171_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c172_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c173_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c174_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c175_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c176_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c177_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c178_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c179_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c180_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c181_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c182_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c183_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c184_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c185_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c186_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c187_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c188_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c189_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c190_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c191_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c192_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c193_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c194_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c195_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c196_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c197_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c198_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c199_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c200_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c201_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c202_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c203_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c204_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c205_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c206_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c207_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c208_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c209_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c210_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c211_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c212_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c213_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c214_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c215_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c216_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c217_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a1_c218_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        }
+      ]
+    },
+    {
+      "name": "Walk_Jill_Futa_Barefoot",
+      "frame_range": [
+        0.0,
+        28.0
+      ],
+      "channels": [
+        {
+          "prefix": "a2_c0_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c1_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c2_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c3_",
+          "data_path": "pose.bones[\"COG\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c4_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c5_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c6_",
+          "data_path": "pose.bones[\"COG\"].location",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c7_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c8_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c9_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c10_",
+          "data_path": "pose.bones[\"hips\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c11_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c12_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c13_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c14_",
+          "data_path": "pose.bones[\"l_leg_femur\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c15_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c16_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c17_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c18_",
+          "data_path": "pose.bones[\"l_leg_tibia\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c19_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c20_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c21_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c22_",
+          "data_path": "pose.bones[\"l_leg_ankle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c23_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c24_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c25_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c26_",
+          "data_path": "pose.bones[\"l_leg_ball\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c27_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c28_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c29_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c30_",
+          "data_path": "pose.bones[\"r_leg_femur\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c31_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c32_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c33_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c34_",
+          "data_path": "pose.bones[\"r_leg_tibia\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c35_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c36_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c37_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c38_",
+          "data_path": "pose.bones[\"r_leg_ankle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c39_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c40_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c41_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c42_",
+          "data_path": "pose.bones[\"r_leg_ball\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c43_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c44_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c45_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c46_",
+          "data_path": "pose.bones[\"spine_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c47_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c48_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c49_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c50_",
+          "data_path": "pose.bones[\"spine_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c51_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c52_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c53_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c54_",
+          "data_path": "pose.bones[\"spine_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c55_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c56_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c57_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c58_",
+          "data_path": "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c59_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c60_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c61_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c62_",
+          "data_path": "pose.bones[\"l_arm_humerus\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c63_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c64_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c65_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c66_",
+          "data_path": "pose.bones[\"l_arm_radius\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c67_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c68_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c69_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c70_",
+          "data_path": "pose.bones[\"l_arm_wrist\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c71_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c72_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c73_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c74_",
+          "data_path": "pose.bones[\"l_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c75_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c76_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c77_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c78_",
+          "data_path": "pose.bones[\"l_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c79_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c80_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c81_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c82_",
+          "data_path": "pose.bones[\"l_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c83_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c84_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c85_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c86_",
+          "data_path": "pose.bones[\"l_hand_index_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c87_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c88_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c89_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c90_",
+          "data_path": "pose.bones[\"l_hand_index_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c91_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c92_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c93_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c94_",
+          "data_path": "pose.bones[\"l_hand_index_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c95_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c96_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c97_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c98_",
+          "data_path": "pose.bones[\"l_hand_middle_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c99_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c100_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c101_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c102_",
+          "data_path": "pose.bones[\"l_hand_middle_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c103_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c104_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c105_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c106_",
+          "data_path": "pose.bones[\"l_hand_middle_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c107_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c108_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c109_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c110_",
+          "data_path": "pose.bones[\"l_hand_ring_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c111_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c112_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c113_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c114_",
+          "data_path": "pose.bones[\"l_hand_ring_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c115_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c116_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c117_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c118_",
+          "data_path": "pose.bones[\"l_hand_ring_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c119_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c120_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c121_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c122_",
+          "data_path": "pose.bones[\"l_hand_little_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c123_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c124_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c125_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c126_",
+          "data_path": "pose.bones[\"l_hand_little_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c127_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c128_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c129_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c130_",
+          "data_path": "pose.bones[\"l_hand_little_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c131_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c132_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c133_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c134_",
+          "data_path": "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c135_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c136_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c137_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c138_",
+          "data_path": "pose.bones[\"r_arm_humerus\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c139_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c140_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c141_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c142_",
+          "data_path": "pose.bones[\"r_arm_radius\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c143_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c144_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c145_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c146_",
+          "data_path": "pose.bones[\"r_arm_wrist\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c147_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c148_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c149_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c150_",
+          "data_path": "pose.bones[\"r_hand_thumb_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c151_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c152_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c153_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c154_",
+          "data_path": "pose.bones[\"r_hand_thumb_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c155_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c156_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c157_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c158_",
+          "data_path": "pose.bones[\"r_hand_thumb_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c159_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c160_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c161_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c162_",
+          "data_path": "pose.bones[\"r_hand_index_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c163_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c164_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c165_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c166_",
+          "data_path": "pose.bones[\"r_hand_index_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c167_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c168_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c169_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c170_",
+          "data_path": "pose.bones[\"r_hand_index_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c171_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c172_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c173_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c174_",
+          "data_path": "pose.bones[\"r_hand_middle_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c175_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c176_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c177_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c178_",
+          "data_path": "pose.bones[\"r_hand_middle_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c179_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c180_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c181_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c182_",
+          "data_path": "pose.bones[\"r_hand_middle_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c183_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c184_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c185_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c186_",
+          "data_path": "pose.bones[\"r_hand_ring_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c187_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c188_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c189_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c190_",
+          "data_path": "pose.bones[\"r_hand_ring_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c191_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c192_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c193_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c194_",
+          "data_path": "pose.bones[\"r_hand_ring_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c195_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c196_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c197_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c198_",
+          "data_path": "pose.bones[\"r_hand_little_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c199_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c200_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c201_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c202_",
+          "data_path": "pose.bones[\"r_hand_little_2\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c203_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c204_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c205_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c206_",
+          "data_path": "pose.bones[\"r_hand_little_3\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c207_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c208_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c209_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c210_",
+          "data_path": "pose.bones[\"neck_0\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c211_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c212_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c213_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c214_",
+          "data_path": "pose.bones[\"neck_1\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c215_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 0,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c216_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 1,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c217_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 2,
+          "extrapolation": "CONSTANT"
+        },
+        {
+          "prefix": "a2_c218_",
+          "data_path": "pose.bones[\"head\"].rotation_quaternion",
+          "array_index": 3,
+          "extrapolation": "CONSTANT"
+        }
+      ]
+    }
+  ]
+}

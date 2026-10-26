@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+reference_before.blend
+rigged_body.blend
+lower_restore/lower_candidate.blend
+diagnosis/ankle_band235_Idle.png
+lower_restore/Idle_solid.png

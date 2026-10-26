@@ -1,0 +1,141 @@
+{
+  "rest_bone_translations": {
+    "l_arm_humerus": [
+      0.03129272162914276,
+      -0.004738105461001396,
+      -0.03354334831237793
+    ],
+    "l_arm_humerus_twist_3_H": [
+      0.03129272162914276,
+      -0.004738105461001396,
+      -0.03354334831237793
+    ],
+    "l_arm_humerus_twist_2_H": [
+      0.023179804906249046,
+      -0.0035097093787044287,
+      -0.024846935644745827
+    ],
+    "l_deltFront_muscleOffset": [
+      0.029921727254986763,
+      -0.004530520178377628,
+      -0.03207375109195709
+    ],
+    "l_deltFront_muscle": [
+      0.029921729117631912,
+      -0.004530520178377628,
+      -0.03207375109195709
+    ],
+    "l_deltUp_muscleOffset": [
+      0.029740558937191963,
+      -0.004503089003264904,
+      -0.03187955170869827
+    ],
+    "l_deltUp_muscle": [
+      0.029740560799837112,
+      -0.004503089003264904,
+      -0.03187955543398857
+    ],
+    "l_deltBack_muscleOffset": [
+      0.030219120904803276,
+      -0.004575549159198999,
+      -0.032392531633377075
+    ],
+    "l_deltBack_muscle": [
+      0.030219119042158127,
+      -0.004575548693537712,
+      -0.032392531633377075
+    ],
+    "l_arm_humerus_twist_1_H": [
+      0.008112924173474312,
+      -0.001228397130034864,
+      -0.008696419186890125
+    ],
+    "r_arm_humerus": [
+      -0.031760916113853455,
+      -0.0047380756586790085,
+      -0.03354358673095703
+    ],
+    "r_arm_humerus_twist_3_H": [
+      -0.031760916113853455,
+      -0.0047380756586790085,
+      -0.03354358673095703
+    ],
+    "r_arm_humerus_twist_2_H": [
+      -0.02352660521864891,
+      -0.0035096858628094196,
+      -0.024847103282809258
+    ],
+    "r_deltFront_muscleOffset": [
+      -0.030373910441994667,
+      -0.0045311632566154,
+      -0.032078731805086136
+    ],
+    "r_deltFront_muscle": [
+      -0.03037390671670437,
+      -0.004531162325292826,
+      -0.03207872807979584
+    ],
+    "r_deltUp_muscleOffset": [
+      -0.03018885664641857,
+      -0.004503556992858648,
+      -0.03188329190015793
+    ],
+    "r_deltUp_muscle": [
+      -0.03018885850906372,
+      -0.004503556992858648,
+      -0.03188329190015793
+    ],
+    "r_deltBack_muscleOffset": [
+      -0.03068177029490471,
+      -0.004577089566737413,
+      -0.03240387141704559
+    ],
+    "r_deltBack_muscle": [
+      -0.030681774020195007,
+      -0.004577090032398701,
+      -0.03240387514233589
+    ],
+    "r_arm_humerus_twist_1_H": [
+      -0.008234302513301373,
+      -0.0012283886317163706,
+      -0.008696475997567177
+    ]
+  },
+  "allowed_action_channels": {
+    "Idle": [
+      [
+        "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+        0
+      ],
+      [
+        "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+        1
+      ],
+      [
+        "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+        2
+      ],
+      [
+        "pose.bones[\"l_arm_clavicle\"].rotation_quaternion",
+        3
+      ],
+      [
+        "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+        0
+      ],
+      [
+        "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+        1
+      ],
+      [
+        "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+        2
+      ],
+      [
+        "pose.bones[\"r_arm_clavicle\"].rotation_quaternion",
+        3
+      ]
+    ]
+  },
+  "description": "Source shoulder original proportions and pivot restored locally; forearm/wrist/fingers and all nonbody parts remain unchanged."
+}

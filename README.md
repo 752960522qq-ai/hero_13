@@ -1,37 +1,25 @@
 # Hero 13
 
-三主角游戏框架及夏晴角色动作实验室。可运行的游戏系统位于 `xiaqing-motion-lab/dist/`，采用浏览器 JavaScript 模块；仓库根目录同时保留 Godot 手机项目的启动场景。
+夏晴 R6 换装与布料测试已合并到一个网站，主入口为 `xiaqing-motion-lab/dist/index.html`。旧换鞋、旧换装系统及重复网站目录已移除，可从 Git 历史恢复。
 
-## 游戏框架
+## 打开统一网站
 
 ```sh
 python3 -m http.server 8000 --directory xiaqing-motion-lab/dist
 ```
 
-打开 http://localhost:8000/game.html 。原动作、换装与鞋履实验室位于 http://localhost:8000/index.html ，页面提供游戏框架入口。
+打开 http://localhost:8000 。页面包含“角色换装”和“布料测试”两个页签，使用最终 R6 背心短裤角色，提供待机、行走、跑步、视角及骨骼显示；布料支持风、拖动、挂点释放、人物碰撞、暂停与复位。
 
-- 三主角独立档案：罗甄 `CHR_001`、徐哲 `CHR_002`、夏晴 `CHR_003`。
-- 八项属性、行为经验、衍生加成、专属技能、战斗结算、制造书、物品栏及浏览器本地存档。
-- 夏晴使用仓库现有模型。其他人物与物品通过固定编号和数据待命，资源可后续接入。
-- 演练场可触发行为、攻击与剧情事件，检查技能和成长；原型配置提供专属技能等级预览。
+## 本次完整制作资料
 
-规则、编号与待定参数见 [GAME_RULES.md](docs/GAME_RULES.md)；代码接口见 [API.md](xiaqing-motion-lab/dist/game/API.md)。
+[work/vest-outfit](work/vest-outfit/README.md) 保存最终 Blender 工程、GLB、原始背心人体、制作程序、补丁、437 根骨骼、35 个网格完整蒙皮及三套动作关键帧。工程包含原始人体并排参考；网站使用单角色 GLB。
 
-本地存档属于当前浏览器，不会同步到其他设备。罗甄 5→6 级需要 18000 EXP；成长速度倍率及专属技能升级获取方式保留配置入口。
+## 游戏框架
 
-## Engine
+既有三主角游戏框架继续位于 http://localhost:8000/game.html 。保留罗甄、徐哲、夏晴的属性、技能、物品、成长规则和存档；罗甄第六级门槛仍为18000 EXP。
 
-- Godot 4.4.1 stable
-- GDScript
-- 2D renderer set to Compatibility for broad mobile-device support
-- Portrait viewport: 720 × 1280, scaled with `canvas_items`
+规则见 [GAME_RULES.md](docs/GAME_RULES.md)，接口见 [API.md](xiaqing-motion-lab/dist/game/API.md)。Godot 4.4.1 项目的入口、插件及手机配置保留。
 
-## Run
+## 来源与许可
 
-Open this repository folder in Godot 4.4.1 and press Play. The GitHub Actions workflow also imports the project and launches its main scene in headless mode on every push to `main`.
-
-## Android export
-
-Install the matching Godot export templates, OpenJDK 17, Android SDK command-line tools, Android platform/build-tools, and the Android export template. In Godot, configure the Java SDK and Android SDK paths, add an Android export preset, then export a debug APK. The official setup steps are in the [Godot Android export guide](https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html).
-
-Godot Engine is MIT licensed. 角色资源及第三方依赖说明见 `xiaqing-motion-lab/` 的资源和许可文件。
+原始人物/动作供体、布料来源和第三方许可保留在 `xiaqing-motion-lab/source-*`、`dist/licenses/` 和 `dist/vendor/`。旧分片恢复机制已移除，避免覆盖统一站。

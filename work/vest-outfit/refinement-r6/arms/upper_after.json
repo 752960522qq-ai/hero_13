@@ -1,0 +1,209 @@
+{
+  "weights": {
+    "waist": {
+      "hips": 0.15404232342842464,
+      "l_leg_back_muscle": 0.004762149291204233,
+      "r_leg_back_muscle": 0.0034515870002815637,
+      "l_leg_femur_twist_2_H": 0.001778759841469543,
+      "r_leg_femur_twist_2_H": 0.0022734183649063934,
+      "spine_0": 0.5206670984972545,
+      "spine_1": 0.31147689911259746,
+      "spine_2": 0.0015477645810771162
+    },
+    "ribs": {
+      "spine_0": 0.03992623623539529,
+      "spine_1": 0.6031486325785458,
+      "spine_2": 0.34908573572770685,
+      "l_arm_humerus": 0.0012448810203853882,
+      "l_arm_humerus_twist_3_H": 0.002346420900361373,
+      "r_arm_humerus": 0.001327651109386381,
+      "r_arm_humerus_twist_3_H": 0.0025668025274973106
+    },
+    "chest": {
+      "spine_1": 0.10994733284556654,
+      "spine_2": 0.843799810216977,
+      "l_arm_clavicle": 0.0040755898619747,
+      "l_arm_humerus": 0.017871943616874466,
+      "r_arm_clavicle": 0.004240994178236274,
+      "r_arm_humerus": 0.02001131503322491
+    }
+  },
+  "samples": {
+    "Rest": [
+      {
+        "frame": 0,
+        "torso": {
+          "waist": {
+            "width_m": 0.3033239245414734,
+            "depth_m": 0.2153264731168747
+          },
+          "ribs": {
+            "width_m": 0.42904670536518097,
+            "depth_m": 0.23714567720890045
+          },
+          "chest": {
+            "width_m": 0.3396186828613281,
+            "depth_m": 0.2373887076973915
+          }
+        },
+        "hands": {
+          "l": {
+            "vertices": 2153,
+            "near_penetrating": 0,
+            "deepest_m": 0,
+            "closest_distance_m": 0.279529333114624,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              0.3626909852027893,
+              -0.25288882851600647,
+              1.112947940826416
+            ]
+          },
+          "r": {
+            "vertices": 2214,
+            "near_penetrating": 0,
+            "deepest_m": 0,
+            "closest_distance_m": 0.27700361609458923,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              -0.362690806388855,
+              -0.25288861989974976,
+              1.112947702407837
+            ]
+          }
+        }
+      }
+    ],
+    "Idle": [
+      {
+        "frame": 0.0,
+        "torso": {
+          "waist": {
+            "width_m": 0.30070677258191303,
+            "depth_m": 0.21544751580994476
+          },
+          "ribs": {
+            "width_m": 0.3503410985420681,
+            "depth_m": 0.23726968077306007
+          },
+          "chest": {
+            "width_m": 0.33226867009151817,
+            "depth_m": 0.23822224695391833
+          }
+        },
+        "hands": {
+          "l": {
+            "vertices": 2153,
+            "near_penetrating": 0,
+            "deepest_m": 0,
+            "closest_distance_m": 0.10989265888929367,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              0.3727690577507019,
+              -0.03197657689452171,
+              0.9481322765350342
+            ]
+          },
+          "r": {
+            "vertices": 2214,
+            "near_penetrating": 0,
+            "deepest_m": 0,
+            "closest_distance_m": 0.13038665056228638,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              -0.36096319556236267,
+              -0.07715621590614319,
+              0.8828493356704712
+            ]
+          }
+        }
+      },
+      {
+        "frame": 70.0,
+        "torso": {
+          "waist": {
+            "width_m": 0.30070961328647683,
+            "depth_m": 0.21546902344422947
+          },
+          "ribs": {
+            "width_m": 0.32439496573295207,
+            "depth_m": 0.23748347067194459
+          },
+          "chest": {
+            "width_m": 0.33078129239180476,
+            "depth_m": 0.23866469070901464
+          }
+        },
+        "hands": {
+          "l": {
+            "vertices": 2153,
+            "near_penetrating": 0,
+            "deepest_m": 0.047006997745484114,
+            "closest_distance_m": 0.05066756159067154,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              0.3300534188747406,
+              -0.03245779126882553,
+              0.9289253950119019
+            ]
+          },
+          "r": {
+            "vertices": 2214,
+            "near_penetrating": 0,
+            "deepest_m": 0,
+            "closest_distance_m": 0.08616757392883301,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              -0.31204187870025635,
+              -0.08210031688213348,
+              0.8691045045852661
+            ]
+          }
+        }
+      },
+      {
+        "frame": 140.0,
+        "torso": {
+          "waist": {
+            "width_m": 0.3007462371456465,
+            "depth_m": 0.21548092663958188
+          },
+          "ribs": {
+            "width_m": 0.31068940201999945,
+            "depth_m": 0.23760676730776628
+          },
+          "chest": {
+            "width_m": 0.32987268817347815,
+            "depth_m": 0.23892715333094572
+          }
+        },
+        "hands": {
+          "l": {
+            "vertices": 2153,
+            "near_penetrating": 0,
+            "deepest_m": 0.0010147897992283106,
+            "closest_distance_m": 0.018913064152002335,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              0.2981235980987549,
+              -0.025096256285905838,
+              0.9195678234100342
+            ]
+          },
+          "r": {
+            "vertices": 2214,
+            "near_penetrating": 0,
+            "deepest_m": 0,
+            "closest_distance_m": 0.0686400756239891,
+            "hand_thigh_triangle_intersections": 0,
+            "wrist": [
+              -0.29391464591026306,
+              -0.07996872812509537,
+              0.8635451197624207
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

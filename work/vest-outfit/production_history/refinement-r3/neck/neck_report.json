@@ -1,0 +1,76 @@
+{
+  "neck_vertices": 653,
+  "new_rim_vertices": 524,
+  "new_rim_faces": 524,
+  "source_neck_similarity_max_error_m": 5.7622445456038976e-08,
+  "head_parts_removed_vertices": {
+    "tripo_part_0": 0,
+    "tripo_part_1": 0,
+    "tripo_part_2": 1361,
+    "tripo_part_3": 1258,
+    "tripo_part_4": 0,
+    "tripo_part_5": 0,
+    "tripo_part_6": 0,
+    "tripo_part_7": 282,
+    "tripo_part_8": 0,
+    "tripo_part_9": 0,
+    "tripo_part_10": 0,
+    "tripo_part_11": 0,
+    "tripo_part_12": 0,
+    "tripo_part_13": 0,
+    "tripo_part_14": 0,
+    "tripo_part_15": 0,
+    "tripo_part_16": 0,
+    "tripo_part_17": 0,
+    "tripo_part_18": 0,
+    "tripo_part_19": 0,
+    "tripo_part_20": 0,
+    "tripo_part_21": 0,
+    "tripo_part_22": 0,
+    "tripo_part_23": 0,
+    "tripo_part_24": 0,
+    "tripo_part_25": 0,
+    "tripo_part_26": 0,
+    "tripo_part_27": 0,
+    "tripo_part_28": 0
+  },
+  "root_vertices_adjusted": 770,
+  "root_max_displacement_mm": 6.520695068686987,
+  "root_boundary_max_displacement_mm": 6.520695068686987,
+  "jaw_rim_width_max_mm": 3.0505928638122195,
+  "jaw_rim_width_mean_mm": 1.3241823609701624,
+  "source_similarity": {
+    "scale": 1.7,
+    "translation": [
+      -0.00023407833465015002,
+      -0.1259081221330608,
+      -0.00964825950517234
+    ]
+  },
+  "head_similarity": {
+    "scale": 1.01901766065119,
+    "original_center": [
+      0.00437597894736842,
+      -0.015561905263157892,
+      1.495219073684211
+    ],
+    "target_center": [
+      9.695673849449829e-05,
+      -0.0040732760129966765,
+      1.4639691141440239
+    ]
+  },
+  "old_neck_objects_removed": [
+    "Vest_NeckBridge",
+    "Neck_continuous_transition"
+  ],
+  "bone_rest_or_animation_changed": false,
+  "protected_body_points_attribute": "r3_neck_preserve",
+  "immutable_neck_attribute": "r3_source_neck",
+  "r2_vertex_identity_retained": true,
+  "rigid_source_neck": true,
+  "source_neck_skinning": "head:1.0 for all vertices",
+  "body_root_head_blend_radius_m": 0.09,
+  "body_root_weight_vertices": 2188,
+  "protected_body_points_total": 2188
+}

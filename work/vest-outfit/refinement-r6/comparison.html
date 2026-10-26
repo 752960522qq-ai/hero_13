@@ -1,0 +1,9 @@
+<!doctype html>
+<html lang="zh-CN"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>夏晴 R6 · 原人体并排对照</title>
+<style>body{margin:24px;background:#19212a;color:#eee;font:16px sans-serif;line-height:1.7}main{max-width:1300px;margin:auto}img{width:100%;display:block}figure{margin:0 0 24px}figcaption{padding:10px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}h1{font-size:26px}h2{font-size:20px}@media(max-width:650px){body{margin:12px}.grid{gap:8px}}</style>
+<main><h1>夏晴 R6 · 原始背心人体并排对照</h1><p>左侧为夏晴，右侧为只做统一缩放与整体平移的原始人体。工程中已实际放置右侧参考，本轮未部署。</p>
+<h2>修复前：旧适配的下肢已拉长变细</h2><figure><img src="reference_before_Rest.png"><figcaption>R5 与原始人体，使用相同相机。</figcaption></figure>
+<h2>修复后：恢复原下肢形状，再将骨架匹配身体</h2><figure><img src="reference_after_Rest.png"><figcaption>R6 与原始人体。腿部和鞋体已回到一致的源坐标比例。</figcaption></figure>
+<h2>待机与固定原形参考</h2><figure><img src="reference_after_Idle.png"><figcaption>夏晴处于待机；右侧参考保留原A姿势，不参与动画。</figcaption></figure>
+<h2>小腿局部动作复看</h2><div class="grid"><figure><img src="lower_restore/Idle_front.png"><figcaption>Idle：肌腹随小腿骨整体转动。</figcaption></figure><figure><img src="lower_restore/Walk_front.png"><figcaption>Walk：踝部动作已适配刚性高跟鞋。</figcaption></figure><figure><img src="lower_restore/Run_front.png"><figcaption>Run 正面。</figcaption></figure><figure><img src="lower_restore/Run_side.png"><figcaption>Run 侧面，膝踝保留关节弯曲过渡。</figcaption></figure></div>
+<p>局部复看中小腿肌腹边长保持原值；鞋体保持刚性。右侧参考只保存在 Blender 对照工程，导出的角色GLB只包含夏晴。</p></main></html>

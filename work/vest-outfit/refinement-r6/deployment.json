@@ -1,0 +1,11 @@
+{
+  "revision": "R6",
+  "status": "succeeded",
+  "source_commit": "863ce01cf5718bafcd4513267612851a18f435ee",
+  "deployment_id": "appgdep_6adf0c4bf56081918c38d0f52321c47e",
+  "version_id": "appgprj_6addd4bb034481919d5219c3953cc97f~appgver_c4b02a4b5954819182eb88fbb369c4ce",
+  "deployed_at_utc": "2026-10-26T08:16:38.288760+00:00",
+  "url": "https://hero13-xiaqing-motion-lab.lovelysky513.chatgpt.site/vest/",
+  "model_sha256": "9ecb96595ea069c0c650505dd1a8ea545c76bf506bd681ea564d3b041b08de1b",
+  "fixed_clip_ground_offsets": {"Idle": 0.017692, "Walk": 0.035238, "Run": 0.046244}
+}

@@ -1,0 +1,206 @@
+{
+  "file": "/workspace/hero_13/work/vest-outfit/refinement-r6/vest_xiaqing_r6.glb",
+  "size": 24470848,
+  "animations": [
+    {
+      "name": "Idle",
+      "channels": 1311
+    },
+    {
+      "name": "Run",
+      "channels": 1311
+    },
+    {
+      "name": "Walk",
+      "channels": 1311
+    }
+  ],
+  "mesh_count": 35,
+  "skin_joint_counts": [
+    437
+  ],
+  "finite": true,
+  "extra_influence_meshes": [],
+  "vertices_trimmed": 1634,
+  "weight_validation": [
+    {
+      "mesh": "R3_JawRim_mesh",
+      "vertices": 526,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[0].005",
+      "vertices": 6778,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[0].006",
+      "vertices": 6700,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[0]",
+      "vertices": 5529,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[1]",
+      "vertices": 5463,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[10]",
+      "vertices": 1006,
+      "max_normalization_error": 1.7881393432617188e-07
+    },
+    {
+      "mesh": "meshes[11]",
+      "vertices": 593,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[12]",
+      "vertices": 525,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[13]",
+      "vertices": 415,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[14]",
+      "vertices": 325,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[15]",
+      "vertices": 234,
+      "max_normalization_error": 1.1920928955078125e-07
+    },
+    {
+      "mesh": "meshes[16]",
+      "vertices": 227,
+      "max_normalization_error": 5.960464477539063e-08
+    },
+    {
+      "mesh": "meshes[17]",
+      "vertices": 821,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[18]",
+      "vertices": 526,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[19]",
+      "vertices": 490,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[2]",
+      "vertices": 989,
+      "max_normalization_error": 1.1920928955078125e-07
+    },
+    {
+      "mesh": "meshes[20]",
+      "vertices": 315,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[21]",
+      "vertices": 343,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[22]",
+      "vertices": 237,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[23]",
+      "vertices": 170,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[24]",
+      "vertices": 129,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[25]",
+      "vertices": 108,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[26]",
+      "vertices": 99,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[27]",
+      "vertices": 63,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[28]",
+      "vertices": 55,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[3]",
+      "vertices": 1105,
+      "max_normalization_error": 1.7881393432617188e-07
+    },
+    {
+      "mesh": "meshes[4]",
+      "vertices": 1961,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[5]",
+      "vertices": 1973,
+      "max_normalization_error": 1.1920928955078125e-07
+    },
+    {
+      "mesh": "meshes[6]",
+      "vertices": 1948,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[7]",
+      "vertices": 1019,
+      "max_normalization_error": 1.7881393432617188e-07
+    },
+    {
+      "mesh": "meshes[8]",
+      "vertices": 1843,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[9]",
+      "vertices": 1616,
+      "max_normalization_error": 1.1920928955078125e-07
+    },
+    {
+      "mesh": "meshes[0].002",
+      "vertices": 61319,
+      "max_normalization_error": 1.7881393432617188e-07
+    },
+    {
+      "mesh": "meshes[0].003",
+      "vertices": 762,
+      "max_normalization_error": 0.0
+    },
+    {
+      "mesh": "meshes[0].001",
+      "vertices": 21432,
+      "max_normalization_error": 0.0
+    }
+  ],
+  "max_normalization_error": 1.7881393432617188e-07,
+  "four_influences_only": true,
+  "sha256": "9ecb96595ea069c0c650505dd1a8ea545c76bf506bd681ea564d3b041b08de1b",
+  "source_blend_sha256": "420de2437b50cb9d312baa3f5d6823e0786dc91d424a8e3a37860fabcb5e1fa3"
+}
