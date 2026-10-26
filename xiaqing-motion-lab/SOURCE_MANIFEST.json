@@ -23,8 +23,8 @@
     },
     {
       "path": "SITE_PUBLICATION.json",
-      "bytes": 994,
-      "sha256": "eb82ee956ca64cb598926bd15df41813bb79ae390889958f4e3475ec9ddd0d53"
+      "bytes": 1091,
+      "sha256": "3bf1d6516259396f5aa1745cf61c2c8b4791fc2b7838f143784209ab895615d7"
     },
     {
       "path": "dist/app.js",
