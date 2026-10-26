@@ -1,0 +1,5 @@
+generated/
+__pycache__/
+*.blend1
+huizhou_road_network.glb
+huizhou_road_network.glb.gz

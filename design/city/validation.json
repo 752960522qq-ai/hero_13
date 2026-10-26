@@ -1,0 +1,34 @@
+{
+  "stats": {
+    "glb_reimport_success": true,
+    "mesh_objects": 1973,
+    "road_meshes": 85,
+    "sample_rays": 18840,
+    "road_surface_missing_samples": 0,
+    "road_surface_height_error_p99_m": 0.4085781843078619,
+    "terrain_sample_rays": 0,
+    "road_buried_samples": 0,
+    "maximum_terrain_penetration_m": 0,
+    "maximum_junction_endpoint_error_m": 4.997962289365887e-06,
+    "terrain_method": "Road footprints replace terrain; terrain holes beneath pavement are intentional.",
+    "plan": {
+      "map_size_m": [
+        4000,
+        4000
+      ],
+      "road_length_m": 84169.39418014226,
+      "routes": 80,
+      "road_edges": 525,
+      "junctions": 282,
+      "buildings": 496,
+      "connected_components": 1,
+      "maximum_road_grade": 0.1020000000000034,
+      "road_surface_height_range_m": [
+        3.5521491504955947,
+        93.441523591228
+      ]
+    }
+  },
+  "missing": [],
+  "buried": []
+}
