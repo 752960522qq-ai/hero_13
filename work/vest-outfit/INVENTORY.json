@@ -4,8 +4,8 @@
   "files": [
     {
       "path": "README.md",
-      "bytes": 2962,
-      "sha256": "3343bf1897063988e0a1a625f463a0a4cc8ca28a67a227f7cc44ca338a60a932"
+      "bytes": 2961,
+      "sha256": "a9b7586d0a8af944337dfa863581d7fd7330ddedb7a7e085c995da4fab8e065b"
     },
     {
       "path": "production_history/README.md",
@@ -389,13 +389,13 @@
     },
     {
       "path": "refinement-r7/README.md",
-      "bytes": 2728,
-      "sha256": "1a9802cb285f6b93bb24eea50cd07eb2994699c2149d962e41e9c2b26e87d76b"
+      "bytes": 2845,
+      "sha256": "7243590aac9ba679f81015c0e92e1e9a77ec91c4caae56870fce046635662913"
     },
     {
       "path": "refinement-r7/WORK_STATE.json",
-      "bytes": 1093,
-      "sha256": "65fd60c0bf9da3444534566b5e6f24837992ea160442d0f5e1739795aa2332f4"
+      "bytes": 1118,
+      "sha256": "2f5b35bf5d0e8bcf86a5f3ccac0179f956e901fd4d02fdb18f28123ac133f2a7"
     },
     {
       "path": "refinement-r7/after_Idle_full.png",
@@ -513,6 +513,11 @@
       "sha256": "9966e76ccc68e509373307bb661b0fc72630277f053314f1b8c69b1d3656db80"
     },
     {
+      "path": "refinement-r7/deployment.json",
+      "bytes": 539,
+      "sha256": "36114a6945ab188300d993787613d543d2413d1dc6c34ad11ca456801c97f22e"
+    },
+    {
       "path": "refinement-r7/editable_data/animation_keys.npz",
       "bytes": 1402057,
       "sha256": "35af04be9da34d330f294d0eb57ca12cc880544329f75902ba590261ea80adbd"
@@ -608,5 +613,5 @@
       "sha256": "7ba5a28a6f9cd36983791710e6a05adbd2285cd70e00d6e4d353ed63109f60b1"
     }
   ],
-  "total_bytes": 184118340
+  "total_bytes": 184119020
 }

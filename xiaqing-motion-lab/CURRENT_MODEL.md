@@ -1,8 +1,8 @@
-# 当前本地模型：夏晴 R7 背心短裤（待发布）
+# 当前模型：夏晴 R7 背心短裤（已发布）
 
 运行文件：`dist/assets/vest_xiaqing.glb`。
 
-SHA256：`360d7aedba7f029bd7a308239fa69128ee0942f06f4c8c5dfc99dd4a70d1df27`。线上仍为R6，本轮先不部署。
+SHA256：`360d7aedba7f029bd7a308239fa69128ee0942f06f4c8c5dfc99dd4a70d1df27`。R7已按用户后续要求成功发布，部署记录见 `../work/vest-outfit/refinement-r7/deployment.json`。
 
 35个角色网格、437根骨骼，Idle/Walk/Run/Aim四动作。R7微收待机双臂并保留手腿间距，修正跑步颈部前探，并适配用户上传的步枪瞄准待机动作。网格、蒙皮与骨架休止矩阵保持R6。下肢肌腹保形绑定与原鞋形继续保留。
 

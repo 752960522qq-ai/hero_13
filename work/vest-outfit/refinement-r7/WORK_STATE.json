@@ -1,8 +1,9 @@
 {
   "revision": "R7",
-  "status": "completed_local_only",
+  "status": "website_deployed",
   "date_local": "2026-10-26",
-  "deployment_performed": false,
+  "deployment_performed": true,
+  "site_source_pushed": true,
   "remote_push_performed": false,
   "blend": "vest_xiaqing_r7.blend",
   "blend_sha256": "fc61db2aca1fc24e2b4b0eb3bc35f6a23c770b21b3f5696cb0ae6f0675b0aced",
@@ -21,6 +22,6 @@
   "targeted_review": "targeted_checks.json",
   "comparison": "comparison.html",
   "local_website_prepared": true,
-  "last_published_site_revision": "R6 unified wardrobe and cloth site",
-  "last_published_deployment_id": "appgdep_6adf45475cfc8191ab08acb90457f787"
+  "last_published_site_revision": "R7 unified wardrobe and cloth site",
+  "last_published_deployment_id": "appgdep_6adf4d6c42cc81919a42fbd57bd53331"
 }

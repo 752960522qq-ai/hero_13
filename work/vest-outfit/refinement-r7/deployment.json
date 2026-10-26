@@ -1,0 +1,11 @@
+{
+  "revision": "R7",
+  "status": "succeeded",
+  "site_source_commit": "bc633545300175236ba25b4cb60814edeb68da01",
+  "deployment_id": "appgdep_6adf4d6c42cc81919a42fbd57bd53331",
+  "version_id": "appgprj_6addd4bb034481919d5219c3953cc97f~appgver_74b3396bf2b0819193691ece23ae668f",
+  "url": "https://hero13-xiaqing-motion-lab.lovelysky513.chatgpt.site",
+  "updated_at_utc": "2026-10-26T12:54:29.537546+00:00",
+  "model_sha256": "360d7aedba7f029bd7a308239fa69128ee0942f06f4c8c5dfc99dd4a70d1df27",
+  "actions": ["Idle", "Walk", "Run", "Aim"]
+}

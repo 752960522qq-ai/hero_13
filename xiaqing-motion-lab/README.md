@@ -6,7 +6,7 @@
 python3 -m http.server 8000 --directory dist
 ```
 
-打开 http://localhost:8000 。本地待发布 R7 角色资源为 `dist/assets/vest_xiaqing.glb`，437根骨骼、35个网格、Idle/Walk/Run/Aim四套动作；线上仍为此前R6。固定站立偏移为 Idle0.017692、Walk0.035238、Run0.046244、Aim0.006148 米；不会逐帧强制贴地，保留腾空过程。
+打开 http://localhost:8000 。R7 角色资源为 `dist/assets/vest_xiaqing.glb`，437根骨骼、35个网格、Idle/Walk/Run/Aim四套动作；线上已发布R7。固定站立偏移为 Idle0.017692、Walk0.035238、Run0.046244、Aim0.006148 米；不会逐帧强制贴地，保留腾空过程。
 
 布料页签复用 `cloth-physics.mjs` 的真实模拟，支持风力、布料拖拽、挂点释放、暂停、复位、地面与人物胶囊碰撞。未实现的衣服选项没有放入界面。
 
