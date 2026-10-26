@@ -4,7 +4,7 @@
   "date_local": "2026-10-26",
   "deployment_performed": true,
   "site_source_pushed": true,
-  "remote_push_performed": false,
+  "remote_push_performed": true,
   "blend": "vest_xiaqing_r7.blend",
   "blend_sha256": "fc61db2aca1fc24e2b4b0eb3bc35f6a23c770b21b3f5696cb0ae6f0675b0aced",
   "glb": "vest_xiaqing_r7.glb",

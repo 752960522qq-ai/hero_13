@@ -1,6 +1,6 @@
 # 夏晴 R7 · 待机内收、跑步颈部与瞄准动作
 
-2026-10-26 使用 Blender 完成，随后按用户要求成功发布至现有测试网站。发布源提交 `bc633545300175236ba25b4cb60814edeb68da01`，完整记录见 `deployment.json`。本地 GitHub 工作副本尚未推送本轮制作资料。
+2026-10-26 使用 Blender 完成，随后按用户要求成功发布至现有测试网站。发布源提交 `bc633545300175236ba25b4cb60814edeb68da01`，完整记录见 `deployment.json`。本轮制作资料和对应网站文件已同步到 GitHub `hero_13/main`。
 
 最终文件为 `vest_xiaqing_r7.blend` 与 `vest_xiaqing_r7.glb`。Blender 中保留右侧原始背心人体参考；运行版 GLB 只包含夏晴。437根骨骼、35个角色网格，动作增加为 Idle、Walk、Run、Aim 四套。
 
