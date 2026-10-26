@@ -1,34 +1,50 @@
 {
   "stats": {
     "glb_reimport_success": true,
-    "mesh_objects": 1973,
-    "road_meshes": 85,
-    "sample_rays": 18840,
+    "mesh_objects": 1098,
+    "road_meshes": 5,
+    "sample_rays": 19080,
     "road_surface_missing_samples": 0,
-    "road_surface_height_error_p99_m": 0.4085781843078619,
+    "road_surface_height_error_p99_m": 0.13721932113116928,
     "terrain_sample_rays": 0,
     "road_buried_samples": 0,
     "maximum_terrain_penetration_m": 0,
-    "maximum_junction_endpoint_error_m": 4.997962289365887e-06,
+    "maximum_junction_endpoint_error_m": 0.0,
     "terrain_method": "Road footprints replace terrain; terrain holes beneath pavement are intentional.",
     "plan": {
       "map_size_m": [
         4000,
         4000
       ],
-      "road_length_m": 84169.39418014226,
+      "road_length_m": 85487.43020220262,
       "routes": 80,
-      "road_edges": 525,
-      "junctions": 282,
-      "buildings": 496,
+      "road_edges": 513,
+      "junctions": 283,
+      "buildings": 486,
       "connected_components": 1,
-      "maximum_road_grade": 0.1020000000000034,
+      "maximum_road_grade": 0.08257523232251114,
       "road_surface_height_range_m": [
-        3.5521491504955947,
-        93.441523591228
-      ]
-    }
+        3.000035089172384,
+        81.11493515685432
+      ],
+      "sidewalk_width_m": 3.0,
+      "sidewalk_area_m2": 467964.4520600332,
+      "pavement_components": 1,
+      "reconnected_street_ends": 24,
+      "removed_encroaching_placeholders": 10,
+      "source_sidewalk_object": "Sidewalk 2_1_75"
+    },
+    "sidewalk_meshes": 5,
+    "sidewalk_sample_rays": 28937,
+    "sidewalk_missing_samples": 0,
+    "sidewalk_buried_samples": 0,
+    "sidewalk_height_error_p99_m": 0.010820395884074989,
+    "terrain_downward_triangles": 0,
+    "ray_geometry_tolerance_m": 0.001,
+    "pavement_mesh_components_over_1m2": 1
   },
   "missing": [],
-  "buried": []
+  "buried": [],
+  "sidewalk_missing": [],
+  "sidewalk_buried": []
 }

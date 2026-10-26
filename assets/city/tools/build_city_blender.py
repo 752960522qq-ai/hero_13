@@ -17,6 +17,7 @@ parser.add_argument('--render',action='store_true')
 args=parser.parse_args(sys.argv[sys.argv.index('--')+1:])
 args.out.mkdir(parents=True,exist_ok=True)
 plan=json.loads((args.plan/'city_plan.json').read_text())
+optimized=plan.get('schema')=='hero13.city.blockout.v2'
 
 bpy.ops.object.select_all(action='SELECT');bpy.ops.object.delete(use_global=False)
 bpy.ops.import_scene.gltf(filepath=str(args.roads.resolve()))
@@ -75,7 +76,11 @@ ROOT['description']='Three-island city blockout. Roads use supplied Road Modular
 ROOT['units']='metres';ROOT['north']='-Z in exported GLB';ROOT['map_extent_m']=4000
 ROOT['source_road_author']='mortalityrexotable';ROOT['source_road_license']='CC-BY-4.0';ROOT['source_road_url']=plan['sources']['road']['url']
 ROOT['road_length_m']=round(plan['stats']['road_length_m'],2);ROOT['road_network_components']=1;ROOT['maximum_centerline_grade']=plan['stats']['maximum_road_grade']
-GROUPS={name:empty(name,ROOT) for name in ['01_TERRAIN','02_WATER','03_ROAD_NETWORK','04_BRIDGE_STRUCTURES','05_BUILDING_PLACEHOLDERS']}
+GROUPS={name:empty(name,ROOT) for name in ['01_TERRAIN','02_WATER','03_ROAD_NETWORK','04_BRIDGE_STRUCTURES','05_BUILDING_PLACEHOLDERS','06_SIDEWALKS']}
+if optimized:
+    ROOT['sidewalk_source']='Road Modular / Sidewalk 2_1_75: original mesh top, height and UVs'
+    ROOT['sidewalk_width_m']=plan['stats']['sidewalk_width_m']
+    ROOT['road_repairs']='Reconnected street ends, merged small junction fragments, faired approaches, continuous road/sidewalk/terrain footprints'
 REGIONS={reg:empty(reg,GROUPS['05_BUILDING_PLACEHOLDERS']) for reg in ['MAIN','WEST','EAST']}
 
 def material(name,color,rough=.9,metallic=0):
@@ -120,6 +125,9 @@ for ei,edge in enumerate(plan['edges']):
     a=plan['nodes'][edge['a']];b=plan['nodes'][edge['b']];L=edge['length']
     start=min(a['radius'],L*.49);stop=L-min(b['radius'],L*.49)
     edge_ranges[ei]=(start,stop)
+    if optimized:
+        edge_ranges[ei]=tuple(edge['range'])
+        continue
     if stop-start<.25:continue
     typ='arterial' if edge['width']>=20 else 'local';tmp=templates[typ];v=tmp['vertices']
     count=max(1,int(math.ceil((stop-start)/8)))
@@ -145,7 +153,29 @@ for name,buf in buffers.items():
     obj=mesh(name,buf['vertices'],buf['faces'],[buf['mat']],buf['uv'],buf['parent']);obj['source_mesh']='Road Modular: deformed straight / double-road module';obj['driveable']=True
 print('ROAD_SURFACES',len(buffers),sum(len(b['faces']) for b in buffers.values()),flush=True)
 buffers.clear()
-underlay=mesh('Continuous_Pavement_Backstop',continuous_v,continuous_f,[ASPHALT],parent=GROUPS['03_ROAD_NETWORK']);underlay['driveable']=True
+if not optimized:
+    underlay=mesh('Continuous_Pavement_Backstop',continuous_v,continuous_f,[ASPHALT],parent=GROUPS['03_ROAD_NETWORK']);underlay['driveable']=True
+else:
+    def planned_mesh(filename,name,mat,parent,source=None):
+        q=np.load(args.plan/filename)
+        if len(q['faces'])==0:return None
+        # Preserve UV seams, while sharing identical kit vertices and corner
+        # vertices instead of exporting three new vertices for every triangle.
+        attributes=np.c_[q['vertices'],q['uv']].astype(np.float32)
+        unique,indices=np.unique(attributes,axis=0,return_inverse=True)
+        faces=indices[q['faces']]
+        obj=mesh(name,unique[:,:3].tolist(),faces.tolist(),[mat],unique[:,3:],parent)
+        if source:obj['source_mesh']=source
+        return obj
+    for reg in ['MAIN','WEST','EAST','BRIDGES']:
+        obj=planned_mesh(f'roads_{reg}.npz',reg+'_Road_Modular_Repaired',roadmat,GROUPS['03_ROAD_NETWORK'],'Road_33_69 / Double road_36_7: original cross-section and UVs, longitudinal subdivisions')
+        if obj:obj['driveable']=True
+        obj=planned_mesh(f'sidewalks_{reg}.npz',reg+'_Sidewalk_Modular_Continuous',roadmat,GROUPS['06_SIDEWALKS'],'Sidewalk 2_1_75: original top mesh and UVs, narrowed to 3m; matching remeshed corners and curbs')
+        if obj:obj['walkable']=True;obj['width_m']=3.0
+    underlay=planned_mesh('pavement_continuous.npz','Continuous_Pavement_Repaired',ASPHALT,GROUPS['03_ROAD_NETWORK'])
+    underlay['driveable']=True
+    planned_mesh('sidewalk_underlay.npz','Sidewalk_Continuous_Transition_Base',roadmat,GROUPS['06_SIDEWALKS'],'Sidewalk 2_1_75: original top UVs and height, remeshed continuous transition base 4mm below source tiles')
+    planned_mesh('bridge_foundation.npz','Continuous_Bridge_Decks_And_Water_Junction',CONCRETE,GROUPS['04_BRIDGE_STRUCTURES'])
 
 # Junctions replace through-running road stripes and closed-off sidewalk edges.
 jbuf=collections.defaultdict(lambda:{'v':[],'f':[],'mi':[]})
@@ -168,7 +198,10 @@ for reg,b in jbed.items():mesh(reg+'_Junction_Foundations',b['v'],b['f'],[CONCRE
 # Shore-conforming terrain. Exportable vertex colours keep the file self-contained.
 terrain_max=0
 for reg in ['MAIN','WEST','EAST']:
-    q=np.load(args.plan/f'terrain_{reg}.npz');v=q['vertices'];f=q['faces'];terrain_max=max(terrain_max,float(v[:,2].max()))
+    q=np.load(args.plan/f'terrain_{reg}.npz');v=q['vertices'];f=q['faces'].copy();terrain_max=max(terrain_max,float(v[:,2].max()))
+    # SciPy triangulations are CCW; GEOS constrained fragments are CW. Mixing
+    # them made the old clipped road shoulders shade as black triangles.
+    p=v[f,:2];cross=(p[:,1,0]-p[:,0,0])*(p[:,2,1]-p[:,0,1])-(p[:,1,1]-p[:,0,1])*(p[:,2,0]-p[:,0,0]);f[cross<0]=f[cross<0][:,::-1]
     mat=material(f'{reg}_Terrain',(.22,.31,.15))
     bs=mat.node_tree.nodes.get('Principled BSDF');col=mat.node_tree.nodes.new('ShaderNodeVertexColor');col.layer_name='Color';mat.node_tree.links.new(col.outputs['Color'],bs.inputs['Base Color'])
     o=mesh(f'{reg}_Sculpted_Terrain',v.tolist(),f.tolist(),[mat],parent=GROUPS['01_TERRAIN'])
@@ -221,11 +254,13 @@ for ei,edge in enumerate(plan['edges']):
     for k in range(len(p)-1):
         mid=(p[k]+p[k+1])/2;d=p[k+1]-p[k];angle=math.atan2(d[1],d[0]);l=float(np.linalg.norm(d[:2]));width=edge['width']
         # Vertical box rotation is applied only where the elevated bridge needs it.
-        beam=cube(f'{edge["name"]}_Deck_{ei}_{k}',(mid[0],mid[1],mid[2]-.78),(l+.1,width,1.35),CONCRETE,bg,angle)
-        beam.rotation_euler[1]=-math.atan2(d[2],max(l,.01))
+        tilt=-math.atan2(d[2],max(l,.01))
+        if not optimized:
+            beam=cube(f'{edge["name"]}_Deck_{ei}_{k}',(mid[0],mid[1],mid[2]-.78),(l+.1,width,1.35),CONCRETE,bg,angle)
+            beam.rotation_euler[1]=tilt
         for side in [-1,1]:
             nvec=(norm[k]+norm[k+1])/2;loc=mid.copy();loc[:2]+=nvec*side*(width/2-.38);loc[2]+=.68
-            rail=cube(f'{edge["name"]}_Parapet_{ei}_{k}_{side}',loc,(l+.1,.35,.8),RAIL,bg,angle);rail.rotation_euler[1]=beam.rotation_euler[1]
+            rail=cube(f'{edge["name"]}_Parapet_{ei}_{k}_{side}',loc,(l+.1,.35,.8),RAIL,bg,angle);rail.rotation_euler[1]=tilt
     for d in np.arange(start+22,stop-8,56):
         pos,_,nvec=frame(edge,np.array([d]));pos=pos[0]
         # No pillars in the live road surface; all are beneath its deck.

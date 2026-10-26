@@ -1,0 +1,14 @@
+{
+  "connected_components_measured": 1,
+  "pavement_polygon_components_measured": 1,
+  "asphalt_sidewalk_overlap_m2": 0.0,
+  "sidewalk_width_m": 3,
+  "sidewalk_validation_targets": 28937,
+  "sidewalk_sample_boundary_margin_m": 0.002,
+  "maximum_grade_measured": 0.08257523232251113,
+  "maximum_endpoint_error_m": 0,
+  "nearcoincident_junction_height_error_m": 0,
+  "sharp_sample_bend_edges_over_25deg": 0,
+  "placeholder_road_overlap_count": 0,
+  "source_sidewalk_object": "Sidewalk 2_1_75"
+}

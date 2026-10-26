@@ -11,3 +11,6 @@ License declared in the user-supplied GLB metadata: **Creative Commons Attributi
 Changes in this city asset: the original straight and double-road meshes were resized, repeated, bent along city routes and assigned elevation profiles. Original road UVs were retained, and the original texture atlas was re-encoded as embedded JPEG. Custom junction pavement, road foundations, terrain, bridges and replaceable building boxes were added. The original unmodified GLB is retained under `design/city/road_modular.glb`.
 
 The source title, author, license and URL are also retained in the exported GLB copyright and object/material metadata.
+
+
+本次道路修整使用原素材 Sidewalk 2_1_75 的顶面几何、UV 和高度，进行宽度调整、细分、坡道变形及路口裁切；转角补面延用同一图集。直路与双车道按连续截面装配，中央分隔带在路口渐变收低。
