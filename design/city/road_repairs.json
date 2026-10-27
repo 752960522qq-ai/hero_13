@@ -1,0 +1,184 @@
+{
+  "repairs": [
+    {
+      "edge": "M_Oldtown_Block_518",
+      "source_node_before": 250,
+      "target_node_before": 243,
+      "old_xy": [
+        374.2838,
+        309.2866
+      ],
+      "node_xy": [
+        372.2498,
+        312.9544
+      ],
+      "horizontal_gap_m": 4.19403300416198,
+      "old_height_m": 10.560437337754589,
+      "target_height_m": 10.726274237496238,
+      "taper_length_m": 75.0,
+      "modified_edge_max_grade": 0.05758012791088624,
+      "patch_bounds": [
+        342.2498,
+        204.43046482534623,
+        417.7900862293126,
+        342.9544
+      ]
+    },
+    {
+      "edge": "M_Oldtown_Block_595",
+      "source_node_before": 251,
+      "target_node_before": 77,
+      "old_xy": [
+        732.3955,
+        513.1997
+      ],
+      "node_xy": [
+        731.7887,
+        508.71960000000007
+      ],
+      "horizontal_gap_m": 4.521006773938683,
+      "old_height_m": 11.457392770272557,
+      "target_height_m": 10.943787368108092,
+      "taper_length_m": 75.0,
+      "modified_edge_max_grade": 0.06198343518888715,
+      "patch_bounds": [
+        701.5060407359734,
+        478.71960000000007,
+        762.3955,
+        619.2438617629415
+      ]
+    },
+    {
+      "edge": "M_CBD_Cross_355",
+      "source_node_before": 213,
+      "target_node_before": 70,
+      "old_xy": [
+        -377.7983,
+        592.4989
+      ],
+      "node_xy": [
+        -376.1573,
+        613.2759
+      ],
+      "horizontal_gap_m": 20.841703625183737,
+      "old_height_m": 12.58198162827639,
+      "target_height_m": 12.970818028566342,
+      "taper_length_m": 75.0,
+      "modified_edge_max_grade": 0.033300297493588545,
+      "patch_bounds": [
+        -411.28583985542525,
+        484.8306611924694,
+        -346.1573,
+        643.2759
+      ]
+    },
+    {
+      "edge": "M_Oldtown_Block_444",
+      "source_node_before": 249,
+      "target_node_before": 242,
+      "old_xy": [
+        18.1765,
+        270.8412
+      ],
+      "node_xy": [
+        30.7243,
+        298.8476
+      ],
+      "horizontal_gap_m": 30.688853445510134,
+      "old_height_m": 9.511023737756666,
+      "target_height_m": 9.847888213172569,
+      "taper_length_m": 75.0,
+      "modified_edge_max_grade": 0.0787022949691448,
+      "patch_bounds": [
+        -30.591224094449252,
+        167.04790854529728,
+        60.7243,
+        328.8476
+      ]
+    }
+  ],
+  "crosswalks": [
+    {
+      "node": 242,
+      "edge": "M19_Oldtown_South",
+      "stripes": 8
+    },
+    {
+      "node": 242,
+      "edge": "M19_Oldtown_South",
+      "stripes": 8
+    },
+    {
+      "node": 242,
+      "edge": "M_Oldtown_Block_518",
+      "stripes": 8
+    },
+    {
+      "node": 242,
+      "edge": "M_Oldtown_Block_518",
+      "stripes": 8
+    },
+    {
+      "node": 77,
+      "edge": "M02_Civic_East_West",
+      "stripes": 15
+    },
+    {
+      "node": 77,
+      "edge": "M02_Civic_East_West",
+      "stripes": 15
+    },
+    {
+      "node": 77,
+      "edge": "M_Oldtown_Block_595",
+      "stripes": 8
+    },
+    {
+      "node": 77,
+      "edge": "M_Oldtown_Block_595",
+      "stripes": 8
+    },
+    {
+      "node": 70,
+      "edge": "M02_Civic_East_West",
+      "stripes": 15
+    },
+    {
+      "node": 70,
+      "edge": "M02_Civic_East_West",
+      "stripes": 15
+    },
+    {
+      "node": 70,
+      "edge": "M_CBD_Cross_355",
+      "stripes": 8
+    },
+    {
+      "node": 70,
+      "edge": "M_CBD_Cross_355",
+      "stripes": 8
+    },
+    {
+      "node": 241,
+      "edge": "M19_Oldtown_South",
+      "stripes": 8
+    },
+    {
+      "node": 241,
+      "edge": "M19_Oldtown_South",
+      "stripes": 8
+    },
+    {
+      "node": 241,
+      "edge": "M_Oldtown_Block_444",
+      "stripes": 8
+    },
+    {
+      "node": 241,
+      "edge": "M_Oldtown_Block_444",
+      "stripes": 8
+    }
+  ],
+  "new_road_area_m2": 510.79440914950106,
+  "old_terrain_infill_m2": 233.43686714949993
+}

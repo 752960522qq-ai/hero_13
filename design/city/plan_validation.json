@@ -1,0 +1,83 @@
+{
+  "graph_components": 1,
+  "nodes": 304,
+  "edges": 519,
+  "junctions": 286,
+  "remaining_dead_ends": 7,
+  "repaired_junctions": [
+    {
+      "edge": "M_Oldtown_Block_518",
+      "node": 242,
+      "degree": 4,
+      "incident_edges": [
+        "M19_Oldtown_South",
+        "M19_Oldtown_South",
+        "M_Oldtown_Block_518",
+        "M_Oldtown_Block_518"
+      ]
+    },
+    {
+      "edge": "M_Oldtown_Block_595",
+      "node": 77,
+      "degree": 4,
+      "incident_edges": [
+        "M02_Civic_East_West",
+        "M02_Civic_East_West",
+        "M_Oldtown_Block_595",
+        "M_Oldtown_Block_595"
+      ]
+    },
+    {
+      "edge": "M_CBD_Cross_355",
+      "node": 70,
+      "degree": 4,
+      "incident_edges": [
+        "M02_Civic_East_West",
+        "M02_Civic_East_West",
+        "M_CBD_Cross_355",
+        "M_CBD_Cross_355"
+      ]
+    },
+    {
+      "edge": "M_Oldtown_Block_444",
+      "node": 241,
+      "degree": 4,
+      "incident_edges": [
+        "M19_Oldtown_South",
+        "M19_Oldtown_South",
+        "M_Oldtown_Block_444",
+        "M_Oldtown_Block_444"
+      ]
+    }
+  ],
+  "max_centerline_grade": 0.08257523232251113,
+  "max_endpoint_height_error_m": 0,
+  "pavement_components": 1,
+  "pavement_sidewalk_overlap_m2": 0.0,
+  "new_buildings_checked": 61,
+  "new_building_overlaps": 0,
+  "new_building_road_overlaps": 0,
+  "podiums_checked": 48,
+  "port_yards_checked": 3,
+  "port_service_access_checks": [
+    {
+      "yard": "PORT_Container_Yard_00",
+      "edge": "E_PORT_Service_00",
+      "road_connection_degree": 3,
+      "building_overlaps": 0
+    },
+    {
+      "yard": "PORT_Container_Yard_01",
+      "edge": "E_PORT_Service_01",
+      "road_connection_degree": 3,
+      "building_overlaps": 0
+    },
+    {
+      "yard": "PORT_Container_Yard_02",
+      "edge": "E_PORT_Service_02",
+      "road_connection_degree": 3,
+      "building_overlaps": 0
+    }
+  ],
+  "validation_passed": true
+}

@@ -1,0 +1,150 @@
+{
+  "glb_reimport_success": true,
+  "original_images_unchanged": true,
+  "source_texture_checks": [
+    {
+      "source": "modern_glass_2.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "office_building_1.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "apartment+building+2.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "apartment+building+3.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    }
+  ],
+  "real_buildings": [
+    {
+      "name": "CBD_Modern_Glass_02",
+      "height_m": 68.0000026000198,
+      "uniform_scale_error": 1.9763839503639247e-05
+    },
+    {
+      "name": "CBD_Office_Building_01",
+      "height_m": 43.99999909219332,
+      "uniform_scale_error": 8.905423243277255e-07
+    },
+    {
+      "name": "OLDTOWN_Apartment_02",
+      "height_m": 23.000000304775313,
+      "uniform_scale_error": 2.917297965865373e-06
+    },
+    {
+      "name": "OLDTOWN_Apartment_03",
+      "height_m": 23.499999440275133,
+      "uniform_scale_error": 5.936324782851443e-07
+    }
+  ],
+  "road_surface_checks": [
+    {
+      "edge": "M_Oldtown_Block_518",
+      "road_samples": 78,
+      "road_missing": 0,
+      "road_buried": 0,
+      "road_max_surface_centerline_delta_m": 0.009004146454245188,
+      "sidewalk_samples": 75,
+      "sidewalk_missing": 0,
+      "sidewalk_terrain_penetrations": 0,
+      "details": []
+    },
+    {
+      "edge": "M_Oldtown_Block_595",
+      "road_samples": 78,
+      "road_missing": 0,
+      "road_buried": 0,
+      "road_max_surface_centerline_delta_m": 0.008000602320842987,
+      "sidewalk_samples": 68,
+      "sidewalk_missing": 0,
+      "sidewalk_terrain_penetrations": 0,
+      "details": []
+    },
+    {
+      "edge": "M_CBD_Cross_355",
+      "road_samples": 78,
+      "road_missing": 0,
+      "road_buried": 0,
+      "road_max_surface_centerline_delta_m": 0.0176778861099951,
+      "sidewalk_samples": 69,
+      "sidewalk_missing": 0,
+      "sidewalk_terrain_penetrations": 0,
+      "details": []
+    },
+    {
+      "edge": "M_Oldtown_Block_444",
+      "road_samples": 78,
+      "road_missing": 0,
+      "road_buried": 0,
+      "road_max_surface_centerline_delta_m": 0.008021019307658861,
+      "sidewalk_samples": 74,
+      "sidewalk_missing": 0,
+      "sidewalk_terrain_penetrations": 0,
+      "details": []
+    }
+  ],
+  "yard_foundation_checks": [
+    {
+      "name": "PORT_Container_Yard_00",
+      "pad_top_above_max_terrain_m": 0.07962367963791017
+    },
+    {
+      "name": "PORT_Container_Yard_01",
+      "pad_top_above_max_terrain_m": 0.07523393789927368
+    },
+    {
+      "name": "PORT_Container_Yard_02",
+      "pad_top_above_max_terrain_m": 0.07958813037681267
+    }
+  ],
+  "port_access_surface_checks": [
+    {
+      "yard": "PORT_Container_Yard_00",
+      "surface_samples": 63,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "road_join_samples": 3,
+      "road_join_max_gap_m": 0.005877087813683346,
+      "sidewalk_join_samples": 2,
+      "sidewalk_join_max_gap_m": 0.004599802290035981,
+      "container_obstructions": []
+    },
+    {
+      "yard": "PORT_Container_Yard_01",
+      "surface_samples": 63,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "road_join_samples": 3,
+      "road_join_max_gap_m": 0.005876451607493394,
+      "sidewalk_join_samples": 2,
+      "sidewalk_join_max_gap_m": 0.005073850489887732,
+      "container_obstructions": []
+    },
+    {
+      "yard": "PORT_Container_Yard_02",
+      "surface_samples": 63,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "road_join_samples": 3,
+      "road_join_max_gap_m": 0.0058814751931954845,
+      "sidewalk_join_samples": 2,
+      "sidewalk_join_max_gap_m": 0.004112284983815329,
+      "container_obstructions": []
+    }
+  ],
+  "streaming_meshes_checked": 17,
+  "streaming_chunks_checked": 1002,
+  "validation_passed": true
+}

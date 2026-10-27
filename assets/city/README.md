@@ -6,7 +6,31 @@
 
 [下载 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [下载 Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal)
 
-当前版本约 85.49 公里道路，283 个路口，593 栋建筑（4 栋素材建筑、589 栋方块占位）。道路高度 3.0–81.1 米；最大中心线坡度 8.3%。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
+当前版本约 85.66 公里道路，286 个路口，654 栋建筑（4 栋素材建筑、650 栋方块占位）；额外裙楼和港口设施按独立占位物计。道路高度约 3.0–81.1 米；最大中心线坡度 8.26%。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
+
+## 实景方案改造（当前版本）
+
+- 将老城区及 CBD 的四处近邻道路端点接到既有路口，重新整理路面、坡度、斑马线和人行道。原有 Road Modular 道路网格及人行道图集仍保留；四座跨岛桥均保留。
+- CBD 新增 48 个可替换裙楼体块，五处圆形草地调整为小型矩形树池；老城区新增 16 栋骑楼占位、34 栋住宅占位，并连接两栋原有住宅附近的院落步道。行政、大学、文化区各增加一个公共建筑占位，西岛湖区增加 8 栋低层占位。
+- 东岛港区增加 3 个平整堆场、集装箱及 3 组岸吊占位；每个堆场都通过 6 m 宽服务车道接入原道路，车道两侧有 1.5 m 人行空间，原路侧人行道在车道入口处开口。主岛南岸补地形贴合的滨水步道，桥头补导向牌和路口信号设施占位。
+- 将 17 组道路、人行道、地形和铺装按约 250 m 网格分为 1002 个可独立剔除网格，保持原面片和纹理坐标；是否提升性能需要在目标引擎测试。四栋真实建筑保持原模型，工程包 `design/city/lod/` 另附每栋约 60% 和 30% 面数的可选 LOD 候选。LOD 不会在当前 GLB 自动切换，需在引擎内接入并检查外观。
+- 本版重新导入 GLB 并检查四栋真实建筑、原始贴图、四个修复路口、港区入口和堆场地基。路网规划为 1 个连通分量，中心线最大坡度约 8.26%。`plan_validation.json`、`redevelopment_validation.json`、`port_access.json`、`chunk_report.json`、`lod/lod_validation.json` 保存本版结果。游戏内车辆转向、碰撞、人物寻路与实际性能尚待测试；简化建筑与港区设施均为可替换占位。
+
+### 从上一版重建改造
+
+需要上一版未分块、含四栋素材建筑的 Blender 场景，以及对应 `city_plan_before_redevelopment.json.gz`；当前成品已分块，请不要对其重复执行增量脚本。Blender Python 需能够导入 Shapely 2 和 SciPy，必要时在各 Blender 命令末尾加 `--shapely-path /path/to/blender-python-packages`。
+
+```sh
+gzip -dc design/city/city_plan_before_redevelopment.json.gz > /tmp/city-before-redevelopment.json
+blender -b --factory-startup --python assets/city/tools/extract_road_assets_blender.py -- --roads design/city/road_modular.glb --out /tmp/road-templates.json
+python3 assets/city/tools/redevelopment_plan.py --plan /tmp/city-before-redevelopment.json --out /tmp/redevelopment-plan
+blender -b --factory-startup --python assets/city/tools/repair_redevelopment_roads_blender.py -- --blend /path/to/previous-city.blend --plan /tmp/redevelopment-plan/city_plan.json --scheme /tmp/redevelopment-plan/redevelopment_plan.json --templates /tmp/road-templates.json --out /tmp/repaired
+blender -b --factory-startup --python assets/city/tools/build_redevelopment_blender.py -- --blend /tmp/repaired/roads_repaired.blend --plan /tmp/redevelopment-plan/city_plan.json --scheme /tmp/redevelopment-plan/redevelopment_plan.json --old-parks design/city/urban_candidates.json.gz --out /tmp/districts
+blender -b --factory-startup --python assets/city/tools/connect_port_yards_blender.py -- --blend /tmp/districts/redeveloped.blend --plan /tmp/districts/city_plan.json --districts /tmp/districts/district_redevelopment.json --out /tmp/port
+blender -b --factory-startup --python assets/city/tools/chunk_redevelopment_blender.py -- --blend /tmp/port/connected_city.blend --plan /tmp/port/city_plan.json --out /tmp/final-city --cell-size 250
+```
+
+下文记录更早的建设阶段；其中的数量和验证报告属于当时的版本，不代表当前模型的完整状态。
 
 ## 道路修整
 

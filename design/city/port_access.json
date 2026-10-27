@@ -1,0 +1,83 @@
+[
+  {
+    "yard": "PORT_Container_Yard_00",
+    "connects_to": "E07_Warehouse_North",
+    "service_edge": "E_PORT_Service_00",
+    "start_xy": [
+      926.9097836460812,
+      -627.7068072100443
+    ],
+    "end_xy": [
+      916.3643838360084,
+      -602.4229727103127
+    ],
+    "road_junction_xy": [
+      914.9401022313162,
+      -599.0080902949819
+    ],
+    "walk_center_xy": [
+      917.2497480767631,
+      -604.5457374549778
+    ],
+    "length_m": 27.394848861859074,
+    "drive_width_m": 6.0,
+    "sidewalk_width_m": 1.5,
+    "maximum_grade": 0.06360160321682178,
+    "walk_end_max_lip_m": 0.0039999999999995595,
+    "road_end_max_lip_m": 0.0039999999999995595
+  },
+  {
+    "yard": "PORT_Container_Yard_01",
+    "connects_to": "E05_East_Freight_Avenue",
+    "service_edge": "E_PORT_Service_01",
+    "start_xy": [
+      941.2640906465285,
+      -980.0526796458649
+    ],
+    "end_xy": [
+      917.3045076170423,
+      -970.9713595228201
+    ],
+    "road_junction_xy": [
+      908.2341785675126,
+      -967.533463228099
+    ],
+    "walk_center_xy": [
+      919.4552041957968,
+      -971.7865308091972
+    ],
+    "length_m": 25.622880285480473,
+    "drive_width_m": 6.0,
+    "sidewalk_width_m": 1.5,
+    "maximum_grade": 0.08335011207712112,
+    "walk_end_max_lip_m": 0.0039999999999995595,
+    "road_end_max_lip_m": 0.0039999999999995595
+  },
+  {
+    "yard": "PORT_Container_Yard_02",
+    "connects_to": "E01_Industrial_Ring",
+    "service_edge": "E_PORT_Service_02",
+    "start_xy": [
+      1047.8100991058723,
+      -365.5476935333643
+    ],
+    "end_xy": [
+      1058.69774692516,
+      -398.54696589249795
+    ],
+    "road_junction_xy": [
+      1061.7369765546457,
+      -407.7585392249562
+    ],
+    "walk_center_xy": [
+      1057.9771048480654,
+      -396.3627784012965
+    ],
+    "length_m": 34.74899784553681,
+    "drive_width_m": 6.0,
+    "sidewalk_width_m": 1.5,
+    "maximum_grade": 0.06272663827345883,
+    "walk_end_max_lip_m": 0.0039999999999995595,
+    "road_end_max_lip_m": 0.0039999999999995595
+  }
+]

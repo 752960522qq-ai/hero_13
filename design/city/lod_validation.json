@@ -1,0 +1,77 @@
+{
+  "automatic_switching_in_main_glb": false,
+  "assets": [
+    {
+      "source": "modern_glass_2.glb",
+      "file": "modern_glass_2_lod1.glb",
+      "ratio_requested": 0.6,
+      "triangles_before": 53119,
+      "triangles_after": 31870,
+      "relative_max_bounds_shift": 0.0003428241146563815,
+      "source_image_bytes_unchanged": true
+    },
+    {
+      "source": "modern_glass_2.glb",
+      "file": "modern_glass_2_lod2.glb",
+      "ratio_requested": 0.3,
+      "triangles_before": 53119,
+      "triangles_after": 15935,
+      "relative_max_bounds_shift": 0.0005083297817473362,
+      "source_image_bytes_unchanged": true
+    },
+    {
+      "source": "office_building_1.glb",
+      "file": "office_building_1_lod1.glb",
+      "ratio_requested": 0.6,
+      "triangles_before": 25960,
+      "triangles_after": 15576,
+      "relative_max_bounds_shift": 0.0006536964980544747,
+      "source_image_bytes_unchanged": true
+    },
+    {
+      "source": "office_building_1.glb",
+      "file": "office_building_1_lod2.glb",
+      "ratio_requested": 0.3,
+      "triangles_before": 25960,
+      "triangles_after": 7788,
+      "relative_max_bounds_shift": 0.00714320890077821,
+      "source_image_bytes_unchanged": true
+    },
+    {
+      "source": "apartment+building+2.glb",
+      "file": "apartment+building+2_lod1.glb",
+      "ratio_requested": 0.6,
+      "triangles_before": 22295,
+      "triangles_after": 13377,
+      "relative_max_bounds_shift": 0.00013974117395831607,
+      "source_image_bytes_unchanged": true
+    },
+    {
+      "source": "apartment+building+2.glb",
+      "file": "apartment+building+2_lod2.glb",
+      "ratio_requested": 0.3,
+      "triangles_before": 22295,
+      "triangles_after": 6688,
+      "relative_max_bounds_shift": 0.006123593029100941,
+      "source_image_bytes_unchanged": true
+    },
+    {
+      "source": "apartment+building+3.glb",
+      "file": "apartment+building+3_lod1.glb",
+      "ratio_requested": 0.6,
+      "triangles_before": 22788,
+      "triangles_after": 13671,
+      "relative_max_bounds_shift": 0.0014021195131357516,
+      "source_image_bytes_unchanged": true
+    },
+    {
+      "source": "apartment+building+3.glb",
+      "file": "apartment+building+3_lod2.glb",
+      "ratio_requested": 0.3,
+      "triangles_before": 22788,
+      "triangles_after": 6836,
+      "relative_max_bounds_shift": 0.005810437313014211,
+      "source_image_bytes_unchanged": true
+    }
+  ]
+}
