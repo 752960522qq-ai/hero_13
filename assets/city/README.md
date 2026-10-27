@@ -1,20 +1,46 @@
 # 三岛城市道路网络
 
-依据城市概念图和用户提供的 Road Modular 素材，在 Blender 4.5.3 LTS 中完成。地图 4000 × 4000 米，包含北部主城、西部湖泊郊区、东南工业岛及四条跨岛道路。CBD 和老城区各部署两栋用户提供的建筑，其余建筑及物件继续使用可替换方块。
+依据城市概念图和用户提供的 Road Modular 素材，在 Blender 4.5.3 LTS 中完成。地图 4000 × 4000 米，包含北部主城、西部湖泊郊区、东南工业岛及四条跨岛道路。CBD 部署两栋用户建筑，老城区部署两栋住宅和三栋相连的沿街建筑；其余建筑及物件继续使用可替换方块。
 
 ## 当前模型
 
 [下载 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [下载 Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal)
 
-当前版本约 85.66 公里道路，286 个路口，654 栋建筑（4 栋素材建筑、650 栋方块占位）；额外裙楼和港口设施按独立占位物计。道路高度约 3.0–81.1 米；最大中心线坡度 8.26%。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
+当前版本约 85.66 公里道路，286 个路口，656 栋建筑（7 栋素材建筑、649 栋方块占位）；额外裙楼和港口设施按独立占位物计。道路高度约 3.0–81.1 米；最大中心线坡度 8.26%。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
 
-## 实景方案改造（当前版本）
+## 老城区连续骑楼街段
+
+三份新输入资产各部署一次，沿 M19 老城区南街拼为约 56.32 m 长的连续街面，位于原有两栋住宅的街道对面。只移除 `OLDTOWN_Housing_Blockout_032` 一栋占位楼。原四栋真实建筑、道路、人行道和地形网格保持不变。
+
+| 资产 | 整体高度 | 部署数量 |
+| --- | --- | --- |
+| old+building+facade+6.glb | 11.8 m | 1 |
+| storefront+building+7.glb | 11.5 m | 1 |
+| urban+building+facade+5.glb | 11.8 m | 1 |
+
+三个模型均等比缩放，保留原 UV 和贴图。按主体墙定位相邻接缝，增设共墙连接，并保留各自原有屋顶轮廓。原模型的地坪外挑和少量底部杂面埋入同一基座；增加简单的连续遮雨顶棚、柱列和廊下地面，使三个店面段之间有清晰的步行连接。顶棚与柱列是可替换的建模体块。
+
+廊道净宽 2.6 m、最低顶棚净高约 3.8 m。地基随原地形埋入，场地高差约 0.39 m；三个 2 m 宽入口缓坡使用 Road Modular 原人行道图集，纵坡约 4.72%、2.06%、3.38%，与原人行道接缝约 6–8 mm。廊道沿长度划分纹理单元，避免整段铺装被拉伸。
+
+`connected_arcades_plan.json.gz` 保存素材基准与选址，`connected_arcades.json` 保存实例及共用地坪、顶棚、接缝和入口，`connected_arcades_validation.json` 保存最终 GLB 重导入检查。检查包括 700 个地坪采样、2.6 m 廊道中的水平净空射线及三个入口的穿地、挡路和接缝；这些几何检查不等于已经配置游戏碰撞和寻路。原始新素材保存在工程包 `design/city/buildings/`，新预览在 `design/city/previews/connected_arcades/`。
+
+重建本次增量时，以加入三栋骑楼前的分块城市 `.blend` 和 `city_plan_before_arcades.json.gz` 为输入；不要对当前成品重复运行。Blender Python 需要 Shapely 和 SciPy，可用 `--deps` 指定其目录。
+
+```sh
+gzip -dc design/city/city_plan_before_arcades.json.gz > /tmp/city-before-arcades.json
+blender -b --factory-startup --python assets/city/tools/plan_connected_arcades_blender.py -- --blend /path/to/previous-city.blend --plan /tmp/city-before-arcades.json --scheme design/city/redevelopment_plan.json.gz --models design/city/buildings --out /tmp/connected-arcades-plan.json
+blender -b --factory-startup --python assets/city/tools/build_connected_arcades_blender.py -- --blend /path/to/previous-city.blend --plan /tmp/city-before-arcades.json --sites /tmp/connected-arcades-plan.json --models design/city/buildings --out /tmp/connected-city
+blender -b --factory-startup --python assets/city/tools/validate_connected_arcades_blender.py -- --glb /tmp/connected-city/huizhou_road_network.glb --plan /tmp/connected-city/city_plan.json --scheme design/city/redevelopment_plan.json.gz --report /tmp/connected-city/connected_arcades_validation.json
+blender -b --factory-startup --python assets/city/tools/render_connected_arcades_blender.py -- --blend /tmp/connected-city/huizhou_road_network.blend --plan /tmp/connected-city/city_plan.json --out /tmp/connected-city/previews
+```
+
+## 实景方案改造基础
 
 - 将老城区及 CBD 的四处近邻道路端点接到既有路口，重新整理路面、坡度、斑马线和人行道。原有 Road Modular 道路网格及人行道图集仍保留；四座跨岛桥均保留。
 - CBD 新增 48 个可替换裙楼体块，五处圆形草地调整为小型矩形树池；老城区新增 16 栋骑楼占位、34 栋住宅占位，并连接两栋原有住宅附近的院落步道。行政、大学、文化区各增加一个公共建筑占位，西岛湖区增加 8 栋低层占位。
 - 东岛港区增加 3 个平整堆场、集装箱及 3 组岸吊占位；每个堆场都通过 6 m 宽服务车道接入原道路，车道两侧有 1.5 m 人行空间，原路侧人行道在车道入口处开口。主岛南岸补地形贴合的滨水步道，桥头补导向牌和路口信号设施占位。
 - 将 17 组道路、人行道、地形和铺装按约 250 m 网格分为 1002 个可独立剔除网格，保持原面片和纹理坐标；是否提升性能需要在目标引擎测试。四栋真实建筑保持原模型，工程包 `design/city/lod/` 另附每栋约 60% 和 30% 面数的可选 LOD 候选。LOD 不会在当前 GLB 自动切换，需在引擎内接入并检查外观。
-- 本版重新导入 GLB 并检查四栋真实建筑、原始贴图、四个修复路口、港区入口和堆场地基。路网规划为 1 个连通分量，中心线最大坡度约 8.26%。`plan_validation.json`、`redevelopment_validation.json`、`port_access.json`、`chunk_report.json`、`lod/lod_validation.json` 保存本版结果。游戏内车辆转向、碰撞、人物寻路与实际性能尚待测试；简化建筑与港区设施均为可替换占位。
+- 本版重新导入 GLB 并检查七栋真实建筑、原始贴图、四个修复路口、港区入口和堆场地基。路网规划为 1 个连通分量，中心线最大坡度约 8.26%。`plan_validation.json`、`redevelopment_validation.json`、`port_access.json`、`chunk_report.json`、`lod/lod_validation.json` 保存本版结果。游戏内车辆转向、碰撞、人物寻路与实际性能尚待测试；简化建筑与港区设施均为可替换占位。
 
 ### 从上一版重建改造
 

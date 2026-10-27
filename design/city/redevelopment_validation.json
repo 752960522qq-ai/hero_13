@@ -25,6 +25,24 @@
       "matching_original_image_bytes": [
         1
       ]
+    },
+    {
+      "source": "old+building+facade+6.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "storefront+building+7.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "urban+building+facade+5.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
     }
   ],
   "real_buildings": [
@@ -47,6 +65,21 @@
       "name": "OLDTOWN_Apartment_03",
       "height_m": 23.499999440275133,
       "uniform_scale_error": 5.936324782851443e-07
+    },
+    {
+      "name": "OLDTOWN_Connected_Arcade_06",
+      "height_m": 11.800000091898255,
+      "uniform_scale_error": 7.882425911986957e-08
+    },
+    {
+      "name": "OLDTOWN_Connected_Arcade_07",
+      "height_m": 11.500000297150109,
+      "uniform_scale_error": 1.6673495011332307e-06
+    },
+    {
+      "name": "OLDTOWN_Connected_Arcade_05",
+      "height_m": 11.799999840266537,
+      "uniform_scale_error": 3.401020904902907e-07
     }
   ],
   "road_surface_checks": [

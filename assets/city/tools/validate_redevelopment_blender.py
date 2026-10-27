@@ -28,7 +28,11 @@ def glb_images(path):
             imgs.append(hashlib.sha256(blob[offset:offset+bv['byteLength']]).hexdigest())
     return meta,imgs
 meta,images=glb_images(args.glb);_,old_images=glb_images(args.baseline_glb)
-assert sorted(images)==sorted(old_images),'An existing source atlas or texture was altered'
+extra_images=[]
+for source_path in args.source:
+    _,source_images=glb_images(source_path)
+    extra_images.extend(x for x in source_images if x not in old_images)
+assert sorted(images)==sorted(old_images+extra_images),'An existing source atlas or texture was altered'
 textures=[]
 for file in args.source:
     _,source=glb_images(file);counts=[images.count(x) for x in source];assert source and all(c==1 for c in counts)
@@ -73,7 +77,7 @@ walks=[o for o in objects if prefix(o,['MAIN_Sidewalk_Modular_Continuous','Sidew
 lands=[o for o in objects if prefix(o,['MAIN_Sculpted_Terrain','Junction_Repairs_Ground_Infill'])]
 assert roads and walks and lands
 instances=[o for o in bpy.context.scene.objects if o.get('is_building_instance')]
-assert len(instances)==4 and len({x.name for x in instances})==4
+assert len(instances)==len(plan['real_buildings']) and len({x.name for x in instances})==len(instances)
 model_results=[]
 for r in plan['real_buildings']:
     inst=next(x for x in instances if x.name==r['instance_name']);parts=[o for o in objects if below(o,inst.name)]

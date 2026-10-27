@@ -1,0 +1,59 @@
+{
+  "glb_reimport_success": true,
+  "connected_source_models": 3,
+  "row_length_m": 56.324516860185064,
+  "shared_floor_samples": 700,
+  "shared_floor_max_height_error_m": 1.8708855486701537e-07,
+  "clear_corridor_width_m": 2.6,
+  "corridor_horizontal_rays": 78,
+  "corridor_obstructions": 0,
+  "minimum_covered_headroom_m": 3.8000002935633024,
+  "foundation_top_above_terrain_m": 0.07000000000000028,
+  "sidewalk_ramps": [
+    {
+      "name": "Oldtown_Arcade_Sidewalk_Ramp_00",
+      "surface_samples": 63,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "head_obstructions": 0,
+      "sidewalk_join_gap_m": 0.007412582749747543,
+      "maximum_grade": 0.04715694277980195
+    },
+    {
+      "name": "Oldtown_Arcade_Sidewalk_Ramp_01",
+      "surface_samples": 63,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "head_obstructions": 0,
+      "sidewalk_join_gap_m": 0.006410531835493671,
+      "maximum_grade": 0.020562073921897368
+    },
+    {
+      "name": "Oldtown_Arcade_Sidewalk_Ramp_02",
+      "surface_samples": 63,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "head_obstructions": 0,
+      "sidewalk_join_gap_m": 0.006666128027786655,
+      "maximum_grade": 0.03375167503415098
+    }
+  ],
+  "party_wall_seams": [
+    {
+      "left": "OLDTOWN_Connected_Arcade_06",
+      "right": "OLDTOWN_Connected_Arcade_07",
+      "core_wall_overlap_m": 0.03999999999999737,
+      "local_x": -15.249744372181528,
+      "shared_wall_height_m": 10.874192049840927
+    },
+    {
+      "left": "OLDTOWN_Connected_Arcade_07",
+      "right": "OLDTOWN_Connected_Arcade_05",
+      "core_wall_overlap_m": 0.03999999999999915,
+      "local_x": 19.007925211391512,
+      "shared_wall_height_m": 10.874192049840927
+    }
+  ],
+  "validation_passed": true,
+  "limits": "Geometric inspection; game collisions and navigation have not been configured."
+}
