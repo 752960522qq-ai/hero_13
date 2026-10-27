@@ -1,12 +1,12 @@
 # 三岛城市道路网络
 
-依据城市概念图和用户提供的 Road Modular 素材，在 Blender 4.5.3 LTS 中完成。地图 4000 × 4000 米，包含北部主城、西部湖泊郊区、东南工业岛及四条跨岛道路。CBD 已部署两栋用户提供的建筑，其余建筑及物件继续使用可替换方块。
+依据城市概念图和用户提供的 Road Modular 素材，在 Blender 4.5.3 LTS 中完成。地图 4000 × 4000 米，包含北部主城、西部湖泊郊区、东南工业岛及四条跨岛道路。CBD 和老城区各部署两栋用户提供的建筑，其余建筑及物件继续使用可替换方块。
 
 ## 当前模型
 
 [下载 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [下载 Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal)
 
-当前版本约 85.49 公里道路，283 个路口，486 栋建筑（2 栋素材建筑、484 栋方块占位）。道路高度 3.0–81.1 米；最大中心线坡度 8.3%。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
+当前版本约 85.49 公里道路，283 个路口，593 栋建筑（4 栋素材建筑、589 栋方块占位）。道路高度 3.0–81.1 米；最大中心线坡度 8.3%。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
 
 ## 道路修整
 
@@ -60,3 +60,24 @@ blender -b --factory-startup --python assets/city/tools/render_cbd_buildings_ble
 ```
 
 道路素材署名及修改说明见 [ROAD_ASSET_LICENSE.md](ROAD_ASSET_LICENSE.md)。
+
+## CBD 铺装和老城区住宅
+
+- CBD 在空地补入 107 栋可替换的建筑体；其占地避让现有楼、道路和人行道，并保留五处小型绿地。
+- CBD 原地形上增加约 648,214 平方米的混凝土砖铺装，贴合原地形起伏。铺装按现有地形的道路开口裁切；原有道路、人行道及地形网格未修改。
+- 两栋住宅分别使用 `apartment+building+2.glb`、`apartment+building+3.glb` 各一栋，均位于老城区 M19 街区，入口朝向街道。住宅高度分别为 23 米和 23.5 米，按原模型等比缩放。
+- 每栋住宅设置埋入地形的水平基座，3 米宽入口步道使用原道路素材的人行道图集，并连接现有人行道；步道最大纵坡分别约 1.02% 和 1.16%，端部高差约 6 毫米。
+- 最终 GLB 重新导入后，检查了四栋建筑的数量、比例和原始贴图，住宅基座与步道的地形和路面关系，以及新 CBD 建筑与其他建筑、道路走廊的占用关系。详细结果见 `design/city/urban_validation.json`；几何检查不代表游戏内碰撞和导航已经配置。
+
+工程包中的 `design/city/huizhou_road_network.blend` 已包含全部更新。四栋用户模型、人行道图集和混凝土砖纹理均已保存在工程包内。住宅分组为 `09_OLDTOWN_REAL_BUILDINGS`，CBD 铺装为 `10_CBD_HARDSCAPE`，住宅基座和步道为 `11_OLDTOWN_SITE_ADAPTATION`。
+
+`city_plan_before_urban.json.gz` 保存更新前的规划；`urban_candidates.json.gz` 保存此次地块和绿地选择。要从**更新前、已包含两栋 CBD 建筑**的场景重建本次增量，安装 Blender 对应 Python 的 Shapely 后运行：
+
+```sh
+gzip -dc design/city/city_plan_before_urban.json.gz > /tmp/hero13-plan-before-urban.json
+gzip -dc design/city/urban_candidates.json.gz > /tmp/hero13-urban-candidates.json
+blender -b --factory-startup --python assets/city/tools/urban_update_blender.py -- --blend /path/to/cbd-stage/huizhou_road_network.blend --plan /tmp/hero13-plan-before-urban.json --candidates /tmp/hero13-urban-candidates.json --apartment-2 'design/city/buildings/apartment+building+2.glb' --apartment-3 'design/city/buildings/apartment+building+3.glb' --pavers design/city/textures/cbd_concrete_pavers.png --out /tmp/hero13-urban
+blender -b --factory-startup --python assets/city/tools/render_urban_update_blender.py -- --blend /tmp/hero13-urban/huizhou_road_network.blend --update /tmp/hero13-urban/urban_update.json --out /tmp/hero13-urban/previews
+```
+
+不要对已完成的当前场景重复运行增量脚本；该脚本要求上述更新前的场景。

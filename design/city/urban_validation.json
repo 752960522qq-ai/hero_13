@@ -1,0 +1,100 @@
+{
+  "glb_reimport_success": true,
+  "actual_buildings": [
+    {
+      "instance": "CBD_Modern_Glass_02",
+      "height_m": 68.00000190734863,
+      "uniform_scale_axis_error": 1.9763839503639247e-05,
+      "source_mesh_instances": 1
+    },
+    {
+      "instance": "CBD_Office_Building_01",
+      "height_m": 44.0,
+      "uniform_scale_axis_error": 8.905423243277255e-07,
+      "source_mesh_instances": 1
+    },
+    {
+      "instance": "OLDTOWN_Apartment_02",
+      "height_m": 22.999999046325684,
+      "uniform_scale_axis_error": 2.917297965865373e-06,
+      "source_mesh_instances": 1
+    },
+    {
+      "instance": "OLDTOWN_Apartment_03",
+      "height_m": 23.499998092651367,
+      "uniform_scale_axis_error": 5.936324782851443e-07,
+      "source_mesh_instances": 1
+    }
+  ],
+  "site_checks": [
+    {
+      "instance": "OLDTOWN_Apartment_02",
+      "pad_missing_terrain_samples": 0,
+      "pad_road_overlap_samples": 0,
+      "pad_top_clearance_m": 0.08000000000000007,
+      "pad_buried_depth_m": 0.1999999999999993,
+      "access_missing_samples": 0,
+      "access_terrain_penetrations": 0,
+      "access_road_overlap_samples": 0,
+      "access_min_terrain_clearance_m": 0.10375480191127018,
+      "access_end_max_lip_m": 0.005941294959452392,
+      "access_maximum_grade": 0.010211903822268428
+    },
+    {
+      "instance": "OLDTOWN_Apartment_03",
+      "pad_missing_terrain_samples": 0,
+      "pad_road_overlap_samples": 0,
+      "pad_top_clearance_m": 0.08000000000000007,
+      "pad_buried_depth_m": 0.20010697193580107,
+      "access_missing_samples": 0,
+      "access_terrain_penetrations": 0,
+      "access_road_overlap_samples": 0,
+      "access_min_terrain_clearance_m": 0.08548159049326465,
+      "access_end_max_lip_m": 0.005939815087735667,
+      "access_maximum_grade": 0.011648870960189963
+    }
+  ],
+  "texture_byte_checks": [
+    {
+      "source": "apartment+building+2.glb",
+      "source_images": 1,
+      "byte_identical_matches": [
+        1
+      ]
+    },
+    {
+      "source": "apartment+building+3.glb",
+      "source_images": 1,
+      "byte_identical_matches": [
+        1
+      ]
+    },
+    {
+      "source": "modern_glass_2.glb",
+      "source_images": 1,
+      "byte_identical_matches": [
+        1
+      ]
+    },
+    {
+      "source": "office_building_1.glb",
+      "source_images": 1,
+      "byte_identical_matches": [
+        1
+      ]
+    }
+  ],
+  "cbd_infill_count": 107,
+  "cbd_infill_building_overlaps": 0,
+  "cbd_infill_road_corridor_overlaps": 0,
+  "cbd_paved_area_m2": 648213.6679864079,
+  "cbd_paving_samples": 3000,
+  "cbd_paving_max_height_error_m": 0.00011246052946089005,
+  "cbd_paving_terrain_missing_samples": 0,
+  "cbd_paving_road_intrusion_samples": 0,
+  "cbd_paving_near_edge_corrections": 6,
+  "cbd_paving_maximum_edge_distance_m": 0.0009957754545041361,
+  "original_road_sidewalk_terrain_unchanged": true,
+  "placeholder_buildings": 589,
+  "validation_passed": true
+}
