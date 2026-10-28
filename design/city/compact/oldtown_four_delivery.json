@@ -1,0 +1,52 @@
+{
+  "schema": "hero13.city.delivery.v9",
+  "status": "validated",
+  "stats": {
+    "land_area_m2": 5800000.0000000065,
+    "land_plus_bridge_play_area_m2": 5835652.748272223,
+    "water_excluded": true,
+    "road_length_m": 67129.2327968818,
+    "road_edges": 437,
+    "junctions": 249,
+    "graph_components": 1,
+    "max_grade": 0.08249091416556227,
+    "buildings": 2992,
+    "placeholder_lots": 2977,
+    "real_buildings": 15,
+    "pedestrian_alleys": 120,
+    "interchanges": 2,
+    "ramps": 6,
+    "building_coverage_percent": 22.137256069760774,
+    "oldtown_coverage_percent": 47.463580132724076,
+    "global_scale_applied": false
+  },
+  "model_glb": {
+    "file": "huizhou_road_network.glb",
+    "bytes": 173082180,
+    "sha256": "bfe9448fa67220ff7b2d58ae0ed77c8a0d170328d93cc01ff25d879527849b57"
+  },
+  "editable_blend": {
+    "file": "huizhou_road_network.blend",
+    "bytes": 106626759,
+    "sha256": "02a6855743f561aa66872f10ca4a0e83481a2827932c19c0dc27396b51db5465"
+  },
+  "repository_delivery": {
+    "path": "delivery/city_v9",
+    "archive": "huizhou_city_v9.zip",
+    "bytes": 272537182,
+    "sha256": "b9a114f1ec2cf971bd31f543784d24303e08b6d818c578e69f4240184314cc5c",
+    "parts": 33,
+    "persistent_save": "github_main",
+    "reassemble": "python3 delivery/city_v9/reassemble.py --extract"
+  },
+  "modified_districts": [
+    3
+  ],
+  "baseline_districts": "v8, overlay v9 district 03",
+  "validation": {
+    "full_city": "PASS",
+    "districts": 18,
+    "source_buildings": 15,
+    "maximum_world_position_error_m": 0
+  }
+}

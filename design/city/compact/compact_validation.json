@@ -1,5 +1,5 @@
 {
-  "schema": "hero13.city.compact-validation.v8",
+  "schema": "hero13.city.compact-validation.v9",
   "status": "PASS",
   "area": {
     "land_m2": 5800000.0000000065,
@@ -738,9 +738,15 @@
       "samples": 75,
       "maximum_endpoint_lip_m": 0.00039032897049118276,
       "maximum_grade": 0.02531799266167381
+    },
+    {
+      "name": "MAIN_OLD_ALLEY_120_BACKLANE",
+      "samples": 114,
+      "maximum_endpoint_lip_m": 0.003732550757966635,
+      "maximum_grade": 0.0007453536252996952
     }
   ],
-  "pedestrian_link_count": 119,
+  "pedestrian_link_count": 120,
   "source_buildings": [
     {
       "name": "CBD_Modern_Glass_02",
@@ -862,6 +868,50 @@
         0.9999999905195297,
         0.9999999905195297
       ]
+    },
+    {
+      "name": "OLDTOWN_Joined_Storefront_12",
+      "height_m": 13.200000159849878,
+      "height_error_m": 1.5984987911110693e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000121098507,
+        1.0000000121098507,
+        1.0000000121098394
+      ]
+    },
+    {
+      "name": "OLDTOWN_Joined_Urban_Shopfront_13",
+      "height_m": 13.199999847449362,
+      "height_error_m": 1.5255063701147265e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999884431449,
+        0.9999999884431449,
+        0.9999999884431335
+      ]
+    },
+    {
+      "name": "OLDTOWN_Backlane_Apartment_13",
+      "height_m": 15.999999324045802,
+      "height_error_m": 6.759541975043248e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999577528627,
+        0.9999999577528627,
+        0.9999999577528627
+      ]
+    },
+    {
+      "name": "OLDTOWN_Backlane_Apartment_14",
+      "height_m": 16.399999746179674,
+      "height_error_m": 2.538203247581805e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999845231509,
+        0.9999999845231509,
+        0.9999999845231509
+      ]
     }
   ],
   "source_image_count_by_building": {
@@ -875,27 +925,31 @@
     "OLDTOWN_Connected_Shop_08": 1,
     "OLDTOWN_Connected_Shop_09": 1,
     "OLDTOWN_Corner_Shop_10": 1,
-    "OLDTOWN_Apartment_11": 1
+    "OLDTOWN_Apartment_11": 1,
+    "OLDTOWN_Joined_Storefront_12": 1,
+    "OLDTOWN_Joined_Urban_Shopfront_13": 1,
+    "OLDTOWN_Backlane_Apartment_13": 1,
+    "OLDTOWN_Backlane_Apartment_14": 1
   },
   "original_road_atlas_preserved": true,
-  "original_source_building_count": 11,
+  "original_source_building_count": 15,
   "corner_on_right": true,
   "corner_turn_degrees": 90,
   "corner_intrinsic_depth_scale": 1.45,
   "additional_canopy_present": false,
   "source_texture_bytes_preserved": true,
   "glb_external_resources": false,
-  "mesh_objects": 1384,
-  "imported_triangles": 1319820,
-  "file_size_bytes": 164198920,
+  "mesh_objects": 1395,
+  "imported_triangles": 1385415,
+  "file_size_bytes": 173082180,
   "limitations": "Geometry and metric areas verified. Game collision meshes, navigation, streaming logic and runtime FPS were not integrated or benchmarked.",
-  "placeholder_lots_verified": 2995,
+  "placeholder_lots_verified": 2977,
   "placeholder_maximum_roof_height_error_m": 7.561006839296169e-06,
   "terrain_height_range_m": [
     3.0,
     29.296363830566406
   ],
-  "pedestrian_headroom_rays": 8118,
+  "pedestrian_headroom_rays": 8232,
   "building_frontage_checks": [
     {
       "instance": "CBD_Modern_Glass_02",
@@ -912,47 +966,80 @@
     {
       "instance": "OLDTOWN_Apartment_02",
       "maximum_threshold_lip_m": 0.05114895622033444,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Apartment_03",
       "maximum_threshold_lip_m": 0.07702620895698686,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Arcade_06",
       "maximum_threshold_lip_m": 0.00842289997386203,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Arcade_07",
       "maximum_threshold_lip_m": 0.00842289997386203,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Arcade_05",
       "maximum_threshold_lip_m": 0.00842289997386203,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Shop_08",
       "maximum_threshold_lip_m": 0.00842289997386203,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Shop_09",
       "maximum_threshold_lip_m": 0.00842289997386203,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Corner_Shop_10",
       "maximum_threshold_lip_m": 0.012423086894027158,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Apartment_11",
       "maximum_threshold_lip_m": 0.02331636882145105,
-      "direct_sidewalk_frontage": true
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
+    },
+    {
+      "instance": "OLDTOWN_Joined_Storefront_12",
+      "maximum_threshold_lip_m": 0.00842289997386203,
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
+    },
+    {
+      "instance": "OLDTOWN_Joined_Urban_Shopfront_13",
+      "maximum_threshold_lip_m": 0.00842289997386203,
+      "direct_sidewalk_frontage": true,
+      "direct_alley_frontage": false
+    },
+    {
+      "instance": "OLDTOWN_Backlane_Apartment_13",
+      "maximum_threshold_lip_m": 0.00794023976712488,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Backlane_Apartment_14",
+      "maximum_threshold_lip_m": 0.006704482072553475,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
     }
   ],
   "surface_sampling_tolerance_m": 0.001,

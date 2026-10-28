@@ -1,0 +1,554 @@
+{
+  "archive": "huizhou_city_v9.zip",
+  "archive_bytes": 272537182,
+  "archive_sha256": "b9a114f1ec2cf971bd31f543784d24303e08b6d818c578e69f4240184314cc5c",
+  "part_size_bytes": 8388608,
+  "part_count": 33,
+  "parts": [
+    {
+      "file": "huizhou_city_v9.zip.part00",
+      "bytes": 8388608,
+      "sha256": "00081848bd71925e80d65131fa2b5cf7a06b358c9bf6a9a41950e55b998acace",
+      "git_blob_sha": "b3e20b0910c6b9705bc05fe38f0d5028f5dec2b0"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part01",
+      "bytes": 8388608,
+      "sha256": "685b5c0a92a9a6330310ab6948e4c46d6a71969fd476f0225e7486f3bb573c27",
+      "git_blob_sha": "5036bd9b9e10f876a9203c6cee16491cb7b83075"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part02",
+      "bytes": 8388608,
+      "sha256": "f9fb98526852f17bb30c294808619d79394f58608c6f669aefce6e231ed80fd9",
+      "git_blob_sha": "ca6c22a44f8ac6765208ad2323fd6858c6aa0e74"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part03",
+      "bytes": 8388608,
+      "sha256": "2d074d8dea44da7436b6e9f346507135bcd645d2c2fb6062acb86b126117e72a",
+      "git_blob_sha": "7d03fce3dc93a18cd3c8aba4bf1afbae890cf2e5"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part04",
+      "bytes": 8388608,
+      "sha256": "c5fbe2547aca6c4ab88af813b8d6c40cbe0d74eac4e8428047e390b472652484",
+      "git_blob_sha": "33d672ae0c32505c4862bea54abf7b3f6910d67f"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part05",
+      "bytes": 8388608,
+      "sha256": "76e2fe9db5033a5e296264c54f53a434faf514b1474e6a8af6b41518a9b29af6",
+      "git_blob_sha": "d76dfeb71555756b025b26e872c3d20462b426aa"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part06",
+      "bytes": 8388608,
+      "sha256": "f7e96217738f8a73970775895c2b3c05db85ef0eb2c04ebe9939c6e0e13467a8",
+      "git_blob_sha": "1f98c20cbf934635dd26979c9fb97d8dcff08ed9"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part07",
+      "bytes": 8388608,
+      "sha256": "3ec73193e319b93736f3d23a64f8661eaac4e0e53323c4ea9ec4ad335237fe3f",
+      "git_blob_sha": "fb79abf6fc512ca53d45459a7b3a2e4690caa6f2"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part08",
+      "bytes": 8388608,
+      "sha256": "2b2a2651bff54c0102e71d7ff2c2b1d0e1f929a11a01f5cd85bc685796cbbca7",
+      "git_blob_sha": "37c0f93101957fe3a522bac66b062f18c0fbdfb6"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part09",
+      "bytes": 8388608,
+      "sha256": "9a2c4b1249808fb08c0693b6f61b9f477d14205a5ab3a9675ab0761dbff3c60b",
+      "git_blob_sha": "5e00390f989ea210a9ba800c76e60b5d277a2604"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part10",
+      "bytes": 8388608,
+      "sha256": "52b9774c23a7c1c50fb5418d0d6461c98498918f43a23ca94b5ddfe13990dfc8",
+      "git_blob_sha": "09228858c58888079d31c6085a2c505a869ea698"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part11",
+      "bytes": 8388608,
+      "sha256": "79e0fe0f0f880750302aba7637957001c4a0ad043ed44ca4993c4e7f652dab6d",
+      "git_blob_sha": "95bba8eba8b907911d95f8300dcc7a5c1a2e6c3d"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part12",
+      "bytes": 8388608,
+      "sha256": "3f00785b016133b954ee5ff540e7d43250a3ad9e1a2cf239faafdb17e4162263",
+      "git_blob_sha": "61b1d40c3ad2827266e3c7fbad02cf0f72a5ed6b"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part13",
+      "bytes": 8388608,
+      "sha256": "8f66c83b4046f56e51ed067348dcf84daed41c0d2501aa97ef840f7d3a3984cc",
+      "git_blob_sha": "be16766b8b01358928ce4819ce2d4372b5c14878"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part14",
+      "bytes": 8388608,
+      "sha256": "0199479b9a0fa8807b08f99c567481066466d727d02188316d525bb3817945f6",
+      "git_blob_sha": "5769ba67910e02320415a4c6108644e14a943d8a"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part15",
+      "bytes": 8388608,
+      "sha256": "57067f7c5847cec9e908d99f6616a57e542bb7d7bc2bd0f21c04f4875576cc3d",
+      "git_blob_sha": "2cf48244f8f9a4930bff2d0114b362ba01a23b6f"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part16",
+      "bytes": 8388608,
+      "sha256": "ed9f4caddb7f387c61b7557c2f3a68c4fda4be12f0826af864ef65ffc32ad3d6",
+      "git_blob_sha": "ca7b89f9dbf88a916db052b44eebe30be575a29a"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part17",
+      "bytes": 8388608,
+      "sha256": "879d65462eecf6efb003a10ffef985bc17169d79ba52718837aefaa9dd59fe7d",
+      "git_blob_sha": "a051a5749ddea8bfce7b4d5ac9d807c0ea82e018"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part18",
+      "bytes": 8388608,
+      "sha256": "5c6d3cdffec9f25390092d14e74a3549244fac47613cc5728b0307779632e218",
+      "git_blob_sha": "1552b0cb9fdff2db4089fff435aa598be9a75acf"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part19",
+      "bytes": 8388608,
+      "sha256": "5613a77285a2e19c0ff60707bf6b6d1ebf5c2e689792535f82b7c66bc952b9a5",
+      "git_blob_sha": "53ad030e5e16597f033f6327435d4d5c140e9ec2"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part20",
+      "bytes": 8388608,
+      "sha256": "14147faa1d0d7571e99e888e7eda5ce0b8772a2a6aa7607b63db66e21490eab7",
+      "git_blob_sha": "bbf00a83c94ec53b207f333d79c6cf375deed063"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part21",
+      "bytes": 8388608,
+      "sha256": "ba6fb192a8c1a0f4ad5932e72efaf6ae7f66dd5e064abba7e0d901ed2f827101",
+      "git_blob_sha": "c8d39e1f1dc979cd74832ee5f23699d4d6f0de79"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part22",
+      "bytes": 8388608,
+      "sha256": "32969231239a628aa4f6a21071afd2264c60120d73a2ea16ccaa288f5851e963",
+      "git_blob_sha": "77bc5569a007ca4afa2c7ef455390c485c2186c8"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part23",
+      "bytes": 8388608,
+      "sha256": "d87bb1cfbcae0344c3785926b00c82be3a300f41e353ab68f79fb5652fb2be3e",
+      "git_blob_sha": "54376de7037c956eda879e7a8619039f964ecd5d"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part24",
+      "bytes": 8388608,
+      "sha256": "eccaac0b107092d58afd52a8f638cdb70dd390183cc8639687cf3c03b21d4a54",
+      "git_blob_sha": "db4ba6de662ef6afc5f2b9f6342525e80bbdfbef"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part25",
+      "bytes": 8388608,
+      "sha256": "6fecec48d725c7daf91e4b22de0adb63c8d118ad5cc3c47e635f91bd4d9f712b",
+      "git_blob_sha": "a837206e0c531cd6b3fd77d23d38d4e066005869"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part26",
+      "bytes": 8388608,
+      "sha256": "451d55e221f96597340e02504d7f54ee2b146ecf6469722d48660d35db537901",
+      "git_blob_sha": "255b6844f164beb9e9dc6f7ca5a189cbc67de4d2"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part27",
+      "bytes": 8388608,
+      "sha256": "1fafdc0ec569461d22159937c95bc35f83595fa255549f6d95b0ea19326b1c46",
+      "git_blob_sha": "cfa8095f6726739aa53a52e36e1aa09ceb0e85f0"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part28",
+      "bytes": 8388608,
+      "sha256": "b6263258050aa9875536e99d37e4b0a9f663d29f54f9c16ea27be8005a16d94d",
+      "git_blob_sha": "b2ba41ed691488b0e61575af2a34c9e59076100b"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part29",
+      "bytes": 8388608,
+      "sha256": "11927c41767e066a06c9b045afa5a53a35fe435884f5edf87618e37e1d5276f7",
+      "git_blob_sha": "7243d22c5933d91e26ef430727a4938a5107edc1"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part30",
+      "bytes": 8388608,
+      "sha256": "270b77d631a9cdd092ca2353b72ae67f33dd11b7c764bd16696580e5beebb83e",
+      "git_blob_sha": "9ff7e59c6e1e66b962e2236694cdec13abf95dee"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part31",
+      "bytes": 8388608,
+      "sha256": "0c849fe38b96d79948b33eb045ef7c76cedb5426490f6b2ad6d42ca5bd95f07e",
+      "git_blob_sha": "831aec8e479aa1c809d1d30f59d5cd8e91c86f0a"
+    },
+    {
+      "file": "huizhou_city_v9.zip.part32",
+      "bytes": 4101726,
+      "sha256": "267dc08fc7e587a80b31579cec1b29f9e81d53511de977701ebe1d7fb52474e9",
+      "git_blob_sha": "ccb35470d84bf29ab3def19b517024d2b49ddcab"
+    }
+  ],
+  "files": [
+    {
+      "file": "huizhou_road_network.glb",
+      "bytes": 173082180,
+      "sha256": "bfe9448fa67220ff7b2d58ae0ed77c8a0d170328d93cc01ff25d879527849b57"
+    },
+    {
+      "file": "huizhou_road_network.blend",
+      "bytes": 106626759,
+      "sha256": "02a6855743f561aa66872f10ca4a0e83481a2827932c19c0dc27396b51db5465"
+    },
+    {
+      "file": "city_plan.json",
+      "bytes": 2254444,
+      "sha256": "b79bebe8cd9b114907c3b36653b18ad27bad3b0efb4d1b46ce68957e3d24249e"
+    },
+    {
+      "file": "districts/03_main_south_east_center.glb",
+      "bytes": 68904400,
+      "sha256": "8cd8ba7d93f39242384ac4c89db8557a2e3e329e40305d7632b6e92414f4dc0b"
+    },
+    {
+      "file": "previews/01_oldtown_context.png",
+      "bytes": 3481382,
+      "sha256": "56782f0b0b4ad0475c3f7e30570093952d7b008932abf39dc89620aebd9ec536"
+    },
+    {
+      "file": "previews/02_joined_shopfronts.png",
+      "bytes": 1767755,
+      "sha256": "6cf669584d6ec57bf73099569d9f5e9e7987d16563c6440cee9b8e85e564114a"
+    },
+    {
+      "file": "previews/03_backlane_apartments.png",
+      "bytes": 2417883,
+      "sha256": "7d359d7bdf43fafb4e20c0241e765f39c00464512cd2c69d9c263bc78106e026"
+    },
+    {
+      "file": "previews/oldtown_four_cameras.json",
+      "bytes": 685,
+      "sha256": "1e6cf59806f144179913e114e43d30950d6af68b74773302dc21f095f55a0ed8"
+    },
+    {
+      "file": "source_buildings/apartment_14.glb",
+      "bytes": 1967576,
+      "sha256": "24e2de2f232f57274d31ac4d9fe73a261f94b7cc59a634610709e96e46fa1a63"
+    },
+    {
+      "file": "source_buildings/old_apartment_13.glb",
+      "bytes": 2226516,
+      "sha256": "58d904b63c64a0907184cb9fe0e97262cd86ea578529b926911b7df7dbeeeb4f"
+    },
+    {
+      "file": "source_buildings/storefront_12.glb",
+      "bytes": 2215428,
+      "sha256": "38fe4f8c6a717235b2886cd09c700140889362a28ee8899384604b4e0d75dc63"
+    },
+    {
+      "file": "source_buildings/urban_shopfront_13.glb",
+      "bytes": 2296608,
+      "sha256": "be44c539e10ca93dc68d37c3aa7e06cfb1c1f090b47c2b0166fd70c855b729fe"
+    },
+    {
+      "file": "validation/oldtown_four_build_report.json",
+      "bytes": 10312,
+      "sha256": "6167e6a4e1794e21a2201bc2cd9ac9037f44ff0c25899fb81a59be62025b8830"
+    },
+    {
+      "file": "validation/oldtown_four_full_validation.json",
+      "bytes": 29790,
+      "sha256": "7b9852ac6acbc10412f1e3f783fcb65b6bcccac7e592484c5cace5a9c4321e0a"
+    },
+    {
+      "file": "validation/oldtown_four_incremental_validation.json",
+      "bytes": 919,
+      "sha256": "ab16700f9a5cd170fc52064b81b14d6705305c707ef50aa209358873431976b7"
+    },
+    {
+      "file": "districts/districts_manifest.json",
+      "bytes": 14876,
+      "sha256": "6bf5cd7933e7e1573ae3e1f5fbfd4d3efd504382d7efd49d16c45655df97af55"
+    },
+    {
+      "file": "districts/district_index.csv",
+      "bytes": 1436,
+      "sha256": "2e1bc3cd221d004e062f4c6e59cdd6195cdb0cd57f259daae6801fe5bfa90a78"
+    },
+    {
+      "file": "districts/districts_validation.json",
+      "bytes": 5587,
+      "sha256": "dcd8084e5922e28f42d6b5b7a2857b9e7f0e552c254d289692d9f6229fb39b74"
+    },
+    {
+      "file": "districts/partition_audit.json.gz",
+      "bytes": 94067,
+      "sha256": "ecd69179528aa11b973648fc2441d11d02cdf02a3bf4c082ce9fb9ad0e910ae9"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1618,
+      "sha256": "6b74ed62c129c687cc95a67a7686e4ddd52be82c3e14191e025e23749db46bc2"
+    },
+    {
+      "file": "tools/add_oldtown_four_blender.py",
+      "bytes": 12699,
+      "sha256": "3c740af525fa331640aa9416c112c8843ba9b637aa6fe68e177ad9b584bb950b"
+    },
+    {
+      "file": "tools/align_oldtown_frontage_blender.py",
+      "bytes": 18928,
+      "sha256": "38c00929ccd3828ee28a05166c55c3da86ad3c2934e459e027d90d4dc735a904"
+    },
+    {
+      "file": "tools/build_building_lods_blender.py",
+      "bytes": 3265,
+      "sha256": "db7036177b1e8838b191dc1857bf577c9603eabec62f0e3e4a68332b1e322adf"
+    },
+    {
+      "file": "tools/build_city_blender.py",
+      "bytes": 20577,
+      "sha256": "225457443e1cffcd4a69fe27ec40cc39f3a6c57290ee4529af8669c8de0a08a0"
+    },
+    {
+      "file": "tools/build_compact_city_blender.py",
+      "bytes": 19273,
+      "sha256": "64a568fee3910a9e8e2f974334b75fd1994f2f7587cc370a4aedded9ca9538af"
+    },
+    {
+      "file": "tools/build_connected_arcades_blender.py",
+      "bytes": 12416,
+      "sha256": "95820b16441daf2ee37f90289b70935590ce0a2595b9efe057990cec1a00c6ed"
+    },
+    {
+      "file": "tools/build_oldtown_expansion_blender.py",
+      "bytes": 17482,
+      "sha256": "4b2a9e2667aa2b58c67d2a52268a1e3bc6bca44b2811b62bfae2d80fde462a29"
+    },
+    {
+      "file": "tools/build_redevelopment_blender.py",
+      "bytes": 19186,
+      "sha256": "4ee8dbeb3429c6f0837d049c51749d3a1b4598ed39caf2d4094621642e114c47"
+    },
+    {
+      "file": "tools/chunk_redevelopment_blender.py",
+      "bytes": 6543,
+      "sha256": "72d106841021e2df15ac97aae0dd3253e40425b8c0d624e279024b5dabdb8c65"
+    },
+    {
+      "file": "tools/city_surface_sampling.py",
+      "bytes": 1994,
+      "sha256": "fb74a7b01a08d4bb2939c59a6d38bbb727ee58a8c8d85b057b6b0e2074212e02"
+    },
+    {
+      "file": "tools/compact_city_math.py",
+      "bytes": 4493,
+      "sha256": "304a22e1c5c82994c03d57be0e92b0a959d48e995a3a6a0612b3d2c69596170d"
+    },
+    {
+      "file": "tools/connect_port_yards_blender.py",
+      "bytes": 19112,
+      "sha256": "9ff2aa7d04d1d1c2712c6c9951b2eef5d611d72b051f80e802ce2e93cc7e3777"
+    },
+    {
+      "file": "tools/create_city_plan.py",
+      "bytes": 33016,
+      "sha256": "ab39e559cfeda44c8adbeb76cefd80a483a2334fd5a5283c37a0867e2e87fa60"
+    },
+    {
+      "file": "tools/draw_compact_city_plan.py",
+      "bytes": 5871,
+      "sha256": "68f7b8ec3382c56b91dcea80099ba5cdf22f01b803e54b1626635699ff54e3ea"
+    },
+    {
+      "file": "tools/draw_district_map.py",
+      "bytes": 5872,
+      "sha256": "fba2f0c99dbebffe86b82af1c51b352444da0b2d353b5896c1247b37033e476a"
+    },
+    {
+      "file": "tools/export_city_districts_blender.py",
+      "bytes": 11480,
+      "sha256": "64a6a279f16832b170cf3bfa8cccf4d3b7bea370cd21d1ca7a4cf8e7c5598ae1"
+    },
+    {
+      "file": "tools/extract_road_assets_blender.py",
+      "bytes": 1557,
+      "sha256": "15e273363f708dc1a986089836ca7581be22853fe5ae8236b5bacbfa1d05ed60"
+    },
+    {
+      "file": "tools/inspect_compact_sources_blender.py",
+      "bytes": 2831,
+      "sha256": "9365e090a6649df101325a3c0218dc80086b91e53c1ff9e2703cb616190cf13b"
+    },
+    {
+      "file": "tools/optimize_city_plan.py",
+      "bytes": 28109,
+      "sha256": "93b576c6233d07e92381e0fd7afa2c450daff47651a7eb2e138b1bcc889f9492"
+    },
+    {
+      "file": "tools/package_compact_city.py",
+      "bytes": 14554,
+      "sha256": "ec9196742895263ea71dd8a737ca09537e6c713d679bf919d0f670bbacc18dea"
+    },
+    {
+      "file": "tools/place_cbd_buildings_blender.py",
+      "bytes": 13847,
+      "sha256": "133e131bfd696da89c762b475a40b0ba75b9f7c6add9e03989052a72162fc667"
+    },
+    {
+      "file": "tools/plan_compact_city.py",
+      "bytes": 20841,
+      "sha256": "6bb231adef000ecef472b5c2cd68710c7e0e2e030cff711e2c9d5f2102702831"
+    },
+    {
+      "file": "tools/plan_connected_arcades_blender.py",
+      "bytes": 10032,
+      "sha256": "dbcc54f0293424e34752bb1c1f22780faacf216c7d077e15835d90051254ad5a"
+    },
+    {
+      "file": "tools/plan_oldtown_expansion_blender.py",
+      "bytes": 13861,
+      "sha256": "287f6004a7e3f0faa366c161136679891939c52ef33840fa295c24207d459c14"
+    },
+    {
+      "file": "tools/plan_urban_update.py",
+      "bytes": 6710,
+      "sha256": "3611efceb16d9bcf136151ea96571baa0741a662cae76b92408ea91749142d6d"
+    },
+    {
+      "file": "tools/prepare_city_validation.py",
+      "bytes": 7668,
+      "sha256": "7411f70bb2a3086a2eca693297ea0149062dd660cf526b95afe44899f9d41eb4"
+    },
+    {
+      "file": "tools/prepare_compact_city_meshes.py",
+      "bytes": 11889,
+      "sha256": "b40883604a461e97e6b5e44d0f49cfe3e9e3e7c708647c5b28ed474a9e148efc"
+    },
+    {
+      "file": "tools/redevelopment_plan.py",
+      "bytes": 11149,
+      "sha256": "1e0bb73cd0f9697907fbcfdea48a4b28f3dd6a2604f9701b5c99e7312eca2fcc"
+    },
+    {
+      "file": "tools/render_aligned_frontage_blender.py",
+      "bytes": 4484,
+      "sha256": "bbb97e93997ff089f0ac17e40549394b7b3a2334913230669b43a8784dc6e4a8"
+    },
+    {
+      "file": "tools/render_cbd_buildings_blender.py",
+      "bytes": 4532,
+      "sha256": "a47bbc66bceb03115972cd75ec0eb786e32d8bbae16b4a00bab1bc9735c12dc0"
+    },
+    {
+      "file": "tools/render_city_optimized.py",
+      "bytes": 2141,
+      "sha256": "cc351a5d4808584d800adc7bcf8628a6336fde181b53752a4798f183410d2272"
+    },
+    {
+      "file": "tools/render_compact_city_blender.py",
+      "bytes": 2872,
+      "sha256": "790ca5798557b0e5ca15164192308ce8f446fa7427eadef4b7d941438f80f572"
+    },
+    {
+      "file": "tools/render_connected_arcades_blender.py",
+      "bytes": 2359,
+      "sha256": "af8a03c3382e79b8506bd207fdf7a4434cefea5176d1c0eed56148a2da12d59e"
+    },
+    {
+      "file": "tools/render_oldtown_expansion_blender.py",
+      "bytes": 2482,
+      "sha256": "d629d690aae855a59857217db3b1cfbf32079c7deb816d3077bf2fcea59261f8"
+    },
+    {
+      "file": "tools/render_oldtown_four_blender.py",
+      "bytes": 2590,
+      "sha256": "20777cfccee50dc17b30a88b59a62e7bb0fcf55f64ed720fd1c73b79b80e2a32"
+    },
+    {
+      "file": "tools/render_redevelopment_blender.py",
+      "bytes": 2446,
+      "sha256": "44517c3cec261355f4517f95e456cd559f0f09f5fa9826c10dc82dfe57b652ad"
+    },
+    {
+      "file": "tools/render_urban_update_blender.py",
+      "bytes": 2695,
+      "sha256": "57c0f439d1b357279d4a324450a4448e6a2ed46af2c7773e2ec6053efe4b28d9"
+    },
+    {
+      "file": "tools/repair_redevelopment_roads_blender.py",
+      "bytes": 18677,
+      "sha256": "76ee451beebcc79ee43e52c0411ce223fc32ee81784c5ee769fa1b6435f101ad"
+    },
+    {
+      "file": "tools/urban_update_blender.py",
+      "bytes": 19975,
+      "sha256": "4525d4467a798fd0ee731952b4cdbecd3643813ade5640d4c50304f503ae870e"
+    },
+    {
+      "file": "tools/validate_cbd_buildings_blender.py",
+      "bytes": 6976,
+      "sha256": "ec358d53e3ba652ef7c819c8e4936ca85cc7e15ca97f249d3598f8d4aeea8b6e"
+    },
+    {
+      "file": "tools/validate_city_blender.py",
+      "bytes": 7181,
+      "sha256": "95d1a4e5280fe36933a0441d6b3b5e9e34e079eb6798172da0e9c5b214d8dfa5"
+    },
+    {
+      "file": "tools/validate_city_districts_blender.py",
+      "bytes": 4287,
+      "sha256": "50fb4c9911e03e612d8d2ca4ce3ec99cfebb28a881f338ea2e839d9bcec6ce79"
+    },
+    {
+      "file": "tools/validate_compact_city_blender.py",
+      "bytes": 14269,
+      "sha256": "fc8efa1f12c6737c4b542b199e0b10fb2b6aafdbfaa7c6e062ee53f664084cc0"
+    },
+    {
+      "file": "tools/validate_connected_arcades_blender.py",
+      "bytes": 6403,
+      "sha256": "a327dab7cd014893c11bceb030b282dcc865c508611f0df2564b91b5c416eab9"
+    },
+    {
+      "file": "tools/validate_frontage_alignment_blender.py",
+      "bytes": 6992,
+      "sha256": "3f8f0866c10809e1483c42a7f662bae713955667dda3758fe611c2a5f4c90798"
+    },
+    {
+      "file": "tools/validate_oldtown_expansion_blender.py",
+      "bytes": 6122,
+      "sha256": "008f955261eba92fa2e1567a7df1f79efdceac49329a614aeb770b97231c2b67"
+    },
+    {
+      "file": "tools/validate_redevelopment_blender.py",
+      "bytes": 13305,
+      "sha256": "ab8439246297e752a464f8ed170542d5f9e6997419d97f12795457818e7876d0"
+    },
+    {
+      "file": "tools/validate_redevelopment_plan.py",
+      "bytes": 5095,
+      "sha256": "604eb9b52afcd6f9cdc750721390ce320110ac3709384869e119e4bc549ad313"
+    },
+    {
+      "file": "tools/validate_urban_update_blender.py",
+      "bytes": 11491,
+      "sha256": "df351b4ff90913bbbb9ad39a1f1486dcbd13bb1d09bb93f458b1b7219c702a3a"
+    }
+  ]
+}

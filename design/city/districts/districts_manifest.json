@@ -10,8 +10,8 @@
   ],
   "land_district_count": 16,
   "file_count": 18,
-  "source_mesh_count": 1384,
-  "source_triangle_count": 1319820,
+  "source_mesh_count": 1395,
+  "source_triangle_count": 1385415,
   "districts": [
     {
       "id": 1,
@@ -99,9 +99,9 @@
       "id": 3,
       "name": "主岛南部偏东／老城区街角",
       "file": "03_main_south_east_center.glb",
-      "file_size_bytes": 60020680,
-      "mesh_objects": 267,
-      "triangles": 302084,
+      "file_size_bytes": 68904400,
+      "mesh_objects": 278,
+      "triangles": 367679,
       "bounds_blender": [
         [
           -6.580629825592041,
@@ -127,12 +127,16 @@
         ]
       ],
       "source_building_instances": [
+        "OLDTOWN_Backlane_Apartment_13",
+        "OLDTOWN_Backlane_Apartment_14",
         "OLDTOWN_Connected_Arcade_05",
         "OLDTOWN_Connected_Arcade_06",
         "OLDTOWN_Connected_Arcade_07",
         "OLDTOWN_Connected_Shop_08",
         "OLDTOWN_Connected_Shop_09",
-        "OLDTOWN_Corner_Shop_10"
+        "OLDTOWN_Corner_Shop_10",
+        "OLDTOWN_Joined_Storefront_12",
+        "OLDTOWN_Joined_Urban_Shopfront_13"
       ],
       "root_translation": [
         0,

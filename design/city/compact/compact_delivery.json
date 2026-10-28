@@ -1,5 +1,5 @@
 {
-  "schema": "hero13.city.compact-delivery.v8",
+  "schema": "hero13.city.delivery.v9",
   "status": "validated",
   "stats": {
     "land_area_m2": 5800000.0000000065,
@@ -10,37 +10,43 @@
     "junctions": 249,
     "graph_components": 1,
     "max_grade": 0.08249091416556227,
-    "buildings": 3006,
-    "placeholder_lots": 2995,
-    "real_buildings": 11,
-    "pedestrian_alleys": 119,
+    "buildings": 2992,
+    "placeholder_lots": 2977,
+    "real_buildings": 15,
+    "pedestrian_alleys": 120,
     "interchanges": 2,
     "ramps": 6,
-    "building_coverage_percent": 22.226507248818137,
-    "oldtown_coverage_percent": 48.1099319628621,
+    "building_coverage_percent": 22.137256069760774,
+    "oldtown_coverage_percent": 47.463580132724076,
     "global_scale_applied": false
   },
   "model_glb": {
-    "bytes": 164198920,
-    "sha256": "b1deef08c579ef1b1594b09db1a33a5fe0ac95528e4a60468ae6cfa7cdcb9b2b"
+    "file": "huizhou_road_network.glb",
+    "bytes": 173082180,
+    "sha256": "bfe9448fa67220ff7b2d58ae0ed77c8a0d170328d93cc01ff25d879527849b57"
   },
-  "archives": {
-    "huizhou_city_blender_source.zip": {
-      "bytes": 246593806,
-      "sha256": "1f2c853cef0662e2dbf0ecc3615aef060b45cc74411efd2c6f42e8982fcdace1"
-    },
-    "huizhou_city_districts_part1.zip": {
-      "bytes": 205041055,
-      "sha256": "b0b15396ebbeeec2ef5921ae42acdf57e8aad35d070b83889f572371de65eff6",
-      "persistent_save": "repository_split",
-      "repository_path": "delivery/city_part1"
-    },
-    "huizhou_city_districts_part2.zip": {
-      "bytes": 213184877,
-      "sha256": "d4e709549c337d288bb335ac59b0f12379b8f81177fcce618c8e174e33baffa5",
-      "library_file_id": "libfile_57ce1917034c8191a950868eba092fba"
-    }
+  "editable_blend": {
+    "file": "huizhou_road_network.blend",
+    "bytes": 106626759,
+    "sha256": "02a6855743f561aa66872f10ca4a0e83481a2827932c19c0dc27396b51db5465"
   },
-  "district_glbs": 18,
-  "district_bytes": 493056728
+  "repository_delivery": {
+    "path": "delivery/city_v9",
+    "archive": "huizhou_city_v9.zip",
+    "bytes": 272537182,
+    "sha256": "b9a114f1ec2cf971bd31f543784d24303e08b6d818c578e69f4240184314cc5c",
+    "parts": 33,
+    "persistent_save": "github_main",
+    "reassemble": "python3 delivery/city_v9/reassemble.py --extract"
+  },
+  "modified_districts": [
+    3
+  ],
+  "baseline_districts": "v8, overlay v9 district 03",
+  "validation": {
+    "full_city": "PASS",
+    "districts": 18,
+    "source_buildings": 15,
+    "maximum_world_position_error_m": 0
+  }
 }

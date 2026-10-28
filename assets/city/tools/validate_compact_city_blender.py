@@ -44,12 +44,13 @@ layers=sorted({o.get('surface_group') for o in obs if o.get('surface_group')});f
 frontage_checks=[]
 for r in p['real_buildings']:
     theta=r['theta'];u=np.array([math.cos(theta),math.sin(theta)]);v=np.array([-u[1],u[0]]);aa=np.asarray(r['anchor']);width=r['right']-r['left'];foundation=HeightField([bpy.data.objects[r['instance_name']+'_Foundation']]);center=np.mean(np.asarray(r['pad_xy']),axis=0);fz=foundation.height(center);assert fz is not None and abs(fz-(r['floor']-.018))<.002,('foundation missing',r['instance_name'])
-    if r.get('direct_sidewalk_frontage'):
+    if r.get('direct_sidewalk_frontage') or r.get('direct_alley_frontage'):
+        entrance_walk=HeightField([bpy.data.objects[r['access_alley']]]) if r.get('direct_alley_frontage') else walk
         lip=[]
         for s in np.linspace(.02,width-.02,41):
-            xy=aa+u*s-v*.04;h=walk.height(xy);assert h is not None,('source frontage lacks sidewalk',r['instance_name'],xy.tolist());lip.append(abs(h-(r['floor']-.008)))
+            xy=aa+u*s-v*.04;h=entrance_walk.height(xy);assert h is not None,('source frontage lacks walkway',r['instance_name'],xy.tolist());lip.append(abs(h-(r['floor']-.008)))
         limit=.035 if ('Connected_' in r['instance_name'] or 'Corner_Shop_10' in r['instance_name']) else .11
-        assert max(lip)<limit,('building threshold too high',r['instance_name'],max(lip));frontage_checks.append({'instance':r['instance_name'],'maximum_threshold_lip_m':max(lip),'direct_sidewalk_frontage':True})
+        assert max(lip)<limit,('building threshold too high',r['instance_name'],max(lip));frontage_checks.append({'instance':r['instance_name'],'maximum_threshold_lip_m':max(lip),'direct_sidewalk_frontage':bool(r.get('direct_sidewalk_frontage')),'direct_alley_frontage':bool(r.get('direct_alley_frontage'))})
     else:
         field=HeightField([bpy.data.objects[r['instance_name']+'_Entrance_Plaza']]);d=r['setback_m']+.05;ss=np.linspace(0,d,31);zs=[]
         for t in ss:

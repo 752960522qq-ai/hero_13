@@ -1,0 +1,34 @@
+{
+  "status": "PASS",
+  "existing_road_and_walk_meshes_exact_geometry_uv_match": 619,
+  "existing_source_building_transforms_unchanged": 11,
+  "road_graph_unchanged": true,
+  "unchanged_district_triangle_counts_and_bounds": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "updated_district": 3,
+  "shop_pair_core_joint_overlap_m": 0.02,
+  "source_building_count": 15,
+  "new_source_inputs_sha256": {
+    "02-old-apartment-building-3d-model-13.glb": "58d904b63c64a0907184cb9fe0e97262cd86ea578529b926911b7df7dbeeeb4f",
+    "01-apartment-building-3d-model-14.glb": "24e2de2f232f57274d31ac4d9fe73a261f94b7cc59a634610709e96e46fa1a63",
+    "04-storefront-12.glb": "38fe4f8c6a717235b2886cd09c700140889362a28ee8899384604b4e0d75dc63",
+    "03-urban-shopfront-13.glb": "be44c539e10ca93dc68d37c3aa7e06cfb1c1f090b47c2b0166fd70c855b729fe"
+  }
+}
