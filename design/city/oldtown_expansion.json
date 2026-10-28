@@ -1,0 +1,666 @@
+{
+  "row": {
+    "name": "M19_Expanded_Corner_Frontage",
+    "road": "M19_Oldtown_South",
+    "junction_node": 242,
+    "front_origin": [
+      290.4454363469237,
+      327.1118972199401
+    ],
+    "u": [
+      0.9998465843984993,
+      0.01751592608612651
+    ],
+    "v": [
+      -0.01751592608612651,
+      0.9998465843984993
+    ],
+    "length_m": 127.09219569742858,
+    "local_x_range": [
+      -63.82935852059858,
+      66.45290025212638
+    ],
+    "body_max_x": 64.25290025212638,
+    "local_back_m": 12.865886805128994,
+    "pad_rectangle": [
+      [
+        226.68630019075312,
+        322.5443961777936
+      ],
+      [
+        356.9485716323836,
+        324.82641059279024
+      ],
+      [
+        356.66278376507535,
+        341.13979428633104
+      ],
+      [
+        226.40051232344487,
+        338.85777987133434
+      ]
+    ],
+    "foundation_top_m": 11.135143036969406,
+    "foundation_bottom_m": 10.252866403249874,
+    "open_walk_local_y_range": [
+      -3.4,
+      -0.8
+    ],
+    "clear_corridor_width_m": 2.6,
+    "ramps": [
+      {
+        "start_xy": [
+          231.67940253861548,
+          322.9819221127637
+        ],
+        "end_xy": [
+          231.78099490991502,
+          317.1828119232524
+        ],
+        "length_m": 5.799999999999986,
+        "width_m": 2.0,
+        "maximum_grade": 0.022659579338895317,
+        "end_max_lip_m": 0.006000000000000227,
+        "ground_floor": 10.578577306882718,
+        "name": "Oldtown_Expanded_Row_Access_00"
+      },
+      {
+        "start_xy": [
+          290.4997357177907,
+          324.01237280830475
+        ],
+        "end_xy": [
+          290.60132808909026,
+          318.21326261879346
+        ],
+        "length_m": 5.799999999999986,
+        "width_m": 2.0,
+        "maximum_grade": 0.07572781598882872,
+        "end_max_lip_m": 0.006000000000000227,
+        "ground_floor": 10.27201702478603,
+        "name": "Oldtown_Expanded_Row_Access_01"
+      },
+      {
+        "start_xy": [
+          351.243315527182,
+          325.07651611863884
+        ],
+        "end_xy": [
+          351.34490789848155,
+          319.27740592912755
+        ],
+        "length_m": 5.799999999999986,
+        "width_m": 2.0,
+        "maximum_grade": 0.03913642509326662,
+        "end_max_lip_m": 0.006000000000000227,
+        "ground_floor": 10.484307540192823,
+        "name": "Oldtown_Expanded_Row_Access_02"
+      },
+      {
+        "start_xy": [
+          356.41983006824034,
+          332.1717514160787
+        ],
+        "end_xy": [
+          366.6144877160486,
+          331.21154819379706
+        ],
+        "length_m": 10.239777086640856,
+        "width_m": 1.6,
+        "maximum_grade": 0.01641532177691881,
+        "end_max_lip_m": 0.006000000000000227,
+        "ground_floor": 10.621822045600446,
+        "name": "Oldtown_Expanded_Row_Access_03"
+      }
+    ],
+    "seams": [
+      {
+        "left": "OLDTOWN_Connected_Arcade_06",
+        "right": "OLDTOWN_Connected_Arcade_07",
+        "overlap_m": 0.03999999999999204
+      },
+      {
+        "left": "OLDTOWN_Connected_Arcade_07",
+        "right": "OLDTOWN_Connected_Arcade_05",
+        "overlap_m": 0.03999999999999915
+      },
+      {
+        "left": "OLDTOWN_Connected_Arcade_05",
+        "right": "OLDTOWN_Connected_Shop_08",
+        "overlap_m": 0.03999999999999915
+      },
+      {
+        "left": "OLDTOWN_Connected_Shop_08",
+        "right": "OLDTOWN_Connected_Shop_09",
+        "overlap_m": 0.04000000000001158
+      },
+      {
+        "left": "OLDTOWN_Connected_Shop_09",
+        "right": "OLDTOWN_Corner_Shop_10",
+        "overlap_m": 0.03999999999999915
+      }
+    ],
+    "instances": [
+      "OLDTOWN_Connected_Arcade_06",
+      "OLDTOWN_Connected_Arcade_07",
+      "OLDTOWN_Connected_Arcade_05",
+      "OLDTOWN_Connected_Shop_08",
+      "OLDTOWN_Connected_Shop_09",
+      "OLDTOWN_Corner_Shop_10"
+    ],
+    "added_canopy_present": false,
+    "added_columns_present": false,
+    "corner_instance": "OLDTOWN_Corner_Shop_10",
+    "corner_depth_scale": 1.45,
+    "corner_return_floor_width_m": 2.06,
+    "corner_depth_m": 7.097227875570839
+  },
+  "instances": [
+    {
+      "instance_name": "OLDTOWN_Connected_Arcade_06",
+      "source_filename": "old+building+facade+6.glb",
+      "file": "old+building+facade+6.glb",
+      "center": [
+        233.3140886753862,
+        330.34117615449986
+      ],
+      "target_height_m": 11.8,
+      "uniform_scale": 13.519191636656062,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "source_dimensions_m": [
+        0.9783631563186646,
+        0.705718994140625,
+        0.872833251953125
+      ],
+      "placed_dimensions_m": [
+        13.226679000515718,
+        9.540750323415265,
+        11.8
+      ],
+      "angle": 0.017516821879877027,
+      "footprint_xy": [
+        [
+          226.78532130332124,
+          325.45569407689806
+        ],
+        [
+          240.00997112492226,
+          325.687371608636
+        ],
+        [
+          239.8428560474511,
+          335.2266582321016
+        ],
+        [
+          226.61820622585012,
+          334.99498070036367
+        ]
+      ],
+      "foundation_top_m": 11.135143036969406,
+      "foundation_bottom_m": 10.252866403249874,
+      "building_base_m": 10.623870272745233,
+      "source_sha256": "9a2d3d290754ffc18c0aec3706af16525ec5fb5472ec553e83482968649edf0a",
+      "source_mesh_count": 1,
+      "district": "OLDTOWN",
+      "region": "MAIN",
+      "access_start_xy": [
+        231.67940253861548,
+        322.9819221127637
+      ],
+      "access_end_xy": [
+        231.78099490991502,
+        317.1828119232524
+      ],
+      "access_width_m": 2.0,
+      "access_length_m": 5.799999999999986,
+      "access_maximum_grade": 0.022659579338895317,
+      "connected_arcade_row": "M19_Expanded_Corner_Frontage"
+    },
+    {
+      "instance_name": "OLDTOWN_Connected_Arcade_07",
+      "source_filename": "storefront+building+7.glb",
+      "file": "storefront+building+7.glb",
+      "center": [
+        256.8700915664341,
+        331.1629537919393
+      ],
+      "target_height_m": 11.5,
+      "uniform_scale": 36.13135816673858,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "source_dimensions_m": [
+        0.9867249727249146,
+        0.2752838730812073,
+        0.3182830810546875
+      ],
+      "placed_dimensions_m": [
+        35.65171340158924,
+        9.946380215824105,
+        11.5
+      ],
+      "angle": 0.017516821879877027,
+      "footprint_xy": [
+        [
+          239.1340796605099,
+          325.878290260586
+        ],
+        [
+          274.78032353304314,
+          326.502763037372
+        ],
+        [
+          274.60610347235826,
+          336.44761732329255
+        ],
+        [
+          238.95985959982505,
+          335.82314454650657
+        ]
+      ],
+      "foundation_top_m": 11.135143036969406,
+      "foundation_bottom_m": 10.252866403249874,
+      "building_base_m": 10.801335086810335,
+      "source_sha256": "8a93d1ff3e846eecbced409a4ac7bd9d12490f3647434d9848dedd101b1a1bc6",
+      "source_mesh_count": 1,
+      "district": "OLDTOWN",
+      "region": "MAIN",
+      "access_start_xy": [
+        231.67940253861548,
+        322.9819221127637
+      ],
+      "access_end_xy": [
+        231.78099490991502,
+        317.1828119232524
+      ],
+      "access_width_m": 2.0,
+      "access_length_m": 5.799999999999986,
+      "access_maximum_grade": 0.022659579338895317,
+      "connected_arcade_row": "M19_Expanded_Corner_Frontage"
+    },
+    {
+      "instance_name": "OLDTOWN_Connected_Arcade_05",
+      "source_filename": "urban+building+facade+5.glb",
+      "file": "urban+building+facade+5.glb",
+      "center": [
+        278.59918348086023,
+        331.0768332541879
+      ],
+      "target_height_m": 11.8,
+      "uniform_scale": 12.05945794217634,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "source_dimensions_m": [
+        0.7797852754592896,
+        0.7208863496780396,
+        0.978485107421875
+      ],
+      "placed_dimensions_m": [
+        9.403787733329695,
+        8.693498615031345,
+        11.8
+      ],
+      "angle": 0.017516821879877027,
+      "footprint_xy": [
+        [
+          273.9741482976565,
+          326.64839278039847
+        ],
+        [
+          283.3764933432347,
+          326.81310883126514
+        ],
+        [
+          283.224218664064,
+          335.5052737279773
+        ],
+        [
+          273.82187361848577,
+          335.34055767711067
+        ]
+      ],
+      "foundation_top_m": 11.135143036969406,
+      "foundation_bottom_m": 10.252866403249874,
+      "building_base_m": 10.762469163330728,
+      "source_sha256": "6e0ab44dc26b0930ce435f291b9deb21f0de6bde5953a2c197e08109dcfe2346",
+      "source_mesh_count": 1,
+      "district": "OLDTOWN",
+      "region": "MAIN",
+      "access_start_xy": [
+        290.4997357177907,
+        324.01237280830475
+      ],
+      "access_end_xy": [
+        290.60132808909026,
+        318.21326261879346
+      ],
+      "access_width_m": 2.0,
+      "access_length_m": 5.799999999999986,
+      "access_maximum_grade": 0.07572781598882872,
+      "connected_arcade_row": "M19_Expanded_Corner_Frontage"
+    },
+    {
+      "instance_name": "OLDTOWN_Connected_Shop_08",
+      "source_filename": "old+urban+building+8.glb",
+      "file": "old+urban+building+8.glb",
+      "center": [
+        294.70052680558547,
+        332.8476588249555
+      ],
+      "target_height_m": 15.2,
+      "uniform_scale": 23.784613915285803,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "source_dimensions_m": [
+        0.9788208603858948,
+        0.4932709336280823,
+        0.639068603515625
+      ],
+      "placed_dimensions_m": [
+        23.280876256506374,
+        11.732258711976506,
+        15.2
+      ],
+      "angle": 0.017516821879877027,
+      "footprint_xy": [
+        [
+          283.16462519036065,
+          326.7785363708662
+        ],
+        [
+          306.44192979723266,
+          327.18632247859546
+        ],
+        [
+          306.23642842081034,
+          338.9167812790447
+        ],
+        [
+          282.95912381393833,
+          338.50899517131546
+        ]
+      ],
+      "foundation_top_m": 11.135143036969406,
+      "foundation_bottom_m": 10.252866403249874,
+      "building_base_m": 11.003393889575781,
+      "source_sha256": "77aeeed33433a7498d233d7ccd91200a7bc43f1c9e5416feab0bc9e0ed179124",
+      "source_mesh_count": 1,
+      "district": "OLDTOWN",
+      "region": "MAIN",
+      "access_start_xy": [
+        290.4997357177907,
+        324.01237280830475
+      ],
+      "access_end_xy": [
+        290.60132808909026,
+        318.21326261879346
+      ],
+      "access_width_m": 2.0,
+      "access_length_m": 5.799999999999986,
+      "access_maximum_grade": 0.07572781598882872,
+      "connected_arcade_row": "M19_Expanded_Corner_Frontage"
+    },
+    {
+      "instance_name": "OLDTOWN_Connected_Shop_09",
+      "source_filename": "city+street+building+9.glb",
+      "file": "city+street+building+9.glb",
+      "center": [
+        326.7741087813377,
+        333.7761113716346
+      ],
+      "target_height_m": 14.4,
+      "uniform_scale": 42.93923013923014,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "source_dimensions_m": [
+        0.9848939180374146,
+        0.3069000244140625,
+        0.335357666015625
+      ],
+      "placed_dimensions_m": [
+        42.29058660933661,
+        13.178050778050778,
+        14.4
+      ],
+      "angle": 0.017516821879877027,
+      "footprint_xy": [
+        [
+          305.7474723762544,
+          326.81771744730855
+        ],
+        [
+          348.0315709498085,
+          327.55847623649663
+        ],
+        [
+          347.80074518642095,
+          340.7345052959607
+        ],
+        [
+          305.51664661286685,
+          339.9937465067726
+        ]
+      ],
+      "foundation_top_m": 11.135143036969406,
+      "foundation_bottom_m": 10.252866403249874,
+      "building_base_m": 10.844082838547964,
+      "source_sha256": "1bfbbde6e6d8c562f4ffd7a7e5fd768aa2227e43003fc2d7d39e6fce3d326a0b",
+      "source_mesh_count": 1,
+      "district": "OLDTOWN",
+      "region": "MAIN",
+      "access_start_xy": [
+        351.243315527182,
+        325.07651611863884
+      ],
+      "access_end_xy": [
+        351.34490789848155,
+        319.27740592912755
+      ],
+      "access_width_m": 2.0,
+      "access_length_m": 5.799999999999986,
+      "access_maximum_grade": 0.03913642509326662,
+      "connected_arcade_row": "M19_Expanded_Corner_Frontage"
+    },
+    {
+      "instance_name": "OLDTOWN_Corner_Shop_10",
+      "source_filename": "urban+building+facade+10.glb",
+      "file": "urban+building+facade+10.glb",
+      "center": [
+        350.69656184700153,
+        331.4316252897569
+      ],
+      "target_height_m": 11.8,
+      "uniform_scale": 12.037682512997728,
+      "local_axis_scale": [
+        1.0,
+        1.45,
+        1.0
+      ],
+      "source_dimensions_m": [
+        0.6538391709327698,
+        0.4392547607421875,
+        0.980255126953125
+      ],
+      "placed_dimensions_m": [
+        7.870708354250335,
+        7.667033560598986,
+        11.8
+      ],
+      "angle": 0.017516821879877027,
+      "footprint_xy": [
+        [
+          346.8289590111782,
+          327.52976525785084
+        ],
+        [
+          354.69845987597216,
+          327.6676280036294
+        ],
+        [
+          354.56416468282487,
+          335.3334853216629
+        ],
+        [
+          346.6946638180309,
+          335.1956225758844
+        ]
+      ],
+      "foundation_top_m": 11.135143036969406,
+      "foundation_bottom_m": 10.252866403249874,
+      "building_base_m": 10.883494702890472,
+      "source_sha256": "8bea12ef144665888ff38d72215dd141aa022d9c5436bb37331c8409e8eb5a06",
+      "source_mesh_count": 1,
+      "district": "OLDTOWN",
+      "region": "MAIN",
+      "access_start_xy": [
+        351.243315527182,
+        325.07651611863884
+      ],
+      "access_end_xy": [
+        351.34490789848155,
+        319.27740592912755
+      ],
+      "access_width_m": 2.0,
+      "access_length_m": 5.799999999999986,
+      "access_maximum_grade": 0.03913642509326662,
+      "connected_arcade_row": "M19_Expanded_Corner_Frontage"
+    },
+    {
+      "instance_name": "OLDTOWN_Apartment_11",
+      "source_filename": "apartment+building+11.glb",
+      "file": "apartment+building+11.glb",
+      "center": [
+        -42.71876149314414,
+        320.98685964457786
+      ],
+      "target_height_m": 14.2,
+      "uniform_scale": 45.02449078329866,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ],
+      "source_dimensions_m": [
+        0.9849854707717896,
+        0.2750548720359802,
+        0.3153839111328125
+      ],
+      "placed_dimensions_m": [
+        44.34846925044753,
+        12.384205550885383,
+        14.2
+      ],
+      "angle": -0.033680897024565164,
+      "footprint_xy": [
+        [
+          -65.08893619727826,
+          315.5449756231533
+        ],
+        [
+          -20.765619083361933,
+          314.0515617899836
+        ],
+        [
+          -20.348586789010035,
+          326.42874366600245
+        ],
+        [
+          -64.67190390292636,
+          327.9221574991721
+        ]
+      ],
+      "foundation_top_m": 10.095993701703351,
+      "foundation_bottom_m": 9.44043111777963,
+      "building_base_m": 9.858632024769063,
+      "source_sha256": "4d95e8ee0a606775e16bf90a1ee4c42016d5614a52b05b7f747917bdeda77287",
+      "source_mesh_count": 1,
+      "district": "OLDTOWN",
+      "region": "MAIN",
+      "access_start_xy": [
+        -42.9318252429424,
+        314.6632995314746
+      ],
+      "access_end_xy": [
+        -43.22984482844181,
+        305.81831878945724
+      ],
+      "access_width_m": 3.0,
+      "access_length_m": 8.849999999999952,
+      "access_maximum_grade": 0.020813019147811702
+    }
+  ],
+  "removed_added_canopy_objects": [
+    "Oldtown_Arcade_Continuous_Canopy",
+    "Oldtown_Arcade_Canopy_Fascia",
+    "Oldtown_Arcade_Column_00",
+    "Oldtown_Arcade_Column_01",
+    "Oldtown_Arcade_Column_02",
+    "Oldtown_Arcade_Column_03",
+    "Oldtown_Arcade_Column_04",
+    "Oldtown_Arcade_Column_05",
+    "Oldtown_Arcade_Column_06",
+    "Oldtown_Arcade_Column_07",
+    "Oldtown_Arcade_Column_08",
+    "Oldtown_Arcade_Column_09",
+    "Oldtown_Arcade_Column_10",
+    "Oldtown_Arcade_Column_11",
+    "Oldtown_Arcade_Column_12",
+    "Oldtown_Arcade_Column_13",
+    "Oldtown_Arcade_Column_14",
+    "Oldtown_Arcade_Column_15",
+    "Oldtown_Arcade_Column_16",
+    "Oldtown_Arcade_Column_17"
+  ],
+  "removed_placeholders": [
+    "OLDTOWN_Arcade_Blockout_012",
+    "OLDTOWN_Housing_Blockout_029"
+  ],
+  "ground_edits": [
+    {
+      "object": "MAIN_Sculpted_Terrain_Cell_+00_+01",
+      "faces_before": 2063,
+      "faces_after": 2091,
+      "faces_cut": 27
+    },
+    {
+      "object": "MAIN_Sculpted_Terrain_Cell_+01_+01",
+      "faces_before": 1937,
+      "faces_after": 2008,
+      "faces_cut": 105
+    }
+  ],
+  "maximum_local_ground_cut_m": 0.028679190934242982,
+  "road_sidewalk_geometry_unchanged": true,
+  "protected_geometry_sha256": "619bb60d3f71e5942de21c5edc1d20597f95fccca2a1e77c68cdde29a5a9b2be",
+  "apartment_access": {
+    "start_xy": [
+      -42.9318252429424,
+      314.6632995314746
+    ],
+    "end_xy": [
+      -43.22984482844181,
+      305.81831878945724
+    ],
+    "length_m": 8.849999999999952,
+    "width_m": 3.0,
+    "maximum_grade": 0.020813019147811702,
+    "end_max_lip_m": 0.006000000000000227,
+    "ground_floor": 9.4874908165639,
+    "name": "OLDTOWN_Apartment_11_Sidewalk_Access"
+  }
+}

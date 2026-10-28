@@ -1,0 +1,208 @@
+{
+  "district_glbs_reimported": 18,
+  "land_districts": 16,
+  "shared_models": 2,
+  "source_triangle_count": 2276376,
+  "district_triangle_count": 2276376,
+  "triangle_assignment_complete": true,
+  "source_building_instances_checked": [
+    "OLDTOWN_Apartment_02",
+    "OLDTOWN_Apartment_03",
+    "OLDTOWN_Apartment_11",
+    "OLDTOWN_Connected_Arcade_05",
+    "OLDTOWN_Connected_Arcade_06",
+    "OLDTOWN_Connected_Arcade_07",
+    "OLDTOWN_Connected_Shop_08",
+    "OLDTOWN_Connected_Shop_09",
+    "OLDTOWN_Corner_Shop_10",
+    "CBD_Modern_Glass_02",
+    "CBD_Office_Building_01"
+  ],
+  "maximum_world_position_error_m": 0,
+  "texture_images_match_master": true,
+  "shared_coordinate_space": true,
+  "districts": [
+    {
+      "id": 1,
+      "file": "01_main_sw.glb",
+      "meshes": 130,
+      "triangles": 190615,
+      "vertices_checked": 474535,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 2,
+      "file": "02_main_south_west_center.glb",
+      "meshes": 244,
+      "triangles": 293238,
+      "vertices_checked": 516397,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 5,
+      "reimport_passed": true
+    },
+    {
+      "id": 3,
+      "file": "03_main_south_east_center.glb",
+      "meshes": 327,
+      "triangles": 413727,
+      "vertices_checked": 718271,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 8,
+      "reimport_passed": true
+    },
+    {
+      "id": 4,
+      "file": "04_main_se.glb",
+      "meshes": 170,
+      "triangles": 289142,
+      "vertices_checked": 673613,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 5,
+      "file": "05_main_nw.glb",
+      "meshes": 70,
+      "triangles": 58113,
+      "vertices_checked": 132894,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 6,
+      "file": "06_main_north_west_center.glb",
+      "meshes": 169,
+      "triangles": 145541,
+      "vertices_checked": 320170,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 2,
+      "reimport_passed": true
+    },
+    {
+      "id": 7,
+      "file": "07_main_north_east_center.glb",
+      "meshes": 196,
+      "triangles": 203055,
+      "vertices_checked": 325239,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 4,
+      "reimport_passed": true
+    },
+    {
+      "id": 8,
+      "file": "08_main_ne.glb",
+      "meshes": 52,
+      "triangles": 54773,
+      "vertices_checked": 125129,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 9,
+      "file": "09_west_sw.glb",
+      "meshes": 97,
+      "triangles": 82710,
+      "vertices_checked": 171246,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 10,
+      "file": "10_west_se.glb",
+      "meshes": 83,
+      "triangles": 77667,
+      "vertices_checked": 153073,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 11,
+      "file": "11_west_nw.glb",
+      "meshes": 71,
+      "triangles": 74189,
+      "vertices_checked": 159394,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 12,
+      "file": "12_west_ne.glb",
+      "meshes": 44,
+      "triangles": 27668,
+      "vertices_checked": 55984,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 13,
+      "file": "13_east_sw.glb",
+      "meshes": 72,
+      "triangles": 83647,
+      "vertices_checked": 168394,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 14,
+      "file": "14_east_se.glb",
+      "meshes": 81,
+      "triangles": 84302,
+      "vertices_checked": 166110,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 15,
+      "file": "15_east_nw.glb",
+      "meshes": 230,
+      "triangles": 75921,
+      "vertices_checked": 150405,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 16,
+      "file": "16_east_ne.glb",
+      "meshes": 114,
+      "triangles": 62027,
+      "vertices_checked": 106877,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 17,
+      "file": "17_shared_bridges.glb",
+      "meshes": 665,
+      "triangles": 59843,
+      "vertices_checked": 132983,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 1,
+      "reimport_passed": true
+    },
+    {
+      "id": 18,
+      "file": "18_shared_water.glb",
+      "meshes": 2,
+      "triangles": 198,
+      "vertices_checked": 202,
+      "maximum_world_position_error_m": 0,
+      "embedded_images_checked": 0,
+      "reimport_passed": true
+    }
+  ],
+  "validation_passed": true,
+  "limits": "Static geometry validation. Runtime loading, navigation and vehicle collisions are not configured by this export."
+}

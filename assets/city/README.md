@@ -1,14 +1,63 @@
 # 三岛城市道路网络
 
-依据城市概念图和用户提供的 Road Modular 素材，在 Blender 4.5.3 LTS 中完成。地图 4000 × 4000 米，包含北部主城、西部湖泊郊区、东南工业岛及四条跨岛道路。CBD 部署两栋用户建筑，老城区部署两栋住宅和三栋相连的沿街建筑；其余建筑及物件继续使用可替换方块。
+依据城市概念图和用户提供的 Road Modular 素材，在 Blender 4.5.3 LTS 中完成。地图 4000 × 4000 米，包含北部主城、西部湖泊郊区、东南工业岛及四条跨岛道路。CBD 部署两栋用户建筑，老城区部署三栋住宅和六栋相连的沿街建筑；其余建筑及物件继续使用可替换方块。
 
 ## 当前模型
 
 [下载 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [下载 Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal)
 
-当前版本约 85.66 公里道路，286 个路口，656 栋建筑（7 栋素材建筑、649 栋方块占位）；额外裙楼和港口设施按独立占位物计。道路高度约 3.0–81.1 米；最大中心线坡度 8.26%。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
+当前版本约 85.66 公里道路，286 个路口，658 栋建筑（11 栋素材建筑、647 栋方块占位）；额外裙楼和港口设施按独立占位物计。道路高度约 3.0–81.1 米；最大中心线坡度 8.26%。完整 GLB 为 210.16 MB（十进制）。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
 
-## 老城区连续骑楼街段
+## 本次新增建筑与开放街面
+
+移除上一阶段增加的连续遮雨顶棚、封檐及全部柱列，共 20 个对象；保留素材本身的屋顶和小型门店遮阳篷。原三栋沿街模型与本次三栋街道建筑重新拼为约 127.09 m 的连续街面，位于 M19_Oldtown_South 的 node 242 路口，拐角楼圆角朝向交叉口。新增住宅单独放在原有住宅组团附近。四份新素材均只部署一栋。
+
+| 新素材 | 整体高度 | 适配方式 |
+| --- | --- | --- |
+| old+urban+building+8.glb | 15.2 m | 等比缩放，拼接连续街面 |
+| city+street+building+9.glb | 14.4 m | 等比缩放，拼接连续街面 |
+| urban+building+facade+10.glb | 11.8 m | 拐角楼侧向深度乘 1.45，立面宽高比例保留 |
+| apartment+building+11.glb | 14.2 m | 等比缩放，独立住宅地块 |
+
+拐角楼连同原地坪的放置深度由约 5.29 m 增至 7.67 m；主体侧面深度约 7.10 m。所有建筑保留原 UV 和贴图，侧向拉伸相应改变该方向的纹理比例。街面共用开放铺装带净宽 2.6 m，转角侧面另接约 2.06 m 宽步道；三处正面入口及一处侧面入口连到原人行道，最大坡度分别约 2.27%、7.57%、3.91%、1.64%。新住宅有 3 m 宽入口步道，最大坡度约 2.08%。五处入口与既有人行道接缝约 6–8 mm，铺装使用 Road Modular 原人行道图集。
+
+本次另移除 `OLDTOWN_Arcade_Blockout_012`、`OLDTOWN_Housing_Blockout_029` 两栋占位。新街面基座范围内局部地形最多下修约 2.9 cm，城市整体坡地保留；道路及人行道几何指纹与本次修改前一致。原两栋 CBD 楼及原两栋住宅未移动。编辑分组为 `20_OLDTOWN_EXPANDED_REAL_BUILDINGS`、`21_OLDTOWN_OPEN_STREET_ADAPTATION`。
+
+`oldtown_expansion.json` 记录实例、位置、侧向比例、基座、步道、移除对象和局部地形调整。`oldtown_expansion_validation.json` 已通过完整 GLB 重导入、11 栋源建筑、1050 处地坪采样、70 条步行净空射线、转角步道及五个入口检查；`redevelopment_validation.json` 继续检查原始贴图、修复路口、港区入口和内部网格分块。新预览在工程包 `design/city/previews/oldtown_expansion/`。
+
+## 18 个独立区块模型
+
+整个城市拆成 16 个陆地区块、1 个公共桥梁及引道、1 个公共海面与湖水，共 18 个自带贴图的 GLB。全部区块 GLB 合计 270.22 MB，最大单块约 50.98 MB。区块包另附分区图、中文索引、世界坐标边界及验证报告；工程源包内只保留分区说明和数据，18 个区块 GLB 单独交付，不重复打入源包。
+
+导入时保持各文件根节点变换为单位变换：位置 `(0,0,0)`、旋转为零、缩放为一。文件已使用同一城市世界坐标，无需按区块另加偏移，也不要分别居中。公共模型 `17_shared_bridges.glb`、`18_shared_water.glb` 可常驻，其余陆地区块可独立加载；同时加载全部 18 个文件可重组完整城市。已有完整城市 GLB 与区块包内容重复，使用时选择其中一套。
+
+建筑及其基座按整体分配，路面、人行道、地形等按完整三角面分配，保留原始顶点位置、UV、颜色和法线。部分完整建筑或边界三角面跨过逻辑分界，实际边界以 `design/city/districts/districts_manifest.json` 为准；相邻区块包围盒重叠并不表示重复面。六栋连续街面均在 03 区，新住宅在 02 区，CBD 两栋素材楼在 07 区。
+
+18 个 GLB 均已独立重新导入：合计 2,276,376 个三角面，与完整场景一致；源面分配无遗漏或重复，逐区顶点世界坐标核对最大误差为 0，11 栋素材建筑均且仅出现一次，嵌入贴图字节与完整模型一致。详细结果见 `districts_validation.json` 和 `partition_audit.json.gz`。这次完成模型分区；游戏动态加载、碰撞、寻路和目标设备帧率尚未配置或测试。
+
+### 重建本次增量及重新分区
+
+新增建筑的增量脚本必须以本次修改前、含三栋骑楼和新增长雨棚的场景为输入；需要该历史阶段的 `.blend`，不能对当前成品重复运行。`city_plan_before_expansion.json.gz` 和 `chunk_report_before_expansion.json` 保存对应输入数据。Blender Python 需 Shapely 2 和 SciPy，通过 `--deps` 指定目录。
+
+```sh
+gzip -dc design/city/city_plan_before_expansion.json.gz > /tmp/city-before-expansion.json
+blender -b --factory-startup --python assets/city/tools/plan_oldtown_expansion_blender.py -- --blend /path/to/before-expansion.blend --plan /tmp/city-before-expansion.json --scheme design/city/redevelopment_plan.json.gz --models design/city/buildings --deps /path/to/blender-python-packages --out /tmp/oldtown-expansion-plan.json
+blender -b --factory-startup --python assets/city/tools/build_oldtown_expansion_blender.py -- --blend /path/to/before-expansion.blend --plan /tmp/city-before-expansion.json --sites /tmp/oldtown-expansion-plan.json --models design/city/buildings --chunk-report design/city/chunk_report_before_expansion.json --deps /path/to/blender-python-packages --out /tmp/expanded-city
+blender -b --factory-startup --python assets/city/tools/validate_oldtown_expansion_blender.py -- --glb /tmp/expanded-city/huizhou_road_network.glb --plan /tmp/expanded-city/city_plan.json --scheme design/city/redevelopment_plan.json.gz --deps /path/to/blender-python-packages --report /tmp/expanded-city/oldtown_expansion_validation.json
+blender -b --factory-startup --python assets/city/tools/render_oldtown_expansion_blender.py -- --blend /tmp/expanded-city/huizhou_road_network.blend --plan /tmp/expanded-city/city_plan.json --out /tmp/expanded-previews
+```
+
+当前成品可以直接重新导出区块。导出器临时烘焙区块对象，不会覆盖主场景；生成的 `expectations` 是验证临时数据，无需交付。
+
+```sh
+blender -b --factory-startup --python assets/city/tools/export_city_districts_blender.py -- --blend design/city/huizhou_road_network.blend --plan design/city/city_plan.json --out /tmp/city-districts --expectations /tmp/district-expectations --deps /path/to/blender-python-packages
+blender -b --factory-startup --python assets/city/tools/validate_city_districts_blender.py -- --districts /tmp/city-districts --expectations /tmp/district-expectations --master-glb /path/to/huizhou_road_network.glb --deps /path/to/blender-python-packages --report /tmp/city-districts/districts_validation.json
+python3 assets/city/tools/draw_district_map.py --plan design/city/city_plan.json --manifest /tmp/city-districts/districts_manifest.json --out /tmp/district-map
+```
+
+## 上一阶段记录：三栋连续骑楼街段
+
+本节记录上一阶段。下述新增顶棚与柱列已经在当前版本移除，三栋楼也已并入上文六栋街面；尺寸、数量和报告只描述当时的状态。
 
 三份新输入资产各部署一次，沿 M19 老城区南街拼为约 56.32 m 长的连续街面，位于原有两栋住宅的街道对面。只移除 `OLDTOWN_Housing_Blockout_032` 一栋占位楼。原四栋真实建筑、道路、人行道和地形网格保持不变。
 

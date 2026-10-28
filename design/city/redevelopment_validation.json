@@ -43,43 +43,142 @@
       "matching_original_image_bytes": [
         1
       ]
+    },
+    {
+      "source": "old+urban+building+8.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "city+street+building+9.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "urban+building+facade+10.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
+    },
+    {
+      "source": "apartment+building+11.glb",
+      "matching_original_image_bytes": [
+        1
+      ]
     }
   ],
   "real_buildings": [
     {
       "name": "CBD_Modern_Glass_02",
       "height_m": 68.0000026000198,
-      "uniform_scale_error": 1.9763839503639247e-05
+      "normalized_scale_error": 1.9763839503639247e-05,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
     },
     {
       "name": "CBD_Office_Building_01",
       "height_m": 43.99999909219332,
-      "uniform_scale_error": 8.905423243277255e-07
+      "normalized_scale_error": 8.905423243277255e-07,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
     },
     {
       "name": "OLDTOWN_Apartment_02",
       "height_m": 23.000000304775313,
-      "uniform_scale_error": 2.917297965865373e-06
+      "normalized_scale_error": 2.917297965865373e-06,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
     },
     {
       "name": "OLDTOWN_Apartment_03",
       "height_m": 23.499999440275133,
-      "uniform_scale_error": 5.936324782851443e-07
+      "normalized_scale_error": 5.936324782851443e-07,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
     },
     {
       "name": "OLDTOWN_Connected_Arcade_06",
       "height_m": 11.800000091898255,
-      "uniform_scale_error": 7.882425911986957e-08
+      "normalized_scale_error": 1.7886276815204383e-07,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
     },
     {
       "name": "OLDTOWN_Connected_Arcade_07",
       "height_m": 11.500000297150109,
-      "uniform_scale_error": 1.6673495011332307e-06
+      "normalized_scale_error": 3.794573686377589e-07,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
     },
     {
       "name": "OLDTOWN_Connected_Arcade_05",
       "height_m": 11.799999840266537,
-      "uniform_scale_error": 3.401020904902907e-07
+      "normalized_scale_error": 1.2124974801963617e-08,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "OLDTOWN_Connected_Shop_08",
+      "height_m": 15.200000413926318,
+      "normalized_scale_error": 2.092657183538904e-06,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "OLDTOWN_Connected_Shop_09",
+      "height_m": 14.400000581284985,
+      "normalized_scale_error": 4.095999770470371e-07,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "name": "OLDTOWN_Corner_Shop_10",
+      "height_m": 11.800000019866275,
+      "normalized_scale_error": 4.918910505580243e-07,
+      "local_axis_scale": [
+        1.0,
+        1.45,
+        1.0
+      ]
+    },
+    {
+      "name": "OLDTOWN_Apartment_11",
+      "height_m": 14.199999865377322,
+      "normalized_scale_error": 8.180535360224894e-09,
+      "local_axis_scale": [
+        1.0,
+        1.0,
+        1.0
+      ]
     }
   ],
   "road_surface_checks": [

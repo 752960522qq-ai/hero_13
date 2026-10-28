@@ -85,9 +85,10 @@ for r in plan['real_buildings']:
     co=np.empty(len(parts[0].data.vertices)*3,np.float32);parts[0].data.vertices.foreach_get('co',co);co=co.reshape(-1,3)
     world=np.asarray(parts[0].matrix_world,np.float64);co=co@world[:3,:3].T+world[:3,3]
     height=float(co[:,2].max()-co[:,2].min());scales=np.linalg.norm(np.asarray(inst.matrix_world)[:3,:3],axis=0)
-    error=float(scales.max()-scales.min())
+    expected_axis=np.asarray(r.get('local_axis_scale',[1,1,1]),float)
+    adjusted=scales/expected_axis;error=float(adjusted.max()-adjusted.min())
     assert abs(height-r['target_height_m'])<.002 and error<.0001
-    model_results.append({'name':inst.name,'height_m':height,'uniform_scale_error':error})
+    model_results.append({'name':inst.name,'height_m':height,'normalized_scale_error':error,'local_axis_scale':expected_axis.tolist()})
 print('MODEL_REIMPORT',json.dumps(model_results),flush=True)
 
 repairs=[]
