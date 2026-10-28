@@ -1,0 +1,190 @@
+{
+  "schema": "hero13.city.frontage-alignment.v1",
+  "frontage": [
+    {
+      "instance": "OLDTOWN_Connected_Arcade_06",
+      "anchor_xy": [
+        236.04317110679347,
+        318.40674137105344
+      ],
+      "u": [
+        0.9995642817962158,
+        0.029516885967446546
+      ],
+      "v": [
+        -0.029516885967446546,
+        0.9995642817962158
+      ],
+      "width_m": 12.932514057911,
+      "floor_m": 10.917995771017145,
+      "sidewalk_height_range_m": [
+        10.843717141501756,
+        10.96097749346313
+      ],
+      "maximum_frontage_edge_gap_m": 0.025000000000011607,
+      "nominal_setback_m": 0.025,
+      "rotation_relative_to_street_degrees": 0.0
+    },
+    {
+      "instance": "OLDTOWN_Connected_Arcade_07",
+      "anchor_xy": [
+        248.935263569516,
+        318.7875239866678
+      ],
+      "u": [
+        0.999770257547556,
+        0.02143436780718424
+      ],
+      "v": [
+        -0.02143436780718424,
+        0.999770257547556
+      ],
+      "width_m": 34.29766958357304,
+      "floor_m": 10.760044794797535,
+      "sidewalk_height_range_m": [
+        10.692408989313588,
+        10.832093137114502
+      ],
+      "maximum_frontage_edge_gap_m": 0.024999999999985107,
+      "nominal_setback_m": 0.025,
+      "rotation_relative_to_street_degrees": 0.0
+    },
+    {
+      "instance": "OLDTOWN_Connected_Arcade_05",
+      "anchor_xy": [
+        283.19020551512654,
+        319.5221139220722
+      ],
+      "u": [
+        0.9998793491466254,
+        0.015533420425681455
+      ],
+      "v": [
+        -0.015533420425681455,
+        0.9998793491466254
+      ],
+      "width_m": 9.174333218701024,
+      "floor_m": 10.711105656268284,
+      "sidewalk_height_range_m": [
+        10.691490668142716,
+        10.697158675782397
+      ],
+      "maximum_frontage_edge_gap_m": 0.02500000000000436,
+      "nominal_setback_m": 0.025,
+      "rotation_relative_to_street_degrees": 0.0
+    },
+    {
+      "instance": "OLDTOWN_Connected_Shop_08",
+      "anchor_xy": [
+        292.3285071139063,
+        319.6641141352087
+      ],
+      "u": [
+        0.9999197977259777,
+        0.012664837766031946
+      ],
+      "v": [
+        -0.012664837766031946,
+        0.9999197977259777
+      ],
+      "width_m": 23.23297165249988,
+      "floor_m": 10.74680020331234,
+      "sidewalk_height_range_m": [
+        10.69854466188727,
+        10.76902567735023
+      ],
+      "maximum_frontage_edge_gap_m": 0.024999999999985444,
+      "nominal_setback_m": 0.025,
+      "rotation_relative_to_street_degrees": 0.0
+    },
+    {
+      "instance": "OLDTOWN_Connected_Shop_09",
+      "anchor_xy": [
+        315.5246971053466,
+        319.95797592663985
+      ],
+      "u": [
+        0.9999553486744306,
+        0.009449902507325483
+      ],
+      "v": [
+        -0.009449902507325483,
+        0.9999553486744306
+      ],
+      "width_m": 41.105983824733826,
+      "floor_m": 10.875795630334961,
+      "sidewalk_height_range_m": [
+        10.77750755797287,
+        10.906961656756065
+      ],
+      "maximum_frontage_edge_gap_m": 0.025000000000071687,
+      "nominal_setback_m": 0.025,
+      "rotation_relative_to_street_degrees": 0.0
+    },
+    {
+      "instance": "OLDTOWN_Corner_Shop_10",
+      "anchor_xy": [
+        356.5938654198105,
+        320.346120878454
+      ],
+      "u": [
+        0.9999625863600213,
+        0.008650195383740374
+      ],
+      "v": [
+        -0.008650195383740374,
+        0.9999625863600213
+      ],
+      "width_m": 6.45466880375791,
+      "floor_m": 10.895906350098963,
+      "sidewalk_height_range_m": [
+        10.86985111236572,
+        10.89529684204612
+      ],
+      "maximum_frontage_edge_gap_m": 0.025000000000084587,
+      "nominal_setback_m": 0.025,
+      "rotation_relative_to_street_degrees": 90.0
+    }
+  ],
+  "corner_turn_degrees": 90,
+  "corner_position": "right",
+  "nominal_setback_m": 0.025,
+  "maximum_edge_seal_width_m": 0.025000000000084587,
+  "rightward_shift_m": 9.0,
+  "removed_walkway_and_ramp_objects": [
+    "Oldtown_Corner_Return_Floor",
+    "Oldtown_Expanded_Row_Access_00",
+    "Oldtown_Expanded_Row_Access_01",
+    "Oldtown_Expanded_Row_Access_02",
+    "Oldtown_Expanded_Row_Access_03",
+    "Oldtown_Expanded_Row_Foundation",
+    "Oldtown_Open_Row_Continuous_Floor",
+    "Oldtown_Row_Partywall_00",
+    "Oldtown_Row_Partywall_01",
+    "Oldtown_Row_Partywall_02",
+    "Oldtown_Row_Partywall_03",
+    "Oldtown_Row_Partywall_04"
+  ],
+  "restored_terrain_objects": [
+    "MAIN_Sculpted_Terrain_Cell_+00_+01",
+    "MAIN_Sculpted_Terrain_Cell_+01_+01"
+  ],
+  "ground_edits": [
+    {
+      "object": "MAIN_Sculpted_Terrain_Cell_+00_+01",
+      "faces_before": 2063,
+      "faces_after": 2096,
+      "faces_cut": 15
+    },
+    {
+      "object": "MAIN_Sculpted_Terrain_Cell_+01_+01",
+      "faces_before": 1937,
+      "faces_after": 2040,
+      "faces_cut": 94
+    }
+  ],
+  "road_sidewalk_geometry_unchanged": true,
+  "protected_geometry_sha256": "8badf6bf40d6af902f25b76b049bff7927588963f3168da02dd55aeb410c2c73",
+  "building_scales_unchanged": true,
+  "unchanged_apartment_instance": "OLDTOWN_Apartment_11"
+}

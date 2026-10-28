@@ -1,0 +1,121 @@
+[
+  {
+    "source": "MAIN_Road_Modular_Repaired",
+    "triangles_before": 94497,
+    "triangles_after": 94497,
+    "cell_count": 81,
+    "sha256": "31dc8696e28704947d80c7ec1639d66acb2e5a9c5dd9ce34637d056285e4c868"
+  },
+  {
+    "source": "EAST_Road_Modular_Repaired",
+    "triangles_before": 46225,
+    "triangles_after": 46225,
+    "cell_count": 34,
+    "sha256": "6c049ae17783d79e99e8da486687990a982b5b02fc27fed1ca1386063b1aad44"
+  },
+  {
+    "source": "WEST_Road_Modular_Repaired",
+    "triangles_before": 37109,
+    "triangles_after": 37109,
+    "cell_count": 37,
+    "sha256": "d9063c6085e9cc173a718f4882b1e5343998a033f716676d52c218b619d15216"
+  },
+  {
+    "source": "BRIDGES_Road_Modular_Repaired",
+    "triangles_before": 18132,
+    "triangles_after": 18132,
+    "cell_count": 23,
+    "sha256": "08ea7e979616eaac2a2a6a74b16c128ea8ef2e8e039f6fbbddebb2cb846305cf"
+  },
+  {
+    "source": "Continuous_Pavement_Repaired",
+    "triangles_before": 117143,
+    "triangles_after": 117143,
+    "cell_count": 159,
+    "sha256": "19b1afb4be423a6ca7edd44aa4d13f08596e6c15ee05df78ca8db89eb9e72e0a"
+  },
+  {
+    "source": "MAIN_Sidewalk_Modular_Continuous",
+    "triangles_before": 857764,
+    "triangles_after": 857764,
+    "cell_count": 164,
+    "sha256": "3c785ab45634220fe35ee7dfbaa9b8a8782efa75bb93d1a632972c5adffaaa3d"
+  },
+  {
+    "source": "EAST_Sidewalk_Modular_Continuous",
+    "triangles_before": 79642,
+    "triangles_after": 79642,
+    "cell_count": 35,
+    "sha256": "ac6247837da33d7d98082100701d5dd0743875be8d394b3013827001bd8368e2"
+  },
+  {
+    "source": "WEST_Sidewalk_Modular_Continuous",
+    "triangles_before": 69663,
+    "triangles_after": 69663,
+    "cell_count": 37,
+    "sha256": "0a6673ccde9d67b929592dfa975e3cbad07bef5787bb00fe1106a073886a123f"
+  },
+  {
+    "source": "BRIDGES_Sidewalk_Modular_Continuous",
+    "triangles_before": 16732,
+    "triangles_after": 16732,
+    "cell_count": 23,
+    "sha256": "cf634aede50c90489df2c64bdbee86f4af585babccd2bc03f6af4050fb9bf783"
+  },
+  {
+    "source": "Sidewalk_Continuous_Transition_Base",
+    "triangles_before": 249750,
+    "triangles_after": 249750,
+    "cell_count": 164,
+    "sha256": "290544748428cc0fc964d3948baa31cfc9cbe62892d8f6ec8457c1b70dd25e97"
+  },
+  {
+    "source": "MAIN_Sculpted_Terrain",
+    "triangles_before": 143414,
+    "triangles_after": 143513,
+    "cell_count": 96,
+    "sha256": "7c34635d8d7ac15237fd79074ddafbf711680c2f12bfd7fde43d22e9552ef05f"
+  },
+  {
+    "source": "EAST_Sculpted_Terrain",
+    "triangles_before": 74420,
+    "triangles_after": 74420,
+    "cell_count": 46,
+    "sha256": "27c851cebd6a7ee972613d2b630bc30b02d3ece1ba98e3730eabc6131fe622fa"
+  },
+  {
+    "source": "WEST_Sculpted_Terrain",
+    "triangles_before": 69136,
+    "triangles_after": 69136,
+    "cell_count": 48,
+    "sha256": "9b2b70af22e27cd1169b17cd05e0ab6b3fcd7b36f2f41fc29475bfb92869f392"
+  },
+  {
+    "source": "CBD_Conforming_Concrete_Paving",
+    "triangles_before": 20703,
+    "triangles_after": 20703,
+    "cell_count": 20,
+    "sha256": "6ba76137954b04572f6d392f8934815224eb97988bf3b9c3caff15383618f861"
+  },
+  {
+    "source": "Junction_Repairs_Asphalt",
+    "triangles_before": 1084,
+    "triangles_after": 1084,
+    "cell_count": 12,
+    "sha256": "104b5e158fdcb3a79f43803da04175a0edacd82c173dddd0bf942fd18199dc8b"
+  },
+  {
+    "source": "Junction_Repairs_Sidewalk_OriginalAtlas",
+    "triangles_before": 1991,
+    "triangles_after": 1991,
+    "cell_count": 12,
+    "sha256": "f71ebbcae77a6b713aedad2f14e3ba7fbdb1adb40ee060e6ffac95850f14c813"
+  },
+  {
+    "source": "Junction_Repairs_Original_Road_Kit",
+    "triangles_before": 1253,
+    "triangles_after": 1253,
+    "cell_count": 11,
+    "sha256": "0697020901f5f9f0a96b593e86727b29e84f20d51cefba6ae76eccd795bbc0ab"
+  }
+]

@@ -6,9 +6,35 @@
 
 [下载 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [下载 Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal)
 
-当前版本约 85.66 公里道路，286 个路口，658 栋建筑（11 栋素材建筑、647 栋方块占位）；额外裙楼和港口设施按独立占位物计。道路高度约 3.0–81.1 米；最大中心线坡度 8.26%。完整 GLB 为 210.16 MB（十进制）。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
+当前版本约 85.66 公里道路，286 个路口，658 栋建筑（11 栋素材建筑、647 栋方块占位）；额外裙楼和港口设施按独立占位物计。道路高度约 3.0–81.1 米；最大中心线坡度 8.26%。完整 GLB 为 210.11 MB（十进制）。GLB 为 Y 轴向上、北向 -Z；Blender 为 Z 轴向上、北向 +Y，1 单位 = 1 米。GLB 内嵌原素材贴图及地形顶点色。
 
-## 本次新增建筑与开放街面
+## 当前街面贴合与拐角朝向
+
+六栋连续街面已直接布置在原有 3 m 宽人行道外边缘，不再保留原来的草地退距、独立前置铺装带及四条连接坡道。沿街只设约 2.5 cm 的收边接缝，基座分栋适应街道标高；六栋街面总长约 127.02 m。建筑门槛与本栋沿街人行道的最大标高差约 9.83 cm，城市原有道路、人行道网格和整体坡地保留。旧基座挖空范围已先恢复原地形，再对新基座范围做局部处理。
+
+`urban+building+facade+10.glb` 仍位于面向店面时的最右端，楼体相对其他店面旋转 90°，让原模型的转角立面朝向右侧交叉口。采用旋转，没有镜像建筑或招牌；原素材深度轴乘 1.45 的适配保留。原三栋住宅及两栋 CBD 素材建筑保持位置和比例。
+
+已重新导入检查 11 栋素材建筑和 647 栋占位楼。沿街楼高 11.5–15.2 m，新住宅 14.2 m；占位楼的实际高度与规划最大误差约 0.0000153 m，未发现米、厘米换算或轴向误缩放。街道车行部分为 9 m，两侧人行道各 3 m，总宽 15 m。9 m 对双向两车道的观感偏宽，属于现有道路截面的总车行宽度；没有把它当成两条各 4.5 m 的标准净车道。现实车道宽度资料仅作尺度参照，不作为工程合规结论。
+
+`frontage_alignment.json` 保存本轮移动、朝向和地形处理；`frontage_alignment_validation.json` 保存几何检查，沿街 630 处人行道采样均命中且没有被楼体阻挡；`city_scale_audit.json`、`city_scale_audit.md` 保存尺寸核对。当前预览位于工程包 `design/city/previews/aligned_frontage/`。尺度参照图中的 1.75 m 人形和 4.5 × 1.8 × 1.5 m 汽车只用于该图，不包含在城市或区块 GLB 内。
+
+当前完整 GLB 为 210.11 MB；18 个区块合计 270.15 MB，最大单块 50.92 MB。
+
+### 重建本次街面调整
+
+需要本轮修改前的六栋街面 `.blend`（可从上一个工程版本取得）、`city_plan_before_frontage_alignment.json.gz` 和 `chunk_report_before_frontage_alignment.json`；本轮成品不能重复作为增量输入。工程包附 `frontage_terrain_restore.blend`，仅含两个调整前的原始地形网格，用来恢复旧基座位置。
+
+```sh
+gzip -dc design/city/city_plan_before_frontage_alignment.json.gz > /tmp/city-before-frontage.json
+gzip -dc design/city/oldtown_expansion_plan.json.gz > /tmp/oldtown-expansion-config.json
+blender -b --factory-startup --python assets/city/tools/align_oldtown_frontage_blender.py -- --blend /path/to/before-alignment.blend --restore-terrain design/city/frontage_terrain_restore.blend --plan /tmp/city-before-frontage.json --config /tmp/oldtown-expansion-config.json --chunk-report design/city/chunk_report_before_frontage_alignment.json --deps /path/to/blender-python-packages --out /tmp/aligned-city
+blender -b --factory-startup --python assets/city/tools/validate_frontage_alignment_blender.py -- --glb /tmp/aligned-city/huizhou_road_network.glb --plan /tmp/aligned-city/city_plan.json --deps /path/to/blender-python-packages --report /tmp/aligned-city/frontage_alignment_validation.json
+blender -b --factory-startup --python assets/city/tools/render_aligned_frontage_blender.py -- --blend /tmp/aligned-city/huizhou_road_network.blend --plan /tmp/aligned-city/city_plan.json --deps /path/to/blender-python-packages --out /tmp/aligned-previews
+```
+
+## 前一阶段记录：扩展建筑与开放铺装
+
+本节记录调整前的版本。下述前置步行带和四处街面连接坡道已在当前版本移除，当前布置见上文。
 
 移除上一阶段增加的连续遮雨顶棚、封檐及全部柱列，共 20 个对象；保留素材本身的屋顶和小型门店遮阳篷。原三栋沿街模型与本次三栋街道建筑重新拼为约 127.09 m 的连续街面，位于 M19_Oldtown_South 的 node 242 路口，拐角楼圆角朝向交叉口。新增住宅单独放在原有住宅组团附近。四份新素材均只部署一栋。
 
@@ -23,17 +49,17 @@
 
 本次另移除 `OLDTOWN_Arcade_Blockout_012`、`OLDTOWN_Housing_Blockout_029` 两栋占位。新街面基座范围内局部地形最多下修约 2.9 cm，城市整体坡地保留；道路及人行道几何指纹与本次修改前一致。原两栋 CBD 楼及原两栋住宅未移动。编辑分组为 `20_OLDTOWN_EXPANDED_REAL_BUILDINGS`、`21_OLDTOWN_OPEN_STREET_ADAPTATION`。
 
-`oldtown_expansion.json` 记录实例、位置、侧向比例、基座、步道、移除对象和局部地形调整。`oldtown_expansion_validation.json` 已通过完整 GLB 重导入、11 栋源建筑、1050 处地坪采样、70 条步行净空射线、转角步道及五个入口检查；`redevelopment_validation.json` 继续检查原始贴图、修复路口、港区入口和内部网格分块。新预览在工程包 `design/city/previews/oldtown_expansion/`。
+`oldtown_expansion.json` 记录实例、位置、侧向比例、基座、步道、移除对象和局部地形调整。`oldtown_expansion_validation_before_frontage_alignment.json` 已通过完整 GLB 重导入、11 栋源建筑、1050 处地坪采样、70 条步行净空射线、转角步道及五个入口检查；`redevelopment_validation.json` 继续检查原始贴图、修复路口、港区入口和内部网格分块。新预览在工程包 `design/city/previews/oldtown_expansion/`。
 
 ## 18 个独立区块模型
 
-整个城市拆成 16 个陆地区块、1 个公共桥梁及引道、1 个公共海面与湖水，共 18 个自带贴图的 GLB。全部区块 GLB 合计 270.22 MB，最大单块约 50.98 MB。区块包另附分区图、中文索引、世界坐标边界及验证报告；工程源包内只保留分区说明和数据，18 个区块 GLB 单独交付，不重复打入源包。
+整个城市拆成 16 个陆地区块、1 个公共桥梁及引道、1 个公共海面与湖水，共 18 个自带贴图的 GLB。全部区块 GLB 合计 270.15 MB，最大单块约 50.92 MB。区块包另附分区图、中文索引、世界坐标边界及验证报告；工程源包内只保留分区说明和数据，18 个区块 GLB 单独交付，不重复打入源包。
 
 导入时保持各文件根节点变换为单位变换：位置 `(0,0,0)`、旋转为零、缩放为一。文件已使用同一城市世界坐标，无需按区块另加偏移，也不要分别居中。公共模型 `17_shared_bridges.glb`、`18_shared_water.glb` 可常驻，其余陆地区块可独立加载；同时加载全部 18 个文件可重组完整城市。已有完整城市 GLB 与区块包内容重复，使用时选择其中一套。
 
 建筑及其基座按整体分配，路面、人行道、地形等按完整三角面分配，保留原始顶点位置、UV、颜色和法线。部分完整建筑或边界三角面跨过逻辑分界，实际边界以 `design/city/districts/districts_manifest.json` 为准；相邻区块包围盒重叠并不表示重复面。六栋连续街面均在 03 区，新住宅在 02 区，CBD 两栋素材楼在 07 区。
 
-18 个 GLB 均已独立重新导入：合计 2,276,376 个三角面，与完整场景一致；源面分配无遗漏或重复，逐区顶点世界坐标核对最大误差为 0，11 栋素材建筑均且仅出现一次，嵌入贴图字节与完整模型一致。详细结果见 `districts_validation.json` 和 `partition_audit.json.gz`。这次完成模型分区；游戏动态加载、碰撞、寻路和目标设备帧率尚未配置或测试。
+18 个 GLB 均已独立重新导入：合计 2,275,331 个三角面，与完整场景一致；源面分配无遗漏或重复，逐区顶点世界坐标核对最大误差为 0，11 栋素材建筑均且仅出现一次，嵌入贴图字节与完整模型一致。详细结果见 `districts_validation.json` 和 `partition_audit.json.gz`。这次完成模型分区；游戏动态加载、碰撞、寻路和目标设备帧率尚未配置或测试。
 
 ### 重建本次增量及重新分区
 

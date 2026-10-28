@@ -10,8 +10,8 @@
   ],
   "land_district_count": 16,
   "file_count": 18,
-  "source_mesh_count": 2538,
-  "source_triangle_count": 2276376,
+  "source_mesh_count": 2543,
+  "source_triangle_count": 2275331,
   "districts": [
     {
       "id": 1,
@@ -99,9 +99,9 @@
       "id": 3,
       "name": "主岛南部偏东／老城区街角",
       "file": "03_main_south_east_center.glb",
-      "file_size_bytes": 50982312,
-      "mesh_objects": 327,
-      "triangles": 413727,
+      "file_size_bytes": 50919660,
+      "mesh_objects": 332,
+      "triangles": 412682,
       "bounds_blender": [
         [
           -8.748000144958496,

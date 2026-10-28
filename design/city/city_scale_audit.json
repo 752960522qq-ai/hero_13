@@ -1,0 +1,194 @@
+{
+  "units": "metres; one model unit equals one metre",
+  "real_buildings_measured": [
+    {
+      "instance": "CBD_Modern_Glass_02",
+      "height_m": 68.00000190734863,
+      "source_axis_factors": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "instance": "CBD_Office_Building_01",
+      "height_m": 44.0,
+      "source_axis_factors": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Apartment_02",
+      "height_m": 22.999999046325684,
+      "source_axis_factors": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Apartment_03",
+      "height_m": 23.499998092651367,
+      "source_axis_factors": [
+        1,
+        1,
+        1
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Connected_Arcade_06",
+      "height_m": 11.799999237060547,
+      "source_axis_factors": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Connected_Arcade_07",
+      "height_m": 11.5,
+      "source_axis_factors": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Connected_Arcade_05",
+      "height_m": 11.799999237060547,
+      "source_axis_factors": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Connected_Shop_08",
+      "height_m": 15.200000762939453,
+      "source_axis_factors": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Connected_Shop_09",
+      "height_m": 14.400001525878906,
+      "source_axis_factors": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Corner_Shop_10",
+      "height_m": 11.800000190734863,
+      "source_axis_factors": [
+        1.0,
+        1.45,
+        1.0
+      ]
+    },
+    {
+      "instance": "OLDTOWN_Apartment_11",
+      "height_m": 14.199999809265137,
+      "source_axis_factors": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  ],
+  "uniform_scale_normalized_max_error": 1.9763839503639247e-05,
+  "placeholder_buildings_measured": 647,
+  "placeholder_height_max_error_m": 1.52587890625e-05,
+  "road_cross_section_width_counts": {
+    "21": 202,
+    "9": 314,
+    "6": 3
+  },
+  "street_carriageway_m": 9,
+  "street_sidewalk_each_side_m": 3,
+  "total_street_corridor_m": 15,
+  "zone_placeholder_height_ranges_m": {
+    "RESIDENTIAL": [
+      9.435965762422843,
+      25.1856291066342,
+      38.97696088130223
+    ],
+    "UNIVERSITY": [
+      9.81602319534943,
+      24.415309354867215,
+      38.62559950528357
+    ],
+    "OLDTOWN": [
+      8.031405520849034,
+      17.432808519294404,
+      27.625489517060394
+    ],
+    "CBD": [
+      42.35828454471185,
+      91.67093056593527,
+      146.80572542011558
+    ],
+    "CIVIC": [
+      23,
+      43.5956251659039,
+      73.08763024757044
+    ],
+    "CULTURE": [
+      13.397274251013375,
+      22.682481040646756,
+      38.62513886861973
+    ],
+    "VILLAGE": [
+      9.831437320129528,
+      24.27256538821171,
+      37.83623610128353
+    ],
+    "RESORT": [
+      6.271092982711137,
+      7.967645236342754,
+      15.726081559831723
+    ],
+    "FRINGE": [
+      9.646625744732972,
+      17.611245554115772,
+      37.032490532388856
+    ],
+    "INDUSTRIAL": [
+      10.126371878767463,
+      17.787136986347544,
+      24.575045787677784
+    ],
+    "LANDMARK": [
+      285,
+      285.0,
+      285
+    ]
+  },
+  "shop_and_apartment_gross_height_per_storey_m": {
+    "OLDTOWN_Connected_Arcade_06": 3.9333333333333336,
+    "OLDTOWN_Connected_Arcade_07": 3.8333333333333335,
+    "OLDTOWN_Connected_Arcade_05": 3.9333333333333336,
+    "OLDTOWN_Connected_Shop_08": 3.8,
+    "OLDTOWN_Connected_Shop_09": 3.6,
+    "OLDTOWN_Corner_Shop_10": 3.9333333333333336,
+    "OLDTOWN_Apartment_11": 3.55
+  },
+  "scale_conclusion": "No unit or axis-scale mismatch detected. The 9m local carriageway is broad for two traffic lanes; retained as the supplied road cross-section, including its centre/edge bands. It is not asserted to be two 4.5m traffic lanes.",
+  "visual_reference_only": {
+    "human_height_m": 1.75,
+    "car_size_m": [
+      4.5,
+      1.8,
+      1.5
+    ]
+  },
+  "design_reference": {
+    "url": "https://zjw.sh.gov.cn/jsgl/20240103/a8d031ed811843019396598f3b62e48c.html",
+    "context": "Official Shanghai project approval uses 3.5m standard traffic lanes and 3.25m passenger-car-only lanes. Used as scale context, not a claim of regulatory compliance."
+  }
+}

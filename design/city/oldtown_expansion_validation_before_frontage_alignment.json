@@ -1,0 +1,60 @@
+{
+  "glb_reimport_success": true,
+  "source_buildings": 11,
+  "street_models": 6,
+  "street_length_m": 127.09219569742858,
+  "added_canopy_removed": true,
+  "added_columns_removed": true,
+  "corner_depth_scale": 1.4500000316934443,
+  "corner_height_scale_relative_to_width": 1.0000000408626053,
+  "open_floor_samples": 1050,
+  "open_floor_max_height_error_m": 4.685710352711481e-08,
+  "clear_walk_width_m": 2.6,
+  "horizontal_clearance_rays": 70,
+  "walk_obstructions": 0,
+  "corner_return_floor_samples": 147,
+  "ramp_checks": [
+    {
+      "name": "Oldtown_Expanded_Row_Access_00",
+      "samples": 75,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "sidewalk_join_gap_m": 0.006443699741632614,
+      "maximum_grade": 0.022659579338895317
+    },
+    {
+      "name": "Oldtown_Expanded_Row_Access_01",
+      "samples": 75,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "sidewalk_join_gap_m": 0.007513810038336288,
+      "maximum_grade": 0.07572781598882872
+    },
+    {
+      "name": "Oldtown_Expanded_Row_Access_02",
+      "samples": 75,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "sidewalk_join_gap_m": 0.0067829389620186475,
+      "maximum_grade": 0.03913642509326662
+    },
+    {
+      "name": "Oldtown_Expanded_Row_Access_03",
+      "samples": 75,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "sidewalk_join_gap_m": 0.006164265055819129,
+      "maximum_grade": 0.01641532177691881
+    },
+    {
+      "name": "OLDTOWN_Apartment_11_Sidewalk_Access",
+      "samples": 75,
+      "missing": 0,
+      "terrain_penetrations": 0,
+      "sidewalk_join_gap_m": 0.006412115935612306,
+      "maximum_grade": 0.020813019147811702
+    }
+  ],
+  "validation_passed": true,
+  "limits": "Geometry inspection only; runtime collisions and navigation are not configured."
+}

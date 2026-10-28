@@ -2,8 +2,8 @@
   "district_glbs_reimported": 18,
   "land_districts": 16,
   "shared_models": 2,
-  "source_triangle_count": 2276376,
-  "district_triangle_count": 2276376,
+  "source_triangle_count": 2275331,
+  "district_triangle_count": 2275331,
   "triangle_assignment_complete": true,
   "source_building_instances_checked": [
     "OLDTOWN_Apartment_02",
@@ -45,9 +45,9 @@
     {
       "id": 3,
       "file": "03_main_south_east_center.glb",
-      "meshes": 327,
-      "triangles": 413727,
-      "vertices_checked": 718271,
+      "meshes": 332,
+      "triangles": 412682,
+      "vertices_checked": 716421,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 8,
       "reimport_passed": true
