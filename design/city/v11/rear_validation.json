@@ -1,0 +1,303 @@
+{
+  "backlane_placeholders_remaining": 0,
+  "rear_sites_replaced": 35,
+  "new_source_instances": 60,
+  "existing_rear_instances": 2,
+  "total_rear_source_instances": 62,
+  "city_total_buildings": 665,
+  "land_area_unchanged_m2": 3250000.0000000037,
+  "road_graph_unchanged": true,
+  "original_15_source_placements_unchanged": true,
+  "unchanged_original_road_walk_and_source_meshes_checked": 481,
+  "linked_mesh_templates": 7,
+  "new_reuse_counts": {
+    "20": 12,
+    "19": 12,
+    "18": 12,
+    "17": 12,
+    "15": 4,
+    "13": 4,
+    "14": 4
+  },
+  "status": "PASS",
+  "connected_rear_rows": 34,
+  "new_path_headroom_rays": 2811,
+  "maximum_actual_access_grade": 0.06890085879590221,
+  "maximum_terrain_penetration_m": 0.0,
+  "connections": [
+    {
+      "name": "REAR_068_Original_Extension",
+      "length_m": 1.724999999999966,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 2.703404819810612e-07,
+      "join_lip_m": 0.0010002874799823758,
+      "buildings_connected": 5
+    },
+    {
+      "name": "REAR_067_234",
+      "length_m": 23.150000000000006,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.01965219353389359,
+      "join_lip_m": 0.0009996348431968727,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_067_235",
+      "length_m": 18.649999999999977,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.012165835306847839,
+      "join_lip_m": 0.0009996348431968727,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_069_236",
+      "length_m": 23.150000000000006,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.005833052988935243,
+      "join_lip_m": 0.000999829043363043,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_069_237",
+      "length_m": 18.649999999999977,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.016218438861529093,
+      "join_lip_m": 0.000999829043363043,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_030_238",
+      "length_m": 47.0,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.06890085879590221,
+      "join_lip_m": 0.0010006425533575225,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_030_239",
+      "length_m": 29.399999999999977,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.023812959424676428,
+      "join_lip_m": 0.0010004043579101562,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_029_240",
+      "length_m": 6.4,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.019887342824884132,
+      "join_lip_m": 0.0010000812418908822,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_029_241",
+      "length_m": 1.4000000000000004,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 3.806478941571964e-15,
+      "join_lip_m": 0.0010000812418908822,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_066_242",
+      "length_m": 23.150000000000006,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.01259351607776927,
+      "join_lip_m": 0.0009997218751731651,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_066_243",
+      "length_m": 18.649999999999977,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0057673518278399455,
+      "join_lip_m": 0.0009997218751731651,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_031_244",
+      "length_m": 6.4,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.01776180401544258,
+      "join_lip_m": 0.0010004199214694864,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_031_245",
+      "length_m": 1.4000000000000004,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0,
+      "join_lip_m": 0.0009999430843112833,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_077_246",
+      "length_m": 6.399999999999993,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.020539885053108577,
+      "join_lip_m": 0.000999797640782063,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_077_247",
+      "length_m": 1.4000000000000075,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0,
+      "join_lip_m": 0.000999797640782063,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_032_248",
+      "length_m": 26.039434431808175,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.025969655019196982,
+      "join_lip_m": 0.0009999501054829274,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_032_249",
+      "length_m": 21.79322006858873,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.017510394662381776,
+      "join_lip_m": 0.000999953357069927,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_085_250",
+      "length_m": 40.88570196291119,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.01921186551389876,
+      "join_lip_m": 0.0009999968956577732,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_085_251",
+      "length_m": 3.625,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00025463790878128405,
+      "join_lip_m": 0.000999725180708566,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_085_252",
+      "length_m": 4.1749999999999545,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00022334063026674376,
+      "join_lip_m": 0.000999725180708566,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_085_253",
+      "length_m": 19.279999999999973,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.027308592905172402,
+      "join_lip_m": 0.0010001750777579588,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_085_254",
+      "length_m": 22.519999999999982,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02731623515932591,
+      "join_lip_m": 0.0010001750777579588,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_079_255",
+      "length_m": 40.88570196291119,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.03496903094620588,
+      "join_lip_m": 0.0009997536111505667,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_079_256",
+      "length_m": 3.625,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0002546379087842242,
+      "join_lip_m": 0.0009996263589915344,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_079_257",
+      "length_m": 4.1749999999999545,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0002233406302667437,
+      "join_lip_m": 0.0009996263589915344,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_079_258",
+      "length_m": 19.279999999999973,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02501024142229459,
+      "join_lip_m": 0.0010004360772697396,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_079_259",
+      "length_m": 22.519999999999982,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.025169298855184083,
+      "join_lip_m": 0.001000436077271516,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_082_260",
+      "length_m": 44.62780103254024,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.049042130500682506,
+      "join_lip_m": 0.00099994911421053,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_082_261",
+      "length_m": 3.625,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00025475939633546154,
+      "join_lip_m": 0.001000066001997979,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_082_262",
+      "length_m": 4.1749999999999545,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00022344718590929674,
+      "join_lip_m": 0.001000066001997979,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_082_263",
+      "length_m": 19.279999999999973,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.010203199772990482,
+      "join_lip_m": 0.0010001944289097509,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_082_264",
+      "length_m": 22.519999999999982,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.016125631418526458,
+      "join_lip_m": 0.001000194428910639,
+      "buildings_connected": 1
+    },
+    {
+      "name": "REAR_060_265",
+      "length_m": 13.150000000000006,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02612925335466843,
+      "join_lip_m": 0.0009996774845948408,
+      "buildings_connected": 2
+    },
+    {
+      "name": "REAR_054_266",
+      "length_m": 13.150000000000006,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.017479065725950996,
+      "join_lip_m": 0.0009996867538664134,
+      "buildings_connected": 2
+    }
+  ],
+  "existing_alley_overlap_samples": 136,
+  "maximum_existing_alley_surface_difference_m": 0.0010004509690126895
+}

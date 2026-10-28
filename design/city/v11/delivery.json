@@ -1,0 +1,83 @@
+{
+  "schema": "hero13.city.delivery.v11",
+  "status": "validated",
+  "stats": {
+    "land_area_m2": 3250000.0000000037,
+    "land_plus_bridge_play_area_m2": 3280675.0097599644,
+    "water_excluded": true,
+    "road_length_m": 42338.246985151985,
+    "road_edges": 290,
+    "junctions": 170,
+    "graph_components": 1,
+    "max_grade": 0.08250586336195523,
+    "buildings": 665,
+    "placeholder_lots": 590,
+    "real_buildings": 75,
+    "building_limit": 699,
+    "building_count_by_zone": {
+      "OLDTOWN": 305,
+      "RESIDENTIAL": 110,
+      "CBD": 60,
+      "CIVIC": 10,
+      "UNIVERSITY": 20,
+      "VILLAGE": 100,
+      "INDUSTRIAL": 60
+    },
+    "pedestrian_alleys": 39,
+    "interchanges": 2,
+    "ramps": 6,
+    "building_coverage_percent": 19.89671104685211,
+    "oldtown_coverage_percent": 39.54782569279997,
+    "global_scale_applied": false,
+    "backlane_placeholder_lots": 0,
+    "backlane_asset_instances": 62,
+    "replaced_backlane_sites": 35,
+    "added_backlane_access_links": 34
+  },
+  "rear_validation": {
+    "backlane_placeholders_remaining": 0,
+    "rear_sites_replaced": 35,
+    "new_source_instances": 60,
+    "existing_rear_instances": 2,
+    "total_rear_source_instances": 62,
+    "city_total_buildings": 665,
+    "land_area_unchanged_m2": 3250000.0000000037,
+    "road_graph_unchanged": true,
+    "original_15_source_placements_unchanged": true,
+    "unchanged_original_road_walk_and_source_meshes_checked": 481,
+    "linked_mesh_templates": 7,
+    "new_reuse_counts": {
+      "20": 12,
+      "19": 12,
+      "18": 12,
+      "17": 12,
+      "15": 4,
+      "13": 4,
+      "14": 4
+    },
+    "status": "PASS",
+    "connected_rear_rows": 34,
+    "new_path_headroom_rays": 2811,
+    "maximum_actual_access_grade": 0.06890085879590221,
+    "maximum_terrain_penetration_m": 0.0,
+    "existing_alley_overlap_samples": 136,
+    "maximum_existing_alley_surface_difference_m": 0.0010004509690126895
+  },
+  "master_glb": {
+    "file": "huizhou_road_network.glb",
+    "bytes": 162855056,
+    "sha256": "d5771e8cc3a46cee477c4eb84892805c5317834ac556a236a9768a9fa732bc5c"
+  },
+  "districts": {
+    "count": 18,
+    "triangles": 1759892,
+    "maximum_world_position_error_m": 0
+  },
+  "repository_delivery": {
+    "path": "delivery/city_v11",
+    "parts": 39,
+    "archive_bytes": 319488696,
+    "archive_sha256": "4d697acec025448f7290a6c580fcba78d87ab0efe679e2294134038afaca4dc1",
+    "reassemble": "python3 delivery/city_v11/reassemble.py --extract"
+  }
+}

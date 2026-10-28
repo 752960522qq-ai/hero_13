@@ -1,5 +1,5 @@
 {
-  "schema": "hero13.city.compact-build.v10",
+  "schema": "hero13.city.backlane-build.v11",
   "stats": {
     "land_area_m2": 3250000.0000000037,
     "land_plus_bridge_play_area_m2": 3280675.0097599644,
@@ -9,12 +9,12 @@
     "junctions": 170,
     "graph_components": 1,
     "max_grade": 0.08250586336195523,
-    "buildings": 640,
-    "placeholder_lots": 625,
-    "real_buildings": 15,
+    "buildings": 665,
+    "placeholder_lots": 590,
+    "real_buildings": 75,
     "building_limit": 699,
     "building_count_by_zone": {
-      "OLDTOWN": 280,
+      "OLDTOWN": 305,
       "RESIDENTIAL": 110,
       "CBD": 60,
       "CIVIC": 10,
@@ -27,10 +27,14 @@
     "ramps": 6,
     "building_coverage_percent": 19.89671104685211,
     "oldtown_coverage_percent": 39.54782569279997,
-    "global_scale_applied": false
+    "global_scale_applied": false,
+    "backlane_placeholder_lots": 0,
+    "backlane_asset_instances": 62,
+    "replaced_backlane_sites": 35,
+    "added_backlane_access_links": 34
   },
   "massing_batches": 69,
-  "mesh_objects": 861,
+  "mesh_objects": 1222,
   "pedestrian_walkways": [
     {
       "name": "MAIN_BACKLANE_SOURCE_HOUSES",
@@ -833,7 +837,40 @@
       "bridge": true
     }
   ],
-  "original_source_buildings": 15,
-  "building_count": 640,
-  "added_canopy": false
+  "original_source_buildings": 75,
+  "building_count": 665,
+  "added_canopy": false,
+  "rear_sites_replaced": 35,
+  "rear_instances_added": 60,
+  "rear_instances_total": 62,
+  "source_asset_types": 20,
+  "rear_asset_types": 7,
+  "reuse_counts": {
+    "20": 12,
+    "19": 12,
+    "18": 12,
+    "17": 12,
+    "15": 4,
+    "13": 4,
+    "14": 4
+  },
+  "placeholder_faces_removed": 420,
+  "terrain_triangles_cut": 371,
+  "terrain_cells_changed": [
+    "MAIN_Sculpted_Terrain_Cell_-1_0",
+    "MAIN_Sculpted_Terrain_Cell_-1_1",
+    "MAIN_Sculpted_Terrain_Cell_0_0",
+    "MAIN_Sculpted_Terrain_Cell_0_1",
+    "MAIN_Sculpted_Terrain_Cell_1_0",
+    "MAIN_Sculpted_Terrain_Cell_1_1",
+    "MAIN_Sculpted_Terrain_Cell_2_0",
+    "MAIN_Sculpted_Terrain_Cell_2_1"
+  ],
+  "closed_walkway_edge_seams": 73,
+  "rear_aprons_match_existing_alley_planes": true,
+  "uphill_terrain_cut_closures": {
+    "segments": 3511,
+    "triangles": 7022,
+    "unsampled_edge_segments": 0
+  }
 }

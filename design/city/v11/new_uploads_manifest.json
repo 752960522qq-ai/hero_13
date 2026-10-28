@@ -1,0 +1,37 @@
+[
+  {
+    "original_upload_name": "urban building facade 20.glb",
+    "file": "urban_building_facade_20.glb",
+    "key": 20,
+    "bytes": 1756376,
+    "sha256": "038e8796c6667f4b610be47e0c381691ecaba8625c30acada7de2b8bedd3d634"
+  },
+  {
+    "original_upload_name": "old italian townhouse 19.glb",
+    "file": "old_italian_townhouse_19.glb",
+    "key": 19,
+    "bytes": 1915332,
+    "sha256": "127ce06c392370336f018048851245d24437ef3ce264779945824159a6d4cdc9"
+  },
+  {
+    "original_upload_name": "apartment building 18.glb",
+    "file": "apartment_building_18.glb",
+    "key": 18,
+    "bytes": 1774376,
+    "sha256": "8ff88fa72d20145fe2ced17d6915ffbf1574a114d03a64182a85fba3eb4c24ef"
+  },
+  {
+    "original_upload_name": "old building 17.glb",
+    "file": "old_building_17.glb",
+    "key": 17,
+    "bytes": 1849080,
+    "sha256": "a213a01d97a3b2dc856b7dbd18f8b585dbed5cb325795cc88ffb477b38f26403"
+  },
+  {
+    "original_upload_name": "historic building facade 15.glb",
+    "file": "historic_building_facade_15.glb",
+    "key": 15,
+    "bytes": 5750228,
+    "sha256": "0e77902424843daaa34673b46affb4f91f624ffb8f1f024433b8d8d6f26705ac"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "schema": "hero13.city.compact-validation.v10",
+  "schema": "hero13.city.compact-validation.v11",
   "status": "PASS",
   "area": {
     "land_m2": 3250000.0000000037,
@@ -426,6 +426,666 @@
         0.9999999845231509,
         0.9999999845231509
       ]
+    },
+    {
+      "name": "OLDTOWN_Rear_00_01_Asset20",
+      "height_m": 10.800000302842818,
+      "height_error_m": 3.028428174900455e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000280410017,
+        1.0000000280410017,
+        1.0000000280410017
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_00_02_Asset19",
+      "height_m": 11.100000039150473,
+      "height_error_m": 3.9150473085669546e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000035270695,
+        1.0000000035270695,
+        1.0000000035270695
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_00_03_Asset18",
+      "height_m": 12.00000003236346,
+      "height_error_m": 3.236345946788788e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000026969549,
+        1.0000000026969549,
+        1.0000000026969549
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_00_04_Asset17",
+      "height_m": 10.599999803525861,
+      "height_error_m": 1.9647413829204652e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999814647039,
+        0.9999999814647039,
+        0.9999999814647039
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_00_05_Asset15",
+      "height_m": 10.700000075332355,
+      "height_error_m": 7.533235546475225e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000070404071,
+        1.0000000070404071,
+        1.0000000070404071
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_01_01_Asset13",
+      "height_m": 15.680000001705025,
+      "height_error_m": 1.705025454157294e-09,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998824535963,
+        0.9999998824535963,
+        1.0000000001087388
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_02_01_Asset18",
+      "height_m": 12.300000218790956,
+      "height_error_m": 2.187909569073554e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999942333265,
+        0.999999942333265,
+        1.0000000177878825
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_02_02_Asset17",
+      "height_m": 10.49400038245949,
+      "height_error_m": 3.824594898560463e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.00000003644556,
+        1.00000003644556,
+        1.0000000364455393
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_03_01_Asset19",
+      "height_m": 10.988999945082469,
+      "height_error_m": 5.491753007902389e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999097568693,
+        0.9999999097568693,
+        0.9999999950024998
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_03_02_Asset18",
+      "height_m": 12.00000003236346,
+      "height_error_m": 3.236345946788788e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999253560198,
+        0.9999999253560198,
+        1.0000000026969549
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_04_01_Asset14",
+      "height_m": 16.399999746179674,
+      "height_error_m": 2.538203247581805e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998708656149,
+        0.9999998708656149,
+        0.9999999845231509
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_05_01_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999664224951,
+        0.9999999664224951,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_05_02_Asset19",
+      "height_m": 11.377499805937987,
+      "height_error_m": 1.9406201268168388e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999829433519,
+        0.9999999829433519,
+        0.9999999829433519
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_06_01_Asset18",
+      "height_m": 12.300000218790956,
+      "height_error_m": 2.187909569073554e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000177878825,
+        1.0000000177878825,
+        1.0000000177878825
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_06_02_Asset17",
+      "height_m": 10.49400038245949,
+      "height_error_m": 3.824594898560463e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000364455393,
+        1.0000000364455393,
+        1.0000000364455393
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_07_01_Asset15",
+      "height_m": 10.592999605927616,
+      "height_error_m": 3.9407238361377495e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998760505999,
+        0.9999998760505999,
+        0.9999999627987932
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_08_01_Asset17",
+      "height_m": 10.599999803525861,
+      "height_error_m": 1.9647413829204652e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998936727453,
+        0.9999998936727453,
+        0.9999999814647039
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_08_02_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998783960777,
+        0.9999998783960777,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_09_01_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999878396126,
+        0.999999878396126,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_09_02_Asset19",
+      "height_m": 11.377499805937987,
+      "height_error_m": 1.9406201268168388e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999006085503,
+        0.9999999006085503,
+        0.9999999829433519
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_10_01_Asset13",
+      "height_m": 16.399999860597063,
+      "height_error_m": 1.3940293541736537e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998790099808,
+        0.9999998790099808,
+        0.9999999914998211
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_11_01_Asset19",
+      "height_m": 10.988999945082469,
+      "height_error_m": 5.491753007902389e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999097568693,
+        0.9999999097568693,
+        0.9999999950024998
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_11_02_Asset18",
+      "height_m": 12.00000003236346,
+      "height_error_m": 3.236345946788788e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999253560198,
+        0.9999999253560198,
+        1.0000000026969549
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_12_01_Asset17",
+      "height_m": 10.599999803525861,
+      "height_error_m": 1.9647413829204652e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998936727453,
+        0.9999998936727453,
+        0.9999999814647039
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_12_02_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998783960777,
+        0.9999998783960777,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_13_01_Asset14",
+      "height_m": 16.072000086773187,
+      "height_error_m": 8.677318774630294e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998894219991,
+        0.9999998894219991,
+        1.0000000053990286
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_14_01_Asset18",
+      "height_m": 12.300000218790956,
+      "height_error_m": 2.187909569073554e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999942333265,
+        0.999999942333265,
+        1.0000000177878825
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_14_02_Asset17",
+      "height_m": 10.49400038245949,
+      "height_error_m": 3.824594898560463e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.00000003644556,
+        1.00000003644556,
+        1.0000000364455393
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_15_01_Asset19",
+      "height_m": 10.988999945082469,
+      "height_error_m": 5.491753007902389e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999950024998,
+        0.9999999950024998,
+        0.9999999950024998
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_15_02_Asset18",
+      "height_m": 12.00000003236346,
+      "height_error_m": 3.236345946788788e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000026969549,
+        1.0000000026969549,
+        1.0000000026969549
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_16_01_Asset15",
+      "height_m": 10.700000075332355,
+      "height_error_m": 7.533235546475225e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9876869361310171,
+        1.0000000070404071,
+        1.0000000070404071
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_17_01_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999878396126,
+        0.999999878396126,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_17_02_Asset19",
+      "height_m": 11.377499805937987,
+      "height_error_m": 1.9406201268168388e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999006085503,
+        0.9999999006085503,
+        0.9999999829433519
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_18_01_Asset18",
+      "height_m": 12.300000218790956,
+      "height_error_m": 2.187909569073554e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999423333135,
+        0.9999999423333135,
+        1.0000000177878825
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_18_02_Asset17",
+      "height_m": 10.49400038245949,
+      "height_error_m": 3.824594898560463e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000364456083,
+        1.0000000364456083,
+        1.0000000364455393
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_19_01_Asset13",
+      "height_m": 15.840000585292273,
+      "height_error_m": 5.852922733140531e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999204835153,
+        0.9999999204835153,
+        1.0000000369502697
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_20_01_Asset17",
+      "height_m": 10.599999803525861,
+      "height_error_m": 1.9647413829204652e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998936727937,
+        0.9999998936727937,
+        0.9999999814647039
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_20_02_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999878396126,
+        0.999999878396126,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_21_01_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998783960777,
+        0.9999998783960777,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_21_02_Asset19",
+      "height_m": 11.377499805937987,
+      "height_error_m": 1.9406201268168388e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999006085019,
+        0.9999999006085019,
+        0.9999999829433519
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_22_01_Asset14",
+      "height_m": 16.809999786433764,
+      "height_error_m": 2.1356623491897153e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998764099346,
+        0.9999998764099346,
+        0.9999999872952865
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_23_01_Asset19",
+      "height_m": 10.988999945082469,
+      "height_error_m": 5.491753007902389e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999097568693,
+        0.9999999097568693,
+        0.9999999950024998
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_23_02_Asset18",
+      "height_m": 12.00000003236346,
+      "height_error_m": 3.236345946788788e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999253560198,
+        0.9999999253560198,
+        1.0000000026969549
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_24_01_Asset17",
+      "height_m": 10.599999803525861,
+      "height_error_m": 1.9647413829204652e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998936727453,
+        0.9999998936727453,
+        0.9999999814647039
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_24_02_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998783960777,
+        0.9999998783960777,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_25_01_Asset15",
+      "height_m": 10.48600005544722,
+      "height_error_m": 5.544722192496465e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000052878073,
+        1.0000000052878073,
+        1.0000000052877382
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_26_01_Asset18",
+      "height_m": 12.300000218790956,
+      "height_error_m": 2.187909569073554e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999942333265,
+        0.999999942333265,
+        1.0000000177878825
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_26_02_Asset17",
+      "height_m": 10.49400038245949,
+      "height_error_m": 3.824594898560463e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.00000003644556,
+        1.00000003644556,
+        1.0000000364455393
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_27_01_Asset19",
+      "height_m": 10.988999945082469,
+      "height_error_m": 5.491753007902389e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999097568693,
+        0.9999999097568693,
+        0.9999999950024998
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_27_02_Asset18",
+      "height_m": 12.00000003236346,
+      "height_error_m": 3.236345946788788e-08,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999253560198,
+        0.9999999253560198,
+        1.0000000026969549
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_28_01_Asset13",
+      "height_m": 15.999999324045802,
+      "height_error_m": 6.759541975043248e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998424508242,
+        0.9999998424508242,
+        0.9999999577528627
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_29_01_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998783960777,
+        0.9999998783960777,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_29_02_Asset19",
+      "height_m": 11.377499805937987,
+      "height_error_m": 1.9406201268168388e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999006085019,
+        0.9999999006085019,
+        0.9999999829433519
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_30_01_Asset18",
+      "height_m": 12.300000218790956,
+      "height_error_m": 2.187909569073554e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999423333135,
+        0.9999999423333135,
+        1.0000000177878825
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_30_02_Asset17",
+      "height_m": 10.49400038245949,
+      "height_error_m": 3.824594898560463e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.0000000364456083,
+        1.0000000364456083,
+        1.0000000364455393
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_31_01_Asset14",
+      "height_m": 16.236000848468393,
+      "height_error_m": 8.484683959864014e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999374528704,
+        0.9999999374528704,
+        1.0000000522584624
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_32_01_Asset17",
+      "height_m": 10.599999803525861,
+      "height_error_m": 1.9647413829204652e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998936727937,
+        0.9999998936727937,
+        0.9999999814647039
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_32_02_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999878396126,
+        0.999999878396126,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_33_01_Asset20",
+      "height_m": 10.583999644615687,
+      "height_error_m": 3.5538431220061284e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.999999878396126,
+        0.999999878396126,
+        0.9999999664224951
+      ]
+    },
+    {
+      "name": "OLDTOWN_Rear_33_02_Asset19",
+      "height_m": 11.377499805937987,
+      "height_error_m": 1.9406201268168388e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999006085503,
+        0.9999999006085503,
+        0.9999999829433519
+      ]
     }
   ],
   "source_image_count_by_building": {
@@ -443,21 +1103,81 @@
     "OLDTOWN_Joined_Storefront_12": 1,
     "OLDTOWN_Joined_Urban_Shopfront_13": 1,
     "OLDTOWN_Backlane_Apartment_13": 1,
-    "OLDTOWN_Backlane_Apartment_14": 1
+    "OLDTOWN_Backlane_Apartment_14": 1,
+    "OLDTOWN_Rear_00_01_Asset20": 1,
+    "OLDTOWN_Rear_00_02_Asset19": 1,
+    "OLDTOWN_Rear_00_03_Asset18": 1,
+    "OLDTOWN_Rear_00_04_Asset17": 1,
+    "OLDTOWN_Rear_00_05_Asset15": 1,
+    "OLDTOWN_Rear_01_01_Asset13": 1,
+    "OLDTOWN_Rear_02_01_Asset18": 1,
+    "OLDTOWN_Rear_02_02_Asset17": 1,
+    "OLDTOWN_Rear_03_01_Asset19": 1,
+    "OLDTOWN_Rear_03_02_Asset18": 1,
+    "OLDTOWN_Rear_04_01_Asset14": 1,
+    "OLDTOWN_Rear_05_01_Asset20": 1,
+    "OLDTOWN_Rear_05_02_Asset19": 1,
+    "OLDTOWN_Rear_06_01_Asset18": 1,
+    "OLDTOWN_Rear_06_02_Asset17": 1,
+    "OLDTOWN_Rear_07_01_Asset15": 1,
+    "OLDTOWN_Rear_08_01_Asset17": 1,
+    "OLDTOWN_Rear_08_02_Asset20": 1,
+    "OLDTOWN_Rear_09_01_Asset20": 1,
+    "OLDTOWN_Rear_09_02_Asset19": 1,
+    "OLDTOWN_Rear_10_01_Asset13": 1,
+    "OLDTOWN_Rear_11_01_Asset19": 1,
+    "OLDTOWN_Rear_11_02_Asset18": 1,
+    "OLDTOWN_Rear_12_01_Asset17": 1,
+    "OLDTOWN_Rear_12_02_Asset20": 1,
+    "OLDTOWN_Rear_13_01_Asset14": 1,
+    "OLDTOWN_Rear_14_01_Asset18": 1,
+    "OLDTOWN_Rear_14_02_Asset17": 1,
+    "OLDTOWN_Rear_15_01_Asset19": 1,
+    "OLDTOWN_Rear_15_02_Asset18": 1,
+    "OLDTOWN_Rear_16_01_Asset15": 1,
+    "OLDTOWN_Rear_17_01_Asset20": 1,
+    "OLDTOWN_Rear_17_02_Asset19": 1,
+    "OLDTOWN_Rear_18_01_Asset18": 1,
+    "OLDTOWN_Rear_18_02_Asset17": 1,
+    "OLDTOWN_Rear_19_01_Asset13": 1,
+    "OLDTOWN_Rear_20_01_Asset17": 1,
+    "OLDTOWN_Rear_20_02_Asset20": 1,
+    "OLDTOWN_Rear_21_01_Asset20": 1,
+    "OLDTOWN_Rear_21_02_Asset19": 1,
+    "OLDTOWN_Rear_22_01_Asset14": 1,
+    "OLDTOWN_Rear_23_01_Asset19": 1,
+    "OLDTOWN_Rear_23_02_Asset18": 1,
+    "OLDTOWN_Rear_24_01_Asset17": 1,
+    "OLDTOWN_Rear_24_02_Asset20": 1,
+    "OLDTOWN_Rear_25_01_Asset15": 1,
+    "OLDTOWN_Rear_26_01_Asset18": 1,
+    "OLDTOWN_Rear_26_02_Asset17": 1,
+    "OLDTOWN_Rear_27_01_Asset19": 1,
+    "OLDTOWN_Rear_27_02_Asset18": 1,
+    "OLDTOWN_Rear_28_01_Asset13": 1,
+    "OLDTOWN_Rear_29_01_Asset20": 1,
+    "OLDTOWN_Rear_29_02_Asset19": 1,
+    "OLDTOWN_Rear_30_01_Asset18": 1,
+    "OLDTOWN_Rear_30_02_Asset17": 1,
+    "OLDTOWN_Rear_31_01_Asset14": 1,
+    "OLDTOWN_Rear_32_01_Asset17": 1,
+    "OLDTOWN_Rear_32_02_Asset20": 1,
+    "OLDTOWN_Rear_33_01_Asset20": 1,
+    "OLDTOWN_Rear_33_02_Asset19": 1
   },
   "original_road_atlas_preserved": true,
-  "original_source_building_count": 15,
+  "original_source_building_count": 75,
   "corner_on_right": true,
   "corner_turn_degrees": 90,
   "corner_intrinsic_depth_scale": 1.45,
   "additional_canopy_present": false,
   "source_texture_bytes_preserved": true,
   "glb_external_resources": false,
-  "mesh_objects": 861,
-  "imported_triangles": 1023128,
-  "file_size_bytes": 142730080,
+  "mesh_objects": 1222,
+  "imported_triangles": 1759892,
+  "file_size_bytes": 162855056,
   "limitations": "Geometry and metric areas verified. Game collision meshes, navigation, streaming logic and runtime FPS were not integrated or benchmarked.",
-  "placeholder_lots_verified": 625,
+  "placeholder_lots_verified": 590,
   "placeholder_maximum_roof_height_error_m": 3.7999044195657916e-06,
   "terrain_height_range_m": [
     3.0,
@@ -554,8 +1274,372 @@
       "maximum_threshold_lip_m": 0.006038113373840304,
       "direct_sidewalk_frontage": false,
       "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_00_01_Asset20",
+      "maximum_threshold_lip_m": 0.03529722577461136,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_00_02_Asset19",
+      "maximum_threshold_lip_m": 0.031209668370681953,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_00_03_Asset18",
+      "maximum_threshold_lip_m": 0.026760858594789383,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_00_04_Asset17",
+      "maximum_threshold_lip_m": 0.020595780668362096,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_00_05_Asset15",
+      "maximum_threshold_lip_m": 0.016602230097442217,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_01_01_Asset13",
+      "maximum_threshold_lip_m": 0.019999729625416407,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_02_01_Asset18",
+      "maximum_threshold_lip_m": 0.020000244084267038,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_02_02_Asset17",
+      "maximum_threshold_lip_m": 0.020000244084265262,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_03_01_Asset19",
+      "maximum_threshold_lip_m": 0.020000121360063794,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_03_02_Asset18",
+      "maximum_threshold_lip_m": 0.020000121360063794,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_04_01_Asset14",
+      "maximum_threshold_lip_m": 0.02000015042106984,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_05_01_Asset20",
+      "maximum_threshold_lip_m": 0.020000047683719657,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_05_02_Asset19",
+      "maximum_threshold_lip_m": 0.020000047683719657,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_06_01_Asset18",
+      "maximum_threshold_lip_m": 0.01999958038330263,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_06_02_Asset17",
+      "maximum_threshold_lip_m": 0.01999958038330263,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_07_01_Asset15",
+      "maximum_threshold_lip_m": 0.019999979793269063,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_08_01_Asset17",
+      "maximum_threshold_lip_m": 0.019780888241045957,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_08_02_Asset20",
+      "maximum_threshold_lip_m": 0.021734148862062597,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_09_01_Asset20",
+      "maximum_threshold_lip_m": 0.019999738851332438,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_09_02_Asset19",
+      "maximum_threshold_lip_m": 0.019999738851332438,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_10_01_Asset13",
+      "maximum_threshold_lip_m": 0.02000008592116309,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_11_01_Asset19",
+      "maximum_threshold_lip_m": 0.020000327759197134,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_11_02_Asset18",
+      "maximum_threshold_lip_m": 0.020000327759197134,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_12_01_Asset17",
+      "maximum_threshold_lip_m": 0.019689849513950364,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_12_02_Asset20",
+      "maximum_threshold_lip_m": 0.022546672347532493,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_13_01_Asset14",
+      "maximum_threshold_lip_m": 0.020000263394379658,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_14_01_Asset18",
+      "maximum_threshold_lip_m": 0.020472473602239916,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_14_02_Asset17",
+      "maximum_threshold_lip_m": 0.022812265327239345,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_15_01_Asset19",
+      "maximum_threshold_lip_m": 0.020000192136673256,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_15_02_Asset18",
+      "maximum_threshold_lip_m": 0.020000192136674144,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_16_01_Asset15",
+      "maximum_threshold_lip_m": 0.01999978274324654,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_17_01_Asset20",
+      "maximum_threshold_lip_m": 0.02000026952475764,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_17_02_Asset19",
+      "maximum_threshold_lip_m": 0.02000026952475764,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_18_01_Asset18",
+      "maximum_threshold_lip_m": 0.023279601242348846,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_18_02_Asset17",
+      "maximum_threshold_lip_m": 0.01924816049643141,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_19_01_Asset13",
+      "maximum_threshold_lip_m": 0.01999972550288831,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_20_01_Asset17",
+      "maximum_threshold_lip_m": 0.020000069062868775,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_20_02_Asset20",
+      "maximum_threshold_lip_m": 0.020000069062868775,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_21_01_Asset20",
+      "maximum_threshold_lip_m": 0.019999740998905224,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_21_02_Asset19",
+      "maximum_threshold_lip_m": 0.019999740998905224,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_22_01_Asset14",
+      "maximum_threshold_lip_m": 0.019999773313179148,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_23_01_Asset19",
+      "maximum_threshold_lip_m": 0.021509104740268015,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_23_02_Asset18",
+      "maximum_threshold_lip_m": 0.0203223036860809,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_24_01_Asset17",
+      "maximum_threshold_lip_m": 0.019999824324605342,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_24_02_Asset20",
+      "maximum_threshold_lip_m": 0.019999824324605342,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_25_01_Asset15",
+      "maximum_threshold_lip_m": 0.019999808063356994,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_26_01_Asset18",
+      "maximum_threshold_lip_m": 0.02000043367370985,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_26_02_Asset17",
+      "maximum_threshold_lip_m": 0.02000043367370985,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_27_01_Asset19",
+      "maximum_threshold_lip_m": 0.019999888680761302,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_27_02_Asset18",
+      "maximum_threshold_lip_m": 0.019999888680761302,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_28_01_Asset13",
+      "maximum_threshold_lip_m": 0.023477845962712962,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_29_01_Asset20",
+      "maximum_threshold_lip_m": 0.019999861518754436,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_29_02_Asset19",
+      "maximum_threshold_lip_m": 0.019999861518755324,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_30_01_Asset18",
+      "maximum_threshold_lip_m": 0.01999982812899237,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_30_02_Asset17",
+      "maximum_threshold_lip_m": 0.01999982812899237,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_31_01_Asset14",
+      "maximum_threshold_lip_m": 0.02000000276673397,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_32_01_Asset17",
+      "maximum_threshold_lip_m": 0.020000307256617944,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_32_02_Asset20",
+      "maximum_threshold_lip_m": 0.020000307256617944,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_33_01_Asset20",
+      "maximum_threshold_lip_m": 0.01999978622893117,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "OLDTOWN_Rear_33_02_Asset19",
+      "maximum_threshold_lip_m": 0.019999786228929395,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
     }
   ],
   "surface_sampling_tolerance_m": 0.001,
-  "traffic_lane_barrier_rays": 42154
+  "traffic_lane_barrier_rays": 42154,
+  "retained_original_source_instances": 15,
+  "new_reused_source_instances": 60,
+  "source_asset_types": 20,
+  "rear_source_instances": 62
 }

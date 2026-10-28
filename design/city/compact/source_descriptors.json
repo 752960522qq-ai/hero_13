@@ -37,87 +37,88 @@
       ]
     ],
     "anchor": [
-      -381.975,
-      1190
+      -165.475,
+      800
     ],
     "theta": -1.5707963267948966,
     "setback_m": 18.0,
     "center": [
-      -374.5042192613371,
-      1170.081095016168
+      -158.00421926133706,
+      780.081095016168
     ],
     "region": "MAIN",
     "footprint_xy": [
       [
-        -386.10406342527665,
-        1190.0
+        -169.6040634252766,
+        800.0
       ],
       [
-        -386.10406342527665,
-        1150.162190032336
+        -169.6040634252766,
+        760.162190032336
       ],
       [
-        -362.9043750973976,
-        1150.162190032336
+        -146.40437509739752,
+        760.162190032336
       ],
       [
-        -362.9043750973976,
-        1190.0
+        -146.40437509739752,
+        800.0
       ]
     ],
     "pad_xy": [
       [
-        -386.23406342527664,
-        1190.13
+        -169.7340634252766,
+        800.13
       ],
       [
-        -362.7743750973976,
-        1190.13
+        -146.27437509739752,
+        800.13
       ],
       [
-        -362.7743750973976,
-        1150.0321900323358
+        -146.27437509739752,
+        760.032190032336
       ],
       [
-        -386.23406342527664,
-        1150.0321900323358
+        -169.7340634252766,
+        760.032190032336
       ],
       [
-        -386.23406342527664,
-        1190.13
+        -169.7340634252766,
+        800.13
       ]
     ],
-    "floor": 18.741698973200315,
-    "foundation_bottom_m": 17.837378548282743,
+    "floor": 18.88230629907738,
+    "foundation_bottom_m": 18.477825224521684,
     "source_filename": "modern_glass_2.glb",
     "angle": -1.5707963267948966,
     "direct_sidewalk_frontage": false,
     "access_start_xy": [
-      -381.975,
-      1170.081095016168
+      -165.475,
+      780.081095016168
     ],
     "access_end_xy": [
-      -400.02500000000003,
-      1170.081095016168
+      -183.525,
+      780.081095016168
     ],
     "plaza_xy": [
       [
-        -381.975,
-        1190.0
+        -165.475,
+        800.0
       ],
       [
-        -381.975,
-        1150.162190032336
+        -165.475,
+        760.162190032336
       ],
       [
-        -400.02500000000003,
-        1150.162190032336
+        -183.525,
+        760.162190032336
       ],
       [
-        -400.02500000000003,
-        1190.0
+        -183.525,
+        800.0
       ]
-    ]
+    ],
+    "building_count_units": 1
   },
   {
     "instance_name": "CBD_Office_Building_01",
@@ -157,87 +158,88 @@
       ]
     ],
     "anchor": [
-      -381.975,
-      1115
+      -165.475,
+      725
     ],
     "theta": -1.5707963267948966,
     "setback_m": 18.0,
     "center": [
-      -369.27889416342424,
-      1096.0659584143968
+      -152.77889416342413,
+      706.0659584143968
     ],
     "region": "MAIN",
     "footprint_xy": [
       [
-        -388.4423520914397,
-        1115.0
+        -171.9423520914397,
+        725.0
       ],
       [
-        -388.4423520914397,
-        1077.1319168287937
+        -171.9423520914397,
+        687.1319168287938
       ],
       [
-        -350.1154362354086,
-        1077.1319168287937
+        -133.61543623540854,
+        687.1319168287938
       ],
       [
-        -350.1154362354086,
-        1115.0
+        -133.61543623540854,
+        725.0
       ]
     ],
     "pad_xy": [
       [
-        -388.5723520914397,
-        1115.13
+        -172.07235209143968,
+        725.13
       ],
       [
-        -349.9854362354086,
-        1115.13
+        -133.48543623540854,
+        725.13
       ],
       [
-        -349.9854362354086,
-        1077.0019168287936
+        -133.48543623540854,
+        687.0019168287938
       ],
       [
-        -388.5723520914397,
-        1077.0019168287936
+        -172.07235209143968,
+        687.0019168287938
       ],
       [
-        -388.5723520914397,
-        1115.13
+        -172.07235209143968,
+        725.13
       ]
     ],
-    "floor": 21.407851611580764,
-    "foundation_bottom_m": 21.018439844624762,
+    "floor": 20.730511217517336,
+    "foundation_bottom_m": 20.128516672980698,
     "source_filename": "office_building_1.glb",
     "angle": -1.5707963267948966,
     "direct_sidewalk_frontage": false,
     "access_start_xy": [
-      -381.975,
-      1096.0659584143968
+      -165.475,
+      706.0659584143968
     ],
     "access_end_xy": [
-      -400.02500000000003,
-      1096.0659584143968
+      -183.525,
+      706.0659584143968
     ],
     "plaza_xy": [
       [
-        -381.975,
-        1115.0
+        -165.475,
+        725.0
       ],
       [
-        -381.975,
-        1077.1319168287937
+        -165.475,
+        687.1319168287938
       ],
       [
-        -400.02500000000003,
-        1077.1319168287937
+        -183.525,
+        687.1319168287938
       ],
       [
-        -400.02500000000003,
-        1115.0
+        -183.525,
+        725.0
       ]
-    ]
+    ],
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Apartment_02",
@@ -326,11 +328,12 @@
         416.6838337418022
       ]
     ],
-    "floor": 12.271446310175383,
-    "foundation_bottom_m": 11.594003871992301,
+    "floor": 13.708355174618568,
+    "foundation_bottom_m": 13.073355174618568,
     "source_filename": "apartment+building+2.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Apartment_03",
@@ -419,11 +422,12 @@
         416.69848136983643
       ]
     ],
-    "floor": 11.997849637178948,
-    "foundation_bottom_m": 11.293958897751114,
+    "floor": 13.708355174618568,
+    "foundation_bottom_m": 13.073355174618568,
     "source_filename": "apartment+building+3.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Connected_Arcade_06",
@@ -512,11 +516,12 @@
         236.8541168140974
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.724764250529281,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.075893375912315,
     "source_filename": "old+building+facade+6.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Connected_Arcade_07",
@@ -605,11 +610,12 @@
         237.06034822629772
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.724764250529281,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.075893375912315,
     "source_filename": "storefront+building+7.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Connected_Arcade_05",
@@ -698,11 +704,12 @@
         237.22007653328507
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.724764250529281,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.075893375912315,
     "source_filename": "urban+building+facade+5.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Connected_Shop_08",
@@ -791,11 +798,12 @@
         237.18922044374673
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.724764250529281,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.075893375912315,
     "source_filename": "old+urban+building+8.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Connected_Shop_09",
@@ -884,11 +892,12 @@
         236.83283602707823
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.724764250529281,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.075893375912315,
     "source_filename": "city+street+building+9.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Corner_Shop_10",
@@ -977,11 +986,12 @@
         236.52949768064508
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.724764250529281,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.075893375912315,
     "source_filename": "urban+building+facade+10.glb",
     "angle": 1.5707963267948966,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Apartment_11",
@@ -1070,11 +1080,12 @@
         236.98004576600223
       ]
     ],
-    "floor": 8.925687458756752,
-    "foundation_bottom_m": 8.275594368785624,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.075893375912315,
     "source_filename": "apartment+building+11.glb",
     "angle": 0.0,
-    "direct_sidewalk_frontage": true
+    "direct_sidewalk_frontage": true,
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Joined_Storefront_12",
@@ -1145,32 +1156,33 @@
     ],
     "pad_xy": [
       [
-        338.42754342431766,
-        222.63614399813895
+        338.45754342431763,
+        222.66614399813895
       ],
       [
-        338.42754342431766,
-        215.12187841191067
+        338.45754342431763,
+        215.09187841191067
       ],
       [
-        310.12780800248134,
-        215.12187841191067
+        310.0978080024814,
+        215.09187841191067
       ],
       [
-        310.12780800248134,
-        222.63614399813895
+        310.0978080024814,
+        222.66614399813895
       ],
       [
-        338.42754342431766,
-        222.63614399813895
+        338.45754342431763,
+        222.66614399813895
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.654519710575167,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.036060362771497,
     "direct_sidewalk_frontage": true,
     "direct_alley_frontage": false,
     "access_alley": null,
-    "addition_revision": "v9_oldtown_four"
+    "addition_revision": "v9_oldtown_four",
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Joined_Urban_Shopfront_13",
@@ -1241,32 +1253,33 @@
     ],
     "pad_xy": [
       [
-        310.76872086546916,
-        222.7593121249812
+        310.79872086546914,
+        222.7893121249812
       ],
       [
-        310.76872086546916,
-        215.17311404303138
+        310.79872086546914,
+        215.14311404303137
       ],
       [
-        282.3167665921861,
-        215.17311404303138
+        282.28676659218615,
+        215.14311404303137
       ],
       [
-        282.3167665921861,
-        222.7593121249812
+        282.28676659218615,
+        222.7893121249812
       ],
       [
-        310.76872086546916,
-        222.7593121249812
+        310.79872086546914,
+        222.7893121249812
       ]
     ],
-    "floor": 7.359764250529281,
-    "foundation_bottom_m": 6.669176560346454,
+    "floor": 9.710893375912315,
+    "foundation_bottom_m": 9.04048328389562,
     "direct_sidewalk_frontage": true,
     "direct_alley_frontage": false,
     "access_alley": null,
-    "addition_revision": "v9_oldtown_four"
+    "addition_revision": "v9_oldtown_four",
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Backlane_Apartment_13",
@@ -1357,12 +1370,13 @@
         261.1671668285643
       ]
     ],
-    "floor": 7.851002184377271,
-    "foundation_bottom_m": 7.401002184377271,
+    "floor": 10.162815394883516,
+    "foundation_bottom_m": 9.712815394883517,
     "direct_sidewalk_frontage": false,
     "direct_alley_frontage": true,
-    "access_alley": "MAIN_OLD_ALLEY_120_BACKLANE",
-    "addition_revision": "v9_oldtown_four"
+    "access_alley": "MAIN_BACKLANE_SOURCE_HOUSES",
+    "addition_revision": "v9_oldtown_four",
+    "building_count_units": 1
   },
   {
     "instance_name": "OLDTOWN_Backlane_Apartment_14",
@@ -1453,11 +1467,5597 @@
         261.41035535181743
       ]
     ],
-    "floor": 7.83943306961362,
-    "foundation_bottom_m": 7.38943306961362,
+    "floor": 10.172745018857928,
+    "foundation_bottom_m": 9.722745018857928,
     "direct_sidewalk_frontage": false,
     "direct_alley_frontage": true,
-    "access_alley": "MAIN_OLD_ALLEY_120_BACKLANE",
-    "addition_revision": "v9_oldtown_four"
+    "access_alley": "MAIN_BACKLANE_SOURCE_HOUSES",
+    "addition_revision": "v9_oldtown_four",
+    "building_count_units": 1
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_00_01_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 11.055054354617019,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.8,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.2704235911533175,
+    "front": 0.0,
+    "anchor": [
+      244.45,
+      261.825
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      247.58521179557664,
+      264.59989757258995
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        244.45,
+        261.825
+      ],
+      [
+        250.7204235911533,
+        261.825
+      ],
+      [
+        250.7204235911533,
+        267.3747951451799
+      ],
+      [
+        244.45,
+        267.3747951451799
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.35,
+        261.72499999999997
+      ],
+      [
+        244.35,
+        267.47479514517994
+      ],
+      [
+        250.8204235911533,
+        267.47479514517994
+      ],
+      [
+        250.8204235911533,
+        261.72499999999997
+      ],
+      [
+        244.35,
+        261.72499999999997
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_068_Original_Extension_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0153",
+      "MAIN_OLDTOWN_0154"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_068_Original_Extension",
+    "floor": 10.215494397712405,
+    "foundation_bottom_m": 9.645494397712406
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_00_02_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.300363500792246,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 11.1,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.8347762562331065,
+    "front": 0.0,
+    "anchor": [
+      250.8404235911533,
+      261.825
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      254.25781171926985,
+      265.176692013541
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        250.8404235911533,
+        261.825
+      ],
+      [
+        257.6751998473864,
+        261.825
+      ],
+      [
+        257.6751998473864,
+        268.528384027082
+      ],
+      [
+        250.8404235911533,
+        268.528384027082
+      ]
+    ],
+    "pad_xy": [
+      [
+        250.7404235911533,
+        261.72499999999997
+      ],
+      [
+        250.7404235911533,
+        268.628384027082
+      ],
+      [
+        257.77519984738643,
+        268.628384027082
+      ],
+      [
+        257.77519984738643,
+        261.72499999999997
+      ],
+      [
+        250.7404235911533,
+        261.72499999999997
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_068_Original_Extension_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0153",
+      "MAIN_OLDTOWN_0154"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_068_Original_Extension",
+    "floor": 10.215494397712405,
+    "foundation_bottom_m": 9.645494397712406
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_00_03_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.330772366646807,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.0,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.516384225359843,
+    "front": 0.0,
+    "anchor": [
+      257.7951998473864,
+      261.825
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      262.55339196006634,
+      266.0364208661294
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        257.7951998473864,
+        261.825
+      ],
+      [
+        267.31158407274626,
+        261.825
+      ],
+      [
+        267.31158407274626,
+        270.24784173225873
+      ],
+      [
+        257.7951998473864,
+        270.24784173225873
+      ]
+    ],
+    "pad_xy": [
+      [
+        257.6951998473864,
+        261.72499999999997
+      ],
+      [
+        257.6951998473864,
+        270.34784173225876
+      ],
+      [
+        267.4115840727463,
+        270.34784173225876
+      ],
+      [
+        267.4115840727463,
+        261.72499999999997
+      ],
+      [
+        257.6951998473864,
+        261.72499999999997
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_068_Original_Extension_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0153",
+      "MAIN_OLDTOWN_0154"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_068_Original_Extension",
+    "floor": 10.215494397712405,
+    "foundation_bottom_m": 9.645494397712406
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_00_04_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.862886630179828,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.6,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.122971071149335,
+    "front": 0.0,
+    "anchor": [
+      267.43158407274626,
+      261.825
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      270.4930696083209,
+      264.35176153244726
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        267.43158407274626,
+        261.825
+      ],
+      [
+        273.5545551438956,
+        261.825
+      ],
+      [
+        273.5545551438956,
+        266.87852306489447
+      ],
+      [
+        267.43158407274626,
+        266.87852306489447
+      ]
+    ],
+    "pad_xy": [
+      [
+        267.33158407274624,
+        261.72499999999997
+      ],
+      [
+        267.33158407274624,
+        266.9785230648945
+      ],
+      [
+        273.6545551438956,
+        266.9785230648945
+      ],
+      [
+        273.6545551438956,
+        261.72499999999997
+      ],
+      [
+        267.33158407274624,
+        261.72499999999997
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_068_Original_Extension_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0153",
+      "MAIN_OLDTOWN_0154"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_068_Original_Extension",
+    "floor": 10.215494397712405,
+    "foundation_bottom_m": 9.645494397712406
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_00_05_Asset15",
+    "file": "historic_building_facade_15.glb",
+    "source_filename": "historic_building_facade_15.glb",
+    "source_key": 15,
+    "uniform_scale": 22.20926078418952,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.7,
+    "source_bounds": [
+      [
+        -0.4900665581226349,
+        -0.24620820581912994,
+        0.0
+      ],
+      [
+        0.4900665581226349,
+        0.24620820581912994,
+        0.481781005859375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 21.768031981911538,
+    "front": 0.0,
+    "anchor": [
+      273.6745551438956,
+      261.825
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      284.5585711348514,
+      267.29310225024443
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        273.6745551438956,
+        261.825
+      ],
+      [
+        295.4425871258071,
+        261.825
+      ],
+      [
+        295.4425871258071,
+        272.76120450048893
+      ],
+      [
+        273.6745551438956,
+        272.76120450048893
+      ]
+    ],
+    "pad_xy": [
+      [
+        273.57455514389557,
+        261.72499999999997
+      ],
+      [
+        273.57455514389557,
+        272.86120450048895
+      ],
+      [
+        295.54258712580713,
+        272.86120450048895
+      ],
+      [
+        295.54258712580713,
+        261.72499999999997
+      ],
+      [
+        273.57455514389557,
+        261.72499999999997
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_068_Original_Extension_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0153",
+      "MAIN_OLDTOWN_0154"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_068_Original_Extension",
+    "floor": 10.215494397712405,
+    "foundation_bottom_m": 9.645494397712406
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_01_01_Asset13",
+    "file": "old_apartment_13.glb",
+    "source_filename": "old_apartment_13.glb",
+    "source_key": 13,
+    "uniform_scale": 16.21133994879872,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.68,
+    "source_bounds": [
+      [
+        -0.48974609375,
+        -0.3091278076171875,
+        0.0
+      ],
+      [
+        0.48974609375,
+        0.3091278076171875,
+        0.9672241806983948
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 15.878880828754996,
+    "front": 0.0,
+    "anchor": [
+      244.0,
+      359.0605595856225
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      238.98862402309092,
+      367.0
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        244.0,
+        359.0605595856225
+      ],
+      [
+        244.0,
+        374.9394404143775
+      ],
+      [
+        233.97724804618184,
+        374.9394404143775
+      ],
+      [
+        233.97724804618184,
+        359.0605595856225
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.1,
+        358.9605595856225
+      ],
+      [
+        233.87724804618185,
+        358.9605595856225
+      ],
+      [
+        233.87724804618185,
+        375.0394404143775
+      ],
+      [
+        244.1,
+        375.0394404143775
+      ],
+      [
+        244.1,
+        358.9605595856225
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_067_234_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0146"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_067_234",
+    "floor": 12.721740574351978,
+    "foundation_bottom_m": 12.15174057435198
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_02_01_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.639041675812976,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.299999999999999,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.754293830993838,
+    "front": 0.0,
+    "anchor": [
+      290.0,
+      374.9680175957158
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      294.31670638778263,
+      370.09087068021887
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        290.0,
+        374.9680175957158
+      ],
+      [
+        290.0,
+        365.213723764722
+      ],
+      [
+        298.63341277556526,
+        365.213723764722
+      ],
+      [
+        298.63341277556526,
+        374.9680175957158
+      ]
+    ],
+    "pad_xy": [
+      [
+        289.9,
+        375.06801759571584
+      ],
+      [
+        298.7334127755653,
+        375.06801759571584
+      ],
+      [
+        298.7334127755653,
+        365.11372376472195
+      ],
+      [
+        289.9,
+        365.11372376472195
+      ],
+      [
+        289.9,
+        375.06801759571584
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_067_235_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0147"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_067_235",
+    "floor": 12.923183807316684,
+    "foundation_bottom_m": 12.353183807316686
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_02_02_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.75425776387803,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.494,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.061741360437843,
+    "front": 0.0,
+    "anchor": [
+      290.0,
+      365.093723764722
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      292.50149391712273,
+      362.06285308450305
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        290.0,
+        365.093723764722
+      ],
+      [
+        290.0,
+        359.0319824042841
+      ],
+      [
+        295.0029878342455,
+        359.0319824042841
+      ],
+      [
+        295.0029878342455,
+        365.093723764722
+      ]
+    ],
+    "pad_xy": [
+      [
+        289.9,
+        365.193723764722
+      ],
+      [
+        295.10298783424554,
+        365.193723764722
+      ],
+      [
+        295.10298783424554,
+        358.9319824042841
+      ],
+      [
+        289.9,
+        358.9319824042841
+      ],
+      [
+        289.9,
+        365.193723764722
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_067_235_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0147"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_067_235",
+    "floor": 12.923183807316684,
+    "foundation_bottom_m": 12.353183807316686
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_03_01_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.187359865784321,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.988999999999999,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.766428493670775,
+    "front": 0.0,
+    "anchor": [
+      244.0,
+      158.79859364048468
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      240.68182490659444,
+      162.18180788732008
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        244.0,
+        158.79859364048468
+      ],
+      [
+        244.0,
+        165.56502213415547
+      ],
+      [
+        237.36364981318886,
+        165.56502213415547
+      ],
+      [
+        237.36364981318886,
+        158.79859364048468
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.1,
+        158.6985936404847
+      ],
+      [
+        237.26364981318886,
+        158.6985936404847
+      ],
+      [
+        237.26364981318886,
+        165.66502213415546
+      ],
+      [
+        244.1,
+        165.66502213415546
+      ],
+      [
+        244.1,
+        158.6985936404847
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_069_236_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0164"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_069_236",
+    "floor": 7.684082751517533,
+    "foundation_bottom_m": 7.114082751517532
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_03_02_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.330772366646807,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.0,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.516384225359843,
+    "front": 0.0,
+    "anchor": [
+      244.0,
+      165.68502213415545
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      239.7885791338706,
+      170.44321424683537
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        244.0,
+        165.68502213415545
+      ],
+      [
+        244.0,
+        175.2014063595153
+      ],
+      [
+        235.57715826774123,
+        175.2014063595153
+      ],
+      [
+        235.57715826774123,
+        165.68502213415545
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.1,
+        165.58502213415545
+      ],
+      [
+        235.47715826774123,
+        165.58502213415545
+      ],
+      [
+        235.47715826774123,
+        175.30140635951528
+      ],
+      [
+        244.1,
+        175.30140635951528
+      ],
+      [
+        244.1,
+        165.58502213415545
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_069_236_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0164"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_069_236",
+    "floor": 7.684082751517533,
+    "foundation_bottom_m": 7.114082751517532
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_04_01_Asset14",
+    "file": "apartment_14.glb",
+    "source_filename": "apartment_14.glb",
+    "source_key": 14,
+    "uniform_scale": 16.78153826936889,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 16.4,
+    "source_bounds": [
+      [
+        -0.3944244682788849,
+        -0.328277587890625,
+        0.0
+      ],
+      [
+        0.3944244682788849,
+        0.328277587890625,
+        0.977264404296875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 13.238098617595165,
+    "front": 0.0,
+    "anchor": [
+      290.0,
+      173.61904930879757
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      295.5090029041626,
+      167.0
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        290.0,
+        173.61904930879757
+      ],
+      [
+        290.0,
+        160.3809506912024
+      ],
+      [
+        301.01800580832526,
+        160.3809506912024
+      ],
+      [
+        301.01800580832526,
+        173.61904930879757
+      ]
+    ],
+    "pad_xy": [
+      [
+        289.9,
+        173.71904930879757
+      ],
+      [
+        301.1180058083253,
+        173.71904930879757
+      ],
+      [
+        301.1180058083253,
+        160.2809506912024
+      ],
+      [
+        289.9,
+        160.2809506912024
+      ],
+      [
+        289.9,
+        173.71904930879757
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_069_237_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0165"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_069_237",
+    "floor": 7.434022699096606,
+    "foundation_bottom_m": 6.864022699096606
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_05_01_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      -13.635330390984592,
+      267.5
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      -10.562822831319465,
+      270.21939962113817
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -13.635330390984592,
+        267.5
+      ],
+      [
+        -7.4903152716543415,
+        267.5
+      ],
+      [
+        -7.4903152716543415,
+        272.93879924227633
+      ],
+      [
+        -13.635330390984592,
+        272.93879924227633
+      ]
+    ],
+    "pad_xy": [
+      [
+        -13.735330390984592,
+        267.4
+      ],
+      [
+        -13.735330390984592,
+        273.03879924227635
+      ],
+      [
+        -7.390315271654342,
+        273.03879924227635
+      ],
+      [
+        -7.390315271654342,
+        267.4
+      ],
+      [
+        -13.735330390984592,
+        267.4
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_030_238_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0020"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_030_238",
+    "floor": 11.16565721321106,
+    "foundation_bottom_m": 10.595657213211062
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_05_02_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.582872588312052,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 11.3775,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 7.005645662638934,
+    "front": 0.0,
+    "anchor": [
+      -7.370315271654341,
+      267.5
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      -3.8674924403348743,
+      270.93548431387956
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -7.370315271654341,
+        267.5
+      ],
+      [
+        -0.3646696090154071,
+        267.5
+      ],
+      [
+        -0.3646696090154071,
+        274.370968627759
+      ],
+      [
+        -7.370315271654341,
+        274.370968627759
+      ]
+    ],
+    "pad_xy": [
+      [
+        -7.470315271654341,
+        267.4
+      ],
+      [
+        -7.470315271654341,
+        274.470968627759
+      ],
+      [
+        -0.26466960901540715,
+        274.470968627759
+      ],
+      [
+        -0.26466960901540715,
+        267.4
+      ],
+      [
+        -7.470315271654341,
+        267.4
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_030_238_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0020"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_030_238",
+    "floor": 11.16565721321106,
+    "foundation_bottom_m": 10.595657213211062
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_06_01_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.639041675812976,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.299999999999999,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.754293830993838,
+    "front": 0.0,
+    "anchor": [
+      19.03198240428416,
+      267.5
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      23.90912931978108,
+      271.8167063877827
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        19.03198240428416,
+        267.5
+      ],
+      [
+        28.786276235278,
+        267.5
+      ],
+      [
+        28.786276235278,
+        276.13341277556526
+      ],
+      [
+        19.03198240428416,
+        276.13341277556526
+      ]
+    ],
+    "pad_xy": [
+      [
+        18.93198240428416,
+        267.4
+      ],
+      [
+        18.93198240428416,
+        276.2334127755653
+      ],
+      [
+        28.886276235278,
+        276.2334127755653
+      ],
+      [
+        28.886276235278,
+        267.4
+      ],
+      [
+        18.93198240428416,
+        267.4
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_030_239_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0021"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_030_239",
+    "floor": 10.344970405578612,
+    "foundation_bottom_m": 9.774970405578614
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_06_02_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.75425776387803,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.494,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.061741360437843,
+    "front": 0.0,
+    "anchor": [
+      28.906276235278,
+      267.5
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      31.937146915496925,
+      270.00149391712273
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        28.906276235278,
+        267.5
+      ],
+      [
+        34.96801759571584,
+        267.5
+      ],
+      [
+        34.96801759571584,
+        272.5029878342455
+      ],
+      [
+        28.906276235278,
+        272.5029878342455
+      ]
+    ],
+    "pad_xy": [
+      [
+        28.806276235278,
+        267.4
+      ],
+      [
+        28.806276235278,
+        272.60298783424554
+      ],
+      [
+        35.068017595715844,
+        272.60298783424554
+      ],
+      [
+        35.068017595715844,
+        267.4
+      ],
+      [
+        28.806276235278,
+        267.4
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_030_239_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0021"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_030_239",
+    "floor": 10.344970405578612,
+    "foundation_bottom_m": 9.774970405578614
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_07_01_Asset15",
+    "file": "historic_building_facade_15.glb",
+    "source_filename": "historic_building_facade_15.glb",
+    "source_key": 15,
+    "uniform_scale": 21.987168176347627,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.593,
+    "source_bounds": [
+      [
+        -0.4900665581226349,
+        -0.24620820581912994,
+        0.0
+      ],
+      [
+        0.4900665581226349,
+        0.24620820581912994,
+        0.481781005859375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 21.550351662092424,
+    "front": 0.0,
+    "anchor": [
+      4.0,
+      356.2248241689538
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -1.4134212277420202,
+      366.99999999999994
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        4.0,
+        356.2248241689538
+      ],
+      [
+        4.0,
+        377.7751758310462
+      ],
+      [
+        -6.826842455484041,
+        377.7751758310462
+      ],
+      [
+        -6.826842455484041,
+        356.2248241689538
+      ]
+    ],
+    "pad_xy": [
+      [
+        4.1,
+        356.12482416895375
+      ],
+      [
+        -6.92684245548404,
+        356.12482416895375
+      ],
+      [
+        -6.92684245548404,
+        377.87517583104625
+      ],
+      [
+        4.1,
+        377.87517583104625
+      ],
+      [
+        4.1,
+        356.12482416895375
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_029_240_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0012"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_029_240",
+    "floor": 12.874845606624321,
+    "foundation_bottom_m": 12.304845606624323
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_08_01_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.862886630179828,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.6,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.122971071149335,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      373.1939930952398
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      18.526761532447225,
+      370.1325075596652
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        16.0,
+        373.1939930952398
+      ],
+      [
+        16.0,
+        367.0710220240905
+      ],
+      [
+        21.05352306489445,
+        367.0710220240905
+      ],
+      [
+        21.05352306489445,
+        373.1939930952398
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.9,
+        373.29399309523984
+      ],
+      [
+        21.15352306489445,
+        373.29399309523984
+      ],
+      [
+        21.15352306489445,
+        366.9710220240905
+      ],
+      [
+        15.9,
+        366.9710220240905
+      ],
+      [
+        15.9,
+        373.29399309523984
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_029_241_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0013"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_029_241",
+    "floor": 12.92234560662432,
+    "foundation_bottom_m": 12.352345606624322
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_08_02_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      366.9510220240905
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      18.719399621138166,
+      363.87851446442545
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        16.0,
+        366.9510220240905
+      ],
+      [
+        16.0,
+        360.80600690476024
+      ],
+      [
+        21.438799242276332,
+        360.80600690476024
+      ],
+      [
+        21.438799242276332,
+        366.9510220240905
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.9,
+        367.0510220240905
+      ],
+      [
+        21.538799242276333,
+        367.0510220240905
+      ],
+      [
+        21.538799242276333,
+        360.7060069047602
+      ],
+      [
+        15.9,
+        360.7060069047602
+      ],
+      [
+        15.9,
+        367.0510220240905
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_029_241_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0013"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_029_241",
+    "floor": 12.92234560662432,
+    "foundation_bottom_m": 12.352345606624322
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_09_01_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      244.0,
+      452.86466960901544
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      241.28060037886186,
+      455.93717716868053
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        244.0,
+        452.86466960901544
+      ],
+      [
+        244.0,
+        459.0096847283457
+      ],
+      [
+        238.56120075772367,
+        459.0096847283457
+      ],
+      [
+        238.56120075772367,
+        452.86466960901544
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.1,
+        452.7646696090154
+      ],
+      [
+        238.46120075772367,
+        452.7646696090154
+      ],
+      [
+        238.46120075772367,
+        459.1096847283457
+      ],
+      [
+        244.1,
+        459.1096847283457
+      ],
+      [
+        244.1,
+        452.7646696090154
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_066_242_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0134"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_066_242",
+    "floor": 14.001955846944591,
+    "foundation_bottom_m": 13.431955846944593
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_09_02_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.582872588312052,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 11.3775,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 7.005645662638934,
+    "front": 0.0,
+    "anchor": [
+      244.0,
+      459.1296847283457
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      240.5645156861205,
+      462.6325075596651
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        244.0,
+        459.1296847283457
+      ],
+      [
+        244.0,
+        466.1353303909846
+      ],
+      [
+        237.12903137224097,
+        466.1353303909846
+      ],
+      [
+        237.12903137224097,
+        459.1296847283457
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.1,
+        459.02968472834567
+      ],
+      [
+        237.02903137224098,
+        459.02968472834567
+      ],
+      [
+        237.02903137224098,
+        466.23533039098464
+      ],
+      [
+        244.1,
+        466.23533039098464
+      ],
+      [
+        244.1,
+        459.02968472834567
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_066_242_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0134"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_066_242",
+    "floor": 14.001955846944591,
+    "foundation_bottom_m": 13.431955846944593
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_10_01_Asset13",
+    "file": "old_apartment_13.glb",
+    "source_filename": "old_apartment_13.glb",
+    "source_key": 13,
+    "uniform_scale": 16.95573821175376,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 16.4,
+    "source_bounds": [
+      [
+        -0.48974609375,
+        -0.3091278076171875,
+        0.0
+      ],
+      [
+        0.48974609375,
+        0.3091278076171875,
+        0.9672241806983948
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 16.60801311170803,
+    "front": 0.0,
+    "anchor": [
+      290.0,
+      467.804006555854
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      295.2414901799304,
+      459.5
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        290.0,
+        467.804006555854
+      ],
+      [
+        290.0,
+        451.195993444146
+      ],
+      [
+        300.48298035986085,
+        451.195993444146
+      ],
+      [
+        300.48298035986085,
+        467.804006555854
+      ]
+    ],
+    "pad_xy": [
+      [
+        289.9,
+        467.90400655585404
+      ],
+      [
+        300.58298035986087,
+        467.90400655585404
+      ],
+      [
+        300.58298035986087,
+        451.09599344414596
+      ],
+      [
+        289.9,
+        451.09599344414596
+      ],
+      [
+        289.9,
+        467.90400655585404
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_066_243_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0135"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_066_243",
+    "floor": 14.29052850541579,
+    "foundation_bottom_m": 13.72052850541579
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_11_01_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.187359865784321,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.988999999999999,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.766428493670775,
+    "front": 0.0,
+    "anchor": [
+      4.0,
+      158.79859364048468
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      0.6818249065944233,
+      162.18180788732008
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        4.0,
+        158.79859364048468
+      ],
+      [
+        4.0,
+        165.56502213415547
+      ],
+      [
+        -2.6363501868111534,
+        165.56502213415547
+      ],
+      [
+        -2.6363501868111534,
+        158.79859364048468
+      ]
+    ],
+    "pad_xy": [
+      [
+        4.1,
+        158.6985936404847
+      ],
+      [
+        -2.7363501868111535,
+        158.6985936404847
+      ],
+      [
+        -2.7363501868111535,
+        165.66502213415546
+      ],
+      [
+        4.1,
+        165.66502213415546
+      ],
+      [
+        4.1,
+        158.6985936404847
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_031_244_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0028"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_031_244",
+    "floor": 8.571991416626382,
+    "foundation_bottom_m": 8.001991416626383
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_11_02_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.330772366646807,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.0,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.516384225359843,
+    "front": 0.0,
+    "anchor": [
+      4.0,
+      165.68502213415545
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -0.21142086612938635,
+      170.44321424683537
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        4.0,
+        165.68502213415545
+      ],
+      [
+        4.0,
+        175.2014063595153
+      ],
+      [
+        -4.422841732258773,
+        175.2014063595153
+      ],
+      [
+        -4.422841732258773,
+        165.68502213415545
+      ]
+    ],
+    "pad_xy": [
+      [
+        4.1,
+        165.58502213415545
+      ],
+      [
+        -4.522841732258772,
+        165.58502213415545
+      ],
+      [
+        -4.522841732258772,
+        175.30140635951528
+      ],
+      [
+        4.1,
+        175.30140635951528
+      ],
+      [
+        4.1,
+        165.58502213415545
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_031_244_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0028"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_031_244",
+    "floor": 8.571991416626382,
+    "foundation_bottom_m": 8.001991416626383
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_12_01_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.862886630179828,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.6,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.122971071149335,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      173.1939930952398
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      18.526761532447225,
+      170.13250755966513
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        16.0,
+        173.1939930952398
+      ],
+      [
+        16.0,
+        167.07102202409047
+      ],
+      [
+        21.05352306489445,
+        167.07102202409047
+      ],
+      [
+        21.05352306489445,
+        173.1939930952398
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.9,
+        173.29399309523978
+      ],
+      [
+        21.15352306489445,
+        173.29399309523978
+      ],
+      [
+        21.15352306489445,
+        166.97102202409047
+      ],
+      [
+        15.9,
+        166.97102202409047
+      ],
+      [
+        15.9,
+        173.29399309523978
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_031_245_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0029"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_031_245",
+    "floor": 8.524491416626383,
+    "foundation_bottom_m": 7.954491416626383
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_12_02_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      166.95102202409046
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      18.719399621138166,
+      163.87851446442534
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        16.0,
+        166.95102202409046
+      ],
+      [
+        16.0,
+        160.8060069047602
+      ],
+      [
+        21.438799242276332,
+        160.8060069047602
+      ],
+      [
+        21.438799242276332,
+        166.95102202409046
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.9,
+        167.05102202409046
+      ],
+      [
+        21.538799242276333,
+        167.05102202409046
+      ],
+      [
+        21.538799242276333,
+        160.70600690476022
+      ],
+      [
+        15.9,
+        160.70600690476022
+      ],
+      [
+        15.9,
+        167.05102202409046
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_031_245_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0029"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_031_245",
+    "floor": 8.524491416626383,
+    "foundation_bottom_m": 7.954491416626383
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_13_01_Asset14",
+    "file": "apartment_14.glb",
+    "source_filename": "apartment_14.glb",
+    "source_key": 14,
+    "uniform_scale": 16.445907503981513,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 16.072,
+    "source_bounds": [
+      [
+        -0.3944244682788849,
+        -0.328277587890625,
+        0.0
+      ],
+      [
+        0.3944244682788849,
+        0.328277587890625,
+        0.977264404296875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 12.973336645243261,
+    "front": 0.0,
+    "anchor": [
+      4.0,
+      453.01333167737835
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -1.39882284607938,
+      459.5
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        4.0,
+        453.01333167737835
+      ],
+      [
+        4.0,
+        465.9866683226216
+      ],
+      [
+        -6.79764569215876,
+        465.9866683226216
+      ],
+      [
+        -6.79764569215876,
+        453.01333167737835
+      ]
+    ],
+    "pad_xy": [
+      [
+        4.1,
+        452.9133316773783
+      ],
+      [
+        -6.8976456921587594,
+        452.9133316773783
+      ],
+      [
+        -6.8976456921587594,
+        466.0866683226216
+      ],
+      [
+        4.1,
+        466.0866683226216
+      ],
+      [
+        4.1,
+        452.9133316773783
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_077_246_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0198"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_077_246",
+    "floor": 14.176448253811856,
+    "foundation_bottom_m": 13.606448253811857
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_14_01_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.639041675812976,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.299999999999999,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.754293830993838,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      467.4680175957158
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      20.31670638778262,
+      462.59087068021887
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        16.0,
+        467.4680175957158
+      ],
+      [
+        16.0,
+        457.713723764722
+      ],
+      [
+        24.63341277556524,
+        457.713723764722
+      ],
+      [
+        24.63341277556524,
+        467.4680175957158
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.9,
+        467.56801759571584
+      ],
+      [
+        24.73341277556524,
+        467.56801759571584
+      ],
+      [
+        24.73341277556524,
+        457.61372376472195
+      ],
+      [
+        15.9,
+        457.61372376472195
+      ],
+      [
+        15.9,
+        467.56801759571584
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_077_247_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0199"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_077_247",
+    "floor": 14.223948253811855,
+    "foundation_bottom_m": 13.653948253811857
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_14_02_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.75425776387803,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.494,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.061741360437843,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      457.593723764722
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      18.50149391712275,
+      454.562853084503
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        16.0,
+        457.593723764722
+      ],
+      [
+        16.0,
+        451.5319824042841
+      ],
+      [
+        21.002987834245506,
+        451.5319824042841
+      ],
+      [
+        21.002987834245506,
+        457.593723764722
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.9,
+        457.693723764722
+      ],
+      [
+        21.102987834245507,
+        457.693723764722
+      ],
+      [
+        21.102987834245507,
+        451.4319824042841
+      ],
+      [
+        15.9,
+        451.4319824042841
+      ],
+      [
+        15.9,
+        457.693723764722
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_077_247_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0199"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_077_247",
+    "floor": 14.223948253811855,
+    "foundation_bottom_m": 13.603081161594947
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_15_01_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.187359865784321,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.988999999999999,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.766428493670775,
+    "front": 0.0,
+    "anchor": [
+      -15.201406359515309,
+      35.350516791686644
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      -11.818192112679922,
+      38.66869188509222
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -15.201406359515309,
+        35.350516791686644
+      ],
+      [
+        -8.434977865844534,
+        35.350516791686644
+      ],
+      [
+        -8.434977865844534,
+        41.9868669784978
+      ],
+      [
+        -15.201406359515309,
+        41.9868669784978
+      ]
+    ],
+    "pad_xy": [
+      [
+        -15.301406359515308,
+        35.25051679168664
+      ],
+      [
+        -15.301406359515308,
+        42.0868669784978
+      ],
+      [
+        -8.334977865844534,
+        42.0868669784978
+      ],
+      [
+        -8.334977865844534,
+        35.25051679168664
+      ],
+      [
+        -15.301406359515308,
+        35.25051679168664
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_032_248_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0037"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_032_248",
+    "floor": 4.550555066556839,
+    "foundation_bottom_m": 3.980555066556839
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_15_02_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.330772366646807,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.0,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.516384225359843,
+    "front": 0.0,
+    "anchor": [
+      -8.314977865844533,
+      35.350516791686644
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      -3.5567857531646117,
+      39.56193765781603
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -8.314977865844533,
+        35.350516791686644
+      ],
+      [
+        1.2014063595153104,
+        35.350516791686644
+      ],
+      [
+        1.2014063595153104,
+        43.77335852394542
+      ],
+      [
+        -8.314977865844533,
+        43.77335852394542
+      ]
+    ],
+    "pad_xy": [
+      [
+        -8.414977865844532,
+        35.25051679168664
+      ],
+      [
+        -8.414977865844532,
+        43.87335852394542
+      ],
+      [
+        1.3014063595153105,
+        43.87335852394542
+      ],
+      [
+        1.3014063595153105,
+        35.25051679168664
+      ],
+      [
+        -8.414977865844532,
+        35.25051679168664
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_032_248_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0037"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_032_248",
+    "floor": 4.550555066556839,
+    "foundation_bottom_m": 3.980555066556839
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_16_01_Asset15",
+    "file": "historic_building_facade_15.glb",
+    "source_filename": "historic_building_facade_15.glb",
+    "source_key": 15,
+    "uniform_scale": 22.20926078418952,
+    "local_axis_scale": [
+      0.9876868987451753,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.7,
+    "source_bounds": [
+      [
+        -0.4900665581226349,
+        -0.24620820581912994,
+        0.0
+      ],
+      [
+        0.4900665581226349,
+        0.24620820581912994,
+        0.481781005859375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 21.5,
+    "front": 0.0,
+    "anchor": [
+      16.25,
+      35.350516791686644
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      26.999999999999996,
+      40.81861904193111
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        16.25,
+        35.350516791686644
+      ],
+      [
+        37.75,
+        35.350516791686644
+      ],
+      [
+        37.75,
+        46.28672129217557
+      ],
+      [
+        16.25,
+        46.28672129217557
+      ]
+    ],
+    "pad_xy": [
+      [
+        16.15,
+        35.25051679168664
+      ],
+      [
+        16.15,
+        46.38672129217557
+      ],
+      [
+        37.85,
+        46.38672129217557
+      ],
+      [
+        37.85,
+        35.25051679168664
+      ],
+      [
+        16.15,
+        35.25051679168664
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_032_249_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0038"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_032_249",
+    "floor": 4.29851713198641,
+    "foundation_bottom_m": 3.7285171319864094
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_17_01_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      272.86466960901544
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      402.7806003788619,
+      275.9371771686806
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        405.5,
+        272.86466960901544
+      ],
+      [
+        405.5,
+        279.0096847283457
+      ],
+      [
+        400.06120075772367,
+        279.0096847283457
+      ],
+      [
+        400.06120075772367,
+        272.86466960901544
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.6,
+        272.7646696090154
+      ],
+      [
+        399.96120075772365,
+        272.7646696090154
+      ],
+      [
+        399.96120075772365,
+        279.1096847283457
+      ],
+      [
+        405.6,
+        279.1096847283457
+      ],
+      [
+        405.6,
+        272.7646696090154
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_250_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0256"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_250",
+    "floor": 11.34345761357993,
+    "foundation_bottom_m": 10.773457613579932
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_17_02_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.582872588312052,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 11.3775,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 7.005645662638934,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      279.1296847283457
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      402.0645156861205,
+      282.63250755966516
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        405.5,
+        279.1296847283457
+      ],
+      [
+        405.5,
+        286.1353303909846
+      ],
+      [
+        398.629031372241,
+        286.1353303909846
+      ],
+      [
+        398.629031372241,
+        279.1296847283457
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.6,
+        279.02968472834567
+      ],
+      [
+        398.529031372241,
+        279.02968472834567
+      ],
+      [
+        398.529031372241,
+        286.23533039098464
+      ],
+      [
+        405.6,
+        286.23533039098464
+      ],
+      [
+        405.6,
+        279.02968472834567
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_250_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0256"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_250",
+    "floor": 11.34345761357993,
+    "foundation_bottom_m": 10.773457613579932
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_18_01_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.639041675812976,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.299999999999999,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.754293830993838,
+    "front": 0.0,
+    "anchor": [
+      439.5,
+      271.5319824042842
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      435.18329361221737,
+      276.40912931978113
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        439.5,
+        271.5319824042842
+      ],
+      [
+        439.5,
+        281.286276235278
+      ],
+      [
+        430.86658722443474,
+        281.286276235278
+      ],
+      [
+        430.86658722443474,
+        271.5319824042842
+      ]
+    ],
+    "pad_xy": [
+      [
+        439.6,
+        271.43198240428416
+      ],
+      [
+        430.7665872244347,
+        271.43198240428416
+      ],
+      [
+        430.7665872244347,
+        281.38627623527805
+      ],
+      [
+        439.6,
+        281.38627623527805
+      ],
+      [
+        439.6,
+        271.43198240428416
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_251_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0257"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_251",
+    "floor": 10.86697181717769,
+    "foundation_bottom_m": 10.296971817177692
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_18_02_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.75425776387803,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.494,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.061741360437843,
+    "front": 0.0,
+    "anchor": [
+      439.5,
+      281.406276235278
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      436.9985060828773,
+      284.43714691549695
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        439.5,
+        281.406276235278
+      ],
+      [
+        439.5,
+        287.4680175957159
+      ],
+      [
+        434.4970121657545,
+        287.4680175957159
+      ],
+      [
+        434.4970121657545,
+        281.406276235278
+      ]
+    ],
+    "pad_xy": [
+      [
+        439.6,
+        281.306276235278
+      ],
+      [
+        434.39701216575446,
+        281.306276235278
+      ],
+      [
+        434.39701216575446,
+        287.5680175957159
+      ],
+      [
+        439.6,
+        287.5680175957159
+      ],
+      [
+        439.6,
+        281.306276235278
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_251_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0257"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_251",
+    "floor": 10.86697181717769,
+    "foundation_bottom_m": 10.296971817177692
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_19_01_Asset13",
+    "file": "old_apartment_13.glb",
+    "source_filename": "old_apartment_13.glb",
+    "source_key": 13,
+    "uniform_scale": 16.376761785010952,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.84,
+    "source_bounds": [
+      [
+        -0.48974609375,
+        -0.3091278076171875,
+        0.0
+      ],
+      [
+        0.48974609375,
+        0.3091278076171875,
+        0.9672241806983948
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 16.040910224966783,
+    "front": 0.0,
+    "anchor": [
+      451.5,
+      287.5204551124834
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      456.56251246646934,
+      279.50000000000006
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        451.5,
+        287.5204551124834
+      ],
+      [
+        451.5,
+        271.47954488751657
+      ],
+      [
+        461.62502493293874,
+        271.47954488751657
+      ],
+      [
+        461.62502493293874,
+        287.5204551124834
+      ]
+    ],
+    "pad_xy": [
+      [
+        451.4,
+        287.6204551124834
+      ],
+      [
+        461.72502493293877,
+        287.6204551124834
+      ],
+      [
+        461.72502493293877,
+        271.37954488751654
+      ],
+      [
+        451.4,
+        271.37954488751654
+      ],
+      [
+        451.4,
+        287.6204551124834
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_252_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0258"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_252",
+    "floor": 10.86697181717769,
+    "foundation_bottom_m": 10.296971817177692
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_20_01_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.862886630179828,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.6,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.122971071149335,
+    "front": 0.0,
+    "anchor": [
+      507.5,
+      273.3060069047602
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      504.97323846755285,
+      276.3674924403349
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        507.5,
+        273.3060069047602
+      ],
+      [
+        507.5,
+        279.4289779759095
+      ],
+      [
+        502.4464769351056,
+        279.4289779759095
+      ],
+      [
+        502.4464769351056,
+        273.3060069047602
+      ]
+    ],
+    "pad_xy": [
+      [
+        507.6,
+        273.20600690476016
+      ],
+      [
+        502.34647693510556,
+        273.20600690476016
+      ],
+      [
+        502.34647693510556,
+        279.5289779759095
+      ],
+      [
+        507.6,
+        279.5289779759095
+      ],
+      [
+        507.6,
+        273.20600690476016
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_253_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0259"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_253",
+    "floor": 10.391174507539429,
+    "foundation_bottom_m": 9.82117450753943
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_20_02_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      507.5,
+      279.5489779759095
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      504.78060037886183,
+      282.6214855355746
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        507.5,
+        279.5489779759095
+      ],
+      [
+        507.5,
+        285.69399309523976
+      ],
+      [
+        502.06120075772367,
+        285.69399309523976
+      ],
+      [
+        502.06120075772367,
+        279.5489779759095
+      ]
+    ],
+    "pad_xy": [
+      [
+        507.6,
+        279.4489779759095
+      ],
+      [
+        501.96120075772365,
+        279.4489779759095
+      ],
+      [
+        501.96120075772365,
+        285.7939930952398
+      ],
+      [
+        507.6,
+        285.7939930952398
+      ],
+      [
+        507.6,
+        279.4489779759095
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_253_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0259"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_253",
+    "floor": 10.391174507539429,
+    "foundation_bottom_m": 9.82117450753943
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_21_01_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      553.5,
+      286.13533039098456
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      556.2193996211381,
+      283.06282283131947
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        553.5,
+        286.13533039098456
+      ],
+      [
+        553.5,
+        279.9903152716543
+      ],
+      [
+        558.9387992422763,
+        279.9903152716543
+      ],
+      [
+        558.9387992422763,
+        286.13533039098456
+      ]
+    ],
+    "pad_xy": [
+      [
+        553.4,
+        286.2353303909846
+      ],
+      [
+        559.0387992422764,
+        286.2353303909846
+      ],
+      [
+        559.0387992422764,
+        279.8903152716543
+      ],
+      [
+        553.4,
+        279.8903152716543
+      ],
+      [
+        553.4,
+        286.2353303909846
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_254_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0260"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_254",
+    "floor": 10.47217450753943,
+    "foundation_bottom_m": 9.902174507539431
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_21_02_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.582872588312052,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 11.3775,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 7.005645662638934,
+    "front": 0.0,
+    "anchor": [
+      553.5,
+      279.8703152716543
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      556.9354843138794,
+      276.36749244033484
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        553.5,
+        279.8703152716543
+      ],
+      [
+        553.5,
+        272.8646696090154
+      ],
+      [
+        560.370968627759,
+        272.8646696090154
+      ],
+      [
+        560.370968627759,
+        279.8703152716543
+      ]
+    ],
+    "pad_xy": [
+      [
+        553.4,
+        279.97031527165433
+      ],
+      [
+        560.470968627759,
+        279.97031527165433
+      ],
+      [
+        560.470968627759,
+        272.76466960901536
+      ],
+      [
+        553.4,
+        272.76466960901536
+      ],
+      [
+        553.4,
+        279.97031527165433
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_085_254_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0260"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_085_254",
+    "floor": 10.47217450753943,
+    "foundation_bottom_m": 9.902174507539431
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_22_01_Asset14",
+    "file": "apartment_14.glb",
+    "source_filename": "apartment_14.glb",
+    "source_key": 14,
+    "uniform_scale": 17.20107672610311,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 16.81,
+    "source_bounds": [
+      [
+        -0.3944244682788849,
+        -0.328277587890625,
+        0.0
+      ],
+      [
+        0.3944244682788849,
+        0.328277587890625,
+        0.977264404296875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 13.569051083035044,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      360.2154744584825
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      399.8532720232333,
+      367.0
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        405.5,
+        360.2154744584825
+      ],
+      [
+        405.5,
+        373.78452554151755
+      ],
+      [
+        394.2065440464666,
+        373.78452554151755
+      ],
+      [
+        394.2065440464666,
+        360.2154744584825
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.6,
+        360.1154744584825
+      ],
+      [
+        394.1065440464666,
+        360.1154744584825
+      ],
+      [
+        394.1065440464666,
+        373.8845255415176
+      ],
+      [
+        405.6,
+        373.8845255415176
+      ],
+      [
+        405.6,
+        360.1154744584825
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_255_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0220"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_255",
+    "floor": 13.657964601804387,
+    "foundation_bottom_m": 13.087964601804389
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_23_01_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.187359865784321,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.988999999999999,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.766428493670775,
+    "front": 0.0,
+    "anchor": [
+      439.5,
+      358.7985936404847
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      436.1818249065944,
+      362.1818078873201
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        439.5,
+        358.7985936404847
+      ],
+      [
+        439.5,
+        365.56502213415547
+      ],
+      [
+        432.86364981318883,
+        365.56502213415547
+      ],
+      [
+        432.86364981318883,
+        358.7985936404847
+      ]
+    ],
+    "pad_xy": [
+      [
+        439.6,
+        358.69859364048466
+      ],
+      [
+        432.7636498131888,
+        358.69859364048466
+      ],
+      [
+        432.7636498131888,
+        365.6650221341555
+      ],
+      [
+        439.6,
+        365.6650221341555
+      ],
+      [
+        439.6,
+        358.69859364048466
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_256_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0221"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_256",
+    "floor": 13.066924041548724,
+    "foundation_bottom_m": 12.496924041548725
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_23_02_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.330772366646807,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.0,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.516384225359843,
+    "front": 0.0,
+    "anchor": [
+      439.5,
+      365.6850221341555
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      435.28857913387054,
+      370.4432142468354
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        439.5,
+        365.6850221341555
+      ],
+      [
+        439.5,
+        375.2014063595153
+      ],
+      [
+        431.07715826774125,
+        375.2014063595153
+      ],
+      [
+        431.07715826774125,
+        365.6850221341555
+      ]
+    ],
+    "pad_xy": [
+      [
+        439.6,
+        365.58502213415545
+      ],
+      [
+        430.97715826774123,
+        365.58502213415545
+      ],
+      [
+        430.97715826774123,
+        375.30140635951534
+      ],
+      [
+        439.6,
+        375.30140635951534
+      ],
+      [
+        439.6,
+        365.58502213415545
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_256_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0221"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_256",
+    "floor": 13.066924041548724,
+    "foundation_bottom_m": 12.496924041548725
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_24_01_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.862886630179828,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.6,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.122971071149335,
+    "front": 0.0,
+    "anchor": [
+      451.5,
+      373.1939930952398
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      454.02676153244715,
+      370.13250755966504
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        451.5,
+        373.1939930952398
+      ],
+      [
+        451.5,
+        367.0710220240905
+      ],
+      [
+        456.5535230648944,
+        367.0710220240905
+      ],
+      [
+        456.5535230648944,
+        373.1939930952398
+      ]
+    ],
+    "pad_xy": [
+      [
+        451.4,
+        373.29399309523984
+      ],
+      [
+        456.65352306489444,
+        373.29399309523984
+      ],
+      [
+        456.65352306489444,
+        366.9710220240905
+      ],
+      [
+        451.4,
+        366.9710220240905
+      ],
+      [
+        451.4,
+        373.29399309523984
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_257_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0222"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_257",
+    "floor": 13.066924041548724,
+    "foundation_bottom_m": 12.496924041548725
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_24_02_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      451.5,
+      366.9510220240905
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      454.21939962113817,
+      363.87851446442545
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        451.5,
+        366.9510220240905
+      ],
+      [
+        451.5,
+        360.80600690476024
+      ],
+      [
+        456.93879924227633,
+        360.80600690476024
+      ],
+      [
+        456.93879924227633,
+        366.9510220240905
+      ]
+    ],
+    "pad_xy": [
+      [
+        451.4,
+        367.0510220240905
+      ],
+      [
+        457.03879924227635,
+        367.0510220240905
+      ],
+      [
+        457.03879924227635,
+        360.7060069047602
+      ],
+      [
+        451.4,
+        360.7060069047602
+      ],
+      [
+        451.4,
+        367.0510220240905
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_257_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0222"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_257",
+    "floor": 13.066924041548724,
+    "foundation_bottom_m": 12.496924041548725
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_25_01_Asset15",
+    "file": "historic_building_facade_15.glb",
+    "source_filename": "historic_building_facade_15.glb",
+    "source_key": 15,
+    "uniform_scale": 21.76507556850573,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.485999999999999,
+    "source_bounds": [
+      [
+        -0.4900665581226349,
+        -0.24620820581912994,
+        0.0
+      ],
+      [
+        0.4900665581226349,
+        0.24620820581912994,
+        0.481781005859375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 21.332671342273308,
+    "front": 0.0,
+    "anchor": [
+      507.5,
+      356.33366432886334
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      502.14125979476046,
+      366.99999999999994
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        507.5,
+        356.33366432886334
+      ],
+      [
+        507.5,
+        377.66633567113666
+      ],
+      [
+        496.78251958952086,
+        377.66633567113666
+      ],
+      [
+        496.78251958952086,
+        356.33366432886334
+      ]
+    ],
+    "pad_xy": [
+      [
+        507.6,
+        356.2336643288633
+      ],
+      [
+        496.68251958952084,
+        356.2336643288633
+      ],
+      [
+        496.68251958952084,
+        377.7663356711367
+      ],
+      [
+        507.6,
+        377.7663356711367
+      ],
+      [
+        507.6,
+        356.2336643288633
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_258_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0223"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_258",
+    "floor": 12.72365849184021,
+    "foundation_bottom_m": 12.153658491840211
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_26_01_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.639041675812976,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.299999999999999,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.754293830993838,
+    "front": 0.0,
+    "anchor": [
+      553.5,
+      374.9680175957158
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      557.8167063877827,
+      370.09087068021887
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        553.5,
+        374.9680175957158
+      ],
+      [
+        553.5,
+        365.213723764722
+      ],
+      [
+        562.1334127755653,
+        365.213723764722
+      ],
+      [
+        562.1334127755653,
+        374.9680175957158
+      ]
+    ],
+    "pad_xy": [
+      [
+        553.4,
+        375.06801759571584
+      ],
+      [
+        562.2334127755653,
+        375.06801759571584
+      ],
+      [
+        562.2334127755653,
+        365.11372376472195
+      ],
+      [
+        553.4,
+        365.11372376472195
+      ],
+      [
+        553.4,
+        375.06801759571584
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_259_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0224"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_259",
+    "floor": 12.804658491840211,
+    "foundation_bottom_m": 12.234658491840213
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_26_02_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.75425776387803,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.494,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.061741360437843,
+    "front": 0.0,
+    "anchor": [
+      553.5,
+      365.093723764722
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      556.0014939171227,
+      362.06285308450293
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        553.5,
+        365.093723764722
+      ],
+      [
+        553.5,
+        359.0319824042841
+      ],
+      [
+        558.5029878342455,
+        359.0319824042841
+      ],
+      [
+        558.5029878342455,
+        365.093723764722
+      ]
+    ],
+    "pad_xy": [
+      [
+        553.4,
+        365.193723764722
+      ],
+      [
+        558.6029878342455,
+        365.193723764722
+      ],
+      [
+        558.6029878342455,
+        358.9319824042841
+      ],
+      [
+        553.4,
+        358.9319824042841
+      ],
+      [
+        553.4,
+        365.193723764722
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_079_259_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0224"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_079_259",
+    "floor": 12.804658491840211,
+    "foundation_bottom_m": 12.234658491840213
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_27_01_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.187359865784321,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.988999999999999,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.766428493670775,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      158.79859364048468
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      402.18182490659444,
+      162.18180788732008
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        405.5,
+        158.79859364048468
+      ],
+      [
+        405.5,
+        165.56502213415547
+      ],
+      [
+        398.86364981318883,
+        165.56502213415547
+      ],
+      [
+        398.86364981318883,
+        158.79859364048468
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.6,
+        158.6985936404847
+      ],
+      [
+        398.7636498131888,
+        158.6985936404847
+      ],
+      [
+        398.7636498131888,
+        165.66502213415546
+      ],
+      [
+        405.6,
+        165.66502213415546
+      ],
+      [
+        405.6,
+        158.6985936404847
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_260_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0237"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_260",
+    "floor": 6.750116835854832,
+    "foundation_bottom_m": 6.1801168358548315
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_27_02_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.330772366646807,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.0,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.516384225359843,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      165.68502213415545
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      401.28857913387054,
+      170.44321424683537
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        405.5,
+        165.68502213415545
+      ],
+      [
+        405.5,
+        175.2014063595153
+      ],
+      [
+        397.07715826774125,
+        175.2014063595153
+      ],
+      [
+        397.07715826774125,
+        165.68502213415545
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.6,
+        165.58502213415545
+      ],
+      [
+        396.97715826774123,
+        165.58502213415545
+      ],
+      [
+        396.97715826774123,
+        175.30140635951528
+      ],
+      [
+        405.6,
+        175.30140635951528
+      ],
+      [
+        405.6,
+        165.58502213415545
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_260_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0237"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_260",
+    "floor": 6.750116835854832,
+    "foundation_bottom_m": 6.1801168358548315
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_28_01_Asset13",
+    "file": "old_apartment_13.glb",
+    "source_filename": "old_apartment_13.glb",
+    "source_key": 13,
+    "uniform_scale": 16.542183621223185,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 16.0,
+    "source_bounds": [
+      [
+        -0.48974609375,
+        -0.3091278076171875,
+        0.0
+      ],
+      [
+        0.48974609375,
+        0.3091278076171875,
+        0.9672241806983948
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 16.20293962117857,
+    "front": 0.0,
+    "anchor": [
+      439.5,
+      158.8985301894107
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      434.3863510439703,
+      167.0
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        439.5,
+        158.8985301894107
+      ],
+      [
+        439.5,
+        175.10146981058926
+      ],
+      [
+        429.2727020879407,
+        175.10146981058926
+      ],
+      [
+        429.2727020879407,
+        158.8985301894107
+      ]
+    ],
+    "pad_xy": [
+      [
+        439.6,
+        158.7985301894107
+      ],
+      [
+        429.17270208794065,
+        158.7985301894107
+      ],
+      [
+        429.17270208794065,
+        175.20146981058926
+      ],
+      [
+        439.6,
+        175.20146981058926
+      ],
+      [
+        439.6,
+        158.7985301894107
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_261_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0238"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_261",
+    "floor": 6.825530989448441,
+    "foundation_bottom_m": 6.009080420344927
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_29_01_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      451.5,
+      173.6353303909846
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      454.21939962113817,
+      170.56282283131952
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        451.5,
+        173.6353303909846
+      ],
+      [
+        451.5,
+        167.49031527165434
+      ],
+      [
+        456.93879924227633,
+        167.49031527165434
+      ],
+      [
+        456.93879924227633,
+        173.6353303909846
+      ]
+    ],
+    "pad_xy": [
+      [
+        451.4,
+        173.7353303909846
+      ],
+      [
+        457.03879924227635,
+        173.7353303909846
+      ],
+      [
+        457.03879924227635,
+        167.39031527165434
+      ],
+      [
+        451.4,
+        167.39031527165434
+      ],
+      [
+        451.4,
+        173.7353303909846
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_262_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0239"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_262",
+    "floor": 6.825530989448441,
+    "foundation_bottom_m": 6.255530989448441
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_29_02_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.582872588312052,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 11.3775,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 7.005645662638934,
+    "front": 0.0,
+    "anchor": [
+      451.5,
+      167.37031527165433
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      454.9354843138795,
+      163.86749244033487
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        451.5,
+        167.37031527165433
+      ],
+      [
+        451.5,
+        160.3646696090154
+      ],
+      [
+        458.370968627759,
+        160.3646696090154
+      ],
+      [
+        458.370968627759,
+        167.37031527165433
+      ]
+    ],
+    "pad_xy": [
+      [
+        451.4,
+        167.47031527165433
+      ],
+      [
+        458.470968627759,
+        167.47031527165433
+      ],
+      [
+        458.470968627759,
+        160.2646696090154
+      ],
+      [
+        451.4,
+        160.2646696090154
+      ],
+      [
+        451.4,
+        167.47031527165433
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_262_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0239"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_262",
+    "floor": 6.825530989448441,
+    "foundation_bottom_m": 5.965906948394159
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_30_01_Asset18",
+    "file": "apartment_building_18.glb",
+    "source_filename": "apartment_building_18.glb",
+    "source_key": 18,
+    "uniform_scale": 12.639041675812976,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.299999999999999,
+    "source_bounds": [
+      [
+        -0.3858794867992401,
+        -0.3415374755859375,
+        0.0
+      ],
+      [
+        0.3858794867992401,
+        0.3415374755859375,
+        0.973175048828125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 9.754293830993838,
+    "front": 0.0,
+    "anchor": [
+      507.5,
+      159.03198240428415
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      503.18329361221737,
+      163.90912931978107
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        507.5,
+        159.03198240428415
+      ],
+      [
+        507.5,
+        168.786276235278
+      ],
+      [
+        498.86658722443474,
+        168.786276235278
+      ],
+      [
+        498.86658722443474,
+        159.03198240428415
+      ]
+    ],
+    "pad_xy": [
+      [
+        507.6,
+        158.93198240428416
+      ],
+      [
+        498.7665872244347,
+        158.93198240428416
+      ],
+      [
+        498.7665872244347,
+        168.886276235278
+      ],
+      [
+        507.6,
+        168.886276235278
+      ],
+      [
+        507.6,
+        158.93198240428416
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_263_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0240"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_263",
+    "floor": 6.055496642856775,
+    "foundation_bottom_m": 5.485496642856774
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_30_02_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.75425776387803,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.494,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.061741360437843,
+    "front": 0.0,
+    "anchor": [
+      507.5,
+      168.906276235278
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      504.99850608287727,
+      171.93714691549692
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        507.5,
+        168.906276235278
+      ],
+      [
+        507.5,
+        174.96801759571585
+      ],
+      [
+        502.4970121657545,
+        174.96801759571585
+      ],
+      [
+        502.4970121657545,
+        168.906276235278
+      ]
+    ],
+    "pad_xy": [
+      [
+        507.6,
+        168.806276235278
+      ],
+      [
+        502.39701216575446,
+        168.806276235278
+      ],
+      [
+        502.39701216575446,
+        175.06801759571584
+      ],
+      [
+        507.6,
+        175.06801759571584
+      ],
+      [
+        507.6,
+        168.806276235278
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_263_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0240"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_263",
+    "floor": 6.055496642856775,
+    "foundation_bottom_m": 5.485496642856774
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_31_01_Asset14",
+    "file": "apartment_14.glb",
+    "source_filename": "apartment_14.glb",
+    "source_key": 14,
+    "uniform_scale": 16.6137228866752,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 16.235999999999997,
+    "source_bounds": [
+      [
+        -0.3944244682788849,
+        -0.328277587890625,
+        0.0
+      ],
+      [
+        0.3944244682788849,
+        0.328277587890625,
+        0.977264404296875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 13.10571763141921,
+    "front": 0.0,
+    "anchor": [
+      553.5,
+      173.5528588157096
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      558.953912875121,
+      166.99999999999997
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        553.5,
+        173.5528588157096
+      ],
+      [
+        553.5,
+        160.4471411842904
+      ],
+      [
+        564.407825750242,
+        160.4471411842904
+      ],
+      [
+        564.407825750242,
+        173.5528588157096
+      ]
+    ],
+    "pad_xy": [
+      [
+        553.4,
+        173.6528588157096
+      ],
+      [
+        564.507825750242,
+        173.6528588157096
+      ],
+      [
+        564.507825750242,
+        160.3471411842904
+      ],
+      [
+        553.4,
+        160.3471411842904
+      ],
+      [
+        553.4,
+        173.6528588157096
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_082_264_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0241"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_082_264",
+    "floor": 5.702861910725718,
+    "foundation_bottom_m": 5.1275660266234295
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_32_01_Asset17",
+    "file": "old_building_17.glb",
+    "source_filename": "old_building_17.glb",
+    "source_key": 17,
+    "uniform_scale": 10.862886630179828,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.6,
+    "source_bounds": [
+      [
+        -0.281829833984375,
+        -0.23260498046875,
+        0.0
+      ],
+      [
+        0.281829833984375,
+        0.23260498046875,
+        0.975799560546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.122971071149335,
+    "front": 0.0,
+    "anchor": [
+      -134.5,
+      273.3060069047602
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -137.0267615324472,
+      276.36749244033484
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -134.5,
+        273.3060069047602
+      ],
+      [
+        -134.5,
+        279.4289779759095
+      ],
+      [
+        -139.55352306489445,
+        279.4289779759095
+      ],
+      [
+        -139.55352306489445,
+        273.3060069047602
+      ]
+    ],
+    "pad_xy": [
+      [
+        -134.4,
+        273.20600690476016
+      ],
+      [
+        -139.65352306489444,
+        273.20600690476016
+      ],
+      [
+        -139.65352306489444,
+        279.5289779759095
+      ],
+      [
+        -134.4,
+        279.5289779759095
+      ],
+      [
+        -134.4,
+        273.20600690476016
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_060_265_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0111"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_060_265",
+    "floor": 12.030346346074976,
+    "foundation_bottom_m": 11.460346346074978
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_32_02_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      -134.5,
+      279.5489779759095
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -137.21939962113817,
+      282.6214855355746
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -134.5,
+        279.5489779759095
+      ],
+      [
+        -134.5,
+        285.69399309523976
+      ],
+      [
+        -139.93879924227633,
+        285.69399309523976
+      ],
+      [
+        -139.93879924227633,
+        279.5489779759095
+      ]
+    ],
+    "pad_xy": [
+      [
+        -134.4,
+        279.4489779759095
+      ],
+      [
+        -140.03879924227633,
+        279.4489779759095
+      ],
+      [
+        -140.03879924227633,
+        285.7939930952398
+      ],
+      [
+        -134.4,
+        285.7939930952398
+      ],
+      [
+        -134.4,
+        279.4489779759095
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_060_265_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0111"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_060_265",
+    "floor": 12.030346346074976,
+    "foundation_bottom_m": 11.460346346074978
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_33_01_Asset20",
+    "file": "urban_building_facade_20.glb",
+    "source_filename": "urban_building_facade_20.glb",
+    "source_key": 20,
+    "uniform_scale": 10.833953267524677,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 10.584,
+    "source_bounds": [
+      [
+        -0.283599853515625,
+        -0.2510071396827698,
+        0.0
+      ],
+      [
+        0.283599853515625,
+        0.2510071396827698,
+        0.9769287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 6.1450151193302505,
+    "front": 0.0,
+    "anchor": [
+      -134.5,
+      360.36466960901544
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -137.21939962113817,
+      363.43717716868053
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -134.5,
+        360.36466960901544
+      ],
+      [
+        -134.5,
+        366.5096847283457
+      ],
+      [
+        -139.93879924227633,
+        366.5096847283457
+      ],
+      [
+        -139.93879924227633,
+        360.36466960901544
+      ]
+    ],
+    "pad_xy": [
+      [
+        -134.4,
+        360.2646696090154
+      ],
+      [
+        -140.03879924227633,
+        360.2646696090154
+      ],
+      [
+        -140.03879924227633,
+        366.6096847283457
+      ],
+      [
+        -134.4,
+        366.6096847283457
+      ],
+      [
+        -134.4,
+        360.2646696090154
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_054_266_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0057"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_054_266",
+    "floor": 13.474985030979905,
+    "foundation_bottom_m": 12.904985030979907
+  },
+  {
+    "instance_name": "OLDTOWN_Rear_33_02_Asset19",
+    "file": "old_italian_townhouse_19.glb",
+    "source_filename": "old_italian_townhouse_19.glb",
+    "source_key": 19,
+    "uniform_scale": 11.582872588312052,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 11.3775,
+    "source_bounds": [
+      [
+        -0.3024140000343323,
+        -0.2966003715991974,
+        0.0
+      ],
+      [
+        0.3024140000343323,
+        0.2966003715991974,
+        0.982269287109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 7.005645662638934,
+    "front": 0.0,
+    "anchor": [
+      -134.5,
+      366.6296847283457
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -137.93548431387953,
+      370.13250755966516
+    ],
+    "region": "MAIN",
+    "footprint_xy": [
+      [
+        -134.5,
+        366.6296847283457
+      ],
+      [
+        -134.5,
+        373.6353303909846
+      ],
+      [
+        -141.37096862775903,
+        373.6353303909846
+      ],
+      [
+        -141.37096862775903,
+        366.6296847283457
+      ]
+    ],
+    "pad_xy": [
+      [
+        -134.4,
+        366.52968472834567
+      ],
+      [
+        -141.47096862775902,
+        366.52968472834567
+      ],
+      [
+        -141.47096862775902,
+        373.73533039098464
+      ],
+      [
+        -134.4,
+        373.73533039098464
+      ],
+      [
+        -134.4,
+        366.52968472834567
+      ]
+    ],
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "access_alley": "REAR_054_266_Entry_Walk",
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "replaces_placeholder_sites": [
+      "MAIN_OLDTOWN_0057"
+    ],
+    "reuse_rotation_only_no_mirror": true,
+    "row_name": "REAR_054_266",
+    "floor": 13.474985030979905,
+    "foundation_bottom_m": 12.904985030979907
   }
 ]

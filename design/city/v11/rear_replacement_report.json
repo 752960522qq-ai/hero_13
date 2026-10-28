@@ -1,0 +1,833 @@
+{
+  "status": "built",
+  "all_35_rear_placeholders_removed": true,
+  "instances_added": 60,
+  "rear_instances_including_existing": 62,
+  "total_city_buildings": 665,
+  "linked_mesh_reuse": true,
+  "sources": {
+    "20": 12,
+    "19": 12,
+    "18": 12,
+    "17": 12,
+    "15": 4,
+    "13": 4,
+    "14": 4
+  },
+  "connections": [
+    {
+      "name": "REAR_068_Original_Extension",
+      "goal_name": "MAIN_BACKLANE_SOURCE_HOUSES",
+      "goal_kind": "alley",
+      "points": [
+        [
+          269.9462935629036,
+          261.72499999999997
+        ],
+        [
+          269.9462935629036,
+          260.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 1.724999999999966,
+      "floor": 10.215494397712405,
+      "goal_z": 10.187494397712404,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_00_01_Asset20",
+        "OLDTOWN_Rear_00_02_Asset19",
+        "OLDTOWN_Rear_00_03_Asset18",
+        "OLDTOWN_Rear_00_04_Asset17",
+        "OLDTOWN_Rear_00_05_Asset15"
+      ]
+    },
+    {
+      "name": "REAR_067_234",
+      "goal_name": "MAIN_REBUILT_LANE_024",
+      "goal_kind": "alley",
+      "points": [
+        [
+          246.1,
+          367.0
+        ],
+        [
+          269.25,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 23.150000000000006,
+      "floor": 12.721740574351978,
+      "goal_z": 13.054459387678776,
+      "longitudinal_grade": 0.015581806191222382,
+      "source_buildings": [
+        "OLDTOWN_Rear_01_01_Asset13"
+      ]
+    },
+    {
+      "name": "REAR_067_235",
+      "goal_name": "MAIN_REBUILT_LANE_024",
+      "goal_kind": "alley",
+      "points": [
+        [
+          287.9,
+          367.0
+        ],
+        [
+          269.25,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 18.649999999999977,
+      "floor": 12.923183807316684,
+      "goal_z": 13.054459387678776,
+      "longitudinal_grade": 0.008540245595822626,
+      "source_buildings": [
+        "OLDTOWN_Rear_02_01_Asset18",
+        "OLDTOWN_Rear_02_02_Asset17"
+      ]
+    },
+    {
+      "name": "REAR_069_236",
+      "goal_name": "MAIN_REBUILT_LANE_009",
+      "goal_kind": "alley",
+      "points": [
+        [
+          246.1,
+          167.0
+        ],
+        [
+          269.25,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 23.150000000000006,
+      "floor": 7.684082751517533,
+      "goal_z": 7.594676116238619,
+      "longitudinal_grade": 0.0026525544396938986,
+      "source_buildings": [
+        "OLDTOWN_Rear_03_01_Asset19",
+        "OLDTOWN_Rear_03_02_Asset18"
+      ]
+    },
+    {
+      "name": "REAR_069_237",
+      "goal_name": "MAIN_REBUILT_LANE_009",
+      "goal_kind": "alley",
+      "points": [
+        [
+          287.9,
+          167.0
+        ],
+        [
+          269.25,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 18.649999999999977,
+      "floor": 7.434022699096606,
+      "goal_z": 7.594676116238619,
+      "longitudinal_grade": 0.010115464726113304,
+      "source_buildings": [
+        "OLDTOWN_Rear_04_01_Asset14"
+      ]
+    },
+    {
+      "name": "REAR_030_238",
+      "goal_name": "MAIN_NS_-50_right",
+      "goal_kind": "sidewalk",
+      "points": [
+        [
+          -7.0,
+          265.4
+        ],
+        [
+          -7.0,
+          257.4
+        ],
+        [
+          -46.0,
+          257.4
+        ]
+      ],
+      "width": 3.6,
+      "length": 47.0,
+      "floor": 11.16565721321106,
+      "goal_z": 10.07515721321106,
+      "longitudinal_grade": 0.022606382978723406,
+      "source_buildings": [
+        "OLDTOWN_Rear_05_01_Asset20",
+        "OLDTOWN_Rear_05_02_Asset19"
+      ]
+    },
+    {
+      "name": "REAR_030_239",
+      "goal_name": "MAIN_EW_230_left",
+      "goal_kind": "sidewalk",
+      "points": [
+        [
+          27.0,
+          265.4
+        ],
+        [
+          27.0,
+          236.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 29.399999999999977,
+      "floor": 10.344970405578612,
+      "goal_z": 9.694470405578613,
+      "longitudinal_grade": 0.021173469387755075,
+      "source_buildings": [
+        "OLDTOWN_Rear_06_01_Asset18",
+        "OLDTOWN_Rear_06_02_Asset17"
+      ]
+    },
+    {
+      "name": "REAR_029_240",
+      "goal_name": "MAIN_REBUILT_LANE_022",
+      "goal_kind": "alley",
+      "points": [
+        [
+          6.1,
+          367.0
+        ],
+        [
+          12.5,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 6.4,
+      "floor": 12.874845606624321,
+      "goal_z": 12.89434560662432,
+      "longitudinal_grade": 0.007421874999999911,
+      "source_buildings": [
+        "OLDTOWN_Rear_07_01_Asset15"
+      ]
+    },
+    {
+      "name": "REAR_029_241",
+      "goal_name": "MAIN_REBUILT_LANE_022",
+      "goal_kind": "alley",
+      "points": [
+        [
+          13.9,
+          367.0
+        ],
+        [
+          12.5,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 1.4000000000000004,
+      "floor": 12.92234560662432,
+      "goal_z": 12.89434560662432,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_08_01_Asset17",
+        "OLDTOWN_Rear_08_02_Asset20"
+      ]
+    },
+    {
+      "name": "REAR_066_242",
+      "goal_name": "MAIN_REBUILT_LANE_032",
+      "goal_kind": "alley",
+      "points": [
+        [
+          246.1,
+          459.5
+        ],
+        [
+          269.25,
+          459.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 23.150000000000006,
+      "floor": 14.001955846944591,
+      "goal_z": 14.194479671130198,
+      "longitudinal_grade": 0.00952586713544738,
+      "source_buildings": [
+        "OLDTOWN_Rear_09_01_Asset20",
+        "OLDTOWN_Rear_09_02_Asset19"
+      ]
+    },
+    {
+      "name": "REAR_066_243",
+      "goal_name": "MAIN_REBUILT_LANE_032",
+      "goal_kind": "alley",
+      "points": [
+        [
+          287.9,
+          459.5
+        ],
+        [
+          269.25,
+          459.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 18.649999999999977,
+      "floor": 14.29052850541579,
+      "goal_z": 14.194479671130198,
+      "longitudinal_grade": 0.003648731060889599,
+      "source_buildings": [
+        "OLDTOWN_Rear_10_01_Asset13"
+      ]
+    },
+    {
+      "name": "REAR_031_244",
+      "goal_name": "MAIN_REBUILT_LANE_007",
+      "goal_kind": "alley",
+      "points": [
+        [
+          6.1,
+          167.0
+        ],
+        [
+          12.5,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 6.4,
+      "floor": 8.571991416626382,
+      "goal_z": 8.496491416626382,
+      "longitudinal_grade": 0.007421874999999911,
+      "source_buildings": [
+        "OLDTOWN_Rear_11_01_Asset19",
+        "OLDTOWN_Rear_11_02_Asset18"
+      ]
+    },
+    {
+      "name": "REAR_031_245",
+      "goal_name": "MAIN_REBUILT_LANE_007",
+      "goal_kind": "alley",
+      "points": [
+        [
+          13.9,
+          167.0
+        ],
+        [
+          12.5,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 1.4000000000000004,
+      "floor": 8.524491416626383,
+      "goal_z": 8.496491416626382,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_12_01_Asset17",
+        "OLDTOWN_Rear_12_02_Asset20"
+      ]
+    },
+    {
+      "name": "REAR_077_246",
+      "goal_name": "MAIN_REBUILT_LANE_030",
+      "goal_kind": "alley",
+      "points": [
+        [
+          6.1,
+          459.5
+        ],
+        [
+          12.499999999999993,
+          459.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 6.399999999999993,
+      "floor": 14.176448253811856,
+      "goal_z": 14.195948253811855,
+      "longitudinal_grade": 0.007421874999999919,
+      "source_buildings": [
+        "OLDTOWN_Rear_13_01_Asset14"
+      ]
+    },
+    {
+      "name": "REAR_077_247",
+      "goal_name": "MAIN_REBUILT_LANE_030",
+      "goal_kind": "alley",
+      "points": [
+        [
+          13.9,
+          459.5
+        ],
+        [
+          12.499999999999993,
+          459.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 1.4000000000000075,
+      "floor": 14.223948253811855,
+      "goal_z": 14.195948253811855,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_14_01_Asset18",
+        "OLDTOWN_Rear_14_02_Asset17"
+      ]
+    },
+    {
+      "name": "REAR_032_248",
+      "goal_name": "MAIN_COASTAL_RING_right",
+      "goal_kind": "sidewalk",
+      "points": [
+        [
+          -7.0,
+          33.25051679168664
+        ],
+        [
+          -4.2195417000039,
+          7.359954859383594
+        ]
+      ],
+      "width": 3.6,
+      "length": 26.039434431808175,
+      "floor": 4.550555066556839,
+      "goal_z": 3.9840692057616347,
+      "longitudinal_grade": 0.020679629667279705,
+      "source_buildings": [
+        "OLDTOWN_Rear_15_01_Asset19",
+        "OLDTOWN_Rear_15_02_Asset18"
+      ]
+    },
+    {
+      "name": "REAR_032_249",
+      "goal_name": "MAIN_COASTAL_RING_right",
+      "goal_kind": "sidewalk",
+      "points": [
+        [
+          27.0,
+          33.25051679168664
+        ],
+        [
+          30.08011059699179,
+          11.67605597181359
+        ]
+      ],
+      "width": 3.6,
+      "length": 21.79322006858873,
+      "floor": 4.29851713198641,
+      "goal_z": 3.9832613213940107,
+      "longitudinal_grade": 0.013180971407085936,
+      "source_buildings": [
+        "OLDTOWN_Rear_16_01_Asset15"
+      ]
+    },
+    {
+      "name": "REAR_085_250",
+      "goal_name": "MAIN_REBUILT_LANE_017",
+      "goal_kind": "alley",
+      "points": [
+        [
+          407.6,
+          279.5
+        ],
+        [
+          445.225,
+          295.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 40.88570196291119,
+      "floor": 11.34345761357993,
+      "goal_z": 11.48561709142221,
+      "longitudinal_grade": 0.004161833346939645,
+      "source_buildings": [
+        "OLDTOWN_Rear_17_01_Asset20",
+        "OLDTOWN_Rear_17_02_Asset19"
+      ]
+    },
+    {
+      "name": "REAR_085_251",
+      "goal_name": "MAIN_REBUILT_LANE_017",
+      "goal_kind": "alley",
+      "points": [
+        [
+          441.6,
+          279.5
+        ],
+        [
+          445.225,
+          279.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 3.625,
+      "floor": 10.86697181717769,
+      "goal_z": 10.83897181717769,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_18_01_Asset18",
+        "OLDTOWN_Rear_18_02_Asset17"
+      ]
+    },
+    {
+      "name": "REAR_085_252",
+      "goal_name": "MAIN_REBUILT_LANE_017",
+      "goal_kind": "alley",
+      "points": [
+        [
+          449.4,
+          279.5
+        ],
+        [
+          445.225,
+          279.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 4.1749999999999545,
+      "floor": 10.86697181717769,
+      "goal_z": 10.83897181717769,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_19_01_Asset13"
+      ]
+    },
+    {
+      "name": "REAR_085_253",
+      "goal_name": "MAIN_REBUILT_LANE_018",
+      "goal_kind": "alley",
+      "points": [
+        [
+          509.6,
+          279.5
+        ],
+        [
+          528.88,
+          279.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 19.279999999999973,
+      "floor": 10.391174507539429,
+      "goal_z": 9.99367450753943,
+      "longitudinal_grade": 0.019164937759336056,
+      "source_buildings": [
+        "OLDTOWN_Rear_20_01_Asset17",
+        "OLDTOWN_Rear_20_02_Asset20"
+      ]
+    },
+    {
+      "name": "REAR_085_254",
+      "goal_name": "MAIN_REBUILT_LANE_018",
+      "goal_kind": "alley",
+      "points": [
+        [
+          551.4,
+          279.5
+        ],
+        [
+          528.88,
+          279.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 22.519999999999982,
+      "floor": 10.47217450753943,
+      "goal_z": 9.99367450753943,
+      "longitudinal_grade": 0.020004440497335713,
+      "source_buildings": [
+        "OLDTOWN_Rear_21_01_Asset20",
+        "OLDTOWN_Rear_21_02_Asset19"
+      ]
+    },
+    {
+      "name": "REAR_079_255",
+      "goal_name": "MAIN_REBUILT_LANE_025",
+      "goal_kind": "alley",
+      "points": [
+        [
+          407.6,
+          367.0
+        ],
+        [
+          445.225,
+          351.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 40.88570196291119,
+      "floor": 13.657964601804387,
+      "goal_z": 12.748755152092379,
+      "longitudinal_grade": 0.02155299792850281,
+      "source_buildings": [
+        "OLDTOWN_Rear_22_01_Asset14"
+      ]
+    },
+    {
+      "name": "REAR_079_256",
+      "goal_name": "MAIN_REBUILT_LANE_025",
+      "goal_kind": "alley",
+      "points": [
+        [
+          441.6,
+          367.0
+        ],
+        [
+          445.225,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 3.625,
+      "floor": 13.066924041548724,
+      "goal_z": 13.038924041548723,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_23_01_Asset19",
+        "OLDTOWN_Rear_23_02_Asset18"
+      ]
+    },
+    {
+      "name": "REAR_079_257",
+      "goal_name": "MAIN_REBUILT_LANE_025",
+      "goal_kind": "alley",
+      "points": [
+        [
+          449.4,
+          367.0
+        ],
+        [
+          445.225,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 4.1749999999999545,
+      "floor": 13.066924041548724,
+      "goal_z": 13.038924041548723,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_24_01_Asset17",
+        "OLDTOWN_Rear_24_02_Asset20"
+      ]
+    },
+    {
+      "name": "REAR_079_258",
+      "goal_name": "MAIN_REBUILT_LANE_026",
+      "goal_kind": "alley",
+      "points": [
+        [
+          509.6,
+          367.0
+        ],
+        [
+          528.88,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 19.279999999999973,
+      "floor": 12.72365849184021,
+      "goal_z": 12.32615849184021,
+      "longitudinal_grade": 0.019164937759336056,
+      "source_buildings": [
+        "OLDTOWN_Rear_25_01_Asset15"
+      ]
+    },
+    {
+      "name": "REAR_079_259",
+      "goal_name": "MAIN_REBUILT_LANE_026",
+      "goal_kind": "alley",
+      "points": [
+        [
+          551.4,
+          367.0
+        ],
+        [
+          528.88,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 22.519999999999982,
+      "floor": 12.804658491840211,
+      "goal_z": 12.32615849184021,
+      "longitudinal_grade": 0.020004440497335713,
+      "source_buildings": [
+        "OLDTOWN_Rear_26_01_Asset18",
+        "OLDTOWN_Rear_26_02_Asset17"
+      ]
+    },
+    {
+      "name": "REAR_082_260",
+      "goal_name": "MAIN_REBUILT_LANE_010",
+      "goal_kind": "alley",
+      "points": [
+        [
+          407.6,
+          167.0
+        ],
+        [
+          445.225,
+          143.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 44.62780103254024,
+      "floor": 6.750116835854832,
+      "goal_z": 5.786052920683284,
+      "longitudinal_grade": 0.02097490563088734,
+      "source_buildings": [
+        "OLDTOWN_Rear_27_01_Asset19",
+        "OLDTOWN_Rear_27_02_Asset18"
+      ]
+    },
+    {
+      "name": "REAR_082_261",
+      "goal_name": "MAIN_REBUILT_LANE_010",
+      "goal_kind": "alley",
+      "points": [
+        [
+          441.6,
+          167.0
+        ],
+        [
+          445.225,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 3.625,
+      "floor": 6.825530989448441,
+      "goal_z": 6.7975309894484415,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_28_01_Asset13"
+      ]
+    },
+    {
+      "name": "REAR_082_262",
+      "goal_name": "MAIN_REBUILT_LANE_010",
+      "goal_kind": "alley",
+      "points": [
+        [
+          449.4,
+          167.0
+        ],
+        [
+          445.225,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 4.1749999999999545,
+      "floor": 6.825530989448441,
+      "goal_z": 6.7975309894484415,
+      "longitudinal_grade": 0.0,
+      "source_buildings": [
+        "OLDTOWN_Rear_29_01_Asset20",
+        "OLDTOWN_Rear_29_02_Asset19"
+      ]
+    },
+    {
+      "name": "REAR_082_263",
+      "goal_name": "MAIN_REBUILT_LANE_011",
+      "goal_kind": "alley",
+      "points": [
+        [
+          509.6,
+          167.0
+        ],
+        [
+          528.88,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 19.279999999999973,
+      "floor": 6.055496642856775,
+      "goal_z": 5.919350834013473,
+      "longitudinal_grade": 0.005609222450378745,
+      "source_buildings": [
+        "OLDTOWN_Rear_30_01_Asset18",
+        "OLDTOWN_Rear_30_02_Asset17"
+      ]
+    },
+    {
+      "name": "REAR_082_264",
+      "goal_name": "MAIN_REBUILT_LANE_011",
+      "goal_kind": "alley",
+      "points": [
+        [
+          551.4,
+          167.0
+        ],
+        [
+          528.88,
+          167.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 22.519999999999982,
+      "floor": 5.702861910725718,
+      "goal_z": 5.919350834013473,
+      "longitudinal_grade": 0.010856524124678264,
+      "source_buildings": [
+        "OLDTOWN_Rear_31_01_Asset14"
+      ]
+    },
+    {
+      "name": "REAR_060_265",
+      "goal_name": "MAIN_REBUILT_LANE_015",
+      "goal_kind": "alley",
+      "points": [
+        [
+          -132.4,
+          279.5
+        ],
+        [
+          -119.25,
+          279.5
+        ]
+      ],
+      "width": 3.6,
+      "length": 13.150000000000006,
+      "floor": 12.030346346074976,
+      "goal_z": 11.786096346074975,
+      "longitudinal_grade": 0.016444866920152124,
+      "source_buildings": [
+        "OLDTOWN_Rear_32_01_Asset17",
+        "OLDTOWN_Rear_32_02_Asset20"
+      ]
+    },
+    {
+      "name": "REAR_054_266",
+      "goal_name": "MAIN_REBUILT_LANE_021",
+      "goal_kind": "alley",
+      "points": [
+        [
+          -132.4,
+          367.0
+        ],
+        [
+          -119.25,
+          367.0
+        ]
+      ],
+      "width": 3.6,
+      "length": 13.150000000000006,
+      "floor": 13.474985030979905,
+      "goal_z": 13.292319061720255,
+      "longitudinal_grade": 0.011761670666133069,
+      "source_buildings": [
+        "OLDTOWN_Rear_33_01_Asset20",
+        "OLDTOWN_Rear_33_02_Asset19"
+      ]
+    }
+  ],
+  "land_area_unchanged_m2": 3250000.0000000037,
+  "retained_original_assets": 15
+}

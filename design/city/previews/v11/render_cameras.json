@@ -1,0 +1,74 @@
+[
+  {
+    "name": "01_rear_five_added",
+    "location": [
+      266,
+      230,
+      50
+    ],
+    "target": [
+      274,
+      266,
+      16
+    ],
+    "ortho_scale": 93,
+    "resolution": [
+      1900,
+      1250
+    ]
+  },
+  {
+    "name": "02_alley_eye_level",
+    "location": [
+      244.5,
+      258.9,
+      12.1
+    ],
+    "target": [
+      292,
+      263,
+      13.6
+    ],
+    "ortho_scale": null,
+    "resolution": [
+      1800,
+      1150
+    ]
+  },
+  {
+    "name": "03_reused_rear_houses",
+    "location": [
+      -22,
+      249,
+      55
+    ],
+    "target": [
+      11,
+      279,
+      16
+    ],
+    "ortho_scale": 104,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "04_oldtown_overview",
+    "location": [
+      10,
+      -160,
+      630
+    ],
+    "target": [
+      110,
+      285,
+      12
+    ],
+    "ortho_scale": 1040,
+    "resolution": [
+      1900,
+      1400
+    ]
+  }
+]

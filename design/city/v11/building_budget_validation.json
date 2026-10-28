@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "maximum_buildings_exclusive": 700,
+  "total": 665,
+  "independent_placeholder_footprints": 590,
+  "original_source_instances_retained": 15,
+  "new_source_instances": 60,
+  "rear_placeholder_sites_replaced": 35,
+  "rear_placeholder_sites_remaining": 0,
+  "rear_source_instances_total": 62,
+  "mesh_batching_changes_count": false
+}

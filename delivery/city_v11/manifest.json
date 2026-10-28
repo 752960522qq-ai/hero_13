@@ -1,0 +1,684 @@
+{
+  "schema": "hero13.city.snapshot.v11",
+  "archive": "huizhou_city_v11.tar.xz",
+  "directory": "huizhou_city_v11",
+  "archive_bytes": 319488696,
+  "archive_sha256": "4d697acec025448f7290a6c580fcba78d87ab0efe679e2294134038afaca4dc1",
+  "part_count": 39,
+  "parts": [
+    {
+      "file": "city_v11.tar.xz.part00",
+      "bytes": 8388608,
+      "sha256": "5eb62c2c5496ef7a7f7e50701874f52733956cd2d3361f4a2c19ac6fbf815ed6",
+      "git_blob_sha": "49b56ec8e9a5d547a35ae133be99a40b74099c69"
+    },
+    {
+      "file": "city_v11.tar.xz.part01",
+      "bytes": 8388608,
+      "sha256": "a34b268251cb36b9e3d4816bf464ec3791eadeaa808bc7a89f586b429350fda3",
+      "git_blob_sha": "1a04d14ac915b5517bd1791e45462b69f6e6f441"
+    },
+    {
+      "file": "city_v11.tar.xz.part02",
+      "bytes": 8388608,
+      "sha256": "bd82630d62c689fb8c214ace9d56026429e2113d2f62e69c7b8953c0ac57fdd7",
+      "git_blob_sha": "736ee907619ebec8e276c0ffb0cb09fc9b70180f"
+    },
+    {
+      "file": "city_v11.tar.xz.part03",
+      "bytes": 8388608,
+      "sha256": "8a14f026ce2d19978c36b3d2bc44d8cb2dcfdd400a7ed64d97a6fce909cbab78",
+      "git_blob_sha": "12ea7c2b0c13ef34bf570b41017afe962766841b"
+    },
+    {
+      "file": "city_v11.tar.xz.part04",
+      "bytes": 8388608,
+      "sha256": "1dcb7b3a46fc26f72717bfbd10cf3709bcaa525c6f1c66e50267fff33b2f9f31",
+      "git_blob_sha": "42ec0ea0be83e3daf18a98b93a9e682c6920de05"
+    },
+    {
+      "file": "city_v11.tar.xz.part05",
+      "bytes": 8388608,
+      "sha256": "c8ae319112b9bb554e974a022313c5d06ca1abda91b507fe1d5bea04baa8857d",
+      "git_blob_sha": "b922254b6287cab66f722811baf36fe7457c9bce"
+    },
+    {
+      "file": "city_v11.tar.xz.part06",
+      "bytes": 8388608,
+      "sha256": "d6a3910f9d61899d67dc2b123485016135b37e448dde3ace7b5cc8b00be860a2",
+      "git_blob_sha": "b6ba60ca688afe8040b6131dd05e6f85b2c8963a"
+    },
+    {
+      "file": "city_v11.tar.xz.part07",
+      "bytes": 8388608,
+      "sha256": "746c8df55ea8490d295260b03fd5ed57429403d5438f996e907e333d50ac9e2a",
+      "git_blob_sha": "11dbb0e600237cbeb57844c0374dab0d4a6f1615"
+    },
+    {
+      "file": "city_v11.tar.xz.part08",
+      "bytes": 8388608,
+      "sha256": "c33d8c16d18f9dfd7c86770e2d6175ce2729b49d6f2d4de20e3f9eeb90e84a3c",
+      "git_blob_sha": "8adee1e580d6edfac1a2627793715068fb0e953a"
+    },
+    {
+      "file": "city_v11.tar.xz.part09",
+      "bytes": 8388608,
+      "sha256": "b891d9c6a727197638b0e2e414bf913dc63abc1cac323575751a94dda8115aa0",
+      "git_blob_sha": "52452c04bdbd78661f9dab287bc5e71b65bddc8b"
+    },
+    {
+      "file": "city_v11.tar.xz.part10",
+      "bytes": 8388608,
+      "sha256": "08456118aec9dd46c0d23d20988cffb941a55c11c38995bc033ff986f83ac630",
+      "git_blob_sha": "9a9af47c42be955c9611268f3117a0c9007bb57f"
+    },
+    {
+      "file": "city_v11.tar.xz.part11",
+      "bytes": 8388608,
+      "sha256": "d37d33a1c2ef456047ccc8f1852877f5dd03c2ad9707d8d10e8f0674b303c395",
+      "git_blob_sha": "7f56ca49d456ca4d4b7d8aa600c82376ce6f206c"
+    },
+    {
+      "file": "city_v11.tar.xz.part12",
+      "bytes": 8388608,
+      "sha256": "5d8b161541637ea6aad6ed12d1431d26f364b82fc3633e6d742fa7b50d73fe1e",
+      "git_blob_sha": "09964866c98b591b4be9bb738fb96c1adb051f12"
+    },
+    {
+      "file": "city_v11.tar.xz.part13",
+      "bytes": 8388608,
+      "sha256": "f56975f01a427c538c5feb02b6bfbc034d29b7eafcdde567d400fc70e90d3e3c",
+      "git_blob_sha": "ff66d3d4aab5b3328482d7420f22183fb41d4f57"
+    },
+    {
+      "file": "city_v11.tar.xz.part14",
+      "bytes": 8388608,
+      "sha256": "9493a9eed401a5139a6ff2a4345885e0bb93cc737d96e223e1fed1c164ab40a6",
+      "git_blob_sha": "d8e2aaeb89c95ad1647a16e2efc4b9108d734e5e"
+    },
+    {
+      "file": "city_v11.tar.xz.part15",
+      "bytes": 8388608,
+      "sha256": "264ecaf6a8f91a53419cba886eabe67e2746296fba8891ab01a3ac781918b687",
+      "git_blob_sha": "56f7e76cb137d8926004da9d7364d99dd8004314"
+    },
+    {
+      "file": "city_v11.tar.xz.part16",
+      "bytes": 8388608,
+      "sha256": "e812a9f1a36c4e34d691d3bca7656b46777fe67dbed801acee53ad1c3db7e435",
+      "git_blob_sha": "97cddb4ba316b520e1e60636605f9a33d6e81569"
+    },
+    {
+      "file": "city_v11.tar.xz.part17",
+      "bytes": 8388608,
+      "sha256": "dc09bc2a15ac1dad1ff0a2674f28daf9e9e367e794a265ab58a91cffa859908f",
+      "git_blob_sha": "b3732c8054f123a16c8c5b74837337a6fd02510b"
+    },
+    {
+      "file": "city_v11.tar.xz.part18",
+      "bytes": 8388608,
+      "sha256": "1d4f614edcb275b8c89f40103f0c834593c23bb73b542c7139345fd657a12bf9",
+      "git_blob_sha": "824b70c41ab95a32fa6b93c7cd0ff959d0145842"
+    },
+    {
+      "file": "city_v11.tar.xz.part19",
+      "bytes": 8388608,
+      "sha256": "2cf2027f14948d5967e8decdb11cf452b5f72b3165ccc6be32518334697ebfb2",
+      "git_blob_sha": "1fee9940b3b95bf9b3026cfe99d635d58aa3540c"
+    },
+    {
+      "file": "city_v11.tar.xz.part20",
+      "bytes": 8388608,
+      "sha256": "1c605c2cfdcb486b12e183b1c81617f89d2b26b0164ccd2d3867a638abae0874",
+      "git_blob_sha": "4f2b850b6946c5450e1b09d12ca237c43aa9f4f6"
+    },
+    {
+      "file": "city_v11.tar.xz.part21",
+      "bytes": 8388608,
+      "sha256": "68efe175412b705d3c29e04afa70cee7e2527f1d5726e37574690c49b7185ee5",
+      "git_blob_sha": "a8d2f0e3a6b894fb3349a367e9a536c6d7047def"
+    },
+    {
+      "file": "city_v11.tar.xz.part22",
+      "bytes": 8388608,
+      "sha256": "e105657a8b65c3f601f35bb5e02ed467479ec3662102cd43f150365aedcc5762",
+      "git_blob_sha": "d85b6396a236ae83db25e1471f0552af3b974b50"
+    },
+    {
+      "file": "city_v11.tar.xz.part23",
+      "bytes": 8388608,
+      "sha256": "b62fc6ef16b40d666e64c9020defecfe70dd1d86d8a7f8830ded4f4e35657ad2",
+      "git_blob_sha": "d4bb2d78b107997f90b38b86f62b5ef0602a0422"
+    },
+    {
+      "file": "city_v11.tar.xz.part24",
+      "bytes": 8388608,
+      "sha256": "f9dec4d628ff778e79e44474146830a03a59184b5b8c59e4a92418b7426b17ac",
+      "git_blob_sha": "a8157cfb8ef44d782604d30eca752093b88ed519"
+    },
+    {
+      "file": "city_v11.tar.xz.part25",
+      "bytes": 8388608,
+      "sha256": "82f4952429069f8e1950e72729dc4d77dd14bd62dcd7e867792bc49f277e0a19",
+      "git_blob_sha": "7881e1d34771876b4166f092ab07064438ece5b8"
+    },
+    {
+      "file": "city_v11.tar.xz.part26",
+      "bytes": 8388608,
+      "sha256": "277c67c64368d027595cb8e328322d3a0d2f06dd2fa4e1c087ea29f5874e086b",
+      "git_blob_sha": "cba2c044adc1c2672e103f6447b8ff8459fcea7d"
+    },
+    {
+      "file": "city_v11.tar.xz.part27",
+      "bytes": 8388608,
+      "sha256": "bcd0a0d01e5ddc78fab4764115ca46b5bc81865d880ca029f973e2e2473addfc",
+      "git_blob_sha": "5828937d53664bebd577db00226d7f40018db93d"
+    },
+    {
+      "file": "city_v11.tar.xz.part28",
+      "bytes": 8388608,
+      "sha256": "f96374e5b27f8a0241caa7689892e40a2e16f758d17fa7d65eaf02089b0a9509",
+      "git_blob_sha": "05af457d5b993aa25c4034af8623ac319fd52655"
+    },
+    {
+      "file": "city_v11.tar.xz.part29",
+      "bytes": 8388608,
+      "sha256": "11eba0c324a9a764bf2e73c703a0b5ccd93bbede182aa292adcb83f2cc55069d",
+      "git_blob_sha": "548b84dd78a0be2c2f216a5317406fcaf674f43b"
+    },
+    {
+      "file": "city_v11.tar.xz.part30",
+      "bytes": 8388608,
+      "sha256": "05b579e2800d309bfe2dfddef62d3dcf555fefb7860ed39c1bc9549d50082998",
+      "git_blob_sha": "a86e8da063ee0d04111f557a740daa60843d41fc"
+    },
+    {
+      "file": "city_v11.tar.xz.part31",
+      "bytes": 8388608,
+      "sha256": "e7428742bb29c94f03db955b408688554dff5d1e760bcb7e26e7027341ef4388",
+      "git_blob_sha": "a3d4e3cc93ab464189e0d5bfd611fd4dc3bd88f9"
+    },
+    {
+      "file": "city_v11.tar.xz.part32",
+      "bytes": 8388608,
+      "sha256": "a0e8a1476c207c9875dbbbb5149cf1b61a628bf06365894e0e155eb4590582ab",
+      "git_blob_sha": "9b3eddbe3f5c1a8319ca0f5929820d668010a8ed"
+    },
+    {
+      "file": "city_v11.tar.xz.part33",
+      "bytes": 8388608,
+      "sha256": "bd1009f6dc71c003ed78abad7d96271d763da7d2262d76a06770d2f3151711a4",
+      "git_blob_sha": "e5092714a53801b85410e72f874da8757b4a7f74"
+    },
+    {
+      "file": "city_v11.tar.xz.part34",
+      "bytes": 8388608,
+      "sha256": "1deeb24697c7f13b6899f11260a9d69046bd40c2a23a9b5fa799521e158c34d4",
+      "git_blob_sha": "47a1e07331ba1c9ffdead9fe1694208842654163"
+    },
+    {
+      "file": "city_v11.tar.xz.part35",
+      "bytes": 8388608,
+      "sha256": "e80a8be66b39f1d8d9af9cfc922df45b008c1a8580c961f424292b7a91541d49",
+      "git_blob_sha": "f9447ad5d9a6e6c68a331ac91d3b6d44ee924291"
+    },
+    {
+      "file": "city_v11.tar.xz.part36",
+      "bytes": 8388608,
+      "sha256": "3263cf3e4b41454eb1ebf292239d2b3b8f4ca56805faacdb1e87fc91995734b2",
+      "git_blob_sha": "f6c48b7985c42ef6b4c5b83c60b38e59b5929fc4"
+    },
+    {
+      "file": "city_v11.tar.xz.part37",
+      "bytes": 8388608,
+      "sha256": "25af69d130ba1a9cc521491d4644823a8c46e16e87977d8e39a9130fd470be81",
+      "git_blob_sha": "24a56ba18422f26cf425c003cbb7e4b16b30aeef"
+    },
+    {
+      "file": "city_v11.tar.xz.part38",
+      "bytes": 721592,
+      "sha256": "c3921d1c8bd2126d43004856ad18e31773f96000f17d487ba1af3f2cdf2a8749",
+      "git_blob_sha": "e0fcb281284232e39294f7e984459f391a909ad3"
+    }
+  ],
+  "stats": {
+    "land_area_m2": 3250000.0000000037,
+    "land_plus_bridge_play_area_m2": 3280675.0097599644,
+    "water_excluded": true,
+    "road_length_m": 42338.246985151985,
+    "road_edges": 290,
+    "junctions": 170,
+    "graph_components": 1,
+    "max_grade": 0.08250586336195523,
+    "buildings": 665,
+    "placeholder_lots": 590,
+    "real_buildings": 75,
+    "building_limit": 699,
+    "building_count_by_zone": {
+      "OLDTOWN": 305,
+      "RESIDENTIAL": 110,
+      "CBD": 60,
+      "CIVIC": 10,
+      "UNIVERSITY": 20,
+      "VILLAGE": 100,
+      "INDUSTRIAL": 60
+    },
+    "pedestrian_alleys": 39,
+    "interchanges": 2,
+    "ramps": 6,
+    "building_coverage_percent": 19.89671104685211,
+    "oldtown_coverage_percent": 39.54782569279997,
+    "global_scale_applied": false,
+    "backlane_placeholder_lots": 0,
+    "backlane_asset_instances": 62,
+    "replaced_backlane_sites": 35,
+    "added_backlane_access_links": 34
+  },
+  "files": [
+    {
+      "file": "README.md",
+      "bytes": 3364,
+      "sha256": "2a08d08eee24b51bcf41c3ace72129af935cf774c6674ba3b01edeef43ae4779"
+    },
+    {
+      "file": "REPRODUCE.md",
+      "bytes": 1869,
+      "sha256": "801af4304715493961aee1a18831e3f0d20a23ee39f32aa8fb4dfd3796e2c9d4"
+    },
+    {
+      "file": "building_registry.csv",
+      "bytes": 63368,
+      "sha256": "25d02ddd2e298738bb86484984d609c0badc4d6fd67e6f0caecaea1be7b0f9d0"
+    },
+    {
+      "file": "city_plan.json",
+      "bytes": 1316213,
+      "sha256": "e5eb7ff21f82823430d6bb5cf64d0d95a3cb05601cee747da7b260e476eabfbc"
+    },
+    {
+      "file": "delivery.json",
+      "bytes": 2246,
+      "sha256": "0f2363196e4385dc701794695121877caa50dc7d4bbfa52905c15dd998febc8c"
+    },
+    {
+      "file": "districts/.03_main_south_east_center.glb.4A4RR6",
+      "bytes": 80478208,
+      "sha256": "e295100f3e422c8af1ad170c44a50c7bf31b61ef6602c09bc1f5d24d6e61b326"
+    },
+    {
+      "file": "districts/.06_main_north_west_center.glb.L9drSk",
+      "bytes": 14155776,
+      "sha256": "aea7ba69e1b87ca4c7cb378ccf31eec8527f812699b15679d72545ab7894fec9"
+    },
+    {
+      "file": "districts/.11_west_nw.glb.MQ7ZEm",
+      "bytes": 9961472,
+      "sha256": "5e9441323bd2be10eef9344de5931a1c0c6bcf09b357c4a06121975f141d6927"
+    },
+    {
+      "file": "districts/.16_east_ne.glb.1bAvD7",
+      "bytes": 13893632,
+      "sha256": "a16833a02c6ec89164d3db9f3170e55fe1bc24897c59fca924265b49aead06a2"
+    },
+    {
+      "file": "districts/01_main_sw.glb",
+      "bytes": 24172516,
+      "sha256": "2bd08041cb5f73d93fbb9dcbb99e41096e8d26b745f8c29a19e26423222b60dd"
+    },
+    {
+      "file": "districts/02_main_south_west_center.glb",
+      "bytes": 61708616,
+      "sha256": "20d5e1f56952667a3d519afc11ad8ab14ea1a097b6e80d372ed7c053bb5b9ef3"
+    },
+    {
+      "file": "districts/03_main_south_east_center.glb",
+      "bytes": 92776500,
+      "sha256": "180de4bc6c798fe8fcf7baa80da1c54bd17749e9545dfd7c3fa9b9c9e77b1345"
+    },
+    {
+      "file": "districts/04_main_se.glb",
+      "bytes": 41136656,
+      "sha256": "84b056edb14838405f03a75703df189f0a7f90eccc11b89d4805a16413c78736"
+    },
+    {
+      "file": "districts/05_main_nw.glb",
+      "bytes": 22630780,
+      "sha256": "7adc1d4e06acd69d7387189ac852ddfff438122a82020a94cb2f9419b99e207c"
+    },
+    {
+      "file": "districts/06_main_north_west_center.glb",
+      "bytes": 35732460,
+      "sha256": "2653e3dbbc0544e1b3b9941c27e425fe6f40e76392c2d101b0f5e5745bf95116"
+    },
+    {
+      "file": "districts/07_main_north_east_center.glb",
+      "bytes": 25489784,
+      "sha256": "68a31a7301f8307ffd86a776a033d4aa3068d028c358bfc30f87d8fe47573d4f"
+    },
+    {
+      "file": "districts/08_main_ne.glb",
+      "bytes": 24210764,
+      "sha256": "8c02b5261c4edacb0d831893fa0d0b11c3bf63972db23f4eb379cfccc17b0dc1"
+    },
+    {
+      "file": "districts/09_west_sw.glb",
+      "bytes": 23171744,
+      "sha256": "288f9cec2bf4dbc94af452f307034cb6a8462daf7e75dad77f97ab194d8b2ed9"
+    },
+    {
+      "file": "districts/10_west_se.glb",
+      "bytes": 23368664,
+      "sha256": "60345307f889239d4e5de966e04c226b56172d3000d82d79deb208d0fb7f0232"
+    },
+    {
+      "file": "districts/11_west_nw.glb",
+      "bytes": 23427912,
+      "sha256": "99d1c0f05400dc571d1ab187079cb21373ecd4d95895211fc334f38c424b4871"
+    },
+    {
+      "file": "districts/12_west_ne.glb",
+      "bytes": 23347528,
+      "sha256": "b72deb6db54ae3f538677a6fcbf8783be811d642e2ca30eef0b0f6d7ef9763ab"
+    },
+    {
+      "file": "districts/13_east_sw.glb",
+      "bytes": 22666040,
+      "sha256": "1311ec8d7f475e44f7ce9a2bafe676f0971aea2f6224673648b475ac34c7463e"
+    },
+    {
+      "file": "districts/14_east_se.glb",
+      "bytes": 22767768,
+      "sha256": "f5022379eb9f0a7ca281fd108530138b877c9d7d078e4f776ca0cd36ee4e039b"
+    },
+    {
+      "file": "districts/15_east_nw.glb",
+      "bytes": 23558920,
+      "sha256": "1ab1285805d2819efe93cc0daa9e002c9f60570cf53e8704e5d88914eeafa20f"
+    },
+    {
+      "file": "districts/16_east_ne.glb",
+      "bytes": 22647224,
+      "sha256": "0b5ded67a02837ca5a2fdae601dca19d3215b8c4fbe045993635a0e845c8670d"
+    },
+    {
+      "file": "districts/17_shared_bridges.glb",
+      "bytes": 23851620,
+      "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54"
+    },
+    {
+      "file": "districts/18_shared_water.glb",
+      "bytes": 18052,
+      "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde"
+    },
+    {
+      "file": "districts/README.md",
+      "bytes": 209,
+      "sha256": "66f5ac387fb56ee52f046a17212d4bdced741371abe82f32a83de32d099dee1b"
+    },
+    {
+      "file": "districts/district_index.csv",
+      "bytes": 1037,
+      "sha256": "8a765a0fef71290fe11c1e40053e99fcb9e59fbc8f379c725baf611e05bc226f"
+    },
+    {
+      "file": "districts/districts_manifest.json",
+      "bytes": 17213,
+      "sha256": "d9f3546c881dc5ce37b877536255fcc4ebf44c43fd964a1a266be069610317f8"
+    },
+    {
+      "file": "districts/districts_validation.json",
+      "bytes": 7624,
+      "sha256": "a377b844cbc4243b3cd2c52838ac99bacfad17dfd744f289fef42f8837eddebd"
+    },
+    {
+      "file": "districts/partition_audit.json.gz",
+      "bytes": 81273,
+      "sha256": "93e349ac2784ca761650a3fab86efa23af94acb247a6adef303f809e1db73f6e"
+    },
+    {
+      "file": "huizhou_road_network.blend",
+      "bytes": 118745593,
+      "sha256": "a0179b31041f4f65e821a9f16b09b5ee20a67939be8d832956b742640c47a73f"
+    },
+    {
+      "file": "huizhou_road_network.glb",
+      "bytes": 162855056,
+      "sha256": "d5771e8cc3a46cee477c4eb84892805c5317834ac556a236a9768a9fa732bc5c"
+    },
+    {
+      "file": "previews/01_rear_five_added.png",
+      "bytes": 3943192,
+      "sha256": "dfbab5af47fe1ff1efb9d016c58fe188158889073970a1a4a7e34f11ca2c58f0"
+    },
+    {
+      "file": "previews/02_alley_eye_level.png",
+      "bytes": 3001455,
+      "sha256": "0f6be38a7c3e41c26f1a95a3b5785427f43870d4af3e53259d0560e3cb7e4ba0"
+    },
+    {
+      "file": "previews/03_reused_rear_houses.png",
+      "bytes": 3029632,
+      "sha256": "874549732d3cd112eccaf7c0f498a058a9fbbb2d0e754d6bf1d6ec01d4ea0012"
+    },
+    {
+      "file": "previews/04_oldtown_overview.png",
+      "bytes": 3655525,
+      "sha256": "fcc2cb06cc52a118a425522c5460b16ea53c1c76ce2c8ef1d2d48de792fc5d14"
+    },
+    {
+      "file": "previews/05_rear_replacement_map.png",
+      "bytes": 131412,
+      "sha256": "32429887a36ebbe5248a9fdb35fca3bbdabc9b573bc7d92259c720f13d3f60d7"
+    },
+    {
+      "file": "previews/render_cameras.json",
+      "bytes": 919,
+      "sha256": "26f3ef0fa306c7f37f1f67808aefff8cd131b462378564aecc2bac8b65ef37ec"
+    },
+    {
+      "file": "source/ROAD_ASSET_LICENSE.md",
+      "bytes": 1204,
+      "sha256": "cb9f093ed406c7a61035fa91881a7a5e16c8b3ef6e5021db1342b64d25b25c70"
+    },
+    {
+      "file": "source/baseline_v10_reference.json",
+      "bytes": 286,
+      "sha256": "3008d35fc74207654af8dc878bdb75e0b8cddb0e1a66ece93d45f034972f58c6"
+    },
+    {
+      "file": "source/buildings/apartment+building+11.glb",
+      "bytes": 6412984,
+      "sha256": "4d95e8ee0a606775e16bf90a1ee4c42016d5614a52b05b7f747917bdeda77287"
+    },
+    {
+      "file": "source/buildings/apartment+building+2.glb",
+      "bytes": 6378080,
+      "sha256": "8927541ff0b267741f85b54ff1e71d67ac8ffe25e40f3233f663d841f77daf6f"
+    },
+    {
+      "file": "source/buildings/apartment+building+3.glb",
+      "bytes": 6091636,
+      "sha256": "d6b8b9dda1aea0c45b2125d5e0b4cae58fb9fd37ad489558607abc236ac233ea"
+    },
+    {
+      "file": "source/buildings/apartment_14.glb",
+      "bytes": 1967576,
+      "sha256": "24e2de2f232f57274d31ac4d9fe73a261f94b7cc59a634610709e96e46fa1a63"
+    },
+    {
+      "file": "source/buildings/apartment_building_18.glb",
+      "bytes": 1774376,
+      "sha256": "8ff88fa72d20145fe2ced17d6915ffbf1574a114d03a64182a85fba3eb4c24ef"
+    },
+    {
+      "file": "source/buildings/city+street+building+9.glb",
+      "bytes": 6730204,
+      "sha256": "1bfbbde6e6d8c562f4ffd7a7e5fd768aa2227e43003fc2d7d39e6fce3d326a0b"
+    },
+    {
+      "file": "source/buildings/historic_building_facade_15.glb",
+      "bytes": 5750228,
+      "sha256": "0e77902424843daaa34673b46affb4f91f624ffb8f1f024433b8d8d6f26705ac"
+    },
+    {
+      "file": "source/buildings/modern_glass_2.glb",
+      "bytes": 6064748,
+      "sha256": "e103bef8b31a72029811ff6446e161af5eb165a52c66757dd93f014db89f113e"
+    },
+    {
+      "file": "source/buildings/office_building_1.glb",
+      "bytes": 5164820,
+      "sha256": "d8e80b756b71e376b4faa46a5abdb69b2d00bf95af28ebeea22b0d6a38353ca7"
+    },
+    {
+      "file": "source/buildings/old+building+facade+6.glb",
+      "bytes": 2054508,
+      "sha256": "9a2d3d290754ffc18c0aec3706af16525ec5fb5472ec553e83482968649edf0a"
+    },
+    {
+      "file": "source/buildings/old+urban+building+8.glb",
+      "bytes": 7385140,
+      "sha256": "77aeeed33433a7498d233d7ccd91200a7bc43f1c9e5416feab0bc9e0ed179124"
+    },
+    {
+      "file": "source/buildings/old_apartment_13.glb",
+      "bytes": 2226516,
+      "sha256": "58d904b63c64a0907184cb9fe0e97262cd86ea578529b926911b7df7dbeeeb4f"
+    },
+    {
+      "file": "source/buildings/old_building_17.glb",
+      "bytes": 1849080,
+      "sha256": "a213a01d97a3b2dc856b7dbd18f8b585dbed5cb325795cc88ffb477b38f26403"
+    },
+    {
+      "file": "source/buildings/old_italian_townhouse_19.glb",
+      "bytes": 1915332,
+      "sha256": "127ce06c392370336f018048851245d24437ef3ce264779945824159a6d4cdc9"
+    },
+    {
+      "file": "source/buildings/storefront+building+7.glb",
+      "bytes": 6754444,
+      "sha256": "8a93d1ff3e846eecbced409a4ac7bd9d12490f3647434d9848dedd101b1a1bc6"
+    },
+    {
+      "file": "source/buildings/storefront_12.glb",
+      "bytes": 2215428,
+      "sha256": "38fe4f8c6a717235b2886cd09c700140889362a28ee8899384604b4e0d75dc63"
+    },
+    {
+      "file": "source/buildings/urban+building+facade+10.glb",
+      "bytes": 1733036,
+      "sha256": "8bea12ef144665888ff38d72215dd141aa022d9c5436bb37331c8409e8eb5a06"
+    },
+    {
+      "file": "source/buildings/urban+building+facade+5.glb",
+      "bytes": 2508844,
+      "sha256": "6e0ab44dc26b0930ce435f291b9deb21f0de6bde5953a2c197e08109dcfe2346"
+    },
+    {
+      "file": "source/buildings/urban_building_facade_20.glb",
+      "bytes": 1756376,
+      "sha256": "038e8796c6667f4b610be47e0c381691ecaba8625c30acada7de2b8bedd3d634"
+    },
+    {
+      "file": "source/buildings/urban_shopfront_13.glb",
+      "bytes": 2296608,
+      "sha256": "be44c539e10ca93dc68d37c3aa7e06cfb1c1f090b47c2b0166fd70c855b729fe"
+    },
+    {
+      "file": "source/new_uploads_manifest.json",
+      "bytes": 1139,
+      "sha256": "d78af46e9b4c25d02ff76d22bebf09a976320344e4af38c85fa18c754e58d5c8"
+    },
+    {
+      "file": "source/road_modular.glb",
+      "bytes": 21084380,
+      "sha256": "a9c79330575c3980ce2df355f2ac01909f54dac87378abf632ef90d17b938dd6"
+    },
+    {
+      "file": "tools/build_backlanes_v11.py",
+      "bytes": 22737,
+      "sha256": "bf1f4e088ca86f4615c0ec8166bc61e75c349d91c0ce55f3d2b7e40053fbd095"
+    },
+    {
+      "file": "tools/city_surface_sampling.py",
+      "bytes": 1994,
+      "sha256": "fb74a7b01a08d4bb2939c59a6d38bbb727ee58a8c8d85b057b6b0e2074212e02"
+    },
+    {
+      "file": "tools/close_terrain_cuts_v11.py",
+      "bytes": 4213,
+      "sha256": "5eb52f36cd03ab1aad4c55480d22a6a984edacf4b95d8c3e81d3336002f11f73"
+    },
+    {
+      "file": "tools/compact_city_math.py",
+      "bytes": 4419,
+      "sha256": "a9ae16d1015eb945b857b859adba2d2c02960952e2811499508aac801a744f43"
+    },
+    {
+      "file": "tools/export_city_districts_blender.py",
+      "bytes": 11477,
+      "sha256": "2f004467b3739ba4b672cae625335fc826a9b354f787859856f6aa2c620370d9"
+    },
+    {
+      "file": "tools/finish_walk_seams_v11.py",
+      "bytes": 4102,
+      "sha256": "eb49235ed4efb6d9a6bb7d4d1e96bc263b58ec74e7cf3450519100386eb284e5"
+    },
+    {
+      "file": "tools/plot_rear_replacement.py",
+      "bytes": 2422,
+      "sha256": "82ab7595e313b425ab14c27a8d452c121d81d93e9b34b5ff487bf12aef6a585e"
+    },
+    {
+      "file": "tools/regrade_walkways_v11.py",
+      "bytes": 5126,
+      "sha256": "221dbecf9ac26a2b44cd10d9bc29c3f06ca851dfadf458511a8853fce849f55c"
+    },
+    {
+      "file": "tools/render_backlanes_v11.py",
+      "bytes": 2288,
+      "sha256": "ea41c5e171644548635878a96da35a2fcf760f022f20c7ee1040112a2edff7b4"
+    },
+    {
+      "file": "tools/validate_backlanes_v11.py",
+      "bytes": 7473,
+      "sha256": "36f4cb0105bb5a6078e39e94d0c2281ee0c8cd498fc80e976d835b5406114f94"
+    },
+    {
+      "file": "tools/validate_city_districts_blender.py",
+      "bytes": 4287,
+      "sha256": "50fb4c9911e03e612d8d2ca4ce3ec99cfebb28a881f338ea2e839d9bcec6ce79"
+    },
+    {
+      "file": "tools/validate_compact_city_blender.py",
+      "bytes": 14367,
+      "sha256": "a72aaf29c0ff333a56e342b81d573a8a5d17858a64e79b2c77191d985a119f88"
+    },
+    {
+      "file": "validation/compact_build_report.json",
+      "bytes": 19347,
+      "sha256": "6df4c86a69e521b8aabd0f59567b114c8ac04830c8c25f18a2f12e6d500c7d43"
+    },
+    {
+      "file": "validation/compact_validation.json",
+      "bytes": 47768,
+      "sha256": "01b37f8fce1adf7bc4ed28c0b3dce58fe4407a94fa7902fea02bfd058c94901d"
+    },
+    {
+      "file": "validation/rear_replacement_report.json",
+      "bytes": 18300,
+      "sha256": "b1f1e526302a5b0c3ac8425ae9fadc33ca5370a6169080650ae032ceb5c07fb5"
+    },
+    {
+      "file": "validation/rear_source_descriptors.json",
+      "bytes": 113819,
+      "sha256": "65e1f343fadca256ea1c775a864d4203ed50bfd49523465e63629bb02906e851"
+    },
+    {
+      "file": "validation/rear_validation.json",
+      "bytes": 8770,
+      "sha256": "c0df0c79eb5b9f67993617743bd7af94d8369214033ec309b4255ed65905425d"
+    }
+  ]
+}
