@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "count_basis": "625 independent nonoverlapping placeholder footprints plus 15 original source buildings; mesh batching does not change the count",
+  "physical_building_count": 640,
+  "placeholder_buildings": 625,
+  "original_source_buildings": 15,
+  "conservative_5m_source_frontage_bins": {
+    "method": "Each retained oldtown source facade is split into ceil(width/5m) bins for an additional conservative check; these are not claimed to be separate buildings. CBD assets count once.",
+    "total_including_placeholders": 691,
+    "below_700": true
+  },
+  "metric_scale_of_all_15_assets_preserved": true,
+  "new_road_nodes": 170,
+  "previous_road_nodes": 249,
+  "previous_building_count": 2992,
+  "land_km2": 3.2500000000000036,
+  "net_land_excludes_sea_and_lake": true,
+  "building_count_by_zone": {
+    "OLDTOWN": 280,
+    "RESIDENTIAL": 110,
+    "CBD": 60,
+    "CIVIC": 10,
+    "UNIVERSITY": 20,
+    "VILLAGE": 100,
+    "INDUSTRIAL": 60
+  },
+  "global_city_scale": 1.0,
+  "reconstruction": "Fresh shore control curves, road hierarchy, parcels, lane graph, source placement, terrain cuts and all 18 districts."
+}

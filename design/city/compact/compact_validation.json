@@ -1,752 +1,266 @@
 {
-  "schema": "hero13.city.compact-validation.v9",
+  "schema": "hero13.city.compact-validation.v10",
   "status": "PASS",
   "area": {
-    "land_m2": 5800000.0000000065,
-    "land_plus_crosswater_decks_m2": 5835652.748272223,
+    "land_m2": 3250000.0000000037,
+    "land_plus_crosswater_decks_m2": 3280675.0097599644,
     "water_excluded": true,
     "grade_separated_decks_not_double_counted": true
   },
   "road_graph_components": 1,
-  "maximum_road_grade": 0.08249091416556227,
-  "road_surface_samples": 10062,
+  "maximum_road_grade": 0.08250586336195537,
+  "road_surface_samples": 6402,
   "road_surface_holes": 0,
   "terrain_penetrations": 0,
   "interchanges": [
     {
       "name": "CENTRAL_DIAMOND",
-      "minimum_actual_clearance_m": 7.545932746072298,
+      "minimum_actual_clearance_m": 8.221423681683028,
       "samples": 21
     },
     {
       "name": "EAST_CITY_FLYOVER",
-      "minimum_actual_clearance_m": 5.911747244222415,
+      "minimum_actual_clearance_m": 8.221416366879843,
       "samples": 21
     }
   ],
   "pedestrian_links": [
     {
-      "name": "MAIN_OLD_ALLEY_001",
-      "samples": 96,
-      "maximum_endpoint_lip_m": 1.1366598871020983e-06,
-      "maximum_grade": 0.019364380933390834
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_002",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 4.97493583750952e-06,
-      "maximum_grade": 0.019619998160115355
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_003",
-      "samples": 72,
-      "maximum_endpoint_lip_m": 3.6539788919043303e-06,
-      "maximum_grade": 0.01855880829664166
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_004",
-      "samples": 51,
-      "maximum_endpoint_lip_m": 3.9755775471661536e-07,
-      "maximum_grade": 0.020503626028288396
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_005",
-      "samples": 39,
-      "maximum_endpoint_lip_m": 1.5405112119282194e-07,
-      "maximum_grade": 0.02227292803553664
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_006",
-      "samples": 33,
-      "maximum_endpoint_lip_m": 1.1458477058745586e-05,
-      "maximum_grade": 0.017453531856299186
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_007",
-      "samples": 33,
-      "maximum_endpoint_lip_m": 8.128928658202028e-06,
-      "maximum_grade": 0.022012199104139603
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_008",
-      "samples": 30,
-      "maximum_endpoint_lip_m": 7.829307606677105e-06,
-      "maximum_grade": 0.022222917522242144
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_009",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 1.1762456253450182e-07,
-      "maximum_grade": 0.02588684526476976
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_010",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 9.574695380543119e-06,
-      "maximum_grade": 0.027090087366461145
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_011",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 2.893393667768862e-06,
-      "maximum_grade": 0.027508885622494848
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_012",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 5.088805731467971e-06,
-      "maximum_grade": 0.02702109489542625
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_013",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 2.984458316035443e-07,
-      "maximum_grade": 0.026045318226183077
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_014",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 5.187081271174065e-07,
-      "maximum_grade": 0.025218755401801355
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_015",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 3.3158591339343957e-07,
-      "maximum_grade": 0.018829565577819955
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_016",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 3.5620022904581106e-06,
-      "maximum_grade": 0.01911479340090514
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_017",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 1.1010010680934101e-07,
-      "maximum_grade": 0.024934719484283014
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_018",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 3.205751459844919e-07,
-      "maximum_grade": 0.025807244028205965
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_019",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 3.363404399436831e-07,
-      "maximum_grade": 0.02764191849928848
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_020",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 2.7181454953506545e-07,
-      "maximum_grade": 0.029900756585005676
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_021",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 4.7851413285115996e-06,
-      "maximum_grade": 0.02527000943742237
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_022",
-      "samples": 72,
-      "maximum_endpoint_lip_m": 0.00367798231199723,
-      "maximum_grade": 0.02470012079063918
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_023",
-      "samples": 39,
-      "maximum_endpoint_lip_m": 8.099444341169715e-05,
-      "maximum_grade": 0.02395119615756335
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_024",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 5.143876240509826e-07,
-      "maximum_grade": 0.036631529281091986
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_025",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 3.9668522511249193e-07,
-      "maximum_grade": 0.037407636834455874
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_026",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 9.729837842087363e-06,
-      "maximum_grade": 0.03645622929431007
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_027",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 2.743846445163456e-06,
-      "maximum_grade": 0.03374545084367166
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_028",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 4.22849792691693e-06,
-      "maximum_grade": 0.029894685208147094
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_029",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.724067431041476e-07,
-      "maximum_grade": 0.0255799717950678
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_030",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 7.821044203382144e-07,
-      "maximum_grade": 0.02970154304283581
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_031",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.5404821063214058e-07,
-      "maximum_grade": 0.030800047106712896
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_032",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 8.49667221913819e-07,
-      "maximum_grade": 0.0338354068786861
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_033",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 4.924516954218916e-07,
-      "maximum_grade": 0.03630134086388777
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_034",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 6.731888717581569e-07,
-      "maximum_grade": 0.037968364911092414
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_035",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 6.199051069799566e-06,
-      "maximum_grade": 0.03326166656827563
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_036",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.0006701655475307433,
-      "maximum_grade": 0.02450285500311022
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_037",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 6.632629396818857e-07,
-      "maximum_grade": 0.014298113613344382
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_038",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 5.441636172776043e-07,
-      "maximum_grade": 0.04356675442795193
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_039",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 3.271449511288438e-06,
-      "maximum_grade": 0.042078934455569025
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_040",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 7.025124169501851e-06,
-      "maximum_grade": 0.03846175692102271
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_041",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 4.4602376370050933e-07,
-      "maximum_grade": 0.03211854813876217
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_042",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 4.234844510619951e-06,
-      "maximum_grade": 0.024574868426626737
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_043",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.482610585412658e-07,
-      "maximum_grade": 0.01721645461024018
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_044",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.3864467796054214e-07,
-      "maximum_grade": 0.012941029244787326
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_045",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.8497203182477051e-06,
-      "maximum_grade": 0.021144909155153633
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_046",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.220361518505797e-07,
-      "maximum_grade": 0.02868797102200043
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_047",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.1891459951840488e-05,
-      "maximum_grade": 0.03324180855273416
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_048",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 4.0748758500797067e-07,
-      "maximum_grade": 0.035776856780934965
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_049",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 4.92592416634352e-07,
-      "maximum_grade": 0.0360036926454801
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_050",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 6.53686741536319e-06,
-      "maximum_grade": 0.03346097045283385
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_051",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 1.1522344456338374e-06,
-      "maximum_grade": 0.021833268881220787
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_052",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 5.952634527517375e-07,
-      "maximum_grade": 0.030599722119500083
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_053",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 3.4579670771250903e-06,
-      "maximum_grade": 0.034318446790691265
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_054",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 1.0189925459869187e-05,
-      "maximum_grade": 0.02881881946372667
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_055",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 6.951634876628532e-07,
-      "maximum_grade": 0.022494586720281706
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_056",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 7.86550893394633e-06,
-      "maximum_grade": 0.01756937642369239
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_057",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 1.9898127412432132e-07,
-      "maximum_grade": 0.011772984651650685
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_058",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 7.562846882080976e-08,
-      "maximum_grade": 0.010279068138926086
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_059",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 1.5741017076464914e-06,
-      "maximum_grade": 0.011876043368028149
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_060",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 2.3189845954618704e-07,
-      "maximum_grade": 0.01631153109622231
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_061",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 1.2022059342697844e-05,
-      "maximum_grade": 0.020251256946638423
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_062",
-      "samples": 168,
-      "maximum_endpoint_lip_m": 2.2639241148425526e-06,
-      "maximum_grade": 0.011308335194831862
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_063",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 8.947463214781237e-07,
-      "maximum_grade": 0.019114249212000275
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_064",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 3.022739001323771e-06,
-      "maximum_grade": 0.02931991657262242
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_065",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 1.456717725289991e-05,
-      "maximum_grade": 0.028257606718625695
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_066",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 5.79272604994685e-07,
-      "maximum_grade": 0.02497413423583052
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_067",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 1.2935780610234815e-05,
-      "maximum_grade": 0.021084491761964353
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_068",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 3.1299716063415417e-07,
-      "maximum_grade": 0.017207059654972663
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_069",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 7.856041026599314e-07,
-      "maximum_grade": 0.014187106875345076
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_070",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 3.147952476467708e-08,
-      "maximum_grade": 0.011996004678736242
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_071",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 2.0409340439897505e-06,
-      "maximum_grade": 0.011634182099299633
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_072",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 3.705811941756565e-07,
-      "maximum_grade": 0.012636853284842752
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_073",
-      "samples": 87,
-      "maximum_endpoint_lip_m": 4.143729093186721e-07,
-      "maximum_grade": 0.01446898527742441
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_074",
-      "samples": 180,
-      "maximum_endpoint_lip_m": 0.0005226921886496427,
-      "maximum_grade": 0.014526721166979669
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_075",
-      "samples": 93,
-      "maximum_endpoint_lip_m": 0.00015672000861943758,
-      "maximum_grade": 0.018819854799788982
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_076",
-      "samples": 69,
-      "maximum_endpoint_lip_m": 0.0002126931057038206,
-      "maximum_grade": 0.018755319466798544
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_077",
-      "samples": 84,
-      "maximum_endpoint_lip_m": 0.0004298362944492595,
-      "maximum_grade": 0.01979036978551119
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_078",
-      "samples": 48,
-      "maximum_endpoint_lip_m": 0.00015755925561400375,
-      "maximum_grade": 0.019306248267381046
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_079",
-      "samples": 33,
-      "maximum_endpoint_lip_m": 8.032241955735486e-05,
-      "maximum_grade": 0.021524595012517196
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_080",
-      "samples": 42,
-      "maximum_endpoint_lip_m": 9.074231403616295e-05,
-      "maximum_grade": 0.021614852944366512
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_081",
-      "samples": 39,
-      "maximum_endpoint_lip_m": 0.00010276223421712416,
-      "maximum_grade": 0.022296472176609034
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_082",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.0003976817102264718,
-      "maximum_grade": 0.025208964208783793
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_083",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.0002758442994341692,
-      "maximum_grade": 0.027520175067686035
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_084",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.00021280579258498022,
-      "maximum_grade": 0.027401190364053418
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_085",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.00015683054491955062,
-      "maximum_grade": 0.026455660383086062
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_086",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 3.1133605200572845e-05,
-      "maximum_grade": 0.025481155417234957
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_087",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.00042975159239055927,
-      "maximum_grade": 0.014903425510147878
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_088",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.00010264750987598603,
-      "maximum_grade": 0.02469474072551831
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_089",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 5.3489041632381884e-05,
-      "maximum_grade": 0.025333966827596095
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_090",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.00025449350854778174,
-      "maximum_grade": 0.026685476292826853
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_091",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.00012843087949399035,
-      "maximum_grade": 0.029026349356571633
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_092",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 6.529117448117461e-05,
-      "maximum_grade": 0.029621984230021388
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_093",
-      "samples": 66,
-      "maximum_endpoint_lip_m": 0.00012689450247638234,
-      "maximum_grade": 0.023505824569397406
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_094",
-      "samples": 54,
-      "maximum_endpoint_lip_m": 0.0013437511431195759,
-      "maximum_grade": 0.02531421238143593
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_095",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00015391912164552934,
-      "maximum_grade": 0.03587379686116878
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_096",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00039783490705769253,
-      "maximum_grade": 0.03754039049129357
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_097",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00027599711822290374,
-      "maximum_grade": 0.03507433851617718
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_098",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00017916379023397155,
-      "maximum_grade": 0.03176704628079482
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_099",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00012001069521616614,
-      "maximum_grade": 0.02719915423323248
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_100",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 9.06290835063217e-05,
-      "maximum_grade": 0.029381592279418212
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_101",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00021245343289777452,
-      "maximum_grade": 0.032760937638955025
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_102",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.0003227733122237453,
-      "maximum_grade": 0.03545805613287241
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_103",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00015105675866600166,
-      "maximum_grade": 0.03745979971739482
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_104",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 8.741320192484636e-05,
-      "maximum_grade": 0.037283819524896636
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_105",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00022941523407116193,
-      "maximum_grade": 0.028550236868672783
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_106",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.0001541131473139501,
-      "maximum_grade": 0.043598541210422455
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_107",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00037904510359965116,
-      "maximum_grade": 0.043251569191195584
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_108",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 8.393684178464866e-05,
-      "maximum_grade": 0.03493382494483275
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_109",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00020287831170584525,
-      "maximum_grade": 0.028046385758959087
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_110",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00017303435813786905,
-      "maximum_grade": 0.01969422095110202
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_111",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 6.69490274596285e-05,
-      "maximum_grade": 0.013946964728839354
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_112",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.000246732519237014,
-      "maximum_grade": 0.017591448901444852
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_113",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 6.119227295720009e-05,
-      "maximum_grade": 0.02640327501753603
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_114",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00026471246625803246,
-      "maximum_grade": 0.03178493490723653
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_115",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00036372187777189424,
-      "maximum_grade": 0.035268009383483685
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_116",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.00015123690198137751,
-      "maximum_grade": 0.03632663551710676
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_117",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 9.685747100363074e-05,
-      "maximum_grade": 0.035003148866828565
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_118",
-      "samples": 60,
-      "maximum_endpoint_lip_m": 0.0006430553683571816,
-      "maximum_grade": 0.02923381427054694
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_119",
-      "samples": 75,
-      "maximum_endpoint_lip_m": 0.00039032897049118276,
-      "maximum_grade": 0.02531799266167381
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_120_BACKLANE",
+      "name": "MAIN_BACKLANE_SOURCE_HOUSES",
       "samples": 114,
-      "maximum_endpoint_lip_m": 0.003732550757966635,
-      "maximum_grade": 0.0007453536252996952
+      "maximum_endpoint_lip_m": 0.0038635424669468676,
+      "maximum_grade": 0.0006397275313097877
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_001",
+      "samples": 63,
+      "maximum_endpoint_lip_m": 2.0136937806114474e-07,
+      "maximum_grade": 0.034455532334761334
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_002",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 2.542169651675863e-06,
+      "maximum_grade": 0.03623820589718277
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_003",
+      "samples": 42,
+      "maximum_endpoint_lip_m": 3.2051817759892742e-06,
+      "maximum_grade": 0.036979281520878544
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_004",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 1.56121698857703e-06,
+      "maximum_grade": 0.04714891405013058
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_005",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 1.8211670926859824e-07,
+      "maximum_grade": 0.043910595447487606
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_006",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 4.004179032790489e-08,
+      "maximum_grade": 0.029172529629986826
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_007",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 9.425124858353229e-08,
+      "maximum_grade": 0.02156190178381667
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_008",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 7.155500902911172e-08,
+      "maximum_grade": 0.02930886064783682
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_009",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 3.022631092974848e-06,
+      "maximum_grade": 0.03779327538465136
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_010",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 5.1040794462053896e-06,
+      "maximum_grade": 0.04214490910803746
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_011",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 4.294420718853331e-05,
+      "maximum_grade": 0.03952536378269239
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_012",
+      "samples": 36,
+      "maximum_endpoint_lip_m": 8.650310327684707e-05,
+      "maximum_grade": 0.044268748398611946
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_013",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 1.9049777844060145e-06,
+      "maximum_grade": 0.04505903191633194
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_014",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 1.7290935261371487e-07,
+      "maximum_grade": 0.03306982363668183
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_015",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 4.7631951716198273e-07,
+      "maximum_grade": 0.02906533707622603
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_016",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 2.2669752830495327e-07,
+      "maximum_grade": 0.03107294484137311
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_017",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 2.2189665859428942e-05,
+      "maximum_grade": 0.04041535705905885
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_018",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 3.174441007658402e-05,
+      "maximum_grade": 0.044657510376368545
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_019",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 1.703806800534835e-06,
+      "maximum_grade": 0.03734036328253057
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_020",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 9.718229421196156e-07,
+      "maximum_grade": 0.01738365169585896
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_021",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 3.779222126354398e-07,
+      "maximum_grade": 0.011237726558376761
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_022",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 6.835782269121182e-07,
+      "maximum_grade": 0.014738206909816068
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_023",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 8.323577560531703e-07,
+      "maximum_grade": 0.01332265304304939
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_024",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 3.0329866316236576e-06,
+      "maximum_grade": 0.01584077312119692
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_025",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 2.3497477373624065e-05,
+      "maximum_grade": 0.018135573740545006
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_026",
+      "samples": 60,
+      "maximum_endpoint_lip_m": 1.09139944335368e-05,
+      "maximum_grade": 0.01770001249998714
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_027",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 6.584934375553075e-07,
+      "maximum_grade": 0.025602751675343313
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_028",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 8.374598063909389e-07,
+      "maximum_grade": 0.03765167287341783
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_029",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 6.346516983057882e-07,
+      "maximum_grade": 0.029807063622790207
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_030",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 5.974575234546364e-07,
+      "maximum_grade": 0.018485791167761608
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_031",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 7.599799420887621e-07,
+      "maximum_grade": 0.016323247449757373
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_032",
+      "samples": 75,
+      "maximum_endpoint_lip_m": 3.1051365940726328e-06,
+      "maximum_grade": 0.01371189113831163
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_033",
+      "samples": 87,
+      "maximum_endpoint_lip_m": 8.873732042502525e-07,
+      "maximum_grade": 0.015378494185903913
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_034",
+      "samples": 87,
+      "maximum_endpoint_lip_m": 3.3341864025260293e-07,
+      "maximum_grade": 0.036574708811175013
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_035",
+      "samples": 87,
+      "maximum_endpoint_lip_m": 6.793731444076911e-07,
+      "maximum_grade": 0.027272556156778767
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_036",
+      "samples": 87,
+      "maximum_endpoint_lip_m": 1.276802745309169e-06,
+      "maximum_grade": 0.02072690212820803
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_037",
+      "samples": 87,
+      "maximum_endpoint_lip_m": 7.212315278337655e-07,
+      "maximum_grade": 0.017523392412990054
+    },
+    {
+      "name": "MAIN_REBUILT_LANE_038",
+      "samples": 87,
+      "maximum_endpoint_lip_m": 1.2363192052333716e-06,
+      "maximum_grade": 0.01458705782696352
     }
   ],
-  "pedestrian_link_count": 120,
+  "pedestrian_link_count": 39,
   "source_buildings": [
     {
       "name": "CBD_Modern_Glass_02",
@@ -939,109 +453,109 @@
   "additional_canopy_present": false,
   "source_texture_bytes_preserved": true,
   "glb_external_resources": false,
-  "mesh_objects": 1395,
-  "imported_triangles": 1385415,
-  "file_size_bytes": 173082180,
+  "mesh_objects": 861,
+  "imported_triangles": 1023128,
+  "file_size_bytes": 142730080,
   "limitations": "Geometry and metric areas verified. Game collision meshes, navigation, streaming logic and runtime FPS were not integrated or benchmarked.",
-  "placeholder_lots_verified": 2977,
-  "placeholder_maximum_roof_height_error_m": 7.561006839296169e-06,
+  "placeholder_lots_verified": 625,
+  "placeholder_maximum_roof_height_error_m": 3.7999044195657916e-06,
   "terrain_height_range_m": [
     3.0,
-    29.296363830566406
+    30.528854370117188
   ],
-  "pedestrian_headroom_rays": 8232,
+  "pedestrian_headroom_rays": 2727,
   "building_frontage_checks": [
     {
       "instance": "CBD_Modern_Glass_02",
-      "central_access_grade": 0.0006127031959537787,
-      "plaza_to_sidewalk_lip_m": 0.0007940386863687365,
+      "central_access_grade": 0.0009118499765873826,
+      "plaza_to_sidewalk_lip_m": 0.002014697469324034,
       "entrance_plaza_depth_m": 18.05
     },
     {
       "instance": "CBD_Office_Building_01",
-      "central_access_grade": 0.002925872802735478,
-      "plaza_to_sidewalk_lip_m": 0.0020006563443608627,
+      "central_access_grade": 0.001207987467449229,
+      "plaza_to_sidewalk_lip_m": 0.002307239612711953,
       "entrance_plaza_depth_m": 18.05
     },
     {
       "instance": "OLDTOWN_Apartment_02",
-      "maximum_threshold_lip_m": 0.05114895622033444,
+      "maximum_threshold_lip_m": 0.008423450070230487,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Apartment_03",
-      "maximum_threshold_lip_m": 0.07702620895698686,
+      "maximum_threshold_lip_m": 0.008423450070230487,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Arcade_06",
-      "maximum_threshold_lip_m": 0.00842289997386203,
+      "maximum_threshold_lip_m": 0.008422970333704427,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Arcade_07",
-      "maximum_threshold_lip_m": 0.00842289997386203,
+      "maximum_threshold_lip_m": 0.00842297033370265,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Arcade_05",
-      "maximum_threshold_lip_m": 0.00842289997386203,
+      "maximum_threshold_lip_m": 0.008422970333704427,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Shop_08",
-      "maximum_threshold_lip_m": 0.00842289997386203,
+      "maximum_threshold_lip_m": 0.008422970333704427,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Connected_Shop_09",
-      "maximum_threshold_lip_m": 0.00842289997386203,
+      "maximum_threshold_lip_m": 0.008422970333704427,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Corner_Shop_10",
-      "maximum_threshold_lip_m": 0.012423086894027158,
+      "maximum_threshold_lip_m": 0.012422680416710463,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Apartment_11",
-      "maximum_threshold_lip_m": 0.02331636882145105,
+      "maximum_threshold_lip_m": 0.008422970333704427,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Joined_Storefront_12",
-      "maximum_threshold_lip_m": 0.00842289997386203,
+      "maximum_threshold_lip_m": 0.008422970333704427,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Joined_Urban_Shopfront_13",
-      "maximum_threshold_lip_m": 0.00842289997386203,
+      "maximum_threshold_lip_m": 0.008422970333704427,
       "direct_sidewalk_frontage": true,
       "direct_alley_frontage": false
     },
     {
       "instance": "OLDTOWN_Backlane_Apartment_13",
-      "maximum_threshold_lip_m": 0.00794023976712488,
+      "maximum_threshold_lip_m": 0.007098580802630039,
       "direct_sidewalk_frontage": false,
       "direct_alley_frontage": true
     },
     {
       "instance": "OLDTOWN_Backlane_Apartment_14",
-      "maximum_threshold_lip_m": 0.006704482072553475,
+      "maximum_threshold_lip_m": 0.006038113373840304,
       "direct_sidewalk_frontage": false,
       "direct_alley_frontage": true
     }
   ],
   "surface_sampling_tolerance_m": 0.001,
-  "traffic_lane_barrier_rays": 66906
+  "traffic_lane_barrier_rays": 42154
 }

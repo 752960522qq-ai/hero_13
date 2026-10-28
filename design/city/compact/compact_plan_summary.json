@@ -1,19 +1,40 @@
 {
-  "land_area_m2": 5800000.0000000065,
-  "land_plus_bridge_play_area_m2": 5835652.748272223,
-  "water_excluded": true,
-  "road_length_m": 67129.2327968818,
-  "road_edges": 437,
-  "junctions": 249,
-  "graph_components": 1,
-  "max_grade": 0.08249091416556227,
-  "buildings": 3006,
-  "placeholder_lots": 2995,
-  "real_buildings": 11,
-  "pedestrian_alleys": 119,
-  "interchanges": 2,
-  "ramps": 6,
-  "building_coverage_percent": 22.226507248818137,
-  "oldtown_coverage_percent": 48.1099319628621,
-  "global_scale_applied": false
+  "stats": {
+    "land_area_m2": 3250000.0000000037,
+    "land_plus_bridge_play_area_m2": 3280675.0097599644,
+    "water_excluded": true,
+    "road_length_m": 42338.246985151985,
+    "road_edges": 290,
+    "junctions": 170,
+    "graph_components": 1,
+    "max_grade": 0.08250586336195523,
+    "buildings": 640,
+    "placeholder_lots": 625,
+    "real_buildings": 15,
+    "building_limit": 699,
+    "building_count_by_zone": {
+      "OLDTOWN": 280,
+      "RESIDENTIAL": 110,
+      "CBD": 60,
+      "CIVIC": 10,
+      "UNIVERSITY": 20,
+      "VILLAGE": 100,
+      "INDUSTRIAL": 60
+    },
+    "pedestrian_alleys": 39,
+    "interchanges": 2,
+    "ramps": 6,
+    "building_coverage_percent": 19.89671104685211,
+    "oldtown_coverage_percent": 39.54782569279997,
+    "global_scale_applied": false
+  },
+  "candidate_counts": {
+    "VILLAGE": 125,
+    "CBD": 100,
+    "RESIDENTIAL": 115,
+    "OLDTOWN": 293,
+    "UNIVERSITY": 24,
+    "CIVIC": 10,
+    "INDUSTRIAL": 64
+  }
 }

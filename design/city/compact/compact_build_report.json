@@ -1,725 +1,254 @@
 {
-  "schema": "hero13.city.compact-build.v8",
+  "schema": "hero13.city.compact-build.v10",
   "stats": {
-    "land_area_m2": 5800000.0000000065,
-    "land_plus_bridge_play_area_m2": 5835652.748272223,
+    "land_area_m2": 3250000.0000000037,
+    "land_plus_bridge_play_area_m2": 3280675.0097599644,
     "water_excluded": true,
-    "road_length_m": 67129.2327968818,
-    "road_edges": 437,
-    "junctions": 249,
+    "road_length_m": 42338.246985151985,
+    "road_edges": 290,
+    "junctions": 170,
     "graph_components": 1,
-    "max_grade": 0.08249091416556227,
-    "buildings": 3006,
-    "placeholder_lots": 2995,
-    "real_buildings": 11,
-    "pedestrian_alleys": 119,
+    "max_grade": 0.08250586336195523,
+    "buildings": 640,
+    "placeholder_lots": 625,
+    "real_buildings": 15,
+    "building_limit": 699,
+    "building_count_by_zone": {
+      "OLDTOWN": 280,
+      "RESIDENTIAL": 110,
+      "CBD": 60,
+      "CIVIC": 10,
+      "UNIVERSITY": 20,
+      "VILLAGE": 100,
+      "INDUSTRIAL": 60
+    },
+    "pedestrian_alleys": 39,
     "interchanges": 2,
     "ramps": 6,
-    "building_coverage_percent": 22.226507248818137,
-    "oldtown_coverage_percent": 48.1099319628621,
+    "building_coverage_percent": 19.89671104685211,
+    "oldtown_coverage_percent": 39.54782569279997,
     "global_scale_applied": false
   },
-  "massing_batches": 117,
-  "mesh_objects": 1384,
+  "massing_batches": 69,
+  "mesh_objects": 861,
   "pedestrian_walkways": [
     {
-      "name": "MAIN_OLD_ALLEY_001",
-      "maximum_grade": 0.019364380933390834,
-      "maximum_retaining_height_m": 0.556297281790676
+      "name": "MAIN_BACKLANE_SOURCE_HOUSES",
+      "maximum_grade": 0.0006397275313097877,
+      "maximum_retaining_height_m": 0.8512800493645116
     },
     {
-      "name": "MAIN_OLD_ALLEY_002",
-      "maximum_grade": 0.019619998160115355,
-      "maximum_retaining_height_m": 0.5614550377265748
+      "name": "MAIN_REBUILT_LANE_001",
+      "maximum_grade": 0.034455532334761334,
+      "maximum_retaining_height_m": 0.6901450803619502
     },
     {
-      "name": "MAIN_OLD_ALLEY_003",
-      "maximum_grade": 0.01855880829664166,
-      "maximum_retaining_height_m": 0.5635249970800622
+      "name": "MAIN_REBUILT_LANE_002",
+      "maximum_grade": 0.03623820589718277,
+      "maximum_retaining_height_m": 0.7165073090880583
     },
     {
-      "name": "MAIN_OLD_ALLEY_004",
-      "maximum_grade": 0.020503626028288396,
-      "maximum_retaining_height_m": 0.5698565158688305
+      "name": "MAIN_REBUILT_LANE_003",
+      "maximum_grade": 0.036979281520878544,
+      "maximum_retaining_height_m": 0.7208214499668313
     },
     {
-      "name": "MAIN_OLD_ALLEY_005",
-      "maximum_grade": 0.02227292803553664,
-      "maximum_retaining_height_m": 0.5756625105892423
+      "name": "MAIN_REBUILT_LANE_004",
+      "maximum_grade": 0.04714891405013058,
+      "maximum_retaining_height_m": 0.8623888432926492
     },
     {
-      "name": "MAIN_OLD_ALLEY_006",
-      "maximum_grade": 0.017453531856299186,
-      "maximum_retaining_height_m": 0.523013712533765
+      "name": "MAIN_REBUILT_LANE_005",
+      "maximum_grade": 0.043910595447487606,
+      "maximum_retaining_height_m": 0.7551599529646413
     },
     {
-      "name": "MAIN_OLD_ALLEY_007",
-      "maximum_grade": 0.022012199104139603,
-      "maximum_retaining_height_m": 0.5949973747137074
+      "name": "MAIN_REBUILT_LANE_006",
+      "maximum_grade": 0.029172529629986826,
+      "maximum_retaining_height_m": 0.7973726342283882
     },
     {
-      "name": "MAIN_OLD_ALLEY_008",
-      "maximum_grade": 0.022222917522242144,
-      "maximum_retaining_height_m": 0.5887112726532173
+      "name": "MAIN_REBUILT_LANE_007",
+      "maximum_grade": 0.02156190178381667,
+      "maximum_retaining_height_m": 1.053167049239045
     },
     {
-      "name": "MAIN_OLD_ALLEY_009",
-      "maximum_grade": 0.02588684526476976,
-      "maximum_retaining_height_m": 0.6422833640851069
+      "name": "MAIN_REBUILT_LANE_008",
+      "maximum_grade": 0.02930886064783682,
+      "maximum_retaining_height_m": 0.6478594217156992
     },
     {
-      "name": "MAIN_OLD_ALLEY_010",
-      "maximum_grade": 0.027090087366461145,
-      "maximum_retaining_height_m": 0.6441326817369646
+      "name": "MAIN_REBUILT_LANE_009",
+      "maximum_grade": 0.03779327538465136,
+      "maximum_retaining_height_m": 0.7131494371563409
     },
     {
-      "name": "MAIN_OLD_ALLEY_011",
-      "maximum_grade": 0.027508885622494848,
-      "maximum_retaining_height_m": 0.6469831760079048
+      "name": "MAIN_REBUILT_LANE_010",
+      "maximum_grade": 0.04214490910803746,
+      "maximum_retaining_height_m": 0.7948677460337761
     },
     {
-      "name": "MAIN_OLD_ALLEY_012",
-      "maximum_grade": 0.02702109489542625,
-      "maximum_retaining_height_m": 0.6292210105706921
+      "name": "MAIN_REBUILT_LANE_011",
+      "maximum_grade": 0.03952536378269239,
+      "maximum_retaining_height_m": 0.6862807849807355
     },
     {
-      "name": "MAIN_OLD_ALLEY_013",
-      "maximum_grade": 0.026045318226183077,
-      "maximum_retaining_height_m": 0.6074090236963556
+      "name": "MAIN_REBUILT_LANE_012",
+      "maximum_grade": 0.044268748398611946,
+      "maximum_retaining_height_m": 0.8694238828123799
     },
     {
-      "name": "MAIN_OLD_ALLEY_014",
-      "maximum_grade": 0.025218755401801355,
-      "maximum_retaining_height_m": 0.5742774650486897
+      "name": "MAIN_REBUILT_LANE_013",
+      "maximum_grade": 0.04505903191633194,
+      "maximum_retaining_height_m": 0.6990989622726911
     },
     {
-      "name": "MAIN_OLD_ALLEY_015",
-      "maximum_grade": 0.018829565577819955,
-      "maximum_retaining_height_m": 0.519719104921232
+      "name": "MAIN_REBUILT_LANE_014",
+      "maximum_grade": 0.03306982363668183,
+      "maximum_retaining_height_m": 0.59129585585492
     },
     {
-      "name": "MAIN_OLD_ALLEY_016",
-      "maximum_grade": 0.01911479340090514,
-      "maximum_retaining_height_m": 0.5533770603267616
+      "name": "MAIN_REBUILT_LANE_015",
+      "maximum_grade": 0.02906533707622603,
+      "maximum_retaining_height_m": 0.6661041047589471
     },
     {
-      "name": "MAIN_OLD_ALLEY_017",
-      "maximum_grade": 0.024934719484283014,
-      "maximum_retaining_height_m": 0.6380271864245346
+      "name": "MAIN_REBUILT_LANE_016",
+      "maximum_grade": 0.03107294484137311,
+      "maximum_retaining_height_m": 0.7688856582348791
     },
     {
-      "name": "MAIN_OLD_ALLEY_018",
-      "maximum_grade": 0.025807244028205965,
-      "maximum_retaining_height_m": 0.6489004625794372
+      "name": "MAIN_REBUILT_LANE_017",
+      "maximum_grade": 0.04041535705905885,
+      "maximum_retaining_height_m": 0.6734597959646269
     },
     {
-      "name": "MAIN_OLD_ALLEY_019",
-      "maximum_grade": 0.02764191849928848,
-      "maximum_retaining_height_m": 0.6641613117936727
+      "name": "MAIN_REBUILT_LANE_018",
+      "maximum_grade": 0.044657510376368545,
+      "maximum_retaining_height_m": 1.0597555870190973
     },
     {
-      "name": "MAIN_OLD_ALLEY_020",
-      "maximum_grade": 0.029900756585005676,
-      "maximum_retaining_height_m": 0.6487253473035182
+      "name": "MAIN_REBUILT_LANE_019",
+      "maximum_grade": 0.03734036328253057,
+      "maximum_retaining_height_m": 0.5797382359336467
     },
     {
-      "name": "MAIN_OLD_ALLEY_021",
-      "maximum_grade": 0.02527000943742237,
-      "maximum_retaining_height_m": 0.5494424232371973
+      "name": "MAIN_REBUILT_LANE_020",
+      "maximum_grade": 0.01738365169585896,
+      "maximum_retaining_height_m": 0.5147662326439484
     },
     {
-      "name": "MAIN_OLD_ALLEY_022",
-      "maximum_grade": 0.02470012079063918,
-      "maximum_retaining_height_m": 0.546878280530303
+      "name": "MAIN_REBUILT_LANE_021",
+      "maximum_grade": 0.011237726558376761,
+      "maximum_retaining_height_m": 0.48309118663805783
     },
     {
-      "name": "MAIN_OLD_ALLEY_023",
-      "maximum_grade": 0.02395119615756335,
-      "maximum_retaining_height_m": 0.7230056651818586
+      "name": "MAIN_REBUILT_LANE_022",
+      "maximum_grade": 0.014738206909816068,
+      "maximum_retaining_height_m": 0.5449840638889434
     },
     {
-      "name": "MAIN_OLD_ALLEY_024",
-      "maximum_grade": 0.036631529281091986,
-      "maximum_retaining_height_m": 0.696666063278335
+      "name": "MAIN_REBUILT_LANE_023",
+      "maximum_grade": 0.01332265304304939,
+      "maximum_retaining_height_m": 0.5183675039052407
     },
     {
-      "name": "MAIN_OLD_ALLEY_025",
-      "maximum_grade": 0.037407636834455874,
-      "maximum_retaining_height_m": 0.7012008711129729
+      "name": "MAIN_REBUILT_LANE_024",
+      "maximum_grade": 0.01584077312119692,
+      "maximum_retaining_height_m": 0.5413121864803738
     },
     {
-      "name": "MAIN_OLD_ALLEY_026",
-      "maximum_grade": 0.03645622929431007,
-      "maximum_retaining_height_m": 0.6845719362156828
+      "name": "MAIN_REBUILT_LANE_025",
+      "maximum_grade": 0.018135573740545006,
+      "maximum_retaining_height_m": 1.0315455539081935
     },
     {
-      "name": "MAIN_OLD_ALLEY_027",
-      "maximum_grade": 0.03374545084367166,
-      "maximum_retaining_height_m": 0.6607685425909491
+      "name": "MAIN_REBUILT_LANE_026",
+      "maximum_grade": 0.01770001249998714,
+      "maximum_retaining_height_m": 2.13821351087482
     },
     {
-      "name": "MAIN_OLD_ALLEY_028",
-      "maximum_grade": 0.029894685208147094,
-      "maximum_retaining_height_m": 0.6206101980823941
+      "name": "MAIN_REBUILT_LANE_027",
+      "maximum_grade": 0.025602751675343313,
+      "maximum_retaining_height_m": 0.9225412195885951
     },
     {
-      "name": "MAIN_OLD_ALLEY_029",
-      "maximum_grade": 0.0255799717950678,
-      "maximum_retaining_height_m": 0.5794929329741958
+      "name": "MAIN_REBUILT_LANE_028",
+      "maximum_grade": 0.03765167287341783,
+      "maximum_retaining_height_m": 0.6107112692463179
     },
     {
-      "name": "MAIN_OLD_ALLEY_030",
-      "maximum_grade": 0.02970154304283581,
-      "maximum_retaining_height_m": 0.5597659118404312
+      "name": "MAIN_REBUILT_LANE_029",
+      "maximum_grade": 0.029807063622790207,
+      "maximum_retaining_height_m": 0.5319543887332934
     },
     {
-      "name": "MAIN_OLD_ALLEY_031",
-      "maximum_grade": 0.030800047106712896,
-      "maximum_retaining_height_m": 0.6493451240248262
+      "name": "MAIN_REBUILT_LANE_030",
+      "maximum_grade": 0.018485791167761608,
+      "maximum_retaining_height_m": 0.5793557828215086
     },
     {
-      "name": "MAIN_OLD_ALLEY_032",
-      "maximum_grade": 0.0338354068786861,
-      "maximum_retaining_height_m": 0.6758843840511073
+      "name": "MAIN_REBUILT_LANE_031",
+      "maximum_grade": 0.016323247449757373,
+      "maximum_retaining_height_m": 0.539404174640989
     },
     {
-      "name": "MAIN_OLD_ALLEY_033",
-      "maximum_grade": 0.03630134086388777,
-      "maximum_retaining_height_m": 0.7018125895028113
+      "name": "MAIN_REBUILT_LANE_032",
+      "maximum_grade": 0.01371189113831163,
+      "maximum_retaining_height_m": 0.5152875142358386
     },
     {
-      "name": "MAIN_OLD_ALLEY_034",
-      "maximum_grade": 0.037968364911092414,
-      "maximum_retaining_height_m": 0.680997189033449
+      "name": "MAIN_REBUILT_LANE_033",
+      "maximum_grade": 0.015378494185903913,
+      "maximum_retaining_height_m": 3.4864073945023115
     },
     {
-      "name": "MAIN_OLD_ALLEY_035",
-      "maximum_grade": 0.03326166656827563,
-      "maximum_retaining_height_m": 0.667547754133226
+      "name": "MAIN_REBUILT_LANE_034",
+      "maximum_grade": 0.036574708811175013,
+      "maximum_retaining_height_m": 0.6862429829763776
     },
     {
-      "name": "MAIN_OLD_ALLEY_036",
-      "maximum_grade": 0.02450285500311022,
-      "maximum_retaining_height_m": 0.5804287696617942
+      "name": "MAIN_REBUILT_LANE_035",
+      "maximum_grade": 0.027272556156778767,
+      "maximum_retaining_height_m": 0.6584389179065298
     },
     {
-      "name": "MAIN_OLD_ALLEY_037",
-      "maximum_grade": 0.014298113613344382,
-      "maximum_retaining_height_m": 0.4949383875035682
+      "name": "MAIN_REBUILT_LANE_036",
+      "maximum_grade": 0.02072690212820803,
+      "maximum_retaining_height_m": 0.621845440356843
     },
     {
-      "name": "MAIN_OLD_ALLEY_038",
-      "maximum_grade": 0.04356675442795193,
-      "maximum_retaining_height_m": 0.7622152584440798
+      "name": "MAIN_REBUILT_LANE_037",
+      "maximum_grade": 0.017523392412990054,
+      "maximum_retaining_height_m": 0.5576395408794834
     },
     {
-      "name": "MAIN_OLD_ALLEY_039",
-      "maximum_grade": 0.042078934455569025,
-      "maximum_retaining_height_m": 0.7464360736898286
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_040",
-      "maximum_grade": 0.03846175692102271,
-      "maximum_retaining_height_m": 0.7030406805988463
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_041",
-      "maximum_grade": 0.03211854813876217,
-      "maximum_retaining_height_m": 0.6425559174732616
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_042",
-      "maximum_grade": 0.024574868426626737,
-      "maximum_retaining_height_m": 0.5706622284394385
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_043",
-      "maximum_grade": 0.01721645461024018,
-      "maximum_retaining_height_m": 0.507358849105005
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_044",
-      "maximum_grade": 0.012941029244787326,
-      "maximum_retaining_height_m": 0.47585880523043755
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_045",
-      "maximum_grade": 0.021144909155153633,
-      "maximum_retaining_height_m": 0.5630371095170972
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_046",
-      "maximum_grade": 0.02868797102200043,
-      "maximum_retaining_height_m": 0.6280800390545025
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_047",
-      "maximum_grade": 0.03324180855273416,
-      "maximum_retaining_height_m": 0.6769028293295953
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_048",
-      "maximum_grade": 0.035776856780934965,
-      "maximum_retaining_height_m": 0.7016847917477875
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_049",
-      "maximum_grade": 0.0360036926454801,
-      "maximum_retaining_height_m": 0.6720342477949472
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_050",
-      "maximum_grade": 0.03346097045283385,
-      "maximum_retaining_height_m": 0.7989906484033256
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_051",
-      "maximum_grade": 0.021833268881220787,
-      "maximum_retaining_height_m": 0.6732452206913457
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_052",
-      "maximum_grade": 0.030599722119500083,
-      "maximum_retaining_height_m": 0.8234441089171369
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_053",
-      "maximum_grade": 0.034318446790691265,
-      "maximum_retaining_height_m": 0.6171160469052062
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_054",
-      "maximum_grade": 0.02881881946372667,
-      "maximum_retaining_height_m": 0.5704715901873314
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_055",
-      "maximum_grade": 0.022494586720281706,
-      "maximum_retaining_height_m": 0.5371915491519204
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_056",
-      "maximum_grade": 0.01756937642369239,
-      "maximum_retaining_height_m": 0.5297574658648667
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_057",
-      "maximum_grade": 0.011772984651650685,
-      "maximum_retaining_height_m": 0.49780182114716176
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_058",
-      "maximum_grade": 0.010279068138926086,
-      "maximum_retaining_height_m": 0.47448888090811003
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_059",
-      "maximum_grade": 0.011876043368028149,
-      "maximum_retaining_height_m": 0.47044645466398904
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_060",
-      "maximum_grade": 0.01631153109622231,
-      "maximum_retaining_height_m": 0.49838791556546447
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_061",
-      "maximum_grade": 0.020251256946638423,
-      "maximum_retaining_height_m": 0.5295895280204572
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_062",
-      "maximum_grade": 0.011308335194831862,
-      "maximum_retaining_height_m": 0.7308816629820445
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_063",
-      "maximum_grade": 0.019114249212000275,
-      "maximum_retaining_height_m": 0.7938738690120228
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_064",
-      "maximum_grade": 0.02931991657262242,
-      "maximum_retaining_height_m": 0.6140706226118908
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_065",
-      "maximum_grade": 0.028257606718625695,
-      "maximum_retaining_height_m": 0.6251099699869442
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_066",
-      "maximum_grade": 0.02497413423583052,
-      "maximum_retaining_height_m": 0.6001828702051188
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_067",
-      "maximum_grade": 0.021084491761964353,
-      "maximum_retaining_height_m": 0.5807563897573012
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_068",
-      "maximum_grade": 0.017207059654972663,
-      "maximum_retaining_height_m": 0.550892523897268
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_069",
-      "maximum_grade": 0.014187106875345076,
-      "maximum_retaining_height_m": 0.5308449366484691
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_070",
-      "maximum_grade": 0.011996004678736242,
-      "maximum_retaining_height_m": 0.4946827877974638
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_071",
-      "maximum_grade": 0.011634182099299633,
-      "maximum_retaining_height_m": 0.5118244611598204
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_072",
-      "maximum_grade": 0.012636853284842752,
-      "maximum_retaining_height_m": 0.5114354534484651
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_073",
-      "maximum_grade": 0.01446898527742441,
-      "maximum_retaining_height_m": 0.520483845314688
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_074",
-      "maximum_grade": 0.014526721166979669,
-      "maximum_retaining_height_m": 1.0912938502916187
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_075",
-      "maximum_grade": 0.018819854799788982,
-      "maximum_retaining_height_m": 0.549972368044692
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_076",
-      "maximum_grade": 0.018755319466798544,
-      "maximum_retaining_height_m": 0.549203788898299
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_077",
-      "maximum_grade": 0.01979036978551119,
-      "maximum_retaining_height_m": 0.579091225843134
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_078",
-      "maximum_grade": 0.019306248267381046,
-      "maximum_retaining_height_m": 0.5526148303961316
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_079",
-      "maximum_grade": 0.021524595012517196,
-      "maximum_retaining_height_m": 0.5663777551479949
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_080",
-      "maximum_grade": 0.021614852944366512,
-      "maximum_retaining_height_m": 0.563966919943713
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_081",
-      "maximum_grade": 0.022296472176609034,
-      "maximum_retaining_height_m": 0.6063910703159916
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_082",
-      "maximum_grade": 0.025208964208783793,
-      "maximum_retaining_height_m": 0.609667513028314
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_083",
-      "maximum_grade": 0.027520175067686035,
-      "maximum_retaining_height_m": 0.61417709792567
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_084",
-      "maximum_grade": 0.027401190364053418,
-      "maximum_retaining_height_m": 0.604009110149283
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_085",
-      "maximum_grade": 0.026455660383086062,
-      "maximum_retaining_height_m": 0.5924989930876894
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_086",
-      "maximum_grade": 0.025481155417234957,
-      "maximum_retaining_height_m": 0.5778809892355259
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_087",
-      "maximum_grade": 0.014903425510147878,
-      "maximum_retaining_height_m": 0.5303834325466283
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_088",
-      "maximum_grade": 0.02469474072551831,
-      "maximum_retaining_height_m": 0.6597640222677956
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_089",
-      "maximum_grade": 0.025333966827596095,
-      "maximum_retaining_height_m": 0.6398435894063885
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_090",
-      "maximum_grade": 0.026685476292826853,
-      "maximum_retaining_height_m": 0.6282754241135917
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_091",
-      "maximum_grade": 0.029026349356571633,
-      "maximum_retaining_height_m": 0.6250374233581786
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_092",
-      "maximum_grade": 0.029621984230021388,
-      "maximum_retaining_height_m": 0.6252463102574168
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_093",
-      "maximum_grade": 0.023505824569397406,
-      "maximum_retaining_height_m": 0.5939880650594107
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_094",
-      "maximum_grade": 0.02531421238143593,
-      "maximum_retaining_height_m": 0.7288496412699046
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_095",
-      "maximum_grade": 0.03587379686116878,
-      "maximum_retaining_height_m": 0.6581542447014854
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_096",
-      "maximum_grade": 0.03754039049129357,
-      "maximum_retaining_height_m": 0.6742864675342624
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_097",
-      "maximum_grade": 0.03507433851617718,
-      "maximum_retaining_height_m": 0.6496321427550038
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_098",
-      "maximum_grade": 0.03176704628079482,
-      "maximum_retaining_height_m": 0.6180613409763263
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_099",
-      "maximum_grade": 0.02719915423323248,
-      "maximum_retaining_height_m": 0.5805185914685556
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_100",
-      "maximum_grade": 0.029381592279418212,
-      "maximum_retaining_height_m": 0.6524725320800622
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_101",
-      "maximum_grade": 0.032760937638955025,
-      "maximum_retaining_height_m": 0.6536198798900168
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_102",
-      "maximum_grade": 0.03545805613287241,
-      "maximum_retaining_height_m": 0.6597894202822783
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_103",
-      "maximum_grade": 0.03745979971739482,
-      "maximum_retaining_height_m": 0.6566496256935812
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_104",
-      "maximum_grade": 0.037283819524896636,
-      "maximum_retaining_height_m": 0.6493679801456818
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_105",
-      "maximum_grade": 0.028550236868672783,
-      "maximum_retaining_height_m": 0.8427780921399606
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_106",
-      "maximum_grade": 0.043598541210422455,
-      "maximum_retaining_height_m": 0.7245839998433432
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_107",
-      "maximum_grade": 0.043251569191195584,
-      "maximum_retaining_height_m": 0.7300902728549463
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_108",
-      "maximum_grade": 0.03493382494483275,
-      "maximum_retaining_height_m": 0.6597595521690156
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_109",
-      "maximum_grade": 0.028046385758959087,
-      "maximum_retaining_height_m": 0.6012619613323675
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_110",
-      "maximum_grade": 0.01969422095110202,
-      "maximum_retaining_height_m": 0.5315504906004946
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_111",
-      "maximum_grade": 0.013946964728839354,
-      "maximum_retaining_height_m": 0.4874542813623055
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_112",
-      "maximum_grade": 0.017591448901444852,
-      "maximum_retaining_height_m": 0.5434588499536535
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_113",
-      "maximum_grade": 0.02640327501753603,
-      "maximum_retaining_height_m": 0.6085289596880994
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_114",
-      "maximum_grade": 0.03178493490723653,
-      "maximum_retaining_height_m": 0.6418161707681946
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_115",
-      "maximum_grade": 0.035268009383483685,
-      "maximum_retaining_height_m": 0.658266756022849
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_116",
-      "maximum_grade": 0.03632663551710676,
-      "maximum_retaining_height_m": 0.651133011294208
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_117",
-      "maximum_grade": 0.035003148866828565,
-      "maximum_retaining_height_m": 0.6406938410200826
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_118",
-      "maximum_grade": 0.02923381427054694,
-      "maximum_retaining_height_m": 1.1011771598485032
-    },
-    {
-      "name": "MAIN_OLD_ALLEY_119",
-      "maximum_grade": 0.02531799266167381,
-      "maximum_retaining_height_m": 1.1927919482920792
+      "name": "MAIN_REBUILT_LANE_038",
+      "maximum_grade": 0.01458705782696352,
+      "maximum_retaining_height_m": 0.6040818370003844
     }
   ],
   "piers": [
     {
-      "name": "MAIN_Pier_205_0094",
+      "name": "MAIN_Pier_139_0060",
       "xy": [
-        860.0,
-        504.00000000000006
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_205_0128",
-      "xy": [
-        860.0,
-        538.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_206_0026",
-      "xy": [
-        860.0,
-        591.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_206_0060",
-      "xy": [
-        860.0,
+        620.0,
         625.0
       ],
       "radius": 0.92,
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_206_0128",
+      "name": "MAIN_Pier_140_0026",
       "xy": [
-        860.0,
-        693.0
+        620.0,
+        676.0
       ],
       "radius": 0.92,
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_207_0026",
-      "xy": [
-        860.0,
-        761.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_207_0060",
-      "xy": [
-        860.0,
-        795.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_207_0094",
-      "xy": [
-        860.0,
-        829.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_322_0094",
-      "xy": [
-        -66.0,
-        950.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_322_0128",
-      "xy": [
-        -32.0,
-        950.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_323_0026",
-      "xy": [
-        16.0,
-        950.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_323_0060",
+      "name": "MAIN_Pier_211_0060",
       "xy": [
         50.0,
         950.0
@@ -728,16 +257,25 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_323_0128",
+      "name": "MAIN_Pier_212_0026",
       "xy": [
-        118.0,
+        106.0,
         950.0
       ],
       "radius": 0.92,
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_324_0026",
+      "name": "MAIN_Pier_212_0060",
+      "xy": [
+        140.0,
+        950.0
+      ],
+      "radius": 0.92,
+      "bridge": false
+    },
+    {
+      "name": "MAIN_Pier_213_0026",
       "xy": [
         196.0,
         950.0
@@ -746,88 +284,7 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_324_0060",
-      "xy": [
-        230.0,
-        950.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_324_0094",
-      "xy": [
-        264.0,
-        950.0
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_427_0026",
-      "xy": [
-        -35.381607494052645,
-        944.3747491211436
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_427_0060",
-      "xy": [
-        -66.89371820225503,
-        932.0315947973439
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_427_0094",
-      "xy": [
-        -81.06378693311588,
-        903.0642320971965
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_427_0128",
-      "xy": [
-        -71.29881973534437,
-        870.7352694461052
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_428_0026",
-      "xy": [
-        -35.381607494052645,
-        955.6252508788564
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_428_0060",
-      "xy": [
-        -66.89371820225506,
-        967.968405202656
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_428_0094",
-      "xy": [
-        -81.06378693311586,
-        996.9357679028034
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_429_0026",
+      "name": "MAIN_Pier_282_0026",
       "xy": [
         195.38160749405264,
         944.3747491211436
@@ -836,7 +293,7 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_429_0060",
+      "name": "MAIN_Pier_282_0060",
       "xy": [
         226.89371820225503,
         932.0315947973439
@@ -845,34 +302,7 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_429_0094",
-      "xy": [
-        241.06378693311586,
-        903.0642320971966
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_429_0128",
-      "xy": [
-        231.29881973534438,
-        870.7352694461052
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_429_0162",
-      "xy": [
-        213.05632323455487,
-        842.1106630369047
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_430_0026",
+      "name": "MAIN_Pier_283_0026",
       "xy": [
         195.38160749405264,
         955.6252508788564
@@ -881,7 +311,7 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_430_0060",
+      "name": "MAIN_Pier_283_0060",
       "xy": [
         226.89371820225506,
         967.968405202656
@@ -890,7 +320,7 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_430_0094",
+      "name": "MAIN_Pier_283_0094",
       "xy": [
         241.06378693311586,
         996.9357679028034
@@ -899,7 +329,7 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_430_0128",
+      "name": "MAIN_Pier_283_0128",
       "xy": [
         231.29881973534435,
         1029.2647305538949
@@ -908,7 +338,7 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_430_0162",
+      "name": "MAIN_Pier_283_0162",
       "xy": [
         213.05632323455484,
         1057.8893369630953
@@ -917,672 +347,493 @@
       "bridge": false
     },
     {
-      "name": "MAIN_Pier_431_0026",
+      "name": "BRIDGES_Pier_286_0026",
       "xy": [
-        853.0915995168161,
-        539.937958771918
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_431_0060",
-      "xy": [
-        838.4894824880037,
-        509.4598698704189
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_431_0094",
-      "xy": [
-        808.0824446590459,
-        497.92911777032975
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_431_0128",
-      "xy": [
-        775.8271604320496,
-        508.05631924177464
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_431_0162",
-      "xy": [
-        747.265287809879,
-        526.3908995094896
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_432_0026",
-      "xy": [
-        866.9084004831839,
-        760.062041228082
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_432_0060",
-      "xy": [
-        881.5105175119963,
-        790.540130129581
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_432_0094",
-      "xy": [
-        911.917555340954,
-        802.0708822296704
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_432_0128",
-      "xy": [
-        944.1728395679504,
-        791.9436807582254
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "MAIN_Pier_432_0162",
-      "xy": [
-        972.734712190121,
-        773.6091004905104
-      ],
-      "radius": 0.92,
-      "bridge": false
-    },
-    {
-      "name": "BRIDGES_Pier_433_0026",
-      "xy": [
-        -925.5320260821085,
-        133.9670490553201
+        -703.2629161794688,
+        105.66547028240348
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0060",
+      "name": "BRIDGES_Pier_286_0060",
       "xy": [
-        -932.6740858334574,
-        100.72564441429806
+        -722.2504819566119,
+        77.46135097584362
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0094",
+      "name": "BRIDGES_Pier_286_0094",
       "xy": [
-        -939.8161455848063,
-        67.48423977327604
+        -741.2380477337551,
+        49.25723166928376
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0128",
+      "name": "BRIDGES_Pier_286_0128",
       "xy": [
-        -946.9582053361553,
-        34.242835132254015
+        -760.2256135108983,
+        21.05311236272385
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0162",
+      "name": "BRIDGES_Pier_286_0162",
       "xy": [
-        -954.1002650875041,
-        1.0014304912318726
+        -779.2131792880414,
+        -7.151006943835952
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0196",
+      "name": "BRIDGES_Pier_286_0196",
       "xy": [
-        -961.2423248388532,
-        -32.23997414979024
+        -798.2007450651845,
+        -35.35512625039584
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0230",
+      "name": "BRIDGES_Pier_286_0230",
       "xy": [
-        -968.3843845902021,
-        -65.48137879081239
+        -817.1883108423277,
+        -63.55924555695571
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0264",
+      "name": "BRIDGES_Pier_286_0264",
       "xy": [
-        -975.526444341551,
-        -98.7227834318345
+        -836.1758766194708,
+        -91.76336486351562
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0298",
+      "name": "BRIDGES_Pier_286_0298",
       "xy": [
-        -982.6685040928999,
-        -131.96418807285642
+        -855.163442396614,
+        -119.96748417007544
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0332",
+      "name": "BRIDGES_Pier_286_0332",
       "xy": [
-        -989.8105638442488,
-        -165.20559271387836
+        -874.1510081737572,
+        -148.17160347663525
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0366",
+      "name": "BRIDGES_Pier_286_0366",
       "xy": [
-        -996.9526235955977,
-        -198.4469973549003
+        -893.1385739509002,
+        -176.3757227831951
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0400",
+      "name": "BRIDGES_Pier_286_0400",
       "xy": [
-        -1004.0946833469466,
-        -231.68840199592225
+        -912.1261397280433,
+        -204.57984208975486
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0434",
+      "name": "BRIDGES_Pier_286_0434",
       "xy": [
-        -1011.2367430982955,
-        -264.92980663694425
+        -931.1137055051864,
+        -232.78396139631474
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0468",
+      "name": "BRIDGES_Pier_286_0468",
       "xy": [
-        -1018.3788028496443,
-        -298.17121127796617
+        -950.1012712823295,
+        -260.9880807028745
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0502",
+      "name": "BRIDGES_Pier_286_0502",
       "xy": [
-        -1025.5208626009933,
-        -331.4126159189882
+        -969.0888370594727,
+        -289.19220000943443
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0536",
+      "name": "BRIDGES_Pier_286_0536",
       "xy": [
-        -1032.6629223523423,
-        -364.65402056001005
+        -988.0764028366159,
+        -317.3963193159943
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0570",
+      "name": "BRIDGES_Pier_287_0026",
       "xy": [
-        -1039.8049821036911,
-        -397.89542520103186
+        622.8679380407615,
+        104.98227598067255
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0604",
+      "name": "BRIDGES_Pier_287_0060",
       "xy": [
-        -1046.94704185504,
-        -431.13682984205366
+        623.9007544552273,
+        70.99796650918246
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0638",
+      "name": "BRIDGES_Pier_287_0094",
       "xy": [
-        -1054.0891016063888,
-        -464.37823448307546
+        624.9335708696932,
+        37.01365703769244
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_433_0672",
+      "name": "BRIDGES_Pier_287_0128",
       "xy": [
-        -1061.2311613577376,
-        -497.6196391240972
+        625.9663872841592,
+        3.029347566202424
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0026",
+      "name": "BRIDGES_Pier_287_0162",
       "xy": [
-        954.4228185731721,
-        33.60239974549095
+        626.999203698625,
+        -30.954961905287593
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0060",
+      "name": "BRIDGES_Pier_287_0196",
       "xy": [
-        953.6083039816078,
-        -0.38784247165318675
+        628.0320201130909,
+        -64.93927137677761
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0094",
+      "name": "BRIDGES_Pier_287_0230",
       "xy": [
-        952.7937893900435,
-        -34.37808468879733
+        629.0648365275568,
+        -98.92358084826762
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0128",
+      "name": "BRIDGES_Pier_287_0264",
       "xy": [
-        951.9792747984791,
-        -68.36832690594147
+        630.0976529420226,
+        -132.90789031975768
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0162",
+      "name": "BRIDGES_Pier_287_0298",
       "xy": [
-        951.1647602069148,
-        -102.3585691230856
+        631.1304693564886,
+        -166.89219979124803
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0196",
+      "name": "BRIDGES_Pier_287_0332",
       "xy": [
-        950.3502456153506,
-        -136.34881134022973
+        632.1632857709544,
+        -200.87650926273838
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0230",
+      "name": "BRIDGES_Pier_287_0366",
       "xy": [
-        949.5357310237863,
-        -170.3390535573739
+        633.1961021854204,
+        -234.8608187342287
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0264",
+      "name": "BRIDGES_Pier_287_0400",
       "xy": [
-        948.721216432222,
-        -204.32929577451807
+        634.2289185998862,
+        -268.84512820571905
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0298",
+      "name": "BRIDGES_Pier_287_0434",
       "xy": [
-        947.9067018406578,
-        -238.3195379916625
+        635.2617350143521,
+        -302.8294376772094
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0332",
+      "name": "BRIDGES_Pier_287_0468",
       "xy": [
-        947.0921872490934,
-        -272.30978020880684
+        636.294551428818,
+        -336.81374714869975
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0366",
+      "name": "BRIDGES_Pier_287_0502",
       "xy": [
-        946.277672657529,
-        -306.3000224259513
+        637.3273678432838,
+        -370.79805662019004
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0400",
+      "name": "BRIDGES_Pier_288_0026",
       "xy": [
-        945.4631580659648,
-        -340.2902646430958
+        -496.72816178008435,
+        -788.6304370093166
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0434",
+      "name": "BRIDGES_Pier_288_0060",
       "xy": [
-        944.6486434744005,
-        -374.28050686024017
+        -463.07440292678655,
+        -793.4703249257955
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0468",
+      "name": "BRIDGES_Pier_288_0094",
       "xy": [
-        943.8341288828361,
-        -408.2707490773846
+        -429.42064407348875,
+        -798.3102128422745
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0502",
+      "name": "BRIDGES_Pier_288_0128",
       "xy": [
-        943.0196142912719,
-        -442.260991294529
+        -395.76688522019094,
+        -803.1501007587535
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0536",
+      "name": "BRIDGES_Pier_288_0162",
       "xy": [
-        942.2050996997075,
-        -476.25123351167304
+        -362.11312636689314,
+        -807.9899886752326
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0570",
+      "name": "BRIDGES_Pier_288_0196",
       "xy": [
-        941.3905851081433,
-        -510.24147572881685
+        -328.45936751359534,
+        -812.8298765917116
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_434_0604",
+      "name": "BRIDGES_Pier_288_0230",
       "xy": [
-        940.576070516579,
-        -544.2317179459607
+        -294.8056086602976,
+        -817.6697645081906
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0026",
+      "name": "BRIDGES_Pier_288_0264",
       "xy": [
-        -476.6380602546941,
-        -1160.7943949577675
+        -261.15184980699985,
+        -822.5096524246696
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0060",
+      "name": "BRIDGES_Pier_288_0298",
       "xy": [
-        -442.64445137903095,
-        -1160.135186638315
+        -227.4980909537021,
+        -827.3495403411486
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0094",
+      "name": "BRIDGES_Pier_288_0332",
       "xy": [
-        -408.65084250336776,
-        -1159.4759783188624
+        -193.84433210040436,
+        -832.1894282576276
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0128",
+      "name": "BRIDGES_Pier_288_0366",
       "xy": [
-        -374.6572336277046,
-        -1158.81676999941
+        -160.1905732471067,
+        -837.0293161741066
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0162",
+      "name": "BRIDGES_Pier_288_0400",
       "xy": [
-        -340.66362475204147,
-        -1158.1575616799576
+        -126.53681439380897,
+        -841.8692040905856
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0196",
+      "name": "BRIDGES_Pier_288_0434",
       "xy": [
-        -306.6700158763783,
-        -1157.498353360505
+        -92.88305554051125,
+        -846.7090920070646
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0230",
+      "name": "BRIDGES_Pier_289_0026",
       "xy": [
-        -272.67640700071513,
-        -1156.8391450410527
+        -44.35397637452568,
+        -845.724316171463
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0264",
+      "name": "BRIDGES_Pier_289_0060",
       "xy": [
-        -238.682798125052,
-        -1156.1799367216001
+        -10.816868556597726,
+        -840.1330373187608
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0298",
+      "name": "BRIDGES_Pier_289_0094",
       "xy": [
-        -204.68918924938885,
-        -1155.5207284021476
+        22.720239261330267,
+        -834.5417584660587
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0332",
+      "name": "BRIDGES_Pier_289_0128",
       "xy": [
-        -170.69558037372568,
-        -1154.8615200826953
+        56.25734707925825,
+        -828.9504796133565
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0366",
+      "name": "BRIDGES_Pier_289_0162",
       "xy": [
-        -136.7019714980625,
-        -1154.202311763243
+        89.79445489718614,
+        -823.3592007606543
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0400",
+      "name": "BRIDGES_Pier_289_0196",
       "xy": [
-        -102.70836262239935,
-        -1153.5431034437904
+        123.33156271511405,
+        -817.7679219079521
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0434",
+      "name": "BRIDGES_Pier_289_0230",
       "xy": [
-        -68.71475374673619,
-        -1152.8838951243379
+        156.86867053304195,
+        -812.1766430552499
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0468",
+      "name": "BRIDGES_Pier_289_0264",
       "xy": [
-        -34.72114487107302,
-        -1152.2246868048853
+        190.40577835096983,
+        -806.5853642025477
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0502",
+      "name": "BRIDGES_Pier_289_0298",
       "xy": [
-        -0.7275359954098635,
-        -1151.565478485433
+        223.94288616889781,
+        -800.9940853498455
       ],
       "radius": 0.92,
       "bridge": true
     },
     {
-      "name": "BRIDGES_Pier_435_0536",
+      "name": "BRIDGES_Pier_289_0332",
       "xy": [
-        33.26607288025324,
-        -1150.9062701659805
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0026",
-      "xy": [
-        105.95693365331125,
-        -1148.504140609015
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0060",
-      "xy": [
-        139.90061612302594,
-        -1146.5480167900348
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0094",
-      "xy": [
-        173.8442985927407,
-        -1144.5918929710544
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0128",
-      "xy": [
-        207.78798106245546,
-        -1142.635769152074
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0162",
-      "xy": [
-        241.73166353217016,
-        -1140.6796453330937
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0196",
-      "xy": [
-        275.67534600188486,
-        -1138.7235215141136
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0230",
-      "xy": [
-        309.6190284715996,
-        -1136.7673976951332
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0264",
-      "xy": [
-        343.5627109413143,
-        -1134.8112738761529
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0298",
-      "xy": [
-        377.5063934110291,
-        -1132.8551500571725
-      ],
-      "radius": 0.92,
-      "bridge": true
-    },
-    {
-      "name": "BRIDGES_Pier_436_0332",
-      "xy": [
-        411.4500758807439,
-        -1130.8990262381922
+        257.4799939868258,
+        -795.4028064971433
       ],
       "radius": 0.92,
       "bridge": true
     }
   ],
-  "original_source_buildings": 11,
+  "original_source_buildings": 15,
+  "building_count": 640,
   "added_canopy": false
 }

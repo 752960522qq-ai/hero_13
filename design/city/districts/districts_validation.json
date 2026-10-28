@@ -2,8 +2,8 @@
   "district_glbs_reimported": 18,
   "land_districts": 16,
   "shared_models": 2,
-  "source_triangle_count": 1385415,
-  "district_triangle_count": 1385415,
+  "source_triangle_count": 1023128,
+  "district_triangle_count": 1023128,
   "triangle_assignment_complete": true,
   "source_building_instances_checked": [
     "OLDTOWN_Apartment_02",
@@ -29,9 +29,9 @@
     {
       "id": 1,
       "file": "01_main_sw.glb",
-      "meshes": 52,
-      "triangles": 37795,
-      "vertices_checked": 101240,
+      "meshes": 39,
+      "triangles": 39052,
+      "vertices_checked": 105782,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -39,9 +39,9 @@
     {
       "id": 2,
       "file": "02_main_south_west_center.glb",
-      "meshes": 238,
-      "triangles": 225309,
-      "vertices_checked": 417451,
+      "meshes": 87,
+      "triangles": 140836,
+      "vertices_checked": 216793,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 4,
       "reimport_passed": true
@@ -49,9 +49,9 @@
     {
       "id": 3,
       "file": "03_main_south_east_center.glb",
-      "meshes": 278,
-      "triangles": 367679,
-      "vertices_checked": 584923,
+      "meshes": 117,
+      "triangles": 276442,
+      "vertices_checked": 364336,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 11,
       "reimport_passed": true
@@ -59,9 +59,9 @@
     {
       "id": 4,
       "file": "04_main_se.glb",
-      "meshes": 162,
-      "triangles": 86808,
-      "vertices_checked": 213096,
+      "meshes": 72,
+      "triangles": 45475,
+      "vertices_checked": 116771,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -69,9 +69,9 @@
     {
       "id": 5,
       "file": "05_main_nw.glb",
-      "meshes": 20,
-      "triangles": 6405,
-      "vertices_checked": 16182,
+      "meshes": 37,
+      "triangles": 22986,
+      "vertices_checked": 61157,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -79,9 +79,9 @@
     {
       "id": 6,
       "file": "06_main_north_west_center.glb",
-      "meshes": 134,
-      "triangles": 159344,
-      "vertices_checked": 263457,
+      "meshes": 75,
+      "triangles": 124837,
+      "vertices_checked": 175054,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 3,
       "reimport_passed": true
@@ -89,9 +89,9 @@
     {
       "id": 7,
       "file": "07_main_north_east_center.glb",
-      "meshes": 132,
-      "triangles": 81826,
-      "vertices_checked": 202623,
+      "meshes": 94,
+      "triangles": 58864,
+      "vertices_checked": 142574,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -99,9 +99,9 @@
     {
       "id": 8,
       "file": "08_main_ne.glb",
-      "meshes": 56,
-      "triangles": 24952,
-      "vertices_checked": 62224,
+      "meshes": 74,
+      "triangles": 42094,
+      "vertices_checked": 106492,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -109,9 +109,9 @@
     {
       "id": 9,
       "file": "09_west_sw.glb",
-      "meshes": 67,
-      "triangles": 65127,
-      "vertices_checked": 175269,
+      "meshes": 44,
+      "triangles": 28100,
+      "vertices_checked": 76467,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -119,9 +119,9 @@
     {
       "id": 10,
       "file": "10_west_se.glb",
-      "meshes": 60,
-      "triangles": 53668,
-      "vertices_checked": 143249,
+      "meshes": 41,
+      "triangles": 30392,
+      "vertices_checked": 82436,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -129,9 +129,9 @@
     {
       "id": 11,
       "file": "11_west_nw.glb",
-      "meshes": 47,
-      "triangles": 42909,
-      "vertices_checked": 116456,
+      "meshes": 38,
+      "triangles": 30994,
+      "vertices_checked": 83988,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -140,8 +140,8 @@
       "id": 12,
       "file": "12_west_ne.glb",
       "meshes": 28,
-      "triangles": 16055,
-      "vertices_checked": 43465,
+      "triangles": 30376,
+      "vertices_checked": 82072,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -149,9 +149,9 @@
     {
       "id": 13,
       "file": "13_east_sw.glb",
-      "meshes": 66,
-      "triangles": 48288,
-      "vertices_checked": 131313,
+      "meshes": 28,
+      "triangles": 22919,
+      "vertices_checked": 62316,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -159,9 +159,9 @@
     {
       "id": 14,
       "file": "14_east_se.glb",
-      "meshes": 41,
-      "triangles": 32751,
-      "vertices_checked": 88665,
+      "meshes": 26,
+      "triangles": 23907,
+      "vertices_checked": 65347,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -169,9 +169,9 @@
     {
       "id": 15,
       "file": "15_east_nw.glb",
-      "meshes": 79,
-      "triangles": 50152,
-      "vertices_checked": 134977,
+      "meshes": 42,
+      "triangles": 32539,
+      "vertices_checked": 87720,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -179,9 +179,9 @@
     {
       "id": 16,
       "file": "16_east_ne.glb",
-      "meshes": 50,
-      "triangles": 26442,
-      "vertices_checked": 70608,
+      "meshes": 34,
+      "triangles": 22588,
+      "vertices_checked": 61469,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -189,9 +189,9 @@
     {
       "id": 17,
       "file": "17_shared_bridges.glb",
-      "meshes": 145,
-      "triangles": 59656,
-      "vertices_checked": 115100,
+      "meshes": 130,
+      "triangles": 50526,
+      "vertices_checked": 97538,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 1,
       "reimport_passed": true
@@ -200,8 +200,8 @@
       "id": 18,
       "file": "18_shared_water.glb",
       "meshes": 2,
-      "triangles": 249,
-      "vertices_checked": 745,
+      "triangles": 201,
+      "vertices_checked": 601,
       "maximum_world_position_error_m": 0,
       "embedded_images_checked": 0,
       "reimport_passed": true

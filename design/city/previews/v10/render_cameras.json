@@ -1,0 +1,110 @@
+[
+  {
+    "name": "01_city_overview",
+    "location": [
+      0,
+      -2350,
+      3800
+    ],
+    "target": [
+      -100,
+      0,
+      8
+    ],
+    "ortho_scale": 3350,
+    "resolution": [
+      2100,
+      1900
+    ]
+  },
+  {
+    "name": "02_oldtown_blocks",
+    "location": [
+      60,
+      -160,
+      520
+    ],
+    "target": [
+      150,
+      260,
+      14
+    ],
+    "ortho_scale": 1100,
+    "resolution": [
+      1800,
+      1350
+    ]
+  },
+  {
+    "name": "03_original_frontage",
+    "location": [
+      155,
+      145,
+      110
+    ],
+    "target": [
+      278,
+      244,
+      18
+    ],
+    "ortho_scale": 215,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "04_cbd_diamond",
+    "location": [
+      -430,
+      630,
+      420
+    ],
+    "target": [
+      30,
+      925,
+      22
+    ],
+    "ortho_scale": 1080,
+    "resolution": [
+      1800,
+      1300
+    ]
+  },
+  {
+    "name": "05_east_flyover",
+    "location": [
+      900,
+      440,
+      260
+    ],
+    "target": [
+      620,
+      650,
+      17
+    ],
+    "ortho_scale": 630,
+    "resolution": [
+      1800,
+      1200
+    ]
+  },
+  {
+    "name": "06_underpass",
+    "location": [
+      545,
+      650,
+      11.681022944765663
+    ],
+    "target": [
+      695,
+      650,
+      11.681022944765663
+    ],
+    "ortho_scale": null,
+    "resolution": [
+      1600,
+      1000
+    ]
+  }
+]
