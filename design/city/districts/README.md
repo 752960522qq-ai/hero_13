@@ -7,3 +7,6 @@
 18 个 GLB 合计 493.06 MB，最大单块 60.02 MB。逐区的尺寸、范围和文件名见 `districts_manifest.json`、`district_index.csv` 与 `city_districts_map.png`。分区按完整三角面分配地面、道路和桥梁，并按完整地块保留房屋与基座；相邻包围盒重叠不代表重复面。
 
 所有 18 区块已重新导入验证：三角面无重复或遗漏，世界坐标最大误差 0.000000 m，11 原建筑各一次，贴图字节保持。游戏加载逻辑、碰撞、导航和运行帧率未配置或测试。Road Modular：mortalityrexotable，CC BY 4.0；建筑为用户提供的素材。
+
+
+区块已拆为两部分：第1部分包含 01–06、17、18，目前尚未持久保存；[第2部分](https://chatgpt.com/library?file_id=libfile_57ce1917034c8191a950868eba092fba&account_id=personal)包含 07–16。两部分解压到同一目录。完整 GLB 和 Blender 工程包已保存。

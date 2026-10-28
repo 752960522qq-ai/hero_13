@@ -29,9 +29,15 @@
       "bytes": 246593806,
       "sha256": "1f2c853cef0662e2dbf0ecc3615aef060b45cc74411efd2c6f42e8982fcdace1"
     },
-    "huizhou_city_districts.zip": {
-      "bytes": 417723507,
-      "sha256": "b501d1a6da3d0c60f2b4f12e3f6c63b62913a194620dec45ef1ca6595b1959ee"
+    "huizhou_city_districts_part1.zip": {
+      "bytes": 205041055,
+      "sha256": "b0b15396ebbeeec2ef5921ae42acdf57e8aad35d070b83889f572371de65eff6",
+      "persistent_save": "failed"
+    },
+    "huizhou_city_districts_part2.zip": {
+      "bytes": 213184877,
+      "sha256": "d4e709549c337d288bb335ac59b0f12379b8f81177fcce618c8e174e33baffa5",
+      "library_file_id": "libfile_57ce1917034c8191a950868eba092fba"
     }
   },
   "district_glbs": 18,

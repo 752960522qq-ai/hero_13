@@ -32,7 +32,7 @@
 
 本次交付静态模型、原始素材、生成脚本、区域边界、验证数据和实际渲染图。游戏碰撞、导航、动态加载逻辑和目标设备帧率没有在本次模型导出中配置或测试。
 
-[完整 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal) · [18 区块包](https://chatgpt.com/library?file_id=libfile_e132029f47648191af05ada2095a7858&account_id=personal)
+[完整 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal)
 
 
 ## 文件及坐标
@@ -58,3 +58,6 @@ blender -b --factory-startup --python assets/city/tools/validate_city_districts_
 源包有展开的 `city_plan.json`；Git 仓库压缩保存时可先解开 `city_plan.json.gz`。`render_compact_city_blender.py` 直接渲染原生场景，`draw_compact_city_plan.py` 绘制规划和区块索引，后者需通过 `--font` 提供中文字体。`package_compact_city.py` 仅接受完整模型和全部区块验证通过的数据。
 
 Road Modular：mortalityrexotable，CC BY 4.0，保留原几何截面、UV 和图集；路口以连续沥青补面连接，人行道采用原 Sidewalk 2 素材并重构转角和连接。连接点只保留一个路面归属，避免重叠表面。来源及条款见 `ROAD_ASSET_LICENSE.md`。建筑素材由用户提供，本次未改变其授权范围。
+
+
+区块已拆为两部分：第1部分包含 01–06、17、18，目前尚未持久保存；[第2部分](https://chatgpt.com/library?file_id=libfile_57ce1917034c8191a950868eba092fba&account_id=personal)包含 07–16。两部分解压到同一目录。完整 GLB 和 Blender 工程包已保存。
