@@ -1,0 +1,66 @@
+{
+  "type56": {
+    "label": "56式",
+    "url": "./assets/type56.glb?v=r20-ef6439c62167",
+    "grip": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "supportGrip": [
+      -2.4025744949085492e-08,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "stock": [
+      2.084992622997106e-08,
+      0.011887922883033752,
+      -0.276165634393692
+    ],
+    "muzzle": [
+      -4.6187427216182186e-08,
+      0.10333351045846939,
+      0.6117709875106812
+    ],
+    "visualLength": 0.9,
+    "sha256": "ef6439c62167b214d76f882de929ce1a61a6ffcb837878439d7ec67c9ceb7e98",
+    "coordinateFrame": "glTF/Three.js: +Z barrel-forward, +Y weapon-up; grip at origin",
+    "supportGripZRange": [
+      0.21823062896728515,
+      0.31823062896728516
+    ],
+    "name": "56式"
+  },
+  "hanyang88": {
+    "label": "汉阳造88式",
+    "url": "./assets/hanyang88.glb?v=r20-8a9457e89b17",
+    "grip": [
+      0.0,
+      0.0,
+      0.0
+    ],
+    "supportGrip": [
+      -1.532892568434363e-08,
+      0.01878669299185276,
+      0.3506849408149719
+    ],
+    "stock": [
+      1.4288746186252865e-08,
+      -0.05009784549474716,
+      -0.32688841223716736
+    ],
+    "muzzle": [
+      -3.985520180549429e-08,
+      0.03882584348320961,
+      0.9117807745933533
+    ],
+    "visualLength": 1.25,
+    "sha256": "8a9457e89b17eb6ff0801df0fe6dcca8f8e059cc7a40dead4ff33260f1a5ac85",
+    "coordinateFrame": "glTF/Three.js: +Z barrel-forward, +Y weapon-up; grip at origin",
+    "supportGripZRange": [
+      0.25068494081497195,
+      0.3506849408149719
+    ],
+    "name": "汉阳造88式"
+  }
+}
