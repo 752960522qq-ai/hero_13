@@ -1,0 +1,16 @@
+{
+  "terrain": {
+    "MAIN": {
+      "vertices": 84907,
+      "triangles": 75200
+    },
+    "WEST": {
+      "vertices": 36718,
+      "triangles": 28594
+    },
+    "EAST": {
+      "vertices": 28271,
+      "triangles": 24544
+    }
+  }
+}

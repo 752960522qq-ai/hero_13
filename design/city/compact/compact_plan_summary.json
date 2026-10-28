@@ -1,0 +1,19 @@
+{
+  "land_area_m2": 5800000.0000000065,
+  "land_plus_bridge_play_area_m2": 5835652.748272223,
+  "water_excluded": true,
+  "road_length_m": 67129.2327968818,
+  "road_edges": 437,
+  "junctions": 249,
+  "graph_components": 1,
+  "max_grade": 0.08249091416556227,
+  "buildings": 3006,
+  "placeholder_lots": 2995,
+  "real_buildings": 11,
+  "pedestrian_alleys": 119,
+  "interchanges": 2,
+  "ramps": 6,
+  "building_coverage_percent": 22.226507248818137,
+  "oldtown_coverage_percent": 48.1099319628621,
+  "global_scale_applied": false
+}

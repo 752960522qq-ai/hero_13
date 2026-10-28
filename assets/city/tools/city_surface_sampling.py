@@ -20,10 +20,14 @@ class HeightField:
         self.tri=np.concatenate(pieces)
         xy=self.tri[:,:,:2].reshape(-1,2);unique,indices=np.unique(xy,axis=0,return_inverse=True)
         self.tree=BVHTree.FromPolygons(np.c_[unique,np.zeros(len(unique))].tolist(),indices.reshape(-1,3).tolist(),all_triangles=True)
-    def height(self,xy):
-        p=np.array(xy[:2],np.float64);values=[]
-        for _,_,i,_ in self.tree.find_nearest_range(Vector((float(p[0]),float(p[1]),0)),.002):
+    def height(self,xy,tolerance=.001):
+        p=np.array(xy[:2],np.float64);values=[];near=[]
+        for _,_,i,distance in self.tree.find_nearest_range(Vector((float(p[0]),float(p[1]),0)),.002):
             tri=self.tri[i];a=tri[0,:2];u=tri[1,:2]-a;v=tri[2,:2]-a;delta=p-a;det=u[0]*v[1]-u[1]*v[0]
             s=(delta[0]*v[1]-delta[1]*v[0])/det;t=(u[0]*delta[1]-u[1]*delta[0])/det
-            if min(1-s-t,s,t)>=-1e-7:values.append((1-s-t)*tri[0,2]+s*tri[1,2]+t*tri[2,2])
-        return None if not values else float(max(values))
+            height=(1-s-t)*tri[0,2]+s*tri[1,2]+t*tri[2,2]
+            if min(1-s-t,s,t)>=-1e-7:values.append(height)
+            elif distance<=tolerance:near.append(height)
+        # GLB uses float32 world positions: exact nominal edge coordinates may
+        # land a few micrometres outside a triangle after export and reimport.
+        return float(max(values or near)) if (values or near) else None

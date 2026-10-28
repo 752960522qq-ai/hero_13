@@ -14,7 +14,7 @@ import shapely
 from shapely.geometry import Polygon
 bpy.ops.wm.open_mainfile(filepath=str(a.blend.resolve()));bpy.context.view_layer.update();sc=bpy.context.scene;p=json.loads(a.plan.read_text());a.out.mkdir(parents=True,exist_ok=True);a.expectations.mkdir(parents=True,exist_ok=True)
 names=['01_main_sw','02_main_south_west_center','03_main_south_east_center','04_main_se','05_main_nw','06_main_north_west_center','07_main_north_east_center','08_main_ne','09_west_sw','10_west_se','11_west_nw','12_west_ne','13_east_sw','14_east_se','15_east_nw','16_east_ne','17_shared_bridges','18_shared_water']
-labels=['主岛西南','主岛南部偏西','主岛南部偏东／老城区街角','主岛东南','主岛西北','主岛北部偏西','主岛北部偏东／CBD','主岛东北','西岛西南','西岛东南','西岛西北','西岛东北／湖区','东岛西南','东岛东南','东岛西北','东岛东北／港区','公共桥梁及引道','公共海面与湖水']
+labels=['主岛西南','主岛南部偏西','主岛南部偏东／老城区街角','主岛东南','主岛西北','主岛北部偏西／CBD原建筑','主岛北部偏东／CBD','主岛东北','西岛西南','西岛东南','西岛西北','西岛东北／湖区','东岛西南','东岛东南','东岛西北','东岛东北／港区','公共桥梁及引道','公共海面与湖水']
 roots=[];district_objects=[[] for _ in names];expected=[{} for _ in names];records=[[] for _ in names];source_audit=[];total_triangles=0
 for i,n in enumerate(names):
     r=bpy.data.objects.new(n,None);sc.collection.objects.link(r);r['district_id']=i+1;r['district_name']=labels[i];r['coordinate_space']='Blender world, Z up, metres';roots.append(r)
@@ -52,7 +52,7 @@ for oi,obj in enumerate(original):
     tri=np.empty(n*3,np.int32);m.loop_triangles.foreach_get('vertices',tri);tri=tri.reshape(-1,3);loops=np.empty(n*3,np.int32);m.loop_triangles.foreach_get('loops',loops);loops=loops.reshape(-1,3);polygon=np.empty(n,np.int32);m.loop_triangles.foreach_get('polygon_index',polygon)
     chain=ancestry(obj);inst=instance(obj);hint=None;atomic=None;fixed=None
     if '02_WATER' in chain:fixed=17
-    elif '04_BRIDGE_STRUCTURES' in chain or obj.name.startswith(('BRIDGES_','Bridge_Approach_')):fixed=16
+    elif '04_BRIDGE_STRUCTURES' in chain or obj.name.startswith(('BRIDGES_','WATER_BRIDGES_','Bridge_Approach_')):fixed=16
     elif inst in real:
         r=real[inst];atomic=int(zones(np.array([r['center']]),r.get('region','MAIN'))[0])
     else:
@@ -66,7 +66,11 @@ for oi,obj in enumerate(original):
     for region in ['MAIN','WEST','EAST']:
         if obj.name.startswith(region+'_'):hint=region;break
     if obj.name.startswith(('CBD_','Junction_Repair','Main_Southern_','Oldtown_Residential_','Oldtown_Apartment_')):hint='MAIN'
-    if fixed is not None:assignment=np.full(n,fixed,np.int32)
+    if m.attributes.get('source_building_index'):
+        lot_ids=np.empty(len(m.polygons),np.int32);m.attributes['source_building_index'].data.foreach_get('value',lot_ids)
+        lot_districts=np.array([int(zones(np.array([b['center']]),b['region'])[0]) for b in p['buildings']],np.int32)
+        assignment=lot_districts[lot_ids[polygon]]
+    elif fixed is not None:assignment=np.full(n,fixed,np.int32)
     elif atomic is not None:assignment=np.full(n,atomic,np.int32)
     else:assignment=classify(world[tri].mean(1)[:,:2],hint)
     assert len(assignment)==n and assignment.min()>=0 and assignment.max()<18
