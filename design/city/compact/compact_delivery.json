@@ -32,7 +32,8 @@
     "huizhou_city_districts_part1.zip": {
       "bytes": 205041055,
       "sha256": "b0b15396ebbeeec2ef5921ae42acdf57e8aad35d070b83889f572371de65eff6",
-      "persistent_save": "failed"
+      "persistent_save": "repository_split",
+      "repository_path": "delivery/city_part1"
     },
     "huizhou_city_districts_part2.zip": {
       "bytes": 213184877,

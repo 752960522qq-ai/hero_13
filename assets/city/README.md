@@ -60,4 +60,4 @@ blender -b --factory-startup --python assets/city/tools/validate_city_districts_
 Road Modular：mortalityrexotable，CC BY 4.0，保留原几何截面、UV 和图集；路口以连续沥青补面连接，人行道采用原 Sidewalk 2 素材并重构转角和连接。连接点只保留一个路面归属，避免重叠表面。来源及条款见 `ROAD_ASSET_LICENSE.md`。建筑素材由用户提供，本次未改变其授权范围。
 
 
-区块已拆为两部分：第1部分包含 01–06、17、18，目前尚未持久保存；[第2部分](https://chatgpt.com/library?file_id=libfile_57ce1917034c8191a950868eba092fba&account_id=personal)包含 07–16。两部分解压到同一目录。完整 GLB 和 Blender 工程包已保存。
+区块已拆为两部分：[第1部分](https://github.com/752960522qq-ai/hero_13/tree/main/delivery/city_part1)包含 01–06、17、18，已以分卷保存在仓库中（见仓库根目录 delivery/city_part1）；[第2部分](https://chatgpt.com/library?file_id=libfile_57ce1917034c8191a950868eba092fba&account_id=personal)包含 07–16。两部分解压到同一目录。完整 GLB 和 Blender 工程包已保存。

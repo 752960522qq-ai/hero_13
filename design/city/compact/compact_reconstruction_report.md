@@ -32,4 +32,4 @@
 [完整 GLB](https://chatgpt.com/library?file_id=libfile_c5007dae2ee081918c343ee1b1e9eabe&account_id=personal) · [Blender 工程包](https://chatgpt.com/library?file_id=libfile_be2e8d31bfd481918c826b823ba4ddae&account_id=personal)
 
 
-区块已拆为两部分：第1部分包含 01–06、17、18，目前尚未持久保存；[第2部分](https://chatgpt.com/library?file_id=libfile_57ce1917034c8191a950868eba092fba&account_id=personal)包含 07–16。两部分解压到同一目录。完整 GLB 和 Blender 工程包已保存。
+区块已拆为两部分：[第1部分](https://github.com/752960522qq-ai/hero_13/tree/main/delivery/city_part1)包含 01–06、17、18，已以分卷保存在仓库中（见仓库根目录 delivery/city_part1）；[第2部分](https://chatgpt.com/library?file_id=libfile_57ce1917034c8191a950868eba092fba&account_id=personal)包含 07–16。两部分解压到同一目录。完整 GLB 和 Blender 工程包已保存。
