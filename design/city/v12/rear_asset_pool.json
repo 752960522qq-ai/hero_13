@@ -1,0 +1,66 @@
+{
+  "schema": "hero13.rear-asset-pool.v12",
+  "types": [
+    {
+      "key": "13",
+      "file": "old_apartment_13.glb",
+      "instances": 5,
+      "sha256": "58d904b63c64a0907184cb9fe0e97262cd86ea578529b926911b7df7dbeeeb4f"
+    },
+    {
+      "key": "14",
+      "file": "apartment_14.glb",
+      "instances": 5,
+      "sha256": "24e2de2f232f57274d31ac4d9fe73a261f94b7cc59a634610709e96e46fa1a63"
+    },
+    {
+      "key": "15",
+      "file": "historic_building_facade_15.glb",
+      "instances": 4,
+      "sha256": "0e77902424843daaa34673b46affb4f91f624ffb8f1f024433b8d8d6f26705ac"
+    },
+    {
+      "key": "17",
+      "file": "old_building_17.glb",
+      "instances": 12,
+      "sha256": "a213a01d97a3b2dc856b7dbd18f8b585dbed5cb325795cc88ffb477b38f26403"
+    },
+    {
+      "key": "18",
+      "file": "apartment_building_18.glb",
+      "instances": 12,
+      "sha256": "8ff88fa72d20145fe2ced17d6915ffbf1574a114d03a64182a85fba3eb4c24ef"
+    },
+    {
+      "key": "19",
+      "file": "old_italian_townhouse_19.glb",
+      "instances": 12,
+      "sha256": "127ce06c392370336f018048851245d24437ef3ce264779945824159a6d4cdc9"
+    },
+    {
+      "key": "20",
+      "file": "urban_building_facade_20.glb",
+      "instances": 12,
+      "sha256": "038e8796c6667f4b610be47e0c381691ecaba8625c30acada7de2b8bedd3d634"
+    },
+    {
+      "key": "27",
+      "file": "rusty_apartment_27.glb",
+      "instances": 9,
+      "sha256": "af64f0de1e49c42bb0f987e3f213bb289149b7b4fa722711d9edb23441b80173"
+    },
+    {
+      "key": "28",
+      "file": "concrete_apartment_28.glb",
+      "instances": 9,
+      "sha256": "65790d3d04a471493571064aeeb35206b4bc87728e0782ffec2be358e539a61c"
+    }
+  ],
+  "instances": 80,
+  "linked_mesh_reuse": true,
+  "new_type_reuse_counts": {
+    "28": 9,
+    "27": 9
+  },
+  "original_62_rear_instances_preserved": true
+}

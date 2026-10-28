@@ -1,3 +1,5 @@
+> 最新完整城市已更新至 [v12](../city_v12/README.md)：净陆地 3.25 km²、全城 682 个单元、后巷 80 栋，新增 8 个 CBD 模型各使用一次。以下为历史 v11 归档，参数保留用于旧版恢复。
+
 # 城市 v11 · 后巷全部替换 · 全城 665 座
 
 本目录保存 v11 完整工程的 **39 个分卷**，总压缩大小 319.49 MB。克隆仓库后运行：
@@ -15,3 +17,4 @@ python3 delivery/city_v11/reassemble.py --extract
 [详细说明](../../design/city/v11/README.md) · [逐楼清单](../../design/city/v11/building_registry.csv) · [后巷验证](../../design/city/v11/rear_validation.json) · [渲染图](../../design/city/previews/v11/)
 
 v8、v9、v10 是历史版本；本目录为后巷替换后的完整 v11。
+

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "01_rear_new_models",
+    "location": [
+      292,
+      232,
+      48
+    ],
+    "target": [
+      295,
+      266,
+      16
+    ],
+    "ortho_scale": 110,
+    "resolution": [
+      1800,
+      1200
+    ]
+  },
+  {
+    "name": "02_rear_infill",
+    "location": [
+      -22,
+      240,
+      62
+    ],
+    "target": [
+      15,
+      279,
+      17
+    ],
+    "ortho_scale": 112,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "03_cbd_overview",
+    "location": [
+      80,
+      150,
+      650
+    ],
+    "target": [
+      45,
+      870,
+      43
+    ],
+    "ortho_scale": 1120,
+    "resolution": [
+      1900,
+      1450
+    ]
+  },
+  {
+    "name": "04_cbd_gateway",
+    "location": [
+      645,
+      312,
+      242
+    ],
+    "target": [
+      245,
+      748,
+      48
+    ],
+    "ortho_scale": 460,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "05_city_overview",
+    "location": [
+      1650,
+      -2200,
+      2500
+    ],
+    "target": [
+      -120,
+      -200,
+      25
+    ],
+    "ortho_scale": 4200,
+    "resolution": [
+      1900,
+      1450
+    ]
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "status": "BUILT",
+  "city_buildings": 682,
+  "original_city_buildings": 665,
+  "rear_instances_before": 62,
+  "rear_instances_after": 80,
+  "rear_infill_added": 18,
+  "infill_new_source_reuse_counts": {
+    "28": 9,
+    "27": 9
+  },
+  "infill_count_by_block": {
+    "68": 2,
+    "54": 1,
+    "60": 1,
+    "29": 2,
+    "30": 2,
+    "31": 2,
+    "32": 1,
+    "66": 2,
+    "69": 1,
+    "77": 1,
+    "79": 1,
+    "82": 1,
+    "85": 1
+  },
+  "unique_new_cbd_models": 8,
+  "cbd_instances_each_model": 1,
+  "cbd_placeholders_replaced": 9,
+  "cbd_replaced_placeholder_names": [
+    "MAIN_CBD_0057",
+    "MAIN_CBD_0062",
+    "MAIN_CBD_0001",
+    "MAIN_CBD_0094",
+    "MAIN_CBD_0063",
+    "MAIN_CBD_0004",
+    "MAIN_CBD_0069",
+    "MAIN_CBD_0075",
+    "MAIN_CBD_0073"
+  ],
+  "retained_source_instances": 75,
+  "retained_road_geometry": true,
+  "terrain_triangles_cut": 570,
+  "retaining_wall_triangles": 5008,
+  "unsampled_wall_segments": 0,
+  "land_area_m2": 3250000.0000000037
+}

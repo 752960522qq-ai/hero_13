@@ -7059,5 +7059,2502 @@
     "row_name": "REAR_054_266",
     "floor": 13.474985030979905,
     "foundation_bottom_m": 12.904985030979907
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_01_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      295.5625871258071,
+      261.825
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      302.6984666251381,
+      267.1252922158587
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        295.5625871258071,
+        261.825
+      ],
+      [
+        309.8343461244691,
+        261.825
+      ],
+      [
+        309.8343461244691,
+        272.42558443171737
+      ],
+      [
+        295.5625871258071,
+        272.42558443171737
+      ]
+    ],
+    "pad_xy": [
+      [
+        295.48258712580713,
+        261.745
+      ],
+      [
+        295.48258712580713,
+        272.50558443171735
+      ],
+      [
+        309.9143461244691,
+        272.50558443171735
+      ],
+      [
+        309.9143461244691,
+        261.745
+      ],
+      [
+        295.48258712580713,
+        261.745
+      ]
+    ],
+    "floor": 10.236447013783199,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_068_Original_Extension",
+    "access_alley": "OLDTOWN_Infill_01_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_068_Original_Extension",
+    "foundation_bottom_m": 9.6664470137832
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_02_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      309.9543461244691,
+      261.825
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      315.7099979413938,
+      266.8709202175884
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        309.9543461244691,
+        261.825
+      ],
+      [
+        321.4656497583184,
+        261.825
+      ],
+      [
+        321.4656497583184,
+        271.91684043517677
+      ],
+      [
+        309.9543461244691,
+        271.91684043517677
+      ]
+    ],
+    "pad_xy": [
+      [
+        309.8743461244691,
+        261.745
+      ],
+      [
+        309.8743461244691,
+        271.99684043517675
+      ],
+      [
+        321.5456497583184,
+        271.99684043517675
+      ],
+      [
+        321.5456497583184,
+        261.745
+      ],
+      [
+        309.8743461244691,
+        261.745
+      ]
+    ],
+    "floor": 10.244770939652934,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_068_Original_Extension",
+    "access_alley": "OLDTOWN_Infill_02_Asset27_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_068_Original_Extension",
+    "foundation_bottom_m": 9.674770939652936
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_03_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      -134.5,
+      373.7553303909846
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -139.5459202175884,
+      379.5109822079093
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        -134.5,
+        373.7553303909846
+      ],
+      [
+        -134.5,
+        385.26663402483393
+      ],
+      [
+        -144.59184043517678,
+        385.26663402483393
+      ],
+      [
+        -144.59184043517678,
+        373.7553303909846
+      ]
+    ],
+    "pad_xy": [
+      [
+        -134.42,
+        373.67533039098464
+      ],
+      [
+        -144.6718404351768,
+        373.67533039098464
+      ],
+      [
+        -144.6718404351768,
+        385.3466340248339
+      ],
+      [
+        -134.42,
+        385.3466340248339
+      ],
+      [
+        -134.42,
+        373.67533039098464
+      ]
+    ],
+    "floor": 13.474985030979905,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_054_266",
+    "access_alley": "OLDTOWN_Infill_03_Asset27_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_054_266",
+    "foundation_bottom_m": 12.904985030979907
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_04_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      -134.5,
+      285.81399309523977
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -139.8002922158587,
+      292.94987259457076
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        -134.5,
+        285.81399309523977
+      ],
+      [
+        -134.5,
+        300.08575209390176
+      ],
+      [
+        -145.10058443171738,
+        300.08575209390176
+      ],
+      [
+        -145.10058443171738,
+        285.81399309523977
+      ]
+    ],
+    "pad_xy": [
+      [
+        -134.42,
+        285.7339930952398
+      ],
+      [
+        -145.1805844317174,
+        285.7339930952398
+      ],
+      [
+        -145.1805844317174,
+        300.16575209390174
+      ],
+      [
+        -134.42,
+        300.16575209390174
+      ],
+      [
+        -134.42,
+        285.7339930952398
+      ]
+    ],
+    "floor": 12.030346346074976,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_060_265",
+    "access_alley": "OLDTOWN_Infill_04_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_060_265",
+    "foundation_bottom_m": 11.460346346074978
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_05_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      4.0,
+      377.8951758310462
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -1.0459202175883957,
+      383.6508276479708
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        4.0,
+        377.8951758310462
+      ],
+      [
+        4.000000000000001,
+        389.4064794648955
+      ],
+      [
+        -6.091840435176791,
+        389.4064794648955
+      ],
+      [
+        -6.091840435176792,
+        377.8951758310462
+      ]
+    ],
+    "pad_xy": [
+      [
+        4.08,
+        377.8151758310462
+      ],
+      [
+        -6.171840435176792,
+        377.8151758310462
+      ],
+      [
+        -6.171840435176791,
+        389.48647946489547
+      ],
+      [
+        4.080000000000001,
+        389.48647946489547
+      ],
+      [
+        4.08,
+        377.8151758310462
+      ]
+    ],
+    "floor": 12.874845606624321,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_029_240",
+    "access_alley": "OLDTOWN_Infill_05_Asset27_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_029_240",
+    "foundation_bottom_m": 12.304845606624323
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_06_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      -0.2446696090154088,
+      267.5
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      6.891209890315587,
+      272.8002922158587
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        -0.2446696090154088,
+        267.5
+      ],
+      [
+        14.027089389646584,
+        267.5
+      ],
+      [
+        14.027089389646584,
+        278.1005844317174
+      ],
+      [
+        -0.2446696090154088,
+        278.1005844317174
+      ]
+    ],
+    "pad_xy": [
+      [
+        -0.3246696090154088,
+        267.42
+      ],
+      [
+        -0.3246696090154088,
+        278.18058443171736
+      ],
+      [
+        14.107089389646584,
+        278.18058443171736
+      ],
+      [
+        14.107089389646584,
+        267.42
+      ],
+      [
+        -0.3246696090154088,
+        267.42
+      ]
+    ],
+    "floor": 11.16565721321106,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_030_238",
+    "access_alley": "OLDTOWN_Infill_06_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_030_238",
+    "foundation_bottom_m": 10.595657213211062
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_07_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      4.0,
+      175.3214063595153
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -1.0459202175883957,
+      181.07705817643995
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        4.0,
+        175.3214063595153
+      ],
+      [
+        4.000000000000001,
+        186.8327099933646
+      ],
+      [
+        -6.091840435176791,
+        186.8327099933646
+      ],
+      [
+        -6.091840435176792,
+        175.3214063595153
+      ]
+    ],
+    "pad_xy": [
+      [
+        4.08,
+        175.24140635951528
+      ],
+      [
+        -6.171840435176792,
+        175.24140635951528
+      ],
+      [
+        -6.171840435176791,
+        186.91270999336462
+      ],
+      [
+        4.080000000000001,
+        186.91270999336462
+      ],
+      [
+        4.08,
+        175.24140635951528
+      ]
+    ],
+    "floor": 8.571991416626382,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_031_244",
+    "access_alley": "OLDTOWN_Infill_07_Asset27_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_031_244",
+    "foundation_bottom_m": 8.001991416626383
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_08_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      1.3214063595153096,
+      35.350516791686644
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      8.457285858846305,
+      40.65080900754534
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        1.3214063595153096,
+        35.350516791686644
+      ],
+      [
+        15.593165358177302,
+        35.350516791686644
+      ],
+      [
+        15.593165358177302,
+        45.951101223404024
+      ],
+      [
+        1.3214063595153096,
+        45.951101223404024
+      ]
+    ],
+    "pad_xy": [
+      [
+        1.2414063595153095,
+        35.270516791686646
+      ],
+      [
+        1.2414063595153095,
+        46.03110122340402
+      ],
+      [
+        15.673165358177302,
+        46.03110122340402
+      ],
+      [
+        15.673165358177302,
+        35.270516791686646
+      ],
+      [
+        1.2414063595153095,
+        35.270516791686646
+      ]
+    ],
+    "floor": 4.550555066556839,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_032_248",
+    "access_alley": "OLDTOWN_Infill_08_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_032_248",
+    "foundation_bottom_m": 3.980555066556839
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_09_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      244.0,
+      466.2553303909846
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      238.9540797824116,
+      472.0109822079092
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        244.0,
+        466.2553303909846
+      ],
+      [
+        244.0,
+        477.76663402483393
+      ],
+      [
+        233.90815956482322,
+        477.76663402483393
+      ],
+      [
+        233.90815956482322,
+        466.2553303909846
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.08,
+        466.17533039098464
+      ],
+      [
+        233.8281595648232,
+        466.17533039098464
+      ],
+      [
+        233.8281595648232,
+        477.8466340248339
+      ],
+      [
+        244.08,
+        477.8466340248339
+      ],
+      [
+        244.08,
+        466.17533039098464
+      ]
+    ],
+    "floor": 14.001955846944591,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_066_242",
+    "access_alley": "OLDTOWN_Infill_09_Asset27_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_066_242",
+    "foundation_bottom_m": 13.431955846944593
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_10_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      244.0,
+      175.3214063595153
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      238.69970778414134,
+      182.45728585884626
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        244.0,
+        175.3214063595153
+      ],
+      [
+        244.0,
+        189.5931653581773
+      ],
+      [
+        233.39941556828262,
+        189.5931653581773
+      ],
+      [
+        233.39941556828262,
+        175.3214063595153
+      ]
+    ],
+    "pad_xy": [
+      [
+        244.08,
+        175.24140635951528
+      ],
+      [
+        233.3194155682826,
+        175.24140635951528
+      ],
+      [
+        233.3194155682826,
+        189.6731653581773
+      ],
+      [
+        244.08,
+        189.6731653581773
+      ],
+      [
+        244.08,
+        175.24140635951528
+      ]
+    ],
+    "floor": 7.684082751517533,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_069_236",
+    "access_alley": "OLDTOWN_Infill_10_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_069_236",
+    "foundation_bottom_m": 7.114082751517532
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_11_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      4.0,
+      466.1066683226216
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -1.0459202175883957,
+      471.8623201395463
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        4.0,
+        466.1066683226216
+      ],
+      [
+        4.000000000000001,
+        477.6179719564709
+      ],
+      [
+        -6.091840435176791,
+        477.6179719564709
+      ],
+      [
+        -6.091840435176792,
+        466.1066683226216
+      ]
+    ],
+    "pad_xy": [
+      [
+        4.08,
+        466.0266683226216
+      ],
+      [
+        -6.171840435176792,
+        466.0266683226216
+      ],
+      [
+        -6.171840435176791,
+        477.6979719564709
+      ],
+      [
+        4.080000000000001,
+        477.6979719564709
+      ],
+      [
+        4.08,
+        466.0266683226216
+      ]
+    ],
+    "floor": 14.176448253811856,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_077_246",
+    "access_alley": "OLDTOWN_Infill_11_Asset27_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_077_246",
+    "foundation_bottom_m": 13.606448253811857
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_12_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      348.5841708246332
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      400.4540797824116,
+      354.3398226415579
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        405.5,
+        348.5841708246332
+      ],
+      [
+        405.5,
+        360.0954744584825
+      ],
+      [
+        395.4081595648232,
+        360.0954744584825
+      ],
+      [
+        395.4081595648232,
+        348.5841708246332
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.58,
+        348.5041708246332
+      ],
+      [
+        395.32815956482324,
+        348.5041708246332
+      ],
+      [
+        395.32815956482324,
+        360.1754744584825
+      ],
+      [
+        405.58,
+        360.1754744584825
+      ],
+      [
+        405.58,
+        348.5041708246332
+      ]
+    ],
+    "floor": 13.657964601804387,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_079_255",
+    "access_alley": "OLDTOWN_Infill_12_Asset27_Entrance_Walk",
+    "infill_side": "left",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_079_255",
+    "foundation_bottom_m": 12.890518166467663
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_13_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      175.3214063595153
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      400.1997077841413,
+      182.45728585884626
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        405.5,
+        175.3214063595153
+      ],
+      [
+        405.5,
+        189.5931653581773
+      ],
+      [
+        394.8994155682826,
+        189.5931653581773
+      ],
+      [
+        394.8994155682826,
+        175.3214063595153
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.58,
+        175.24140635951528
+      ],
+      [
+        394.81941556828264,
+        175.24140635951528
+      ],
+      [
+        394.81941556828264,
+        189.6731653581773
+      ],
+      [
+        405.58,
+        189.6731653581773
+      ],
+      [
+        405.58,
+        175.24140635951528
+      ]
+    ],
+    "floor": 6.750116835854832,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_082_260",
+    "access_alley": "OLDTOWN_Infill_13_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_082_260",
+    "foundation_bottom_m": 6.1801168358548315
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_14_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      405.5,
+      261.2333659751661
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      400.4540797824116,
+      266.98901779209075
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        405.5,
+        261.2333659751661
+      ],
+      [
+        405.5,
+        272.74466960901543
+      ],
+      [
+        395.4081595648232,
+        272.74466960901543
+      ],
+      [
+        395.4081595648232,
+        261.2333659751661
+      ]
+    ],
+    "pad_xy": [
+      [
+        405.58,
+        261.15336597516614
+      ],
+      [
+        395.32815956482324,
+        261.15336597516614
+      ],
+      [
+        395.32815956482324,
+        272.8246696090154
+      ],
+      [
+        405.58,
+        272.8246696090154
+      ],
+      [
+        405.58,
+        261.15336597516614
+      ]
+    ],
+    "floor": 11.34345761357993,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_085_250",
+    "access_alley": "OLDTOWN_Infill_14_Asset27_Entrance_Walk",
+    "infill_side": "left",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_085_250",
+    "foundation_bottom_m": 10.177252844326299
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_15_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      360.68600690476023
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      21.300292215858686,
+      353.55012740542924
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        16.0,
+        360.68600690476023
+      ],
+      [
+        16.0,
+        346.41424790609824
+      ],
+      [
+        26.600584431717376,
+        346.41424790609824
+      ],
+      [
+        26.600584431717376,
+        360.68600690476023
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.92,
+        360.7660069047602
+      ],
+      [
+        26.680584431717374,
+        360.7660069047602
+      ],
+      [
+        26.680584431717374,
+        346.33424790609826
+      ],
+      [
+        15.92,
+        346.33424790609826
+      ],
+      [
+        15.92,
+        360.7660069047602
+      ]
+    ],
+    "floor": 12.92234560662432,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_029_241",
+    "access_alley": "OLDTOWN_Infill_15_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_029_241",
+    "foundation_bottom_m": 12.092664747610039
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_16_Asset27",
+    "file": "rusty_apartment_27.glb",
+    "source_filename": "rusty_apartment_27.glb",
+    "original_upload_name": "rusty apartment building 27.glb",
+    "source_key": "27",
+    "uniform_scale": 16.083333854378342,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 15.7,
+    "source_bounds": [
+      [
+        -0.3578643500804901,
+        -0.3137359619140625,
+        0.0
+      ],
+      [
+        0.3578643500804901,
+        0.3137359619140625,
+        0.976165771484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 11.511303633849298,
+    "front": 0.0,
+    "anchor": [
+      35.08801759571584,
+      267.5
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      40.84366941264049,
+      272.5459202175884
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        35.08801759571584,
+        267.5
+      ],
+      [
+        46.599321229565135,
+        267.5
+      ],
+      [
+        46.599321229565135,
+        277.5918404351768
+      ],
+      [
+        35.08801759571584,
+        277.5918404351768
+      ]
+    ],
+    "pad_xy": [
+      [
+        35.00801759571584,
+        267.42
+      ],
+      [
+        35.00801759571584,
+        277.67184043517676
+      ],
+      [
+        46.67932122956513,
+        277.67184043517676
+      ],
+      [
+        46.67932122956513,
+        267.42
+      ],
+      [
+        35.00801759571584,
+        267.42
+      ]
+    ],
+    "floor": 10.344970405578612,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_030_239",
+    "access_alley": "OLDTOWN_Infill_16_Asset27_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_030_239",
+    "foundation_bottom_m": 9.774970405578614
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_17_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      16.0,
+      160.6860069047602
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      21.300292215858686,
+      153.55012740542918
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        16.0,
+        160.6860069047602
+      ],
+      [
+        16.0,
+        146.4142479060982
+      ],
+      [
+        26.600584431717376,
+        146.4142479060982
+      ],
+      [
+        26.600584431717376,
+        160.6860069047602
+      ]
+    ],
+    "pad_xy": [
+      [
+        15.92,
+        160.76600690476022
+      ],
+      [
+        26.680584431717374,
+        160.76600690476022
+      ],
+      [
+        26.680584431717374,
+        146.3342479060982
+      ],
+      [
+        15.92,
+        146.3342479060982
+      ],
+      [
+        15.92,
+        160.76600690476022
+      ]
+    ],
+    "floor": 8.524491416626383,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_031_245",
+    "access_alley": "OLDTOWN_Infill_17_Asset28_Entrance_Walk",
+    "infill_side": "right",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_031_245",
+    "foundation_bottom_m": 7.869219376631706
+  },
+  {
+    "instance_name": "OLDTOWN_Infill_18_Asset28",
+    "file": "concrete_apartment_28.glb",
+    "source_filename": "concrete_apartment_28.glb",
+    "original_upload_name": "concrete apartment building 28.glb",
+    "source_key": "28",
+    "uniform_scale": 14.565577564648088,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 12.8,
+    "source_bounds": [
+      [
+        -0.4899139404296875,
+        -0.3638916611671448,
+        0.0
+      ],
+      [
+        0.4899139404296875,
+        0.3638916611671448,
+        0.8787842392921448
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 14.271758998661992,
+    "front": 0.0,
+    "anchor": [
+      290.0,
+      482.195765554516
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      295.3002922158587,
+      475.0598860551851
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "footprint_xy": [
+      [
+        290.0,
+        482.195765554516
+      ],
+      [
+        290.0,
+        467.924006555854
+      ],
+      [
+        300.6005844317174,
+        467.924006555854
+      ],
+      [
+        300.6005844317174,
+        482.195765554516
+      ]
+    ],
+    "pad_xy": [
+      [
+        289.92,
+        482.275765554516
+      ],
+      [
+        300.68058443171736,
+        482.275765554516
+      ],
+      [
+        300.68058443171736,
+        467.84400655585404
+      ],
+      [
+        289.92,
+        467.84400655585404
+      ],
+      [
+        289.92,
+        482.275765554516
+      ]
+    ],
+    "floor": 14.29052850541579,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "backlane_source_house",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "row_name": "REAR_066_243",
+    "access_alley": "OLDTOWN_Infill_18_Asset28_Entrance_Walk",
+    "infill_side": "left",
+    "continuous_rear_row": true,
+    "existing_row": "REAR_066_243",
+    "foundation_bottom_m": 13.72052850541579
+  },
+  {
+    "instance_name": "CBD_Imported_21",
+    "file": "modern_glass_office_21.glb",
+    "source_filename": "modern_glass_office_21.glb",
+    "original_upload_name": "modern glass office building 21.glb",
+    "source_key": "21",
+    "uniform_scale": 87.88548261344145,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 86.0,
+    "source_bounds": [
+      [
+        -0.2198486328125,
+        -0.1490173488855362,
+        0.0
+      ],
+      [
+        0.2198486328125,
+        0.1490173488855362,
+        0.978546142578125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 38.64300639326368,
+    "front": 0.0,
+    "anchor": [
+      -125.59646162458093,
+      815.3215031966319
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      -112.5,
+      796.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -125.59646162458093,
+        815.3215031966319
+      ],
+      [
+        -125.59646162458093,
+        776.6784968033681
+      ],
+      [
+        -99.40353837541906,
+        776.6784968033681
+      ],
+      [
+        -99.40353837541906,
+        815.3215031966319
+      ]
+    ],
+    "pad_xy": [
+      [
+        -125.67646162458092,
+        815.4015031966319
+      ],
+      [
+        -99.32353837541906,
+        815.4015031966319
+      ],
+      [
+        -99.32353837541906,
+        776.5984968033681
+      ],
+      [
+        -125.67646162458092,
+        776.5984968033681
+      ],
+      [
+        -125.67646162458092,
+        815.4015031966319
+      ]
+    ],
+    "floor": 19.03363982433354,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_21_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0004"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 18.46363982433354
+  },
+  {
+    "instance_name": "CBD_Imported_22",
+    "file": "glass_office_22.glb",
+    "source_filename": "glass_office_22.glb",
+    "original_upload_name": "glass office building 22.glb",
+    "source_key": "22",
+    "uniform_scale": 91.87575936945076,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 90.0,
+    "source_bounds": [
+      [
+        -0.2281951904296875,
+        -0.1373291015625,
+        0.0
+      ],
+      [
+        0.2281951904296875,
+        0.1373291015625,
+        0.979583740234375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 41.931212810367924,
+    "front": 0.0,
+    "anchor": [
+      -175.1172154895791,
+      928.965606405184
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      -162.5,
+      907.9999999999999
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -175.1172154895791,
+        928.965606405184
+      ],
+      [
+        -175.1172154895791,
+        887.034393594816
+      ],
+      [
+        -149.8827845104209,
+        887.034393594816
+      ],
+      [
+        -149.8827845104209,
+        928.965606405184
+      ]
+    ],
+    "pad_xy": [
+      [
+        -175.19721548957912,
+        929.045606405184
+      ],
+      [
+        -149.80278451042088,
+        929.045606405184
+      ],
+      [
+        -149.80278451042088,
+        886.954393594816
+      ],
+      [
+        -175.19721548957912,
+        886.954393594816
+      ],
+      [
+        -175.19721548957912,
+        929.045606405184
+      ]
+    ],
+    "floor": 15.726225228607317,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_22_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0001"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 15.156225228607319
+  },
+  {
+    "instance_name": "CBD_Imported_23",
+    "file": "glass_skyscraper_23.glb",
+    "source_filename": "glass_skyscraper_23.glb",
+    "original_upload_name": "glass skyscraper 23.glb",
+    "source_key": "23",
+    "uniform_scale": 98.42395419417414,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 96.0,
+    "source_bounds": [
+      [
+        -0.252105712890625,
+        -0.14096835255622864,
+        0.0
+      ],
+      [
+        0.252105712890625,
+        0.14096835255622864,
+        0.975372314453125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 49.626482275272984,
+    "front": 0.0,
+    "anchor": [
+      -248.62533732517755,
+      963.1867588623635
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -262.5,
+      988.0000000000001
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -248.62533732517755,
+        963.1867588623635
+      ],
+      [
+        -248.62533732517755,
+        1012.8132411376365
+      ],
+      [
+        -276.37466267482245,
+        1012.8132411376365
+      ],
+      [
+        -276.37466267482245,
+        963.1867588623635
+      ]
+    ],
+    "pad_xy": [
+      [
+        -248.54533732517754,
+        963.1067588623634
+      ],
+      [
+        -276.45466267482243,
+        963.1067588623634
+      ],
+      [
+        -276.45466267482243,
+        1012.8932411376366
+      ],
+      [
+        -248.54533732517754,
+        1012.8932411376366
+      ],
+      [
+        -248.54533732517754,
+        963.1067588623634
+      ]
+    ],
+    "floor": 16.01524039480655,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_23_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0057"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 15.445240394806552
+  },
+  {
+    "instance_name": "CBD_Imported_24",
+    "file": "modern_glass_24.glb",
+    "source_filename": "modern_glass_24.glb",
+    "original_upload_name": "modern glass building 24.glb",
+    "source_key": "24",
+    "uniform_scale": 90.01916773327505,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 88.0,
+    "source_bounds": [
+      [
+        -0.24443817138671875,
+        -0.14058685302734375,
+        0.0
+      ],
+      [
+        0.24443817138671875,
+        0.14058685302734375,
+        0.977569580078125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 44.00824150095214,
+    "front": 0.0,
+    "anchor": [
+      364.8444884962382,
+      1062.004120750476
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      377.5,
+      1040.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        364.8444884962382,
+        1062.004120750476
+      ],
+      [
+        364.8444884962382,
+        1017.9958792495238
+      ],
+      [
+        390.1555115037617,
+        1017.9958792495238
+      ],
+      [
+        390.1555115037617,
+        1062.004120750476
+      ]
+    ],
+    "pad_xy": [
+      [
+        364.76448849623824,
+        1062.084120750476
+      ],
+      [
+        390.2355115037617,
+        1062.084120750476
+      ],
+      [
+        390.2355115037617,
+        1017.9158792495238
+      ],
+      [
+        364.76448849623824,
+        1017.9158792495238
+      ],
+      [
+        364.76448849623824,
+        1062.084120750476
+      ]
+    ],
+    "floor": 7.698884154743281,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_24_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0094"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 5.894693120860572
+  },
+  {
+    "instance_name": "CBD_Imported_25",
+    "file": "high_rise_25.glb",
+    "source_filename": "high_rise_25.glb",
+    "original_upload_name": "high-rise building 25.glb",
+    "source_key": "25",
+    "uniform_scale": 106.24035913582941,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 104.0,
+    "source_bounds": [
+      [
+        -0.21591949462890625,
+        -0.18523406982421875,
+        0.0
+      ],
+      [
+        0.21591949462890625,
+        0.18523406982421875,
+        0.978912353515625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 45.87872930760358,
+    "front": 0.0,
+    "anchor": [
+      330.6793341023164,
+      829.0606353461982
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      311.00000000000006,
+      852.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        330.6793341023164,
+        829.0606353461982
+      ],
+      [
+        330.6793341023164,
+        874.9393646538017
+      ],
+      [
+        291.3206658976838,
+        874.9393646538017
+      ],
+      [
+        291.3206658976838,
+        829.0606353461982
+      ]
+    ],
+    "pad_xy": [
+      [
+        330.75933410231636,
+        828.9806353461981
+      ],
+      [
+        291.2406658976838,
+        828.9806353461981
+      ],
+      [
+        291.2406658976838,
+        875.0193646538017
+      ],
+      [
+        330.75933410231636,
+        875.0193646538017
+      ],
+      [
+        330.75933410231636,
+        828.9806353461981
+      ]
+    ],
+    "floor": 13.406732931098027,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_25_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0073"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 12.836732931098028
+  },
+  {
+    "instance_name": "CBD_Imported_26A",
+    "file": "office_building_26.glb",
+    "source_filename": "office_building_26.glb",
+    "original_upload_name": "office building 3d model26.glb",
+    "source_key": "26A",
+    "uniform_scale": 93.75679542203147,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 92.0,
+    "source_bounds": [
+      [
+        -0.265594482421875,
+        -0.18845364451408386,
+        0.0
+      ],
+      [
+        0.265594482421875,
+        0.18845364451408386,
+        0.98126220703125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 49.802575107296136,
+    "front": 0.0,
+    "anchor": [
+      278.66880979524325,
+      771.0987124463519
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      261.0,
+      795.9999999999999
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        278.66880979524325,
+        771.0987124463519
+      ],
+      [
+        278.66880979524325,
+        820.901287553648
+      ],
+      [
+        243.33119020475684,
+        820.901287553648
+      ],
+      [
+        243.33119020475684,
+        771.0987124463519
+      ]
+    ],
+    "pad_xy": [
+      [
+        278.74880979524323,
+        771.0187124463519
+      ],
+      [
+        243.25119020475682,
+        771.0187124463519
+      ],
+      [
+        243.25119020475682,
+        820.981287553648
+      ],
+      [
+        278.74880979524323,
+        820.981287553648
+      ],
+      [
+        278.74880979524323,
+        771.0187124463519
+      ]
+    ],
+    "floor": 15.91980124185983,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_26A_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0069"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 15.349801241859831
+  },
+  {
+    "instance_name": "CBD_Imported_26B",
+    "file": "skyscraper_26.glb",
+    "source_filename": "skyscraper_26.glb",
+    "original_upload_name": "skyscraper 3d model26.glb",
+    "source_key": "26B",
+    "uniform_scale": 87.68585475138465,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 86.0,
+    "source_bounds": [
+      [
+        -0.2890167236328125,
+        -0.2206268310546875,
+        0.0
+      ],
+      [
+        0.2890167236328125,
+        0.2206268310546875,
+        0.98077392578125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 50.68535689837575,
+    "front": 0.0,
+    "anchor": [
+      362.1573215508121,
+      664.6541477378804
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      387.49999999999994,
+      684.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        362.1573215508121,
+        664.6541477378804
+      ],
+      [
+        412.8426784491879,
+        664.6541477378804
+      ],
+      [
+        412.8426784491879,
+        703.3458522621196
+      ],
+      [
+        362.1573215508121,
+        703.3458522621196
+      ]
+    ],
+    "pad_xy": [
+      [
+        362.07732155081214,
+        664.5741477378804
+      ],
+      [
+        362.07732155081214,
+        703.4258522621196
+      ],
+      [
+        412.92267844918786,
+        703.4258522621196
+      ],
+      [
+        412.92267844918786,
+        664.5741477378804
+      ],
+      [
+        362.07732155081214,
+        664.5741477378804
+      ]
+    ],
+    "floor": 15.645542654000403,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_26B_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0075"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 14.426145309643983
+  },
+  {
+    "instance_name": "CBD_Imported_26C",
+    "file": "modern_office_complex_26.glb",
+    "source_filename": "modern_office_complex_26.glb",
+    "original_upload_name": "modern office building 26.glb",
+    "source_key": "26C",
+    "uniform_scale": 61.912490055688146,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 38.0,
+    "source_bounds": [
+      [
+        -0.491363525390625,
+        -0.3884277939796448,
+        0.0
+      ],
+      [
+        0.491363525390625,
+        0.3884277939796448,
+        0.61376953125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 60.84307875894988,
+    "front": 0.0,
+    "anchor": [
+      105.57846062052506,
+      664.4514680678824
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      136.00000000000003,
+      688.5
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        105.57846062052506,
+        664.4514680678824
+      ],
+      [
+        166.42153937947495,
+        664.4514680678824
+      ],
+      [
+        166.42153937947495,
+        712.5485319321176
+      ],
+      [
+        105.57846062052506,
+        712.5485319321176
+      ]
+    ],
+    "pad_xy": [
+      [
+        105.49846062052507,
+        664.3714680678823
+      ],
+      [
+        105.49846062052507,
+        712.6285319321177
+      ],
+      [
+        166.50153937947496,
+        712.6285319321177
+      ],
+      [
+        166.50153937947496,
+        664.3714680678823
+      ],
+      [
+        105.49846062052507,
+        664.3714680678823
+      ]
+    ],
+    "floor": 16.744703239308166,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v12",
+    "access_alley": "CBD_Imported_26C_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0062",
+      "MAIN_CBD_0063"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 16.174703239308165
   }
 ]

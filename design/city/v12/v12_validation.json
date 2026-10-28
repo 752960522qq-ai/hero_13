@@ -1,0 +1,581 @@
+{
+  "schema": "hero13.city.validation.v12",
+  "status": "PASS",
+  "city_building_units": 682,
+  "placeholder_units": 581,
+  "source_instances": 101,
+  "rear_instances_before": 62,
+  "rear_instances_after": 80,
+  "rear_pool_types": 9,
+  "new_rear_reuse_counts": {
+    "27": 9,
+    "28": 9
+  },
+  "new_cbd_models_each_used_once": 8,
+  "cbd_placeholders_replaced": 9,
+  "all_75_prior_source_placements_unchanged": true,
+  "prior_meshes_geometry_matrices_and_uv_verified": 1073,
+  "land_area_and_road_graph_unchanged": true,
+  "new_path_checks": [
+    {
+      "name": "OLDTOWN_Infill_01_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001276295025817295,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.001082671272492064
+    },
+    {
+      "name": "OLDTOWN_Infill_02_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0012058523294268104,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0010615380291625343
+    },
+    {
+      "name": "OLDTOWN_Infill_03_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001551040927374149,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020428144285944
+    },
+    {
+      "name": "OLDTOWN_Infill_04_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0015509675435277218,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020455566492672
+    },
+    {
+      "name": "OLDTOWN_Infill_05_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0015510409273657246,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020170353785886
+    },
+    {
+      "name": "OLDTOWN_Infill_06_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0015510145542538645,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020362426525821
+    },
+    {
+      "name": "OLDTOWN_Infill_07_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001551004234581901,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020464381592433
+    },
+    {
+      "name": "OLDTOWN_Infill_08_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001550275128555337,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.001201463261347513
+    },
+    {
+      "name": "OLDTOWN_Infill_09_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001551040927374149,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020428144321471
+    },
+    {
+      "name": "OLDTOWN_Infill_10_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0015502649570629998,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012014734894272294
+    },
+    {
+      "name": "OLDTOWN_Infill_11_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0015510409273699368,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020258377969384
+    },
+    {
+      "name": "OLDTOWN_Infill_12_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0015510409273657082,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020346111007996
+    },
+    {
+      "name": "OLDTOWN_Infill_13_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001550264957060925,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012014734894263412
+    },
+    {
+      "name": "OLDTOWN_Infill_14_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001551040927378345,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020428144303708
+    },
+    {
+      "name": "OLDTOWN_Infill_15_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.027828483928984134,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.007464006653682631
+    },
+    {
+      "name": "OLDTOWN_Infill_16_Asset27_Entrance_Walk",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.001551013407616735,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020389681719479
+    },
+    {
+      "name": "OLDTOWN_Infill_17_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.04350683346423607,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.010394904214370726
+    },
+    {
+      "name": "OLDTOWN_Infill_18_Asset28_Entrance_Walk",
+      "samples": 57,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0015509675435318713,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0012020418211040607
+    },
+    {
+      "name": "CBD_Imported_21_Entrance_Plaza",
+      "samples": 420,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.039714297793193916,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0010005583745211766
+    },
+    {
+      "name": "CBD_Imported_22_Entrance_Plaza",
+      "samples": 54,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02674753793260259,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0010145424005010284
+    },
+    {
+      "name": "CBD_Imported_23_Entrance_Plaza",
+      "samples": 345,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.025228791964167514,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0004742999121081226
+    },
+    {
+      "name": "CBD_Imported_24_Entrance_Plaza",
+      "samples": 54,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.03731819088034344,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0009999445157724551
+    },
+    {
+      "name": "CBD_Imported_25_Entrance_Plaza",
+      "samples": 84,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02690586080500337,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0010001392252476649
+    },
+    {
+      "name": "CBD_Imported_26A_Entrance_Plaza",
+      "samples": 429,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.024613000593459285,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.000999742332103537
+    },
+    {
+      "name": "CBD_Imported_26B_Entrance_Plaza",
+      "samples": 30,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.027961554388621395,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0009999893954955041
+    },
+    {
+      "name": "CBD_Imported_26C_Entrance_Plaza",
+      "samples": 27,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.018816504867408657,
+      "maximum_terrain_penetration_m": 0.0,
+      "join_lip_m": 0.0009995022555813193
+    }
+  ],
+  "prior_rear_path_checks": [
+    {
+      "name": "REAR_068_Original_Extension",
+      "samples": 15,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 2.703404830108333e-07,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_067_234",
+      "samples": 159,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.019960924024097073,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_067_235",
+      "samples": 129,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.012544483985765324,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_069_236",
+      "samples": 159,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.006569606984585027,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_069_237",
+      "samples": 129,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.017121803743245737,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_030_238",
+      "samples": 321,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0897218482151429,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_030_239",
+      "samples": 201,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02381295942468027,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_029_240",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.021170289642441494,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_029_241",
+      "samples": 15,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 5.0753052554292856e-15,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_066_242",
+      "samples": 159,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.012594372794096028,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_066_243",
+      "samples": 129,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.006095129827335359,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_031_244",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02380301218352366,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_031_245",
+      "samples": 15,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_077_246",
+      "samples": 48,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02214910298477814,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_077_247",
+      "samples": 15,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_032_248",
+      "samples": 177,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.025713763395587723,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_032_249",
+      "samples": 150,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.01771409412430928,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_085_250",
+      "samples": 276,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.01925998791439965,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_085_251",
+      "samples": 30,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00025463790878569426,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_085_252",
+      "samples": 33,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00022334063026716933,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_085_253",
+      "samples": 132,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.028628235694819242,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_085_254",
+      "samples": 156,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.028007090688560925,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_079_255",
+      "samples": 276,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.03631544257471208,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_079_256",
+      "samples": 30,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0002546379087812841,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_079_257",
+      "samples": 33,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00022334063026716933,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_079_258",
+      "samples": 132,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.02553388964577816,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_079_259",
+      "samples": 156,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.025442442190561434,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_082_260",
+      "samples": 303,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.04931564891361742,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_082_261",
+      "samples": 30,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.0002547593963339915,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_082_262",
+      "samples": 33,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.00022344718591078586,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_082_263",
+      "samples": 132,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.011370487057222552,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_082_264",
+      "samples": 156,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.01673554118922724,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_060_265",
+      "samples": 93,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.028017812472185755,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "REAR_054_266",
+      "samples": 93,
+      "clear_width_sampled_m": 2.8,
+      "maximum_grade": 0.018209111186387846,
+      "maximum_terrain_penetration_m": 0.0
+    }
+  ],
+  "headroom_rays": 6399,
+  "maximum_new_access_grade": 0.04350683346423607,
+  "new_old_walk_overlap_samples": 227,
+  "maximum_walk_overlap_difference_m": 0.007518810493705175,
+  "new_building_threshold_checks": [
+    {
+      "name": "OLDTOWN_Infill_01_Asset28",
+      "maximum_threshold_lip_m": 0.022594558811421805
+    },
+    {
+      "name": "OLDTOWN_Infill_02_Asset27",
+      "maximum_threshold_lip_m": 0.021690454371530166
+    },
+    {
+      "name": "OLDTOWN_Infill_03_Asset27",
+      "maximum_threshold_lip_m": 0.019999786228929395
+    },
+    {
+      "name": "OLDTOWN_Infill_04_Asset28",
+      "maximum_threshold_lip_m": 0.02000030725661972
+    },
+    {
+      "name": "OLDTOWN_Infill_05_Asset27",
+      "maximum_threshold_lip_m": 0.019999979793269063
+    },
+    {
+      "name": "OLDTOWN_Infill_06_Asset28",
+      "maximum_threshold_lip_m": 0.020000047683719657
+    },
+    {
+      "name": "OLDTOWN_Infill_07_Asset27",
+      "maximum_threshold_lip_m": 0.020000327759197134
+    },
+    {
+      "name": "OLDTOWN_Infill_08_Asset28",
+      "maximum_threshold_lip_m": 0.020000192136673256
+    },
+    {
+      "name": "OLDTOWN_Infill_09_Asset27",
+      "maximum_threshold_lip_m": 0.019999738851330662
+    },
+    {
+      "name": "OLDTOWN_Infill_10_Asset28",
+      "maximum_threshold_lip_m": 0.020000121360062906
+    },
+    {
+      "name": "OLDTOWN_Infill_11_Asset27",
+      "maximum_threshold_lip_m": 0.020000263394377882
+    },
+    {
+      "name": "OLDTOWN_Infill_12_Asset27",
+      "maximum_threshold_lip_m": 0.019999773313179148
+    },
+    {
+      "name": "OLDTOWN_Infill_13_Asset28",
+      "maximum_threshold_lip_m": 0.019999888680761302
+    },
+    {
+      "name": "OLDTOWN_Infill_14_Asset27",
+      "maximum_threshold_lip_m": 0.02000026952475764
+    },
+    {
+      "name": "OLDTOWN_Infill_15_Asset28",
+      "maximum_threshold_lip_m": 0.02700528612509956
+    },
+    {
+      "name": "OLDTOWN_Infill_16_Asset27",
+      "maximum_threshold_lip_m": 0.01999958038330263
+    },
+    {
+      "name": "OLDTOWN_Infill_17_Asset28",
+      "maximum_threshold_lip_m": 0.030270606698728386
+    },
+    {
+      "name": "OLDTOWN_Infill_18_Asset28",
+      "maximum_threshold_lip_m": 0.02000008592116309
+    },
+    {
+      "name": "CBD_Imported_21",
+      "maximum_threshold_lip_m": 0.01999979442631883
+    },
+    {
+      "name": "CBD_Imported_22",
+      "maximum_threshold_lip_m": 0.02000020724501539
+    },
+    {
+      "name": "CBD_Imported_23",
+      "maximum_threshold_lip_m": 0.01999960348575236
+    },
+    {
+      "name": "CBD_Imported_24",
+      "maximum_threshold_lip_m": 0.02000002235802789
+    },
+    {
+      "name": "CBD_Imported_25",
+      "maximum_threshold_lip_m": 0.02000024982361559
+    },
+    {
+      "name": "CBD_Imported_26A",
+      "maximum_threshold_lip_m": 0.02000036142770334
+    },
+    {
+      "name": "CBD_Imported_26B",
+      "maximum_threshold_lip_m": 0.020000387154704313
+    },
+    {
+      "name": "CBD_Imported_26C",
+      "maximum_threshold_lip_m": 0.019999824391177867
+    }
+  ],
+  "linked_new_mesh_templates": 10,
+  "source_mirroring": false
+}

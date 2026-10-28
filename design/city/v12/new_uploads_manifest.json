@@ -1,0 +1,82 @@
+[
+  {
+    "original_upload_name": "modern glass office building 21.glb",
+    "file": "modern_glass_office_21.glb",
+    "library_file_id": "libfile_e01552b09934819182909f1573535956",
+    "bytes": 5322760,
+    "sha256": "ac94ebd49315efbec91902b8e99973b1de599c9232efba4791b468914a356c8a",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "glass office building 22.glb",
+    "file": "glass_office_22.glb",
+    "library_file_id": "libfile_2c08a492cb7c81918e81dcef5a8174bf",
+    "bytes": 5530348,
+    "sha256": "94a54b203c8ce2d3404db746b4a7168bdf602488a647c8214ee58d98dc2c2037",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "glass skyscraper 23.glb",
+    "file": "glass_skyscraper_23.glb",
+    "library_file_id": "libfile_954659542de881919ba60b3fb8fad122",
+    "bytes": 5731832,
+    "sha256": "8008b0830b25e9a455a93f1e4add247d144a903fdfd464f1758cda732f3cada8",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "modern glass building 24.glb",
+    "file": "modern_glass_24.glb",
+    "library_file_id": "libfile_cab9508f6ea881918f8c140b73c2102e",
+    "bytes": 5471056,
+    "sha256": "fdbcdb57f18d7e7950ff8a0ad167ef853b84e053d798466e0c02b94be6debbd9",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "high-rise building 25.glb",
+    "file": "high_rise_25.glb",
+    "library_file_id": "libfile_7ccc37e657708191911fa0bf1df83803",
+    "bytes": 9307172,
+    "sha256": "baf62b812847281a7e6d848a48090344a52b8f16f92bae3e6f5d5ac4a3d9565c",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "office building 3d model26.glb",
+    "file": "office_building_26.glb",
+    "library_file_id": "libfile_08b7c7e38aa08191bf0b47364a50bbb4",
+    "bytes": 9290068,
+    "sha256": "f80b6178bf7758b01c682fd2576ab06e3ef17624eceb153a29146e4e107789e0",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "skyscraper 3d model26.glb",
+    "file": "skyscraper_26.glb",
+    "library_file_id": "libfile_8e5bc73b915481919bb9559e65677f51",
+    "bytes": 8935916,
+    "sha256": "51060e3d283b32b37e6bb997b817146698b6441f9bad8ab1de089673b66ff1ac",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "modern office building 26.glb",
+    "file": "modern_office_complex_26.glb",
+    "library_file_id": "libfile_4afe77eae91c8191a552f80b1129234f",
+    "bytes": 8110696,
+    "sha256": "85557d35e23ab05af5595f0bde585c359c358bfc83e315ca208597fbee34cb58",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "rusty apartment building 27.glb",
+    "file": "rusty_apartment_27.glb",
+    "library_file_id": "libfile_5a7b4b52bfec81919746543fc2d34dc5",
+    "bytes": 1760788,
+    "sha256": "af64f0de1e49c42bb0f987e3f213bb289149b7b4fa722711d9edb23441b80173",
+    "original_bytes_preserved": true
+  },
+  {
+    "original_upload_name": "concrete apartment building 28.glb",
+    "file": "concrete_apartment_28.glb",
+    "library_file_id": "libfile_6106b9f0af448191b87caaf52e8ed6c0",
+    "bytes": 1516764,
+    "sha256": "65790d3d04a471493571064aeeb35206b4bc87728e0782ffec2be358e539a61c",
+    "original_bytes_preserved": true
+  }
+]

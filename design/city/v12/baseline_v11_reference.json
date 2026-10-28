@@ -1,0 +1,8 @@
+{
+  "commit": "fa8037848e163a14c0d5c0ab5b3c65e042232e96",
+  "repository": "752960522qq-ai/hero_13",
+  "directory": "delivery/city_v11",
+  "archive_sha256": "4d697acec025448f7290a6c580fcba78d87ab0efe679e2294134038afaca4dc1",
+  "needed_to_open_final_scene": false,
+  "needed_for_incremental_rebuild": true
+}

@@ -1,16 +1,7 @@
 {
-  "terrain": {
-    "MAIN": {
-      "vertices": 58824,
-      "triangles": 47588
-    },
-    "WEST": {
-      "vertices": 27386,
-      "triangles": 19490
-    },
-    "EAST": {
-      "vertices": 19854,
-      "triangles": 15713
-    }
-  }
+  "version": "v12",
+  "mesh_objects": 1319,
+  "triangles": 2492053,
+  "master_glb_bytes": 224582688,
+  "detail_report": "compact_validation.json"
 }
