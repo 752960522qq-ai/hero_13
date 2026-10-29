@@ -1,0 +1,12 @@
+{
+  "status": "PASS",
+  "new_source_basecolor_images_verified": [
+    "03-hotel-building-3d-model-52.glb",
+    "05-apartment-building-50.glb",
+    "02-pink-high-rise-building-3d-model-53.glb",
+    "04-office-building-3d-model-51.glb",
+    "01-apartment-building-54.glb"
+  ],
+  "missing": [],
+  "method": "Decoded RGBA pixel hashes including image dimensions; recompression does not invalidate comparison."
+}

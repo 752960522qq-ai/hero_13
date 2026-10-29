@@ -1,0 +1,301 @@
+{
+  "status": "PASS",
+  "changed_districts": [
+    6,
+    7,
+    8
+  ],
+  "city_buildings": 664,
+  "cbd_buildings": 32,
+  "apartment_instances": 12,
+  "apartment_types": 3,
+  "instances_per_type": 4,
+  "municipal_buildings": 7,
+  "municipal_area_before_m2": 34636.60725832864,
+  "municipal_area_after_m2": 20154.23374071934,
+  "preserved_baseline_objects": 305,
+  "source_checks": [
+    {
+      "name": "APT_V14_A36",
+      "height_m": 74.99999141693115,
+      "floor_m": 12.198418617248535
+    },
+    {
+      "name": "APT_V16_YELLOW_50_01",
+      "height_m": 58.00000176485628,
+      "floor_m": 3.2778069972991943
+    },
+    {
+      "name": "APT_V16_YELLOW_50_02",
+      "height_m": 58.00000176485628,
+      "floor_m": 3.7054619789123535
+    },
+    {
+      "name": "APT_V16_YELLOW_50_03",
+      "height_m": 58.00000176485628,
+      "floor_m": 7.337348937988281
+    },
+    {
+      "name": "APT_V16_YELLOW_50_04",
+      "height_m": 58.00000176485628,
+      "floor_m": 7.475693225860596
+    },
+    {
+      "name": "APT_V16_PINK_53_01",
+      "height_m": 62.00000044424087,
+      "floor_m": 4.89807653427124
+    },
+    {
+      "name": "APT_V16_PINK_53_02",
+      "height_m": 62.00000044424087,
+      "floor_m": 4.780947685241699
+    },
+    {
+      "name": "APT_V16_PINK_53_03",
+      "height_m": 62.00000044424087,
+      "floor_m": 9.664669036865234
+    },
+    {
+      "name": "APT_V16_PINK_53_04",
+      "height_m": 62.00000044424087,
+      "floor_m": 8.146951675415039
+    },
+    {
+      "name": "APT_V16_GRAY_54_01",
+      "height_m": 68.00000300793909,
+      "floor_m": 3.3051395416259766
+    },
+    {
+      "name": "APT_V16_GRAY_54_02",
+      "height_m": 68.00000300793909,
+      "floor_m": 3.1984477043151855
+    },
+    {
+      "name": "APT_V16_GRAY_54_03",
+      "height_m": 68.00000300793909,
+      "floor_m": 3.400723457336426
+    },
+    {
+      "name": "APT_V16_GRAY_54_04",
+      "height_m": 68.00000300793909,
+      "floor_m": 3.375689744949341
+    },
+    {
+      "name": "GOV_V16_OFFICE_51",
+      "height_m": 22.000000035041012,
+      "floor_m": 18.556716918945312
+    },
+    {
+      "name": "GOV_V16_DORM_52",
+      "height_m": 17.000000503845513,
+      "floor_m": 18.64529037475586
+    },
+    {
+      "name": "GOV_V14_G33",
+      "height_m": 26.0,
+      "floor_m": 18.450119018554688
+    }
+  ],
+  "floor_checks": [
+    {
+      "name": "APT_V14_A36",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.023967279463771973,
+      "maximum_floor_above_ground_m": 0.025003300876488055
+    },
+    {
+      "name": "APT_V16_YELLOW_50_01",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.024999891053890444,
+      "maximum_floor_above_ground_m": 0.02504775218803479
+    },
+    {
+      "name": "APT_V16_YELLOW_50_02",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.02500002800498624,
+      "maximum_floor_above_ground_m": 0.025000028004987573
+    },
+    {
+      "name": "APT_V16_YELLOW_50_03",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.02499976373951096,
+      "maximum_floor_above_ground_m": 0.030416536681789452
+    },
+    {
+      "name": "APT_V16_YELLOW_50_04",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.024999769132402427,
+      "maximum_floor_above_ground_m": 0.029439568229058466
+    },
+    {
+      "name": "APT_V16_PINK_53_01",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.024999831789689786,
+      "maximum_floor_above_ground_m": 0.024999831789691562
+    },
+    {
+      "name": "APT_V16_PINK_53_02",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.025000074260982608,
+      "maximum_floor_above_ground_m": 0.025000074260984384
+    },
+    {
+      "name": "APT_V16_PINK_53_03",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.023367809552093277,
+      "maximum_floor_above_ground_m": 0.02500004670024758
+    },
+    {
+      "name": "APT_V16_PINK_53_04",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.02251407148840201,
+      "maximum_floor_above_ground_m": 0.0251306331985095
+    },
+    {
+      "name": "APT_V16_GRAY_54_01",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.024999989740645212,
+      "maximum_floor_above_ground_m": 0.0249999897406461
+    },
+    {
+      "name": "APT_V16_GRAY_54_02",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.02465773013205519,
+      "maximum_floor_above_ground_m": 0.025055599900325465
+    },
+    {
+      "name": "APT_V16_GRAY_54_03",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.025000112019998078,
+      "maximum_floor_above_ground_m": 0.025000112019998966
+    },
+    {
+      "name": "APT_V16_GRAY_54_04",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.024682154135795997,
+      "maximum_floor_above_ground_m": 0.025235172861009847
+    },
+    {
+      "name": "GOV_V16_OFFICE_51",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.024999616163629668,
+      "maximum_floor_above_ground_m": 0.025091698049113376
+    },
+    {
+      "name": "GOV_V16_DORM_52",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.02500027702123475,
+      "maximum_floor_above_ground_m": 0.025158654854390505
+    },
+    {
+      "name": "GOV_V16_SUPPORT_1",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.024999786376948663,
+      "maximum_floor_above_ground_m": 0.024999786376955768
+    },
+    {
+      "name": "GOV_V16_SUPPORT_2",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.02499940490722352,
+      "maximum_floor_above_ground_m": 0.025162124742010405
+    },
+    {
+      "name": "GOV_V16_SUPPORT_3",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.025000625610349658,
+      "maximum_floor_above_ground_m": 0.025035683654664354
+    },
+    {
+      "name": "GOV_V16_SUPPORT_4",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.025000854492184033,
+      "maximum_floor_above_ground_m": 0.0935564950873129
+    },
+    {
+      "name": "GOV_V14_G33",
+      "missing_ground_samples": 0,
+      "minimum_floor_above_ground_m": 0.025000437789071128,
+      "maximum_floor_above_ground_m": 0.025000437789078234
+    }
+  ],
+  "remaining_coplanar_foundations": [],
+  "path_checks": [
+    {
+      "name": "APT_V14_A36",
+      "maximum_sampled_grade": 0.04491661985126924,
+      "samples_not_on_terrain": 0
+    },
+    {
+      "name": "APT_V16_YELLOW_50_01",
+      "maximum_sampled_grade": 0.10869516907968338,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_YELLOW_50_02",
+      "maximum_sampled_grade": 0.1355584042579707,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_YELLOW_50_03",
+      "maximum_sampled_grade": 0.1699003288779448,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_YELLOW_50_04",
+      "maximum_sampled_grade": 0.17734528505258793,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_PINK_53_01",
+      "maximum_sampled_grade": 0.14576560058493757,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_PINK_53_02",
+      "maximum_sampled_grade": 0.15729218848330895,
+      "samples_not_on_terrain": 2
+    },
+    {
+      "name": "APT_V16_PINK_53_03",
+      "maximum_sampled_grade": 0.18323644002285053,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_PINK_53_04",
+      "maximum_sampled_grade": 0.11528523763025035,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_GRAY_54_01",
+      "maximum_sampled_grade": 0.05688930505322851,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_GRAY_54_02",
+      "maximum_sampled_grade": 0.0614408194627832,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_GRAY_54_03",
+      "maximum_sampled_grade": 0.039858590401975987,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "APT_V16_GRAY_54_04",
+      "maximum_sampled_grade": 0.08769294888092748,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "Civic_Link_13",
+      "maximum_sampled_grade": 0.09533659617106474,
+      "samples_not_on_terrain": 1
+    },
+    {
+      "name": "Civic_Link_14",
+      "maximum_sampled_grade": 0.1180960337320996,
+      "samples_not_on_terrain": 1
+    }
+  ],
+  "failures": [],
+  "limits": "Static model geometry checks. Runtime navigation, collision and traffic are outside this district asset update."
+}

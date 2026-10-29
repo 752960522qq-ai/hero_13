@@ -1,0 +1,71 @@
+[
+  {
+    "file": "sources/01-apartment-building-54.glb",
+    "original_upload_name": "apartment building 54.glb",
+    "sha256": "560a781538c4c36e76404127f2bb32bbe4baf90a6b37bb4cdd5b87caf8fb8bb5",
+    "instances": [
+      "APT_V16_GRAY_54_01",
+      "APT_V16_GRAY_54_02",
+      "APT_V16_GRAY_54_03",
+      "APT_V16_GRAY_54_04"
+    ],
+    "target_height_m": 68,
+    "role": "apartment_highrise",
+    "color_group": "GRAY_54",
+    "reuse_count": 4
+  },
+  {
+    "file": "sources/02-pink-high-rise-building-3d-model-53.glb",
+    "original_upload_name": "pink high-rise building 3d model 53.glb",
+    "sha256": "d54c9946edfcd1b1a1119119f5b139f6d1305e51bd0fb0b69e9da7e9500484e9",
+    "instances": [
+      "APT_V16_PINK_53_01",
+      "APT_V16_PINK_53_02",
+      "APT_V16_PINK_53_03",
+      "APT_V16_PINK_53_04"
+    ],
+    "target_height_m": 62,
+    "role": "apartment_highrise",
+    "color_group": "PINK_53",
+    "reuse_count": 4
+  },
+  {
+    "file": "sources/03-hotel-building-3d-model-52.glb",
+    "original_upload_name": "hotel building 3d model 52.glb",
+    "sha256": "7226222a4b6d84d2683c7041073ea7661be3da3863f91536c84adf41b795198b",
+    "instances": [
+      "GOV_V16_DORM_52"
+    ],
+    "target_height_m": 17,
+    "role": "municipal_dormitory",
+    "color_group": null,
+    "reuse_count": 1
+  },
+  {
+    "file": "sources/04-office-building-3d-model-51.glb",
+    "original_upload_name": "office building 3d model 51.glb",
+    "sha256": "0c597b7f06286bf3f907caa64609e1b21186a369cd84fd67c985442e0c7f8772",
+    "instances": [
+      "GOV_V16_OFFICE_51"
+    ],
+    "target_height_m": 22,
+    "role": "municipal_office",
+    "color_group": null,
+    "reuse_count": 1
+  },
+  {
+    "file": "sources/05-apartment-building-50.glb",
+    "original_upload_name": "apartment building 50.glb",
+    "sha256": "43d67c4995e8d27edd7fe1a339ebfc28fd3f63a31af98bfc7ead56d67150cd06",
+    "instances": [
+      "APT_V16_YELLOW_50_01",
+      "APT_V16_YELLOW_50_02",
+      "APT_V16_YELLOW_50_03",
+      "APT_V16_YELLOW_50_04"
+    ],
+    "target_height_m": 58,
+    "role": "apartment_highrise",
+    "color_group": "YELLOW_50",
+    "reuse_count": 4
+  }
+]

@@ -1,0 +1,597 @@
+{
+  "sites": [
+    {
+      "id": "APT_V14_A36",
+      "kind": "CBD",
+      "center": [
+        -25,
+        1040
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          -44.57196898935176,
+          1022.9091163833365
+        ],
+        [
+          -5.42803101064824,
+          1022.9091163833365
+        ],
+        [
+          -5.42803101064824,
+          1057.0908836166636
+        ],
+        [
+          -44.57196898935176,
+          1057.0908836166636
+        ]
+      ],
+      "file": null,
+      "target_height_m": 75,
+      "group": null
+    },
+    {
+      "id": "APT_V16_YELLOW_50_01",
+      "kind": "APARTMENT",
+      "center": [
+        -430,
+        1172
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          -444.9857666728821,
+          1161.7448256572814
+        ],
+        [
+          -415.0142333271179,
+          1161.7448256572814
+        ],
+        [
+          -415.0142333271179,
+          1182.2551743427186
+        ],
+        [
+          -444.9857666728821,
+          1182.2551743427186
+        ]
+      ],
+      "file": "05-apartment-building-50.glb",
+      "target_height_m": 58,
+      "group": "YELLOW_50"
+    },
+    {
+      "id": "APT_V16_YELLOW_50_02",
+      "kind": "APARTMENT",
+      "center": [
+        -365,
+        1182
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          -379.9857666728821,
+          1171.7448256572814
+        ],
+        [
+          -350.0142333271179,
+          1171.7448256572814
+        ],
+        [
+          -350.0142333271179,
+          1192.2551743427186
+        ],
+        [
+          -379.9857666728821,
+          1192.2551743427186
+        ]
+      ],
+      "file": "05-apartment-building-50.glb",
+      "target_height_m": 58,
+      "group": "YELLOW_50"
+    },
+    {
+      "id": "APT_V16_YELLOW_50_03",
+      "kind": "APARTMENT",
+      "center": [
+        -410,
+        1091
+      ],
+      "theta_degrees": 180,
+      "footprint": [
+        [
+          -395.0142333271179,
+          1101.2551743427186
+        ],
+        [
+          -424.9857666728821,
+          1101.2551743427186
+        ],
+        [
+          -424.9857666728821,
+          1080.7448256572814
+        ],
+        [
+          -395.0142333271179,
+          1080.7448256572814
+        ]
+      ],
+      "file": "05-apartment-building-50.glb",
+      "target_height_m": 58,
+      "group": "YELLOW_50"
+    },
+    {
+      "id": "APT_V16_YELLOW_50_04",
+      "kind": "APARTMENT",
+      "center": [
+        -365,
+        1106
+      ],
+      "theta_degrees": 180,
+      "footprint": [
+        [
+          -350.0142333271179,
+          1116.2551743427186
+        ],
+        [
+          -379.9857666728821,
+          1116.2551743427186
+        ],
+        [
+          -379.9857666728821,
+          1095.7448256572814
+        ],
+        [
+          -350.0142333271179,
+          1095.7448256572814
+        ]
+      ],
+      "file": "05-apartment-building-50.glb",
+      "target_height_m": 58,
+      "group": "YELLOW_50"
+    },
+    {
+      "id": "APT_V16_PINK_53_01",
+      "kind": "APARTMENT",
+      "center": [
+        -260,
+        1182
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          -272.87396788272656,
+          1170.7739855837942
+        ],
+        [
+          -247.12603211727344,
+          1170.7739855837942
+        ],
+        [
+          -247.12603211727344,
+          1193.2260144162058
+        ],
+        [
+          -272.87396788272656,
+          1193.2260144162058
+        ]
+      ],
+      "file": "02-pink-high-rise-building-3d-model-53.glb",
+      "target_height_m": 62,
+      "group": "PINK_53"
+    },
+    {
+      "id": "APT_V16_PINK_53_02",
+      "kind": "APARTMENT",
+      "center": [
+        -195,
+        1182
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          -207.87396788272656,
+          1170.7739855837942
+        ],
+        [
+          -182.12603211727344,
+          1170.7739855837942
+        ],
+        [
+          -182.12603211727344,
+          1193.2260144162058
+        ],
+        [
+          -207.87396788272656,
+          1193.2260144162058
+        ]
+      ],
+      "file": "02-pink-high-rise-building-3d-model-53.glb",
+      "target_height_m": 62,
+      "group": "PINK_53"
+    },
+    {
+      "id": "APT_V16_PINK_53_03",
+      "kind": "APARTMENT",
+      "center": [
+        -260,
+        1106
+      ],
+      "theta_degrees": 180,
+      "footprint": [
+        [
+          -247.12603211727344,
+          1117.2260144162058
+        ],
+        [
+          -272.87396788272656,
+          1117.2260144162058
+        ],
+        [
+          -272.87396788272656,
+          1094.7739855837942
+        ],
+        [
+          -247.12603211727344,
+          1094.7739855837942
+        ]
+      ],
+      "file": "02-pink-high-rise-building-3d-model-53.glb",
+      "target_height_m": 62,
+      "group": "PINK_53"
+    },
+    {
+      "id": "APT_V16_PINK_53_04",
+      "kind": "APARTMENT",
+      "center": [
+        -215,
+        1106
+      ],
+      "theta_degrees": 180,
+      "footprint": [
+        [
+          -202.12603211727344,
+          1117.2260144162058
+        ],
+        [
+          -227.87396788272656,
+          1117.2260144162058
+        ],
+        [
+          -227.87396788272656,
+          1094.7739855837942
+        ],
+        [
+          -202.12603211727344,
+          1094.7739855837942
+        ]
+      ],
+      "file": "02-pink-high-rise-building-3d-model-53.glb",
+      "target_height_m": 62,
+      "group": "PINK_53"
+    },
+    {
+      "id": "APT_V16_GRAY_54_01",
+      "kind": "APARTMENT",
+      "center": [
+        230,
+        1168
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          214.83800913412247,
+          1152.1682977599653
+        ],
+        [
+          245.16199086587753,
+          1152.1682977599653
+        ],
+        [
+          245.16199086587753,
+          1183.8317022400347
+        ],
+        [
+          214.83800913412247,
+          1183.8317022400347
+        ]
+      ],
+      "file": "01-apartment-building-54.glb",
+      "target_height_m": 68,
+      "group": "GRAY_54"
+    },
+    {
+      "id": "APT_V16_GRAY_54_02",
+      "kind": "APARTMENT",
+      "center": [
+        300,
+        1168
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          284.83800913412244,
+          1152.1682977599653
+        ],
+        [
+          315.16199086587756,
+          1152.1682977599653
+        ],
+        [
+          315.16199086587756,
+          1183.8317022400347
+        ],
+        [
+          284.83800913412244,
+          1183.8317022400347
+        ]
+      ],
+      "file": "01-apartment-building-54.glb",
+      "target_height_m": 68,
+      "group": "GRAY_54"
+    },
+    {
+      "id": "APT_V16_GRAY_54_03",
+      "kind": "APARTMENT",
+      "center": [
+        160,
+        1168
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          144.83800913412247,
+          1152.1682977599653
+        ],
+        [
+          175.16199086587753,
+          1152.1682977599653
+        ],
+        [
+          175.16199086587753,
+          1183.8317022400347
+        ],
+        [
+          144.83800913412247,
+          1183.8317022400347
+        ]
+      ],
+      "file": "01-apartment-building-54.glb",
+      "target_height_m": 68,
+      "group": "GRAY_54"
+    },
+    {
+      "id": "APT_V16_GRAY_54_04",
+      "kind": "APARTMENT",
+      "center": [
+        390,
+        1145
+      ],
+      "theta_degrees": 180,
+      "footprint": [
+        [
+          405.16199086587756,
+          1160.8317022400347
+        ],
+        [
+          374.8380091341225,
+          1160.8317022400347
+        ],
+        [
+          374.83800913412244,
+          1129.1682977599653
+        ],
+        [
+          405.1619908658775,
+          1129.1682977599653
+        ]
+      ],
+      "file": "01-apartment-building-54.glb",
+      "target_height_m": 68,
+      "group": "GRAY_54"
+    },
+    {
+      "id": "GOV_V16_OFFICE_51",
+      "kind": "GOVERNMENT",
+      "center": [
+        480,
+        815
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          464.9856388595565,
+          802.7706019007392
+        ],
+        [
+          495.0143611404435,
+          802.7706019007392
+        ],
+        [
+          495.0143611404435,
+          827.2293980992608
+        ],
+        [
+          464.9856388595565,
+          827.2293980992608
+        ]
+      ],
+      "file": "04-office-building-3d-model-51.glb",
+      "target_height_m": 22,
+      "group": null
+    },
+    {
+      "id": "GOV_V16_DORM_52",
+      "kind": "GOVERNMENT",
+      "center": [
+        548,
+        830
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          531.0304659498208,
+          819.8826782845136
+        ],
+        [
+          564.9695340501792,
+          819.8826782845136
+        ],
+        [
+          564.9695340501792,
+          840.1173217154864
+        ],
+        [
+          531.0304659498208,
+          840.1173217154864
+        ]
+      ],
+      "file": "03-hotel-building-3d-model-52.glb",
+      "target_height_m": 17,
+      "group": null
+    },
+    {
+      "id": "GOV_V16_SUPPORT_1",
+      "kind": "GOVERNMENT",
+      "center": [
+        425,
+        810
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          410.0,
+          793.0
+        ],
+        [
+          440.0,
+          793.0
+        ],
+        [
+          440.0,
+          827.0
+        ],
+        [
+          410.0,
+          827.0
+        ]
+      ],
+      "file": null,
+      "target_height_m": 10.5,
+      "group": null
+    },
+    {
+      "id": "GOV_V16_SUPPORT_2",
+      "kind": "GOVERNMENT",
+      "center": [
+        425,
+        860
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          410.0,
+          843.0
+        ],
+        [
+          440.0,
+          843.0
+        ],
+        [
+          440.0,
+          877.0
+        ],
+        [
+          410.0,
+          877.0
+        ]
+      ],
+      "file": null,
+      "target_height_m": 12,
+      "group": null
+    },
+    {
+      "id": "GOV_V16_SUPPORT_3",
+      "kind": "GOVERNMENT",
+      "center": [
+        445,
+        905
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          430.0,
+          888.0
+        ],
+        [
+          460.0,
+          888.0
+        ],
+        [
+          460.0,
+          922.0
+        ],
+        [
+          430.0,
+          922.0
+        ]
+      ],
+      "file": null,
+      "target_height_m": 10.5,
+      "group": null
+    },
+    {
+      "id": "GOV_V16_SUPPORT_4",
+      "kind": "GOVERNMENT",
+      "center": [
+        550,
+        895
+      ],
+      "theta_degrees": 0,
+      "footprint": [
+        [
+          535.0,
+          878.0
+        ],
+        [
+          565.0,
+          878.0
+        ],
+        [
+          565.0,
+          912.0
+        ],
+        [
+          535.0,
+          912.0
+        ]
+      ],
+      "file": null,
+      "target_height_m": 12,
+      "group": null
+    }
+  ],
+  "removed_placeholder_ids": [
+    "MAIN_CIVIC_0000",
+    "MAIN_CIVIC_0001",
+    "MAIN_CIVIC_0002",
+    "MAIN_CIVIC_0004",
+    "MAIN_CIVIC_0005",
+    "MAIN_CIVIC_0006",
+    "MAIN_CIVIC_0007",
+    "MAIN_CIVIC_0008",
+    "MAIN_CIVIC_0009",
+    "MAIN_NORTH_APARTMENT_01",
+    "MAIN_NORTH_APARTMENT_02",
+    "MAIN_NORTH_APARTMENT_03",
+    "MAIN_NORTH_APARTMENT_04",
+    "MAIN_NORTH_APARTMENT_05",
+    "MAIN_NORTH_APARTMENT_06",
+    "MAIN_NORTH_APARTMENT_07",
+    "MAIN_NORTH_APARTMENT_08",
+    "MAIN_NORTH_APARTMENT_09"
+  ],
+  "retained_main": "GOV_V14_G33",
+  "apartment_groups": 3,
+  "instances_per_apartment_type": 4
+}

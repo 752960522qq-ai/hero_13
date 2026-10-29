@@ -1,3 +1,5 @@
+> 最新增量为 **v16**：12 栋公寓按黄/粉/灰三组布置，剩余高楼改归 CBD；市政区加入办公楼和宿舍并收紧，修复平台黑边。仅替换 06/07/08；详见 `delivery/city_updates/v16_20261029/README.md`，来源清单见 `design/city/districts/current_sources_v16.json`。
+
 > 最新增量为 **v15**：收紧 CBD、内移市政区、修复建筑下陷，误放公寓区的两栋写字楼改归 CBD。只替换实际变动区块；详见 `delivery/city_updates/v15_20261029/README.md`，当前来源清单为 `design/city/districts/current_sources_v15.json`。
 
 > **当前城市为 v14（2026-10-29）**：19 个素材加入，CBD 29 座全部采用素材；东侧市政府片区、西岸滨海大道、北侧 12 座公寓及西南岛 9 座别墅占位已落位。全城 664 座，净陆地 3.25 km²。仅替换 01、05、06、07、08、09 六个区块，其余沿用 v13。详见 [v14 增量交付与替换说明](../../delivery/city_updates/v14_20261029/README.md)。

@@ -1,0 +1,211 @@
+{
+  "coplanar_foundations": [
+    {
+      "foundation": "D06_CBD_Imported_21_Foundation",
+      "walk_overlap_m2": 314.8650520276278,
+      "height_m": 24.339506149291992
+    },
+    {
+      "foundation": "D06_CBD_Imported_23_Foundation",
+      "walk_overlap_m2": 371.67017964611296,
+      "height_m": 22.20716094970703
+    },
+    {
+      "foundation": "D06_CBD_Imported_24_Foundation",
+      "walk_overlap_m2": 335.1736389097059,
+      "height_m": 18.327178955078125
+    },
+    {
+      "foundation": "D06_CBD_Imported_Office30_Foundation",
+      "walk_overlap_m2": 360.1415964863263,
+      "height_m": 24.023653030395508
+    },
+    {
+      "foundation": "D06_CBD_Office_Building_01_Foundation",
+      "walk_overlap_m2": 366.3208141447976,
+      "height_m": 20.788484573364258
+    },
+    {
+      "foundation": "D06_CBD_V14_G48_Foundation",
+      "walk_overlap_m2": 345.2908296636306,
+      "height_m": 16.35540008544922
+    },
+    {
+      "foundation": "D06_CBD_V14_M38_Foundation",
+      "walk_overlap_m2": 314.3945837020874,
+      "height_m": 21.84861183166504
+    },
+    {
+      "foundation": "D06_CBD_V14_O40_Foundation",
+      "walk_overlap_m2": 307.6893091125239,
+      "height_m": 20.330677032470703
+    },
+    {
+      "foundation": "D06_CBD_V14_O42_Foundation",
+      "walk_overlap_m2": 300.2555297780782,
+      "height_m": 16.744314193725586
+    },
+    {
+      "foundation": "D06_CBD_V14_O46_Foundation",
+      "walk_overlap_m2": 320.44995023473166,
+      "height_m": 22.852291107177734
+    },
+    {
+      "foundation": "D06_CBD_V14_O47_Foundation",
+      "walk_overlap_m2": 331.5696380985901,
+      "height_m": 23.578344345092773
+    },
+    {
+      "foundation": "D07_APT_V14_A32_Foundation",
+      "walk_overlap_m2": 341.49747656751424,
+      "height_m": 19.141189575195312
+    },
+    {
+      "foundation": "D07_APT_V14_A35_Foundation",
+      "walk_overlap_m2": 351.83895529434085,
+      "height_m": 18.79783821105957
+    },
+    {
+      "foundation": "D07_CBD_Imported_22_Foundation",
+      "walk_overlap_m2": 325.41748799569905,
+      "height_m": 10.33045482635498
+    },
+    {
+      "foundation": "D07_CBD_Imported_25_Foundation",
+      "walk_overlap_m2": 407.2828221786767,
+      "height_m": 18.321537017822266
+    },
+    {
+      "foundation": "D07_CBD_Imported_26A_Foundation",
+      "walk_overlap_m2": 406.84269021777436,
+      "height_m": 18.5264949798584
+    },
+    {
+      "foundation": "D07_CBD_Imported_26B_Foundation",
+      "walk_overlap_m2": 426.03561315475963,
+      "height_m": 16.726150512695312
+    },
+    {
+      "foundation": "D07_CBD_Imported_26C_Foundation",
+      "walk_overlap_m2": 514.6565140857128,
+      "height_m": 19.99724578857422
+    },
+    {
+      "foundation": "D07_CBD_Imported_Office27_Foundation",
+      "walk_overlap_m2": 459.88226120872423,
+      "height_m": 15.10188102722168
+    },
+    {
+      "foundation": "D07_CBD_Imported_Office28_Foundation",
+      "walk_overlap_m2": 395.5838178675622,
+      "height_m": 18.4549503326416
+    },
+    {
+      "foundation": "D07_CBD_Imported_Office29_Foundation",
+      "walk_overlap_m2": 421.6969446786097,
+      "height_m": 12.814847946166992
+    },
+    {
+      "foundation": "D07_CBD_Modern_Glass_02_Foundation",
+      "walk_overlap_m2": 306.71567230671644,
+      "height_m": 18.580366134643555
+    },
+    {
+      "foundation": "D07_CBD_V14_G41_Foundation",
+      "walk_overlap_m2": 316.85605919361115,
+      "height_m": 14.67690372467041
+    },
+    {
+      "foundation": "D07_CBD_V14_G42_Foundation",
+      "walk_overlap_m2": 316.85773663036525,
+      "height_m": 18.238679885864258
+    },
+    {
+      "foundation": "D07_CBD_V14_G44_Foundation",
+      "walk_overlap_m2": 222.34284425107762,
+      "height_m": 9.325576782226562
+    },
+    {
+      "foundation": "D07_CBD_V14_G45_Foundation",
+      "walk_overlap_m2": 294.24507310800254,
+      "height_m": 18.1749324798584
+    },
+    {
+      "foundation": "D07_CBD_V14_O34_Foundation",
+      "walk_overlap_m2": 384.7740654646186,
+      "height_m": 19.87563705444336
+    },
+    {
+      "foundation": "D07_CBD_V14_O37_Foundation",
+      "walk_overlap_m2": 400.8710482697934,
+      "height_m": 10.919628143310547
+    },
+    {
+      "foundation": "D07_CBD_V14_O39_Foundation",
+      "walk_overlap_m2": 315.08564969338477,
+      "height_m": 18.858583450317383
+    },
+    {
+      "foundation": "D07_CBD_V14_O43_Foundation",
+      "walk_overlap_m2": 300.2565092816949,
+      "height_m": 19.29328727722168
+    },
+    {
+      "foundation": "D07_CBD_V14_U31_Foundation",
+      "walk_overlap_m2": 364.69313757121563,
+      "height_m": 14.274794578552246
+    },
+    {
+      "foundation": "D07_MAIN_CIVIC_0002_Foundation",
+      "walk_overlap_m2": 365.43559608981013,
+      "height_m": 20.66039276123047
+    },
+    {
+      "foundation": "D07_MAIN_CIVIC_0004_Foundation",
+      "walk_overlap_m2": 365.43559608981013,
+      "height_m": 20.911468505859375
+    },
+    {
+      "foundation": "D07_MAIN_CIVIC_0006_Foundation",
+      "walk_overlap_m2": 365.43559608981013,
+      "height_m": 22.53329086303711
+    },
+    {
+      "foundation": "D07_MAIN_CIVIC_0007_Foundation",
+      "walk_overlap_m2": 365.43559608981013,
+      "height_m": 21.868881225585938
+    },
+    {
+      "foundation": "D07_MAIN_CIVIC_0008_Foundation",
+      "walk_overlap_m2": 365.43559608981013,
+      "height_m": 21.089818954467773
+    },
+    {
+      "foundation": "D07_MAIN_CIVIC_0009_Foundation",
+      "walk_overlap_m2": 365.43559608981013,
+      "height_m": 20.597612380981445
+    },
+    {
+      "foundation": "D08_GOV_V14_G33_Foundation",
+      "walk_overlap_m2": 341.4515471663326,
+      "height_m": 20.73103141784668
+    },
+    {
+      "foundation": "D08_MAIN_CIVIC_0000_Foundation",
+      "walk_overlap_m2": 365.43815985322,
+      "height_m": 22.87605857849121
+    },
+    {
+      "foundation": "D08_MAIN_CIVIC_0001_Foundation",
+      "walk_overlap_m2": 365.43815985322,
+      "height_m": 22.300527572631836
+    },
+    {
+      "foundation": "D08_MAIN_CIVIC_0005_Foundation",
+      "walk_overlap_m2": 365.43815985322,
+      "height_m": 19.5264949798584
+    }
+  ],
+  "coplanar_area_m2": 14571.63310408892,
+  "duplicate_retaining_meshes": []
+}

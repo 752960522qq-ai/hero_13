@@ -1,0 +1,38 @@
+{
+  "status": "PASS",
+  "changed_districts_reimported": 3,
+  "reused_districts": 15,
+  "source_triangle_count": 3486022,
+  "districts": [
+    {
+      "id": 6,
+      "file": "06_main_north_west_center.glb",
+      "meshes": 142,
+      "triangles": 544181,
+      "maximum_world_position_error_m": 0.0,
+      "embedded_images": 15,
+      "passed": true
+    },
+    {
+      "id": 7,
+      "file": "07_main_north_east_center.glb",
+      "meshes": 192,
+      "triangles": 1111772,
+      "maximum_world_position_error_m": 3.2155493553843715e-13,
+      "embedded_images": 23,
+      "passed": true
+    },
+    {
+      "id": 8,
+      "file": "08_main_ne.glb",
+      "meshes": 78,
+      "triangles": 95302,
+      "maximum_world_position_error_m": 0.0,
+      "embedded_images": 3,
+      "passed": true
+    }
+  ],
+  "maximum_world_position_error_m": 3.2155493553843715e-13,
+  "external_images": false,
+  "coordinate_space_preserved": true
+}
