@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "file": "01_main_sw.glb",
+    "version": "v14",
+    "bytes": 24935852,
+    "sha256": "decbbdbe62688bd24fa5c8626441bb27c3582a3f77cf6af1a6be391ee35ed0ca",
+    "building_units": 44,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 2,
+    "file": "02_main_south_west_center.glb",
+    "version": "v13",
+    "bytes": 66250652,
+    "sha256": "371fe4b82d3cef14b1bdd9483f97da187bc7a18e1b094bdb75ecfe6347219a80",
+    "building_units": 139,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/02_main_south_west_center.glb"
+    }
+  },
+  {
+    "id": 3,
+    "file": "03_main_south_east_center.glb",
+    "version": "v13",
+    "bytes": 100042260,
+    "sha256": "abe41ed4421dcf9930005b9494836e2064f8d6f7bb6d4d057a4b5a9613ca24e1",
+    "building_units": 195,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/03_main_south_east_center.glb"
+    }
+  },
+  {
+    "id": 4,
+    "file": "04_main_se.glb",
+    "version": "v13",
+    "bytes": 41136656,
+    "sha256": "84b056edb14838405f03a75703df189f0a7f90eccc11b89d4805a16413c78736",
+    "building_units": 61,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/04_main_se.glb"
+    }
+  },
+  {
+    "id": 5,
+    "file": "05_main_nw.glb",
+    "version": "v14",
+    "bytes": 23582912,
+    "sha256": "b2ed051ca5318cb6cf6c55f35ce1fe3dbbf20b3338dd0be1d24df4c0e87a28d7",
+    "building_units": 12,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 6,
+    "file": "06_main_north_west_center.glb",
+    "version": "v14",
+    "bytes": 117028768,
+    "sha256": "1791239f8cef5c052f8d3b3461bcb32230d9051b2aac8cb059cb08cb39a1e7b1",
+    "building_units": 23,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 7,
+    "file": "07_main_north_east_center.glb",
+    "version": "v14",
+    "bytes": 119433616,
+    "sha256": "a4fd9d58fd95890f8702e6b6a6fad76e75cfd757d26f918c7d9868bfabd4bcc2",
+    "building_units": 20,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 8,
+    "file": "08_main_ne.glb",
+    "version": "v14",
+    "bytes": 29365920,
+    "sha256": "7644650dc0c87288742f4d8e15c246090c00300db894c7c4aae3c5be7c3571f6",
+    "building_units": 10,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 9,
+    "file": "09_west_sw.glb",
+    "version": "v14",
+    "bytes": 23660800,
+    "sha256": "c6c0752e78a743394adfd271ccf8932bc0b26a32536899eb38cc82472325f40b",
+    "building_units": 20,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 10,
+    "file": "10_west_se.glb",
+    "version": "v13",
+    "bytes": 23368664,
+    "sha256": "60345307f889239d4e5de966e04c226b56172d3000d82d79deb208d0fb7f0232",
+    "building_units": 29,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/10_west_se.glb"
+    }
+  },
+  {
+    "id": 11,
+    "file": "11_west_nw.glb",
+    "version": "v13",
+    "bytes": 23427912,
+    "sha256": "99d1c0f05400dc571d1ab187079cb21373ecd4d95895211fc334f38c424b4871",
+    "building_units": 25,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/11_west_nw.glb"
+    }
+  },
+  {
+    "id": 12,
+    "file": "12_west_ne.glb",
+    "version": "v13",
+    "bytes": 23347528,
+    "sha256": "b72deb6db54ae3f538677a6fcbf8783be811d642e2ca30eef0b0f6d7ef9763ab",
+    "building_units": 26,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/12_west_ne.glb"
+    }
+  },
+  {
+    "id": 13,
+    "file": "13_east_sw.glb",
+    "version": "v13",
+    "bytes": 22666040,
+    "sha256": "1311ec8d7f475e44f7ce9a2bafe676f0971aea2f6224673648b475ac34c7463e",
+    "building_units": 13,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/13_east_sw.glb"
+    }
+  },
+  {
+    "id": 14,
+    "file": "14_east_se.glb",
+    "version": "v13",
+    "bytes": 22767768,
+    "sha256": "f5022379eb9f0a7ca281fd108530138b877c9d7d078e4f776ca0cd36ee4e039b",
+    "building_units": 13,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/14_east_se.glb"
+    }
+  },
+  {
+    "id": 15,
+    "file": "15_east_nw.glb",
+    "version": "v13",
+    "bytes": 23558920,
+    "sha256": "1ab1285805d2819efe93cc0daa9e002c9f60570cf53e8704e5d88914eeafa20f",
+    "building_units": 20,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/15_east_nw.glb"
+    }
+  },
+  {
+    "id": 16,
+    "file": "16_east_ne.glb",
+    "version": "v13",
+    "bytes": 22647224,
+    "sha256": "0b5ded67a02837ca5a2fdae601dca19d3215b8c4fbe045993635a0e845c8670d",
+    "building_units": 14,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/16_east_ne.glb"
+    }
+  },
+  {
+    "id": 17,
+    "file": "17_shared_bridges.glb",
+    "version": "v13",
+    "bytes": 23851620,
+    "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54",
+    "building_units": 0,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/17_shared_bridges.glb"
+    }
+  },
+  {
+    "id": 18,
+    "file": "18_shared_water.glb",
+    "version": "v13",
+    "bytes": 18052,
+    "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde",
+    "building_units": 0,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/18_shared_water.glb"
+    }
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "status": "PASS",
+  "update_id": "v14_20261029",
+  "changed_districts": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "unchanged_districts": [
+    2,
+    3,
+    4,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "parts": 37,
+  "compressed_bytes": 279935332,
+  "city_buildings": 664,
+  "land_m2": 3250000.0000000037,
+  "all_input_files_used_once": 19,
+  "preview_files": [
+    "01_city_overview_v14.png",
+    "02_cbd_and_north_apartments_v14.png",
+    "03_municipal_campus_v14.png",
+    "04_binhai_avenue_v14.png",
+    "05_southwest_villas_v14.png",
+    "06_north_apartments_v14.png",
+    "07_city_area_plan_v14.png"
+  ],
+  "native_validation": "PASS",
+  "full_glb_validation": "PASS",
+  "districts_reimport_validation": "PASS",
+  "archive_reassembly_validation": "PASS",
+  "current_scene_triangle_count": 3132176,
+  "maximum_district_world_position_error_m": 0
+}

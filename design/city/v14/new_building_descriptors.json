@@ -1,0 +1,1820 @@
+[
+  {
+    "instance_name": "CBD_V14_O37",
+    "file": "modern_office_37.glb",
+    "source_filename": "modern_office_37.glb",
+    "original_upload_name": "modern office building 37.glb",
+    "source_key": "O37",
+    "uniform_scale": 43.76685341149408,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 36.0,
+    "source_bounds": [
+      [
+        -0.4905853271484375,
+        -0.467010498046875,
+        0.0
+      ],
+      [
+        0.4905853271484375,
+        0.467010498046875,
+        0.822540283203125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -383.9713760991355,
+      963.5604199903536
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      -362.49999999999994,
+      983.9999999999999
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -383.9713760991355,
+        963.5604199903536
+      ],
+      [
+        -341.02862390086443,
+        963.5604199903536
+      ],
+      [
+        -341.02862390086443,
+        1004.4395800096464
+      ],
+      [
+        -383.9713760991355,
+        1004.4395800096464
+      ]
+    ],
+    "pad_xy": [
+      [
+        -384.0513760991355,
+        963.4804199903535
+      ],
+      [
+        -384.0513760991355,
+        1004.5195800096465
+      ],
+      [
+        -340.94862390086445,
+        1004.5195800096465
+      ],
+      [
+        -340.94862390086445,
+        963.4804199903535
+      ],
+      [
+        -384.0513760991355,
+        963.4804199903535
+      ]
+    ],
+    "floor": 13.07377099876202,
+    "foundation_bottom_m": 12.503770998762022,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0051"
+    ],
+    "access_alley": "CBD_V14_O37_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 42.942752198271066,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_M38",
+    "file": "modern_building_38.glb",
+    "source_filename": "modern_building_38.glb",
+    "original_upload_name": "modern building 38.glb",
+    "source_key": "M38",
+    "uniform_scale": 37.422596778639786,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 29.0,
+    "source_bounds": [
+      [
+        -0.4905548393726349,
+        -0.3743285536766052,
+        0.0
+      ],
+      [
+        0.4905548393726349,
+        0.3743285536766052,
+        0.774932861328125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -330.85783595165253,
+      969.991653473029
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      -312.5,
+      984.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -330.85783595165253,
+        969.991653473029
+      ],
+      [
+        -294.14216404834747,
+        969.991653473029
+      ],
+      [
+        -294.14216404834747,
+        998.0083465269711
+      ],
+      [
+        -330.85783595165253,
+        998.0083465269711
+      ]
+    ],
+    "pad_xy": [
+      [
+        -330.9378359516525,
+        969.911653473029
+      ],
+      [
+        -330.9378359516525,
+        998.0883465269711
+      ],
+      [
+        -294.0621640483475,
+        998.0883465269711
+      ],
+      [
+        -294.0621640483475,
+        969.911653473029
+      ],
+      [
+        -330.9378359516525,
+        969.911653473029
+      ]
+    ],
+    "floor": 14.290408352104736,
+    "foundation_bottom_m": 13.720408352104737,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0054"
+    ],
+    "access_alley": "CBD_V14_M38_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 36.71567190330505,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_G41",
+    "file": "glass_building_41.glb",
+    "source_filename": "glass_building_41.glb",
+    "original_upload_name": "glass building 41.glb",
+    "source_key": "G41",
+    "uniform_scale": 39.14934289127837,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 24.0,
+    "source_bounds": [
+      [
+        -0.4925994873046875,
+        -0.3410797119140625,
+        0.0
+      ],
+      [
+        0.4925994873046875,
+        0.3410797119140625,
+        0.613037109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -343.21505376344084,
+      1053.353046594982
+    ],
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      -362.5,
+      1040.0000000000002
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -343.21505376344084,
+        1053.353046594982
+      ],
+      [
+        -381.7849462365591,
+        1053.353046594982
+      ],
+      [
+        -381.7849462365591,
+        1026.646953405018
+      ],
+      [
+        -343.21505376344084,
+        1026.646953405018
+      ]
+    ],
+    "pad_xy": [
+      [
+        -343.13505376344085,
+        1053.433046594982
+      ],
+      [
+        -343.13505376344085,
+        1026.566953405018
+      ],
+      [
+        -381.8649462365591,
+        1026.566953405018
+      ],
+      [
+        -381.8649462365591,
+        1053.433046594982
+      ],
+      [
+        -343.13505376344085,
+        1053.433046594982
+      ]
+    ],
+    "floor": 7.878327822319445,
+    "foundation_bottom_m": 7.308327822319445,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0052"
+    ],
+    "access_alley": "CBD_V14_G41_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 38.56989247311828,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_G42",
+    "file": "glass_building_42.glb",
+    "source_filename": "glass_building_42.glb",
+    "original_upload_name": "glass building 42.glb",
+    "source_key": "G42",
+    "uniform_scale": 39.14934289127837,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 24.0,
+    "source_bounds": [
+      [
+        -0.4925994873046875,
+        -0.3410797119140625,
+        0.0
+      ],
+      [
+        0.4925994873046875,
+        0.3410797119140625,
+        0.613037109375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -299.14695340501794,
+      1020.7150537634409
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      -312.5,
+      1040.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -299.14695340501794,
+        1020.7150537634409
+      ],
+      [
+        -299.14695340501794,
+        1059.284946236559
+      ],
+      [
+        -325.8530465949821,
+        1059.284946236559
+      ],
+      [
+        -325.8530465949821,
+        1020.7150537634409
+      ]
+    ],
+    "pad_xy": [
+      [
+        -299.06695340501795,
+        1020.6350537634409
+      ],
+      [
+        -325.9330465949821,
+        1020.6350537634409
+      ],
+      [
+        -325.9330465949821,
+        1059.364946236559
+      ],
+      [
+        -299.06695340501795,
+        1059.364946236559
+      ],
+      [
+        -299.06695340501795,
+        1020.6350537634409
+      ]
+    ],
+    "floor": 16.682292426734644,
+    "foundation_bottom_m": 14.758206678729897,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0055"
+    ],
+    "access_alley": "CBD_V14_G42_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 38.56989247311828,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_O34",
+    "file": "tall_office_34.glb",
+    "source_filename": "tall_office_34.glb",
+    "original_upload_name": "tall office building 34.glb",
+    "source_key": "O34",
+    "uniform_scale": 83.7429408464751,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 82.0,
+    "source_bounds": [
+      [
+        -0.2335205078125,
+        -0.24573516845703125,
+        0.0
+      ],
+      [
+        0.2335205078125,
+        0.24573516845703125,
+        0.97918701171875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -180.07858567599575,
+      1003.555694072181
+    ],
+    "theta": 4.71238898038469,
+    "angle": 270.0,
+    "center": [
+      -159.5,
+      984.0000000000001
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -180.07858567599575,
+        1003.555694072181
+      ],
+      [
+        -180.07858567599575,
+        964.444305927819
+      ],
+      [
+        -138.92141432400422,
+        964.444305927819
+      ],
+      [
+        -138.92141432400422,
+        1003.555694072181
+      ]
+    ],
+    "pad_xy": [
+      [
+        -180.15858567599577,
+        1003.6356940721811
+      ],
+      [
+        -138.8414143240042,
+        1003.6356940721811
+      ],
+      [
+        -138.8414143240042,
+        964.3643059278189
+      ],
+      [
+        -180.15858567599577,
+        964.3643059278189
+      ],
+      [
+        -180.15858567599577,
+        1003.6356940721811
+      ]
+    ],
+    "floor": 15.019773463794525,
+    "foundation_bottom_m": 14.151723847069533,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0011"
+    ],
+    "access_alley": "CBD_V14_O34_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 39.111388144362024,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_U31",
+    "file": "urban_skyscraper_31.glb",
+    "source_filename": "urban_skyscraper_31.glb",
+    "original_upload_name": "urban skyscraper 3d model 31.glb",
+    "source_key": "U31",
+    "uniform_scale": 81.66225351235164,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 80.0,
+    "source_bounds": [
+      [
+        -0.2572479248046875,
+        -0.2070770412683487,
+        0.0
+      ],
+      [
+        0.2572479248046875,
+        0.2070770412683487,
+        0.979644775390625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      360.5896221593564,
+      1005.0074452509267
+    ],
+    "theta": 4.71238898038469,
+    "angle": 270.0,
+    "center": [
+      377.5,
+      983.9999999999999
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        360.5896221593564,
+        1005.0074452509267
+      ],
+      [
+        360.5896221593564,
+        962.9925547490732
+      ],
+      [
+        394.4103778406436,
+        962.9925547490732
+      ],
+      [
+        394.4103778406436,
+        1005.0074452509267
+      ]
+    ],
+    "pad_xy": [
+      [
+        360.5096221593564,
+        1005.0874452509267
+      ],
+      [
+        394.4903778406436,
+        1005.0874452509267
+      ],
+      [
+        394.4903778406436,
+        962.9125547490731
+      ],
+      [
+        360.5096221593564,
+        962.9125547490731
+      ],
+      [
+        360.5096221593564,
+        1005.0874452509267
+      ]
+    ],
+    "floor": 11.6857223686249,
+    "foundation_bottom_m": 10.118533592736313,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0093"
+    ],
+    "access_alley": "CBD_V14_U31_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 42.01489050185352,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_O40",
+    "file": "modern_office_40.glb",
+    "source_filename": "modern_office_40.glb",
+    "original_upload_name": "modern office building 40.glb",
+    "source_key": "O40",
+    "uniform_scale": 55.09284513356996,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 54.0,
+    "source_bounds": [
+      [
+        -0.2695311903953552,
+        -0.3045196533203125,
+        0.0
+      ],
+      [
+        0.2695311903953552,
+        0.3045196533203125,
+        0.98016357421875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      194.22314589949562,
+      754.8492401311181
+    ],
+    "theta": 4.71238898038469,
+    "angle": 270.0,
+    "center": [
+      211.00000000000003,
+      740.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        194.22314589949562,
+        754.8492401311181
+      ],
+      [
+        194.22314589949562,
+        725.150759868882
+      ],
+      [
+        227.7768541005044,
+        725.150759868882
+      ],
+      [
+        227.7768541005044,
+        754.8492401311181
+      ]
+    ],
+    "pad_xy": [
+      [
+        194.1431458994956,
+        754.9292401311181
+      ],
+      [
+        227.85685410050442,
+        754.9292401311181
+      ],
+      [
+        227.85685410050442,
+        725.070759868882
+      ],
+      [
+        194.1431458994956,
+        725.070759868882
+      ],
+      [
+        194.1431458994956,
+        754.9292401311181
+      ]
+    ],
+    "floor": 17.78972036950167,
+    "foundation_bottom_m": 17.21972036950167,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0066"
+    ],
+    "access_alley": "CBD_V14_O40_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 29.698480262236128,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_G45",
+    "file": "glass_office_45.glb",
+    "source_filename": "glass_office_45.glb",
+    "original_upload_name": "glass office building 45.glb",
+    "source_key": "G45",
+    "uniform_scale": 61.0944346042696,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 60.0,
+    "source_bounds": [
+      [
+        -0.25054931640625,
+        -0.24282075464725494,
+        0.0
+      ],
+      [
+        0.25054931640625,
+        0.24282075464725494,
+        0.982086181640625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      392.3349967153561,
+      724.6928311736739
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      377.50000000000006,
+      740.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        392.3349967153561,
+        724.6928311736739
+      ],
+      [
+        392.3349967153561,
+        755.3071688263261
+      ],
+      [
+        362.6650032846439,
+        755.3071688263261
+      ],
+      [
+        362.6650032846439,
+        724.6928311736739
+      ]
+    ],
+    "pad_xy": [
+      [
+        392.4149967153561,
+        724.6128311736738
+      ],
+      [
+        362.5850032846439,
+        724.6128311736738
+      ],
+      [
+        362.5850032846439,
+        755.3871688263262
+      ],
+      [
+        392.4149967153561,
+        755.3871688263262
+      ],
+      [
+        392.4149967153561,
+        724.6128311736738
+      ]
+    ],
+    "floor": 17.146614445576642,
+    "foundation_bottom_m": 15.743892335552435,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0076"
+    ],
+    "access_alley": "CBD_V14_G45_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 30.614337652652186,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_O39",
+    "file": "modern_office_39.glb",
+    "source_filename": "modern_office_39.glb",
+    "original_upload_name": "modern office building 39.glb",
+    "source_key": "O39",
+    "uniform_scale": 40.406355228835665,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 26.0,
+    "source_bounds": [
+      [
+        -0.4889221489429474,
+        -0.3139801025390625,
+        0.0
+      ],
+      [
+        0.4889221489429474,
+        0.3139801025390625,
+        0.643463134765625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -132.25556202943443,
+      727.3132084420204
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      -112.5,
+      740.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -132.25556202943443,
+        727.3132084420204
+      ],
+      [
+        -92.74443797056557,
+        727.3132084420204
+      ],
+      [
+        -92.74443797056557,
+        752.6867915579796
+      ],
+      [
+        -132.25556202943443,
+        752.6867915579796
+      ]
+    ],
+    "pad_xy": [
+      [
+        -132.33556202943444,
+        727.2332084420203
+      ],
+      [
+        -132.33556202943444,
+        752.7667915579797
+      ],
+      [
+        -92.66443797056557,
+        752.7667915579797
+      ],
+      [
+        -92.66443797056557,
+        727.2332084420203
+      ],
+      [
+        -132.33556202943444,
+        727.2332084420203
+      ]
+    ],
+    "floor": 21.080000243850105,
+    "foundation_bottom_m": 20.42069298627781,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0003"
+    ],
+    "access_alley": "CBD_V14_O39_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 39.511124058868866,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_O46",
+    "file": "office_building_46.glb",
+    "source_filename": "office_building_46.glb",
+    "original_upload_name": "office building 46.glb",
+    "source_key": "O46",
+    "uniform_scale": 43.21936575378851,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 28.0,
+    "source_bounds": [
+      [
+        -0.4904785454273224,
+        -0.2738800048828125,
+        0.0
+      ],
+      [
+        0.4904785454273224,
+        0.2738800048828125,
+        0.6478577256202698
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -41.30182835079038,
+      751.8369201036796
+    ],
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      -62.5,
+      740.0000000000001
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -41.30182835079038,
+        751.8369201036796
+      ],
+      [
+        -83.69817164920963,
+        751.8369201036796
+      ],
+      [
+        -83.69817164920963,
+        728.1630798963204
+      ],
+      [
+        -41.30182835079038,
+        728.1630798963204
+      ]
+    ],
+    "pad_xy": [
+      [
+        -41.22182835079038,
+        751.9169201036797
+      ],
+      [
+        -41.22182835079038,
+        728.0830798963203
+      ],
+      [
+        -83.77817164920963,
+        728.0830798963203
+      ],
+      [
+        -83.77817164920963,
+        751.9169201036797
+      ],
+      [
+        -41.22182835079038,
+        751.9169201036797
+      ]
+    ],
+    "floor": 19.534390492761833,
+    "foundation_bottom_m": 18.964390492761833,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0007"
+    ],
+    "access_alley": "CBD_V14_O46_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 42.39634329841924,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_G44",
+    "file": "modern_glass_44.glb",
+    "source_filename": "modern_glass_44.glb",
+    "original_upload_name": "modern glass building 44.glb",
+    "source_key": "G44",
+    "uniform_scale": 38.871913339368774,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 38.0,
+    "source_bounds": [
+      [
+        -0.3874664306640625,
+        -0.18381500244140625,
+        0.0
+      ],
+      [
+        0.3874664306640625,
+        0.18381500244140625,
+        0.977569580078125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      195.93843848531202,
+      676.8547591546218
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      211.00000000000003,
+      684.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        195.93843848531202,
+        676.8547591546218
+      ],
+      [
+        226.06156151468798,
+        676.8547591546218
+      ],
+      [
+        226.06156151468798,
+        691.1452408453782
+      ],
+      [
+        195.93843848531202,
+        691.1452408453782
+      ]
+    ],
+    "pad_xy": [
+      [
+        195.858438485312,
+        676.7747591546217
+      ],
+      [
+        195.858438485312,
+        691.2252408453783
+      ],
+      [
+        226.141561514688,
+        691.2252408453783
+      ],
+      [
+        226.141561514688,
+        676.7747591546217
+      ],
+      [
+        195.858438485312,
+        676.7747591546217
+      ]
+    ],
+    "floor": 16.97104411766675,
+    "foundation_bottom_m": 16.40104411766675,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0065"
+    ],
+    "access_alley": "CBD_V14_G44_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 30.123123029375954,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_O43",
+    "file": "modern_office_43.glb",
+    "source_filename": "modern_office_43.glb",
+    "original_upload_name": "modern office building 43.glb",
+    "source_key": "O43",
+    "uniform_scale": 55.17702454083383,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 54.0,
+    "source_bounds": [
+      [
+        -0.267333984375,
+        -0.2909698486328125,
+        0.0
+      ],
+      [
+        0.267333984375,
+        0.2909698486328125,
+        0.978668212890625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      275.7506938164583,
+      756.0548504786555
+    ],
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      261.0,
+      740.0000000000001
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        275.7506938164583,
+        756.0548504786555
+      ],
+      [
+        246.24930618354176,
+        756.0548504786555
+      ],
+      [
+        246.24930618354176,
+        723.9451495213447
+      ],
+      [
+        275.7506938164583,
+        723.9451495213447
+      ]
+    ],
+    "pad_xy": [
+      [
+        275.8306938164583,
+        756.1348504786555
+      ],
+      [
+        275.8306938164583,
+        723.8651495213446
+      ],
+      [
+        246.16930618354175,
+        723.8651495213446
+      ],
+      [
+        246.16930618354175,
+        756.1348504786555
+      ],
+      [
+        275.8306938164583,
+        756.1348504786555
+      ]
+    ],
+    "floor": 17.08461805218064,
+    "foundation_bottom_m": 16.51461805218064,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0068"
+    ],
+    "access_alley": "CBD_V14_O43_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 29.501387632916522,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_O47",
+    "file": "modern_office_47.glb",
+    "source_filename": "modern_office_47.glb",
+    "original_upload_name": "modern office building 47.glb",
+    "source_key": "O47",
+    "uniform_scale": 43.522793036383476,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 28.0,
+    "source_bounds": [
+      [
+        -0.489837646484375,
+        -0.2973784804344177,
+        0.0
+      ],
+      [
+        0.489837646484375,
+        0.2973784804344177,
+        0.643341064453125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      406.18089749063137,
+      895.0572579425786
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      427.5,
+      907.9999999999999
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        406.18089749063137,
+        895.0572579425786
+      ],
+      [
+        448.81910250936863,
+        895.0572579425786
+      ],
+      [
+        448.81910250936863,
+        920.9427420574214
+      ],
+      [
+        406.18089749063137,
+        920.9427420574214
+      ]
+    ],
+    "pad_xy": [
+      [
+        406.1008974906314,
+        894.9772579425786
+      ],
+      [
+        406.1008974906314,
+        921.0227420574214
+      ],
+      [
+        448.8991025093686,
+        921.0227420574214
+      ],
+      [
+        448.8991025093686,
+        894.9772579425786
+      ],
+      [
+        406.1008974906314,
+        894.9772579425786
+      ]
+    ],
+    "floor": 13.789353160340728,
+    "foundation_bottom_m": 13.219353160340729,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0083"
+    ],
+    "access_alley": "CBD_V14_O47_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 42.63820501873725,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_O42",
+    "file": "modern_office_42.glb",
+    "source_filename": "modern_office_42.glb",
+    "original_upload_name": "modern office building 42.glb",
+    "source_key": "O42",
+    "uniform_scale": 55.17702454083383,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 54.0,
+    "source_bounds": [
+      [
+        -0.267333984375,
+        -0.2909698486328125,
+        0.0
+      ],
+      [
+        0.267333984375,
+        0.2909698486328125,
+        0.978668212890625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      327.05485047865545,
+      893.2493061835418
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      311.00000000000006,
+      907.9999999999999
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        327.05485047865545,
+        893.2493061835418
+      ],
+      [
+        327.05485047865545,
+        922.7506938164582
+      ],
+      [
+        294.94514952134466,
+        922.7506938164582
+      ],
+      [
+        294.94514952134466,
+        893.2493061835418
+      ]
+    ],
+    "pad_xy": [
+      [
+        327.13485047865544,
+        893.1693061835417
+      ],
+      [
+        294.8651495213447,
+        893.1693061835417
+      ],
+      [
+        294.8651495213447,
+        922.8306938164583
+      ],
+      [
+        327.13485047865544,
+        922.8306938164583
+      ],
+      [
+        327.13485047865544,
+        893.1693061835417
+      ]
+    ],
+    "floor": 12.65077828901888,
+    "foundation_bottom_m": 12.080778289018882,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0074"
+    ],
+    "access_alley": "CBD_V14_O42_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 29.501387632916522,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "CBD_V14_G48",
+    "file": "glass_office_48.glb",
+    "source_filename": "glass_office_48.glb",
+    "original_upload_name": "glass office building 48.glb",
+    "source_key": "G48",
+    "uniform_scale": 63.262626891698325,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 62.0,
+    "source_bounds": [
+      [
+        -0.28179931640625,
+        -0.283721923828125,
+        0.0
+      ],
+      [
+        0.28179931640625,
+        0.283721923828125,
+        0.98004150390625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -80.44899420813353,
+      701.8273650121442
+    ],
+    "theta": 4.71238898038469,
+    "angle": 270.0,
+    "center": [
+      -62.50000000000001,
+      684.0000000000001
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -80.44899420813353,
+        701.8273650121442
+      ],
+      [
+        -80.44899420813353,
+        666.1726349878558
+      ],
+      [
+        -44.55100579186648,
+        666.1726349878558
+      ],
+      [
+        -44.55100579186648,
+        701.8273650121442
+      ]
+    ],
+    "pad_xy": [
+      [
+        -80.52899420813353,
+        701.9073650121443
+      ],
+      [
+        -44.47100579186648,
+        701.9073650121443
+      ],
+      [
+        -44.47100579186648,
+        666.0926349878557
+      ],
+      [
+        -80.52899420813353,
+        666.0926349878557
+      ],
+      [
+        -80.52899420813353,
+        701.9073650121443
+      ]
+    ],
+    "floor": 18.687730556722393,
+    "foundation_bottom_m": 17.988164720164942,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0006"
+    ],
+    "access_alley": "CBD_V14_G48_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 35.654730024288476,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "GOV_V14_G33",
+    "file": "government_33.glb",
+    "source_filename": "government_33.glb",
+    "original_upload_name": "government building 33.glb",
+    "source_key": "G33",
+    "uniform_scale": 42.64744456124543,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 26.0,
+    "source_bounds": [
+      [
+        -0.4909515380859375,
+        -0.3379974365234375,
+        0.0
+      ],
+      [
+        0.4909515380859375,
+        0.3379974365234375,
+        0.609649658203125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      717.9378285027782,
+      918.4147269359763
+    ],
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      697.0,
+      903.9999999999999
+    ],
+    "region": "MAIN",
+    "zone": "GOVERNMENT",
+    "footprint_xy": [
+      [
+        717.9378285027782,
+        918.4147269359763
+      ],
+      [
+        676.0621714972218,
+        918.4147269359763
+      ],
+      [
+        676.0621714972218,
+        889.5852730640236
+      ],
+      [
+        717.9378285027782,
+        889.5852730640236
+      ]
+    ],
+    "pad_xy": [
+      [
+        718.0178285027782,
+        918.4947269359764
+      ],
+      [
+        718.0178285027782,
+        889.5052730640235
+      ],
+      [
+        675.9821714972218,
+        889.5052730640235
+      ],
+      [
+        675.9821714972218,
+        918.4947269359764
+      ],
+      [
+        718.0178285027782,
+        918.4947269359764
+      ]
+    ],
+    "floor": 5.726704110069827,
+    "foundation_bottom_m": 5.1567041100698265,
+    "building_count_units": 1,
+    "typology": "municipal_government",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [
+      "MAIN_CIVIC_0003"
+    ],
+    "access_alley": "GOV_V14_G33_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 41.875657005556384,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "APT_V14_A32",
+    "file": "apartment_highrise_32.glb",
+    "source_filename": "apartment_highrise_32.glb",
+    "original_upload_name": "high-rise building 32.glb",
+    "source_key": "A32",
+    "uniform_scale": 73.61068297401017,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 72.0,
+    "source_bounds": [
+      [
+        -0.24480438232421875,
+        -0.23553466796875,
+        0.0
+      ],
+      [
+        0.24480438232421875,
+        0.23553466796875,
+        0.978118896484375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -311.97978222208354,
+      1122.3378677732364
+    ],
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      -330.0,
+      1105.0
+    ],
+    "region": "MAIN",
+    "zone": "APARTMENT",
+    "footprint_xy": [
+      [
+        -311.97978222208354,
+        1122.3378677732364
+      ],
+      [
+        -348.02021777791646,
+        1122.3378677732364
+      ],
+      [
+        -348.02021777791646,
+        1087.6621322267636
+      ],
+      [
+        -311.97978222208354,
+        1087.6621322267636
+      ]
+    ],
+    "pad_xy": [
+      [
+        -311.89978222208356,
+        1122.4178677732364
+      ],
+      [
+        -311.89978222208356,
+        1087.5821322267636
+      ],
+      [
+        -348.10021777791644,
+        1087.5821322267636
+      ],
+      [
+        -348.10021777791644,
+        1122.4178677732364
+      ],
+      [
+        -311.89978222208356,
+        1122.4178677732364
+      ]
+    ],
+    "floor": 6.222513276513718,
+    "foundation_bottom_m": 5.652513276513718,
+    "building_count_units": 1,
+    "typology": "serviced_apartment_highrise",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [],
+    "access_alley": "APT_V14_A32_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 36.04043555583289,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "APT_V14_A35",
+    "file": "apartment_highrise_35.glb",
+    "source_filename": "apartment_highrise_35.glb",
+    "original_upload_name": "high-rise building 35.glb",
+    "source_key": "A35",
+    "uniform_scale": 79.72252027448533,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 78.0,
+    "source_bounds": [
+      [
+        -0.2280121147632599,
+        -0.2298126518726349,
+        0.0
+      ],
+      [
+        0.2280121147632599,
+        0.2298126518726349,
+        0.9783935546875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      -271.82229955795776,
+      1206.3212437982493
+    ],
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      -290.00000000000006,
+      1188.0
+    ],
+    "region": "MAIN",
+    "zone": "APARTMENT",
+    "footprint_xy": [
+      [
+        -271.82229955795776,
+        1206.3212437982493
+      ],
+      [
+        -308.1777004420423,
+        1206.3212437982493
+      ],
+      [
+        -308.1777004420423,
+        1169.6787562017505
+      ],
+      [
+        -271.82229955795776,
+        1169.6787562017505
+      ]
+    ],
+    "pad_xy": [
+      [
+        -271.7422995579578,
+        1206.4012437982492
+      ],
+      [
+        -271.7422995579578,
+        1169.5987562017506
+      ],
+      [
+        -308.2577004420423,
+        1169.5987562017506
+      ],
+      [
+        -308.2577004420423,
+        1206.4012437982492
+      ],
+      [
+        -271.7422995579578,
+        1206.4012437982492
+      ]
+    ],
+    "floor": 4.591369559520577,
+    "foundation_bottom_m": 3.0404905370479067,
+    "building_count_units": 1,
+    "typology": "serviced_apartment_highrise",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [],
+    "access_alley": "APT_V14_A35_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 36.355400884084524,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  },
+  {
+    "instance_name": "APT_V14_A36",
+    "file": "apartment_highrise_36.glb",
+    "source_filename": "apartment_highrise_36.glb",
+    "original_upload_name": "high-rise building 36.glb",
+    "source_key": "A36",
+    "uniform_scale": 76.5178404632916,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 75.0,
+    "source_bounds": [
+      [
+        -0.2557830810546875,
+        -0.223358154296875,
+        0.0
+      ],
+      [
+        0.2557830810546875,
+        0.223358154296875,
+        0.98016357421875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "anchor": [
+      150.42803101064823,
+      1150.9091163833364
+    ],
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      170.0,
+      1168.0000000000002
+    ],
+    "region": "MAIN",
+    "zone": "APARTMENT",
+    "footprint_xy": [
+      [
+        150.42803101064823,
+        1150.9091163833364
+      ],
+      [
+        189.57196898935175,
+        1150.9091163833364
+      ],
+      [
+        189.57196898935175,
+        1185.0908836166634
+      ],
+      [
+        150.42803101064823,
+        1185.0908836166634
+      ]
+    ],
+    "pad_xy": [
+      [
+        150.3480310106482,
+        1150.8291163833364
+      ],
+      [
+        150.3480310106482,
+        1185.1708836166633
+      ],
+      [
+        189.65196898935176,
+        1185.1708836166633
+      ],
+      [
+        189.65196898935176,
+        1150.8291163833364
+      ],
+      [
+        150.3480310106482,
+        1150.8291163833364
+      ]
+    ],
+    "floor": 3.735055474047622,
+    "foundation_bottom_m": 2.9304346889563204,
+    "building_count_units": 1,
+    "typology": "serviced_apartment_highrise",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v14",
+    "replaces_placeholder_sites": [],
+    "access_alley": "APT_V14_A36_Entrance_Walk",
+    "direct_sidewalk_frontage": false,
+    "source_used_once": true,
+    "left": 0.0,
+    "right": 39.143937978703526,
+    "front": 0.0,
+    "turn": 0.0,
+    "direct_alley_frontage": true
+  }
+]

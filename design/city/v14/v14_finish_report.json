@@ -1,0 +1,309 @@
+{
+  "access_reprofiles": [
+    {
+      "name": "CBD_V14_O37_Entrance_Walk",
+      "previous_ramp_start_m": 1.6652099951768378,
+      "final_ramp_start_m": 1.6652099951768378
+    },
+    {
+      "name": "CBD_V14_M38_Entrance_Walk",
+      "previous_ramp_start_m": 2.200000000000045,
+      "final_ramp_start_m": 2.200000000000045
+    },
+    {
+      "name": "CBD_V14_G41_Entrance_Walk",
+      "previous_ramp_start_m": 2.4419590143575434,
+      "final_ramp_start_m": 10.355895698317658
+    },
+    {
+      "name": "CBD_V14_G42_Entrance_Walk",
+      "previous_ramp_start_m": 9.190936517161822,
+      "final_ramp_start_m": 19.26063531697181
+    },
+    {
+      "name": "CBD_V14_O34_Entrance_Walk",
+      "previous_ramp_start_m": 1.5957071620020995,
+      "final_ramp_start_m": 1.5957071620020995
+    },
+    {
+      "name": "CBD_V14_U31_Entrance_Walk",
+      "previous_ramp_start_m": 1.3812773745365805,
+      "final_ramp_start_m": 1.3812773745365805
+    },
+    {
+      "name": "CBD_V14_O40_Entrance_Walk",
+      "previous_ramp_start_m": 4.546450105712666,
+      "final_ramp_start_m": 14.068283259474041
+    },
+    {
+      "name": "CBD_V14_G45_Entrance_Walk",
+      "previous_ramp_start_m": 15.31716882632611,
+      "final_ramp_start_m": 15.31716882632611
+    },
+    {
+      "name": "CBD_V14_O39_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000495
+    },
+    {
+      "name": "CBD_V14_O46_Entrance_Walk",
+      "previous_ramp_start_m": 2.7599596586625803,
+      "final_ramp_start_m": 14.55977974941616
+    },
+    {
+      "name": "CBD_V14_G44_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000455
+    },
+    {
+      "name": "CBD_V14_O43_Entrance_Walk",
+      "previous_ramp_start_m": 14.76069381645823,
+      "final_ramp_start_m": 14.76069381645823
+    },
+    {
+      "name": "CBD_V14_O47_Entrance_Walk",
+      "previous_ramp_start_m": 21.329102509368624,
+      "final_ramp_start_m": 21.329102509368624
+    },
+    {
+      "name": "CBD_V14_O42_Entrance_Walk",
+      "previous_ramp_start_m": 2.1999999999999886,
+      "final_ramp_start_m": 2.1999999999999886
+    },
+    {
+      "name": "CBD_V14_G48_Entrance_Walk",
+      "previous_ramp_start_m": 17.837365012144232,
+      "final_ramp_start_m": 17.837365012144232
+    },
+    {
+      "name": "GOV_V14_G33_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000455
+    },
+    {
+      "name": "APT_V14_A32_Entrance_Walk",
+      "previous_ramp_start_m": 2.2522636311834825,
+      "final_ramp_start_m": 6.010590835001598
+    },
+    {
+      "name": "APT_V14_A35_Entrance_Walk",
+      "previous_ramp_start_m": 18.187700442042225,
+      "final_ramp_start_m": 18.187700442042225
+    },
+    {
+      "name": "APT_V14_A36_Entrance_Walk",
+      "previous_ramp_start_m": 2.2048232449295075,
+      "final_ramp_start_m": 3.4897303063940646
+    },
+    {
+      "name": "WEST_VILLAGE_0047_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000455
+    },
+    {
+      "name": "WEST_VILLAGE_0044_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000455
+    },
+    {
+      "name": "WEST_VILLAGE_0046_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000455
+    },
+    {
+      "name": "WEST_VILLAGE_0043_Entrance_Walk",
+      "previous_ramp_start_m": 2.9751803833734987,
+      "final_ramp_start_m": 7.019207604019241
+    },
+    {
+      "name": "WEST_VILLAGE_0041_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000455
+    },
+    {
+      "name": "WEST_VILLAGE_0045_Entrance_Walk",
+      "previous_ramp_start_m": 2.200000000000045,
+      "final_ramp_start_m": 2.200000000000045
+    },
+    {
+      "name": "WEST_VILLAGE_0040_Entrance_Walk",
+      "previous_ramp_start_m": 3.065807709239935,
+      "final_ramp_start_m": 7.157375039521095
+    },
+    {
+      "name": "WEST_VILLAGE_0039_Entrance_Walk",
+      "previous_ramp_start_m": 3.1993871647272876,
+      "final_ramp_start_m": 7.328527759850327
+    },
+    {
+      "name": "WEST_VILLAGE_0042_Entrance_Walk",
+      "previous_ramp_start_m": 2.200000000000045,
+      "final_ramp_start_m": 2.200000000000045
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_01_Entrance_Walk",
+      "previous_ramp_start_m": 2.3233402979162117,
+      "final_ramp_start_m": 5.622827371555658
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_02_Entrance_Walk",
+      "previous_ramp_start_m": 2.299683675298904,
+      "final_ramp_start_m": 5.311070726305836
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_03_Entrance_Walk",
+      "previous_ramp_start_m": 2.2000000000000455,
+      "final_ramp_start_m": 2.2000000000000455
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_04_Entrance_Walk",
+      "previous_ramp_start_m": 2.2001808481354597,
+      "final_ramp_start_m": 2.3409822774109514
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_05_Entrance_Walk",
+      "previous_ramp_start_m": 2.2065838783785594,
+      "final_ramp_start_m": 3.043318093770023
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_06_Entrance_Walk",
+      "previous_ramp_start_m": 2.2115534488792785,
+      "final_ramp_start_m": 3.3124426317056197
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_07_Entrance_Walk",
+      "previous_ramp_start_m": 2.2102093342543863,
+      "final_ramp_start_m": 3.246855436850419
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_08_Entrance_Walk",
+      "previous_ramp_start_m": 2.2056241609547063,
+      "final_ramp_start_m": 2.980147438779139
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_09_Entrance_Walk",
+      "previous_ramp_start_m": 2.2269813082071717,
+      "final_ramp_start_m": 3.882007318968165
+    }
+  ],
+  "civic_support_heights": [
+    {
+      "name": "MAIN_CIVIC_0004",
+      "before_m": 14.19445428424511,
+      "after_m": 12.0
+    },
+    {
+      "name": "MAIN_CIVIC_0002",
+      "before_m": 17.62146043742233,
+      "after_m": 12.0
+    },
+    {
+      "name": "MAIN_CIVIC_0006",
+      "before_m": 13.338558051453226,
+      "after_m": 12.0
+    },
+    {
+      "name": "MAIN_CIVIC_0000",
+      "before_m": 18.924741535450927,
+      "after_m": 12.0
+    },
+    {
+      "name": "MAIN_CIVIC_0001",
+      "before_m": 17.875408286386037,
+      "after_m": 9.6
+    },
+    {
+      "name": "MAIN_CIVIC_0005",
+      "before_m": 14.128049813632359,
+      "after_m": 12.0
+    }
+  ],
+  "retaining_wall_triangles": 15172,
+  "nearest_support_fallbacks": [
+    {
+      "midpoint": [
+        -873.1028091590599,
+        208.60063315866273
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -872.2067650697642,
+        209.01550684270592
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -871.7637848928043,
+        209.23383310942378
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -872.0997442776522,
+        209.09150577715621
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -872.7615793119721,
+        208.78507226322853
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -873.4234143462918,
+        208.47863874930084
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -545.6500242988154,
+        1054.7732904035904
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -545.21347601361,
+        1054.1890364298808
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -544.7769277284048,
+        1053.6047824561713
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -544.5490406319385,
+        1053.3198381650511
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -544.8349443025859,
+        1053.7225252483165
+      ],
+      "nearest_support_distance_m": 0.0
+    },
+    {
+      "midpoint": [
+        -545.4259775516077,
+        1054.5135340233778
+      ],
+      "nearest_support_distance_m": 0.0
+    }
+  ],
+  "unresolved_segments": []
+}

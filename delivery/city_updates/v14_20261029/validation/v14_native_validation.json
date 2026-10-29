@@ -1,0 +1,537 @@
+{
+  "status": "PASS",
+  "city_buildings": 664,
+  "land_area_m2": 3250000.0000000037,
+  "cbd_source_buildings": 29,
+  "cbd_placeholders": 0,
+  "planned_cbd_with_tianming": 30,
+  "new_source_instances": [
+    {
+      "name": "CBD_V14_O37",
+      "source_file": "modern_office_37.glb",
+      "zone": "CBD",
+      "height_m": 35.99999993504025,
+      "rotation_degrees": 0.0,
+      "uniform_axis_scales": [
+        0.9999999981955625,
+        0.9999999981955625,
+        0.9999999981955625
+      ],
+      "maximum_threshold_lip_m": 0.020000353620421407
+    },
+    {
+      "name": "CBD_V14_M38",
+      "source_file": "modern_building_38.glb",
+      "zone": "CBD",
+      "height_m": 28.99999937938992,
+      "rotation_degrees": 0.0,
+      "uniform_axis_scales": [
+        0.9999999785996523,
+        0.9999999785996523,
+        0.9999999785996523
+      ],
+      "maximum_threshold_lip_m": 0.020000095573978527
+    },
+    {
+      "name": "CBD_V14_G41",
+      "source_file": "glass_building_41.glb",
+      "zone": "CBD",
+      "height_m": 23.999999198131263,
+      "rotation_degrees": 180.0,
+      "uniform_axis_scales": [
+        0.9999999665888142,
+        0.9999999665888142,
+        0.9999999665888027
+      ],
+      "maximum_threshold_lip_m": 0.019999853722033833
+    },
+    {
+      "name": "CBD_V14_G42",
+      "source_file": "glass_building_42.glb",
+      "zone": "CBD",
+      "height_m": 23.999999198131263,
+      "rotation_degrees": 90.0,
+      "uniform_axis_scales": [
+        0.9999999665888519,
+        0.9999999665888519,
+        0.9999999665888027
+      ],
+      "maximum_threshold_lip_m": 0.019999366431914467
+    },
+    {
+      "name": "CBD_V14_O34",
+      "source_file": "tall_office_34.glb",
+      "zone": "CBD",
+      "height_m": 82.00000192271546,
+      "rotation_degrees": 270.0,
+      "uniform_axis_scales": [
+        1.0000000234477686,
+        1.0000000234477686,
+        1.0000000234477495
+      ],
+      "maximum_threshold_lip_m": 0.019999858447850016
+    },
+    {
+      "name": "CBD_V14_U31",
+      "source_file": "urban_skyscraper_31.glb",
+      "zone": "CBD",
+      "height_m": 80.00000080442987,
+      "rotation_degrees": 270.0,
+      "uniform_axis_scales": [
+        1.0000000100554227,
+        1.0000000100554227,
+        1.0000000100553734
+      ],
+      "maximum_threshold_lip_m": 0.019999895480371066
+    },
+    {
+      "name": "CBD_V14_O40",
+      "source_file": "modern_office_40.glb",
+      "zone": "CBD",
+      "height_m": 54.00000076764263,
+      "rotation_degrees": 270.0,
+      "uniform_axis_scales": [
+        1.0000000142156233,
+        1.0000000142156233,
+        1.0000000142156042
+      ],
+      "maximum_threshold_lip_m": 0.019999712153037308
+    },
+    {
+      "name": "CBD_V14_G45",
+      "source_file": "glass_office_45.glb",
+      "zone": "CBD",
+      "height_m": 59.99999825831037,
+      "rotation_degrees": 90.0,
+      "uniform_axis_scales": [
+        0.9999999709718584,
+        0.9999999709718584,
+        0.9999999709718395
+      ],
+      "maximum_threshold_lip_m": 0.02000024879929896
+    },
+    {
+      "name": "CBD_V14_O39",
+      "source_file": "modern_office_39.glb",
+      "zone": "CBD",
+      "height_m": 26.000001018401235,
+      "rotation_degrees": 0.0,
+      "uniform_axis_scales": [
+        1.0000000391692783,
+        1.0000000391692783,
+        1.0000000391692783
+      ],
+      "maximum_threshold_lip_m": 0.020000198073738318
+    },
+    {
+      "name": "CBD_V14_O46",
+      "source_file": "office_building_46.glb",
+      "zone": "CBD",
+      "height_m": 27.99999897150724,
+      "rotation_degrees": 180.0,
+      "uniform_axis_scales": [
+        0.999999963268127,
+        0.999999963268127,
+        0.9999999632681157
+      ],
+      "maximum_threshold_lip_m": 0.020000874841915817
+    },
+    {
+      "name": "CBD_V14_G44",
+      "source_file": "modern_glass_44.glb",
+      "zone": "CBD",
+      "height_m": 38.00000055774581,
+      "rotation_degrees": 0.0,
+      "uniform_axis_scales": [
+        1.0000000146775212,
+        1.0000000146775212,
+        1.0000000146775212
+      ],
+      "maximum_threshold_lip_m": 0.019999455191168636
+    },
+    {
+      "name": "CBD_V14_O43",
+      "source_file": "modern_office_43.glb",
+      "zone": "CBD",
+      "height_m": 54.0000002940651,
+      "rotation_degrees": 180.0,
+      "uniform_axis_scales": [
+        1.0000000054456615,
+        1.0000000054456615,
+        1.0000000054456502
+      ],
+      "maximum_threshold_lip_m": 0.020000315364239185
+    },
+    {
+      "name": "CBD_V14_O47",
+      "source_file": "modern_office_47.glb",
+      "zone": "CBD",
+      "height_m": 27.999999858322553,
+      "rotation_degrees": 0.0,
+      "uniform_axis_scales": [
+        0.9999999949400912,
+        0.9999999949400912,
+        0.9999999949400912
+      ],
+      "maximum_threshold_lip_m": 0.019999667603913807
+    },
+    {
+      "name": "CBD_V14_O42",
+      "source_file": "modern_office_42.glb",
+      "zone": "CBD",
+      "height_m": 54.0000002940651,
+      "rotation_degrees": 90.0,
+      "uniform_axis_scales": [
+        1.000000005445669,
+        1.000000005445669,
+        1.0000000054456502
+      ],
+      "maximum_threshold_lip_m": 0.020000350176109905
+    },
+    {
+      "name": "CBD_V14_G48",
+      "source_file": "glass_office_48.glb",
+      "zone": "CBD",
+      "height_m": 61.99999976111576,
+      "rotation_degrees": 270.0,
+      "uniform_axis_scales": [
+        0.9999999961470474,
+        0.9999999961470474,
+        0.9999999961470284
+      ],
+      "maximum_threshold_lip_m": 0.019999645467514426
+    },
+    {
+      "name": "GOV_V14_G33",
+      "source_file": "government_33.glb",
+      "zone": "GOVERNMENT",
+      "height_m": 26.000000681262463,
+      "rotation_degrees": 180.0,
+      "uniform_axis_scales": [
+        1.0000000262024138,
+        1.0000000262024138,
+        1.0000000262024025
+      ],
+      "maximum_threshold_lip_m": 0.01999986736352799
+    },
+    {
+      "name": "APT_V14_A32",
+      "source_file": "apartment_highrise_32.glb",
+      "zone": "APARTMENT",
+      "height_m": 71.99999672570266,
+      "rotation_degrees": 180.0,
+      "uniform_axis_scales": [
+        0.9999999545236594,
+        0.9999999545236594,
+        0.999999954523648
+      ],
+      "maximum_threshold_lip_m": 0.019999955590867202
+    },
+    {
+      "name": "APT_V14_A35",
+      "source_file": "apartment_highrise_35.glb",
+      "zone": "APARTMENT",
+      "height_m": 77.9999986756593,
+      "rotation_degrees": 180.0,
+      "uniform_axis_scales": [
+        0.9999999830212846,
+        0.9999999830212846,
+        0.9999999830212731
+      ],
+      "maximum_threshold_lip_m": 0.019999808544015174
+    },
+    {
+      "name": "APT_V14_A36",
+      "source_file": "apartment_highrise_36.glb",
+      "zone": "APARTMENT",
+      "height_m": 74.99999711941928,
+      "rotation_degrees": 0.0,
+      "uniform_axis_scales": [
+        0.9999999615922571,
+        0.9999999615922571,
+        0.9999999615922571
+      ],
+      "maximum_threshold_lip_m": 0.019999905352554137
+    }
+  ],
+  "source_rotation_histogram_degrees": {
+    "0": 6,
+    "180": 6,
+    "90": 3,
+    "270": 4
+  },
+  "unchanged_prior_meshes": 1299,
+  "prior_source_instances_preserved": 105,
+  "new_walks": [
+    {
+      "name": "CBD_V14_O37_Entrance_Walk",
+      "samples": 15,
+      "maximum_grade": 0.010329679434129112,
+      "goal_lip_m": 0.0010000209828522344,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_M38_Entrance_Walk",
+      "samples": 42,
+      "maximum_grade": 0.029708987294080058,
+      "goal_lip_m": 0.0009996984662343777,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G41_Entrance_Walk",
+      "samples": 300,
+      "maximum_grade": 0.03029681624526852,
+      "goal_lip_m": 0.0009999986258240057,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G42_Entrance_Walk",
+      "samples": 360,
+      "maximum_grade": 0.03375792958311887,
+      "goal_lip_m": 0.0010000087149801828,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O34_Entrance_Walk",
+      "samples": 12,
+      "maximum_grade": 0.00826518390940261,
+      "goal_lip_m": 0.0010000393182654221,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_U31_Entrance_Walk",
+      "samples": 18,
+      "maximum_grade": 0.02600034494653565,
+      "goal_lip_m": 0.0009999204194173217,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O40_Entrance_Walk",
+      "samples": 261,
+      "maximum_grade": 0.0057330733445776294,
+      "goal_lip_m": 0.0010192769166188498,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G45_Entrance_Walk",
+      "samples": 252,
+      "maximum_grade": 0.07895081089879512,
+      "goal_lip_m": 0.000999294680596563,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O39_Entrance_Walk",
+      "samples": 285,
+      "maximum_grade": 0.027034211510194146,
+      "goal_lip_m": 0.0010250375198666006,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O46_Entrance_Walk",
+      "samples": 282,
+      "maximum_grade": 0.03651866213727413,
+      "goal_lip_m": 0.0009998654334175683,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G44_Entrance_Walk",
+      "samples": 69,
+      "maximum_grade": 0.021482750045223195,
+      "goal_lip_m": 0.0009746551513671875,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O43_Entrance_Walk",
+      "samples": 360,
+      "maximum_grade": 0.026179551854121148,
+      "goal_lip_m": 0.0010000148905113804,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O47_Entrance_Walk",
+      "samples": 309,
+      "maximum_grade": 0.026439848824032178,
+      "goal_lip_m": 0.0009997513853328144,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O42_Entrance_Walk",
+      "samples": 66,
+      "maximum_grade": 0.026693819192632626,
+      "goal_lip_m": 0.0010108245931199633,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G48_Entrance_Walk",
+      "samples": 108,
+      "maximum_grade": 0.028448838614659456,
+      "goal_lip_m": 0.0010006941765468014,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "GOV_V14_G33_Entrance_Walk",
+      "samples": 90,
+      "maximum_grade": 0.0266490690527532,
+      "goal_lip_m": 0.0009999959729611874,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "APT_V14_A32_Entrance_Walk",
+      "samples": 51,
+      "maximum_grade": 0.04962908670788053,
+      "goal_lip_m": 0.0009999951143022656,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "APT_V14_A35_Entrance_Walk",
+      "samples": 303,
+      "maximum_grade": 0.06917066349724715,
+      "goal_lip_m": 0.0009998823232582055,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "APT_V14_A36_Entrance_Walk",
+      "samples": 63,
+      "maximum_grade": 0.030026404090599094,
+      "goal_lip_m": 0.0010201590967349183,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0047_Entrance_Walk",
+      "samples": 114,
+      "maximum_grade": 0.008238825529559138,
+      "goal_lip_m": 0.001000071560763871,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0044_Entrance_Walk",
+      "samples": 120,
+      "maximum_grade": 0.0285737588749346,
+      "goal_lip_m": 0.0009850786622287444,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0046_Entrance_Walk",
+      "samples": 114,
+      "maximum_grade": 0.01830527890363516,
+      "goal_lip_m": 0.0009998589486599485,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0043_Entrance_Walk",
+      "samples": 189,
+      "maximum_grade": 0.02938990846770767,
+      "goal_lip_m": 0.0010001084202970745,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0041_Entrance_Walk",
+      "samples": 120,
+      "maximum_grade": 0.0245467853151468,
+      "goal_lip_m": 0.0010002266146429406,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0045_Entrance_Walk",
+      "samples": 27,
+      "maximum_grade": 0.026000000000002833,
+      "goal_lip_m": 0.001000123661166974,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0040_Entrance_Walk",
+      "samples": 75,
+      "maximum_grade": 0.03867416464056243,
+      "goal_lip_m": 0.0009999756825598283,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0039_Entrance_Walk",
+      "samples": 84,
+      "maximum_grade": 0.0364398362582863,
+      "goal_lip_m": 0.0010002955130525848,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0042_Entrance_Walk",
+      "samples": 27,
+      "maximum_grade": 0.026345631306462718,
+      "goal_lip_m": 0.0014738273937684454,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_01_Entrance_Walk",
+      "samples": 96,
+      "maximum_grade": 0.0317438385845777,
+      "goal_lip_m": 0.00100644764019453,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_02_Entrance_Walk",
+      "samples": 36,
+      "maximum_grade": 0.07214372547950018,
+      "goal_lip_m": 0.0009999568695029382,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_03_Entrance_Walk",
+      "samples": 96,
+      "maximum_grade": 0.02642864157328278,
+      "goal_lip_m": 0.0010001254850067198,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_04_Entrance_Walk",
+      "samples": 33,
+      "maximum_grade": 0.026146966947249828,
+      "goal_lip_m": 0.0009999742920019372,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_05_Entrance_Walk",
+      "samples": 36,
+      "maximum_grade": 0.03301347040502301,
+      "goal_lip_m": 0.001000018831899041,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_06_Entrance_Walk",
+      "samples": 51,
+      "maximum_grade": 0.030243988227942827,
+      "goal_lip_m": 0.0010000697291108196,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_07_Entrance_Walk",
+      "samples": 78,
+      "maximum_grade": 0.028310644814834043,
+      "goal_lip_m": 0.0010000730456756202,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_08_Entrance_Walk",
+      "samples": 87,
+      "maximum_grade": 0.027675318996667288,
+      "goal_lip_m": 0.000999927520751509,
+      "maximum_terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_09_Entrance_Walk",
+      "samples": 126,
+      "maximum_grade": 0.02821302155114645,
+      "goal_lip_m": 0.0009999275207519531,
+      "maximum_terrain_penetration_m": 0.0
+    }
+  ],
+  "new_walk_surface_samples": 4755,
+  "maximum_new_access_grade": 0.07895081089879512,
+  "maximum_new_sidewalk_join_lip_m": 0.0014738273937684454,
+  "coastal_walk_samples": 1398,
+  "maximum_coastal_walk_terrain_penetration_m": 0.0,
+  "maximum_coastal_walk_longitudinal_grade": 0.007988970325528694,
+  "headroom_rays": 6153,
+  "tianming_reserved_grid_samples": 1365,
+  "road_graph_geometry_unchanged": true,
+  "failures": [],
+  "limits": "Native and exported static geometry checks; game collision, navigation, streaming and runtime FPS are not integrated."
+}

@@ -1,0 +1,320 @@
+[
+  {
+    "file": "apartment+building+11.glb",
+    "bytes": 6412984,
+    "sha256": "4d95e8ee0a606775e16bf90a1ee4c42016d5614a52b05b7f747917bdeda77287",
+    "mesh_texture_payload_sha256": "10e379eb912dcdd3e45be9ee840e84b1632fc0e19fa99f46b02270a4b37a8180"
+  },
+  {
+    "file": "apartment+building+2.glb",
+    "bytes": 6378080,
+    "sha256": "8927541ff0b267741f85b54ff1e71d67ac8ffe25e40f3233f663d841f77daf6f",
+    "mesh_texture_payload_sha256": "d84086fd7ead8e4eb6bc7123b75d1107f50c6aeb64f767110ae0b54e84a198d0"
+  },
+  {
+    "file": "apartment+building+3.glb",
+    "bytes": 6091636,
+    "sha256": "d6b8b9dda1aea0c45b2125d5e0b4cae58fb9fd37ad489558607abc236ac233ea",
+    "mesh_texture_payload_sha256": "132ff24baa5302f5e13f1d66ccec2c64f836bedaf0932edae0af5934416e02df"
+  },
+  {
+    "file": "apartment_14.glb",
+    "bytes": 1967576,
+    "sha256": "24e2de2f232f57274d31ac4d9fe73a261f94b7cc59a634610709e96e46fa1a63",
+    "mesh_texture_payload_sha256": "5ed8a557a9bd50850cd517248a3c1fb2b1801bdb7ddfe16295102165462dbbdc"
+  },
+  {
+    "file": "apartment_building_18.glb",
+    "bytes": 1774376,
+    "sha256": "8ff88fa72d20145fe2ced17d6915ffbf1574a114d03a64182a85fba3eb4c24ef",
+    "mesh_texture_payload_sha256": "4969d5203e3c9703c58334d9931218754663c48b04d56fafa9e658dc2e3f4147"
+  },
+  {
+    "file": "apartment_highrise_32.glb",
+    "bytes": 5548984,
+    "sha256": "b4bb5d73ed40e92e95d17a07be8e1b484274d64db2ced492c268a56963698035",
+    "mesh_texture_payload_sha256": "1a52bf04951248c1691c5ad96e5df725c79ef751dbeabb4688f9bf99070c6663"
+  },
+  {
+    "file": "apartment_highrise_35.glb",
+    "bytes": 5252764,
+    "sha256": "d09ab6486b1ff8aa4306187908a1601d54a553423c15bef6674eed8c6f2d8a2e",
+    "mesh_texture_payload_sha256": "12a4ae083951d9af4d1079be6dfa9a4e97d056339ed891aee480fbd61edede0f"
+  },
+  {
+    "file": "apartment_highrise_36.glb",
+    "bytes": 4906692,
+    "sha256": "edddd3641556f76d9cd2122afd86ca45ef85e4b2eeabb51d4de5b0d5551e6600",
+    "mesh_texture_payload_sha256": "3cc0a1ce0518b716fea41b3a9100792cf32ae7faff8ff55a7d6ddab8d3268ee2"
+  },
+  {
+    "file": "cbd_office_27.glb",
+    "bytes": 5143316,
+    "sha256": "b64bd367ec174c12e8525a0d16b58c2c00b19f0719e2f4625fd22f8072b3e6c9",
+    "mesh_texture_payload_sha256": "c2be65b9c79b1fe998b1c08250278034fa5c974d676af647ee037c940e50a310"
+  },
+  {
+    "file": "cbd_office_28.glb",
+    "bytes": 6032548,
+    "sha256": "d5f1aceaf7aa7d22da1e5fb9a7641980e0914bf978731a1bf872ab6794866490",
+    "mesh_texture_payload_sha256": "fbbd80abcf328aa6fb4b4c6372bd97bc1b4995d027780aa166cf6d2c15720cf3"
+  },
+  {
+    "file": "cbd_office_29.glb",
+    "bytes": 5359972,
+    "sha256": "4a0857acfb7774add4b1f870f65f5bb47b935b30ca7b5e4f581f90094917f306",
+    "mesh_texture_payload_sha256": "c0a118826e4c2a16cee29942fbcd78bc2bb5faa842a70dccd35e6ce626e9aa97"
+  },
+  {
+    "file": "cbd_office_30.glb",
+    "bytes": 6281492,
+    "sha256": "eee8fa2e5a1d5880520c9e34b059efcae549243417ead2adbadd6bd6223e6251",
+    "mesh_texture_payload_sha256": "4a272dfcdddcf6890ded77f6e4f60280197c5060ca934a21bc3632d87135d8d6"
+  },
+  {
+    "file": "city+street+building+9.glb",
+    "bytes": 6730204,
+    "sha256": "1bfbbde6e6d8c562f4ffd7a7e5fd768aa2227e43003fc2d7d39e6fce3d326a0b",
+    "mesh_texture_payload_sha256": "6a0c73e964327657eff5f05a1324b3d877a9b515d9cd0d54853a0b26cadf7159"
+  },
+  {
+    "file": "concrete_apartment_28.glb",
+    "bytes": 1516764,
+    "sha256": "65790d3d04a471493571064aeeb35206b4bc87728e0782ffec2be358e539a61c",
+    "mesh_texture_payload_sha256": "464fed0fefd912664d74b6d32e667efdc2cfad7b317fa868792dbc44466dfb3b"
+  },
+  {
+    "file": "glass_building_41.glb",
+    "bytes": 5240824,
+    "sha256": "c6da33a135724670fa096028b4a1c5ee2b53a09ec226ae8c1b90e781017bf970",
+    "mesh_texture_payload_sha256": "26338b5e7d8ad674337cca6e222b93ce24baed72a59198779d1776992247bf64"
+  },
+  {
+    "file": "glass_building_42.glb",
+    "bytes": 5240824,
+    "sha256": "19083759ca05fc746b79667da4ac2e8ab57f0f6e1a5dbe013767f82de944ad15",
+    "mesh_texture_payload_sha256": "26338b5e7d8ad674337cca6e222b93ce24baed72a59198779d1776992247bf64"
+  },
+  {
+    "file": "glass_office_22.glb",
+    "bytes": 5530348,
+    "sha256": "94a54b203c8ce2d3404db746b4a7168bdf602488a647c8214ee58d98dc2c2037",
+    "mesh_texture_payload_sha256": "395c8dd28fe2b579a88cac4677a69b66b0ede380c8e56927e25fc982f1f4a93e"
+  },
+  {
+    "file": "glass_office_45.glb",
+    "bytes": 5749820,
+    "sha256": "280f68b2c7ecea40841b4e932a2f180013392d7ff3d73607683cbad5e7d45a51",
+    "mesh_texture_payload_sha256": "49d5764b9a4a32c265328d16b4941863fb8a7dd6d3051b5482f564948e9f66c0"
+  },
+  {
+    "file": "glass_office_48.glb",
+    "bytes": 5901432,
+    "sha256": "c58c48d06177a28a33538fe30edea4b9e6160feb1ed2f869902396d93173b790",
+    "mesh_texture_payload_sha256": "6ca11ca10fde24bf12f55745a6d4e7332b2c54a48b2fb195b597c10ec753a009"
+  },
+  {
+    "file": "glass_skyscraper_23.glb",
+    "bytes": 5731832,
+    "sha256": "8008b0830b25e9a455a93f1e4add247d144a903fdfd464f1758cda732f3cada8",
+    "mesh_texture_payload_sha256": "41036f080fd40a33112c449add6e6fb3796d6287ab1165a1108adca60fa54fc9"
+  },
+  {
+    "file": "government_33.glb",
+    "bytes": 5156020,
+    "sha256": "6f9824a637bbb3a2e234103f2b09417dd516434c15f0e9b104c47b0fe517a974",
+    "mesh_texture_payload_sha256": "1a4fce1042307b64d708b42dcb0a37862c4f564cb40a776a9072f5f608ed9937"
+  },
+  {
+    "file": "high_rise_25.glb",
+    "bytes": 9307172,
+    "sha256": "baf62b812847281a7e6d848a48090344a52b8f16f92bae3e6f5d5ac4a3d9565c",
+    "mesh_texture_payload_sha256": "c77178033f3ed25e4d78819e181ca21e58443728b63657389d5d3b722235d8f2"
+  },
+  {
+    "file": "historic_building_facade_15.glb",
+    "bytes": 5750228,
+    "sha256": "0e77902424843daaa34673b46affb4f91f624ffb8f1f024433b8d8d6f26705ac",
+    "mesh_texture_payload_sha256": "d82ee28cba972f6e80fbfe2029067a428663e9843f6b56f69937057882f1e870"
+  },
+  {
+    "file": "modern_building_38.glb",
+    "bytes": 5399956,
+    "sha256": "d192d1eb71ac3827606fc1f5e49b6484cdfc6edec29a3886266bc870cf97c54d",
+    "mesh_texture_payload_sha256": "3e1aa6f3d892b7b53238f13c398090876325aa8201f5b49acad800c5c4cd4ad4"
+  },
+  {
+    "file": "modern_glass_2.glb",
+    "bytes": 6064748,
+    "sha256": "e103bef8b31a72029811ff6446e161af5eb165a52c66757dd93f014db89f113e",
+    "mesh_texture_payload_sha256": "3bd69184bbd9b69a6c0d61bd8aa020123c3b2befea6971a2d6d921fdbb66a09c"
+  },
+  {
+    "file": "modern_glass_24.glb",
+    "bytes": 5471056,
+    "sha256": "fdbcdb57f18d7e7950ff8a0ad167ef853b84e053d798466e0c02b94be6debbd9",
+    "mesh_texture_payload_sha256": "64aadce88246f7efd7c528a5d192ea17c7126a763e2569c8f66a1d62e4174a9e"
+  },
+  {
+    "file": "modern_glass_44.glb",
+    "bytes": 5522520,
+    "sha256": "7f58482a9b108b7ef2e5ed1eb9a6b8432f9299be981562a11d2088249b0dcbcb",
+    "mesh_texture_payload_sha256": "8ec51d7a0bc4173733175fa5a3c151a62e3ae05e687e96846772ddedad759e5e"
+  },
+  {
+    "file": "modern_glass_office_21.glb",
+    "bytes": 5322760,
+    "sha256": "ac94ebd49315efbec91902b8e99973b1de599c9232efba4791b468914a356c8a",
+    "mesh_texture_payload_sha256": "679a460cdfadaa9f9ef884b7c1a94cd3f60f7d8f35c1d81c6ade5face90c9e95"
+  },
+  {
+    "file": "modern_office_37.glb",
+    "bytes": 5530848,
+    "sha256": "b2dab48a4e10e6713471ffbba95a29dcf0e2c89a1334e46a36b787ffee9a306d",
+    "mesh_texture_payload_sha256": "195df005bf19d216e7df85af610f638ad7cac619bbe156d80b89d1a57266cac8"
+  },
+  {
+    "file": "modern_office_39.glb",
+    "bytes": 5528740,
+    "sha256": "b55d2dca9f5caa5c4c5f2f693cd7ed8bb29520c65c212c1fb7dea8805f8ecdf3",
+    "mesh_texture_payload_sha256": "d2949bf182c89c7b179f4a077146912e637e7adc80f49de8c0ac13897bfbec83"
+  },
+  {
+    "file": "modern_office_40.glb",
+    "bytes": 5362876,
+    "sha256": "1f2d579acfe2a89248aa2af1401cf168297295b0237b07c8408147273aed64a9",
+    "mesh_texture_payload_sha256": "fd0e8c7439930433db911971a692ea463bfda919b09b88daddac1e9865234c37"
+  },
+  {
+    "file": "modern_office_42.glb",
+    "bytes": 5358568,
+    "sha256": "d7a3c4651a900847fdb5d4617d6a7ccef6c5ceb1451d1e5597abe8f4f0914f73",
+    "mesh_texture_payload_sha256": "82b9921d7a1ab29d72746252226ce5ef0a8d9ecbb1fe6ed3f49c6947c01ef464"
+  },
+  {
+    "file": "modern_office_43.glb",
+    "bytes": 5358568,
+    "sha256": "ebbbb9408db84e7cfa37dbd8d57961614d99c448f4ebde7f9c97231d45026ef1",
+    "mesh_texture_payload_sha256": "82b9921d7a1ab29d72746252226ce5ef0a8d9ecbb1fe6ed3f49c6947c01ef464"
+  },
+  {
+    "file": "modern_office_47.glb",
+    "bytes": 5083380,
+    "sha256": "7d01eb7e83dfc6ffda1c83dd786635501403a74f45503ea3b0eb401b6ba5b7af",
+    "mesh_texture_payload_sha256": "6be3a8912eea80c610f481dca73a290292bd3999da5add9987742a5a418a3ab2"
+  },
+  {
+    "file": "modern_office_complex_26.glb",
+    "bytes": 8110696,
+    "sha256": "85557d35e23ab05af5595f0bde585c359c358bfc83e315ca208597fbee34cb58",
+    "mesh_texture_payload_sha256": "03d91fe1f82b8b186e7af099083b22a0811b7e4f8a7cea31b84aa39d5f3e6096"
+  },
+  {
+    "file": "office_building_1.glb",
+    "bytes": 5164820,
+    "sha256": "d8e80b756b71e376b4faa46a5abdb69b2d00bf95af28ebeea22b0d6a38353ca7",
+    "mesh_texture_payload_sha256": "ec60938f4883618e531e8c69f9610baf2d6ee79d561b7675c44393ccf61c2fb6"
+  },
+  {
+    "file": "office_building_26.glb",
+    "bytes": 9290068,
+    "sha256": "f80b6178bf7758b01c682fd2576ab06e3ef17624eceb153a29146e4e107789e0",
+    "mesh_texture_payload_sha256": "67c46193ff49766552bda7d4881094a3bb8672db4f04ba09eb6e2909db678dec"
+  },
+  {
+    "file": "office_building_46.glb",
+    "bytes": 5027188,
+    "sha256": "2deb4d1d3a4c1a82a70977a098617eff917ba846022350f2a95d94c7b7a512fb",
+    "mesh_texture_payload_sha256": "3188dd062e8bd1f2e669c6473ae41d1b899417ce61f04b998a24660c240eb3f3"
+  },
+  {
+    "file": "old+building+facade+6.glb",
+    "bytes": 2054508,
+    "sha256": "9a2d3d290754ffc18c0aec3706af16525ec5fb5472ec553e83482968649edf0a",
+    "mesh_texture_payload_sha256": "99cd0320a7d5ae0757a873a9ae04400395766c0ea1c385fac04cb6f62bc3ec9c"
+  },
+  {
+    "file": "old+urban+building+8.glb",
+    "bytes": 7385140,
+    "sha256": "77aeeed33433a7498d233d7ccd91200a7bc43f1c9e5416feab0bc9e0ed179124",
+    "mesh_texture_payload_sha256": "2aaa11002508db86c17c837b9ed9d50a2e33aa3b8f11a4dc062062f2047e4a1b"
+  },
+  {
+    "file": "old_apartment_13.glb",
+    "bytes": 2226516,
+    "sha256": "58d904b63c64a0907184cb9fe0e97262cd86ea578529b926911b7df7dbeeeb4f",
+    "mesh_texture_payload_sha256": "1a5196a2d4c899cdc34d17c1e0d4acea2953e6277aae524a91ffbe66fc59037d"
+  },
+  {
+    "file": "old_building_17.glb",
+    "bytes": 1849080,
+    "sha256": "a213a01d97a3b2dc856b7dbd18f8b585dbed5cb325795cc88ffb477b38f26403",
+    "mesh_texture_payload_sha256": "4d28dde652446b085e368d311e7afad6aa9dcf12247825d26b15f654a79a2b04"
+  },
+  {
+    "file": "old_italian_townhouse_19.glb",
+    "bytes": 1915332,
+    "sha256": "127ce06c392370336f018048851245d24437ef3ce264779945824159a6d4cdc9",
+    "mesh_texture_payload_sha256": "c315abd03653647406f29f9a7b69d9c6655b4977349c4ee945cb67a01b32b5e6"
+  },
+  {
+    "file": "rusty_apartment_27.glb",
+    "bytes": 1760788,
+    "sha256": "af64f0de1e49c42bb0f987e3f213bb289149b7b4fa722711d9edb23441b80173",
+    "mesh_texture_payload_sha256": "4af2b335935dd01ee6674b15b870597868c3f11f8e50b01a0ca5f657a745f5d9"
+  },
+  {
+    "file": "skyscraper_26.glb",
+    "bytes": 8935916,
+    "sha256": "51060e3d283b32b37e6bb997b817146698b6441f9bad8ab1de089673b66ff1ac",
+    "mesh_texture_payload_sha256": "fd258517f8001a78cf8d298d561132875de5f10bf16b094dc1ca6422d3cf4238"
+  },
+  {
+    "file": "storefront+building+7.glb",
+    "bytes": 6754444,
+    "sha256": "8a93d1ff3e846eecbced409a4ac7bd9d12490f3647434d9848dedd101b1a1bc6",
+    "mesh_texture_payload_sha256": "e4c3d6890db414ecb987a7b8ce757f948ac93849838aedb70cbf118fd719e806"
+  },
+  {
+    "file": "storefront_12.glb",
+    "bytes": 2215428,
+    "sha256": "38fe4f8c6a717235b2886cd09c700140889362a28ee8899384604b4e0d75dc63",
+    "mesh_texture_payload_sha256": "351374e89a387b50287c401b376cd44f3d7e70738d455ccea028f53a3adecd99"
+  },
+  {
+    "file": "tall_office_34.glb",
+    "bytes": 5263412,
+    "sha256": "cf2224e109f3914e750642af55df00603ab72923fba317e8db049177f90ae372",
+    "mesh_texture_payload_sha256": "7622877e55da2d06d51eb705dbf17d35babec78e02c2dd432762c276daaa83a2"
+  },
+  {
+    "file": "urban+building+facade+10.glb",
+    "bytes": 1733036,
+    "sha256": "8bea12ef144665888ff38d72215dd141aa022d9c5436bb37331c8409e8eb5a06",
+    "mesh_texture_payload_sha256": "41e40d4ead7f7fffba96c35c79c1bac0d23e720367606a5a8b7addac676c66ab"
+  },
+  {
+    "file": "urban+building+facade+5.glb",
+    "bytes": 2508844,
+    "sha256": "6e0ab44dc26b0930ce435f291b9deb21f0de6bde5953a2c197e08109dcfe2346",
+    "mesh_texture_payload_sha256": "cf3d1e81b3e42548731aa8018d8971650b547d965fe14125a3d2df60f2ae9da8"
+  },
+  {
+    "file": "urban_building_facade_20.glb",
+    "bytes": 1756376,
+    "sha256": "038e8796c6667f4b610be47e0c381691ecaba8625c30acada7de2b8bedd3d634",
+    "mesh_texture_payload_sha256": "397374136532a15c7f1f8e644531882fdd7c4751e6450b987f38b8fa9ac9174e"
+  },
+  {
+    "file": "urban_shopfront_13.glb",
+    "bytes": 2296608,
+    "sha256": "be44c539e10ca93dc68d37c3aa7e06cfb1c1f090b47c2b0166fd70c855b729fe",
+    "mesh_texture_payload_sha256": "8ea9f8b7ddaf5f8e70e0eac3444762c58731fbadea51647e51257bf5b33f9cb8"
+  },
+  {
+    "file": "urban_skyscraper_31.glb",
+    "bytes": 4795140,
+    "sha256": "8cd195c7b7a30e9b66165c97fc6dd8db5ebb66ddacb8458b97abb063b127d90a",
+    "mesh_texture_payload_sha256": "0ad682c09c4e8210d1a364250745dd70570c5e00be6759627a9a0f5176828341"
+  }
+]

@@ -1,0 +1,1631 @@
+{
+  "schema": "hero13.city.district-update.v1",
+  "update_id": "v14_20261029",
+  "date": "2026-10-29",
+  "baseline_version": "v13",
+  "baseline_commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+  "repository_parent_commit": "cbb0884a943d3b9f49725270ae5c3cb609d7f732",
+  "depends_on_updates": [],
+  "units": "metres",
+  "placement": "Every GLB is already in city world coordinates. Keep imported root transforms at identity; do not center or add offsets.",
+  "glb_axes": "X east, Y up, -Z north",
+  "changed_district_ids": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "unchanged_district_ids": [
+    2,
+    3,
+    4,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "changed_districts": [
+    {
+      "id": 1,
+      "name": "主岛西南",
+      "file": "01_main_sw.glb",
+      "bytes": 24935852,
+      "sha256": "decbbdbe62688bd24fa5c8626441bb27c3582a3f77cf6af1a6be391ee35ed0ca",
+      "compression": "xz",
+      "compressed_bytes": 20765172,
+      "compressed_sha256": "74b9cc503a781755b79f5e181f00398b354fe694068229ee2c6ee214236fa12b",
+      "parts": [
+        {
+          "file": "districts/01_main_sw.glb.xz.part00",
+          "bytes": 8388608,
+          "sha256": "b5c5dc71bb16d35a9d19826e076da1183083837098ddde4ed725426ce54465da",
+          "git_blob_sha": "cca92496e1cefae35ffab8169d06eef820aa4bde"
+        },
+        {
+          "file": "districts/01_main_sw.glb.xz.part01",
+          "bytes": 8388608,
+          "sha256": "fa77902c584256f73f24438acd165ff931d8ab069830ae082d4bd3e45ced1cc8",
+          "git_blob_sha": "bc3ab9cce1e0b26f93b3191d646ec98639f68c44"
+        },
+        {
+          "file": "districts/01_main_sw.glb.xz.part02",
+          "bytes": 3987956,
+          "sha256": "38bcf7169448a71eafabf94ddf75e98f8382b3112111a68fc734696127f2a6bd",
+          "git_blob_sha": "db65471ba3ca663617d95d5b1f84763a3b793470"
+        }
+      ],
+      "base_sha256": "2bd08041cb5f73d93fbb9dcbb99e41096e8d26b745f8c29a19e26423222b60dd",
+      "building_units_before": 44,
+      "building_units_after": 44,
+      "change_notes": "滨海大道南段：扩出临海步道，增加行道树与栏杆，连接现有人行道。"
+    },
+    {
+      "id": 5,
+      "name": "主岛西北",
+      "file": "05_main_nw.glb",
+      "bytes": 23582912,
+      "sha256": "b2ed051ca5318cb6cf6c55f35ce1fe3dbbf20b3338dd0be1d24df4c0e87a28d7",
+      "compression": "xz",
+      "compressed_bytes": 20674276,
+      "compressed_sha256": "cd1002c306a077faf16a0fcede59a3fa6326aa4ebfa5519fb6fc198eadba8597",
+      "parts": [
+        {
+          "file": "districts/05_main_nw.glb.xz.part00",
+          "bytes": 8388608,
+          "sha256": "0eed960027585959de3b2a41bda054b209d20132ec8d3fdf29a1d25c67c52b31",
+          "git_blob_sha": "3d760842e5127124cecfcb0ab3e381849b03b5e8"
+        },
+        {
+          "file": "districts/05_main_nw.glb.xz.part01",
+          "bytes": 8388608,
+          "sha256": "98f451d19bfeb4cb08936958e3bc331749b9c4724340e1e261e3ffe393384b54",
+          "git_blob_sha": "5ff4bc3cf58214cf597960d2dbcd4a209f922658"
+        },
+        {
+          "file": "districts/05_main_nw.glb.xz.part02",
+          "bytes": 3897060,
+          "sha256": "6b71eb76c4863496e42b97ee2ef07f2582f44179a8c375315eb2b5cce6471a1c",
+          "git_blob_sha": "bce61a1cd143d15087db152d069f967ad90590e5"
+        }
+      ],
+      "base_sha256": "7adc1d4e06acd69d7387189ac852ddfff438122a82020a94cb2f9419b99e207c",
+      "building_units_before": 12,
+      "building_units_after": 12,
+      "change_notes": "滨海大道北段：与 01 区块共同形成约 930 米连续步道。"
+    },
+    {
+      "id": 6,
+      "name": "主岛北部偏西／CBD原建筑",
+      "file": "06_main_north_west_center.glb",
+      "bytes": 117028768,
+      "sha256": "1791239f8cef5c052f8d3b3461bcb32230d9051b2aac8cb059cb08cb39a1e7b1",
+      "compression": "xz",
+      "compressed_bytes": 99063872,
+      "compressed_sha256": "72ef5f2ef64265c5039f88dc1d0a47af0493e4348209c5b26ba9e8163aa5def4",
+      "parts": [
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part00",
+          "bytes": 8388608,
+          "sha256": "10379744cf35985f92c4b236eaa89c26847d33756d8f8919f02b85118e0601e0",
+          "git_blob_sha": "d22ef5d4e670a15628148e458205f9eb5ae2d246"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part01",
+          "bytes": 8388608,
+          "sha256": "137c47c7a18fa6ff5f7217c7a5928ca9d628aef72aa453c476db1f4cd7b981ed",
+          "git_blob_sha": "a25f5c704fd64d75731a29a4757489a270dc7da6"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part02",
+          "bytes": 8388608,
+          "sha256": "a47e2d5ee2cbd79a7ca0e30af6b8f042d9dc53a1823a26040dd14cdeb528e36a",
+          "git_blob_sha": "a98548e4d540cc087c464a79539549fa040faba1"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part03",
+          "bytes": 8388608,
+          "sha256": "1864d383b4973c3079a37c0f85ac348801a7d4bcd0601e64322b8ec4c368e002",
+          "git_blob_sha": "59af44192067748defbd9612fc2a3d5b4425436a"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part04",
+          "bytes": 8388608,
+          "sha256": "fa57ac9c0567c76468c62a135210ce808f8483d982137bbcd4b9d5ea2704d05d",
+          "git_blob_sha": "a6c8e9754c97b8c82e22c615eb6568c10d9ab72e"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part05",
+          "bytes": 8388608,
+          "sha256": "3dfb320abd09ef0870d2dd0a85e6e35005bb02e21b10d918d6ba0ab27db87f7d",
+          "git_blob_sha": "601651e73283de9fc9da10c27bf762a8f657b295"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part06",
+          "bytes": 8388608,
+          "sha256": "d934e012aa8007cde3ced1200aaed96951fd2e27a7ab5b03ee0841a501a17e69",
+          "git_blob_sha": "b37824841d23f6deba56e5b060c05e2f216879a1"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part07",
+          "bytes": 8388608,
+          "sha256": "80df16310a49e983dfe20bb3b4eb14c1e00ef908a2b3c739279f09e79bc10c3e",
+          "git_blob_sha": "9bbd9aa7091cf5d5a37992862dde871880024c39"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part08",
+          "bytes": 8388608,
+          "sha256": "24578f4a6230c53250d09e41892d2ee98d424a1d97c8a5e22db7d9f1f0844dc9",
+          "git_blob_sha": "e051178bdad5d56058514ac61959e630426b8291"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part09",
+          "bytes": 8388608,
+          "sha256": "8802706f73d778db0fa3b895de8d1a5402aa26068f35fc2522800fcc9a5c8a28",
+          "git_blob_sha": "5e2710694059816a2578ca1694972a7feac6d0ac"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part10",
+          "bytes": 8388608,
+          "sha256": "b1a50f503b3a6bd47c127da8fce58bc174f1e144c50ae7784a9975dbef4f28eb",
+          "git_blob_sha": "cdf7b75823652ed65ec2e88638a42f4f313e3b7f"
+        },
+        {
+          "file": "districts/06_main_north_west_center.glb.xz.part11",
+          "bytes": 6789184,
+          "sha256": "db406589928e4b7094c206d0fa8bedf0101fc3b3e0a8b22b0636d8d314263d9a",
+          "git_blob_sha": "e0e63e3e6909abc0d7f4287d08e6560ffbff895c"
+        }
+      ],
+      "base_sha256": "c9ba3432b3f2197a5efe23cd95a5101968afbf7a1653e2105bb8016024f97a99",
+      "building_units_before": 15,
+      "building_units_after": 23,
+      "change_notes": "替换西侧 8 个 CBD 占位楼；加入 2 栋公寓高层和 6 栋中层占位楼，适配入口与坡地。"
+    },
+    {
+      "id": 7,
+      "name": "主岛北部偏东／CBD",
+      "file": "07_main_north_east_center.glb",
+      "bytes": 119433616,
+      "sha256": "a4fd9d58fd95890f8702e6b6a6fad76e75cfd757d26f918c7d9868bfabd4bcc2",
+      "compression": "xz",
+      "compressed_bytes": 93450324,
+      "compressed_sha256": "c4f012eb1814669fe952e4153100eb975fcdca136a05220120eee7e7b9c56f10",
+      "parts": [
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part00",
+          "bytes": 8388608,
+          "sha256": "50a906edaa80441cee5999a1b2cc566f48d53153d617dead181a2aef5cf25ca3",
+          "git_blob_sha": "2a1758fa86067fcdcb6673caeae023034c3a879b"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part01",
+          "bytes": 8388608,
+          "sha256": "1d0ab520e0694c7193fedcfc4cdf06effeff8f611e9418878aca9015eb61d5c3",
+          "git_blob_sha": "09fb54a8796c4f0832f0815ae97d991afa7f680d"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part02",
+          "bytes": 8388608,
+          "sha256": "0857a417dd8123c69f5141b85ba966ad1c9ede54b88f55266f62b85188686a75",
+          "git_blob_sha": "ad781f39d776421787ca09691771ea0b9ce6c9e6"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part03",
+          "bytes": 8388608,
+          "sha256": "99380c036afc36311be943d82107a2fe6bf5f1c0781af6708018804be2500100",
+          "git_blob_sha": "f201f2d5ee40a9b4952a517b3bb509e903786f21"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part04",
+          "bytes": 8388608,
+          "sha256": "971aa8cb0fa060f094dc7c4ae8113ef5075ad3bb3063bd7119aa69b5c492eead",
+          "git_blob_sha": "7c20b9a1bd70c91f1ff8927569e4ce8dc1c117e1"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part05",
+          "bytes": 8388608,
+          "sha256": "e36149a771b19a2c30a927cfe2627e2ee2b43584e2e890d7ee83ea3f47d554fd",
+          "git_blob_sha": "bc3859b38cead9b16900425e14e3e52b7a2d349e"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part06",
+          "bytes": 8388608,
+          "sha256": "dfc41233a10b70e67ad172385dbf9fa3b788562387079aec0b69047a47cd8446",
+          "git_blob_sha": "6bc317540d1ee1c74a5182cfea63c6503d9d988d"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part07",
+          "bytes": 8388608,
+          "sha256": "89861f7ba2446985dfaad29b57b7665f72b6c89c797f24658fcb89026bcd868f",
+          "git_blob_sha": "c432d1e62acc12c8ccd563ad739d2bdfca96bd34"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part08",
+          "bytes": 8388608,
+          "sha256": "742abb61f2e79bb713aeb80e4db7393cff7c61c88c38ffffdd70944a038a2fdc",
+          "git_blob_sha": "9fe71c5d0f585d77848f2ea941975e5b5c9f2af4"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part09",
+          "bytes": 8388608,
+          "sha256": "1ce16b0785e9687ce9c676bdf254ae1fcd3a6aa1378563b2824e91dce70da190",
+          "git_blob_sha": "4d145ac81754f2f32682259d2e0412a1bbed93c8"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part10",
+          "bytes": 8388608,
+          "sha256": "e5988deed10fb0d782d0d51631ce8e5da3ac8bc00e4aec699635ff5382973a00",
+          "git_blob_sha": "8bf2e75b3e5f58105f0681af2b5eb530dd8d305c"
+        },
+        {
+          "file": "districts/07_main_north_east_center.glb.xz.part11",
+          "bytes": 1175636,
+          "sha256": "ce917a6183cc8c6724d3dcdd6fe6ab4bab704418b863a124b89601a5335e60a3",
+          "git_blob_sha": "63872ab2bdc42ebb0e0bf4eb780793d20ba151c2"
+        }
+      ],
+      "base_sha256": "b13c42599835c4ef4fab025f5feb657c8d3b1f55d9a7bcac5241ad2ab41332a5",
+      "building_units_before": 16,
+      "building_units_after": 20,
+      "change_notes": "替换东侧 7 个 CBD 占位楼；加入 1 栋公寓高层和 3 栋中层占位楼，适配入口与坡地。"
+    },
+    {
+      "id": 8,
+      "name": "主岛东北",
+      "file": "08_main_ne.glb",
+      "bytes": 29365920,
+      "sha256": "7644650dc0c87288742f4d8e15c246090c00300db894c7c4aae3c5be7c3571f6",
+      "compression": "xz",
+      "compressed_bytes": 25308012,
+      "compressed_sha256": "b0d4fcf15ea04907f966744e07e198bee82789b087ffefac490f1bade701cd43",
+      "parts": [
+        {
+          "file": "districts/08_main_ne.glb.xz.part00",
+          "bytes": 8388608,
+          "sha256": "42aeeabb2a41431310d84437a9e1a1b404e45bbd9857965cd6d66818a7497308",
+          "git_blob_sha": "9764a295b7dc441d7fc1854d0e0f560b30be8da6"
+        },
+        {
+          "file": "districts/08_main_ne.glb.xz.part01",
+          "bytes": 8388608,
+          "sha256": "c9eff4b9700501896abdcb641a6f1fb76ec2a13743d4e2e529f9eb001afbf245",
+          "git_blob_sha": "7e1aa044d2397fd9956f6959be042ac86461a1bc"
+        },
+        {
+          "file": "districts/08_main_ne.glb.xz.part02",
+          "bytes": 8388608,
+          "sha256": "73b47e43fcafe1864efb32828eebcdfbcbc075ef07e1bc1b766301b0718cdd84",
+          "git_blob_sha": "b9027101d4545542c4924c6e3983ddf99ed531c0"
+        },
+        {
+          "file": "districts/08_main_ne.glb.xz.part03",
+          "bytes": 142188,
+          "sha256": "7f392037f11f90fcf9d232e1b3a13fa7f59f6be44c722f91a47d5cea18c61b45",
+          "git_blob_sha": "86d142b128f9d5310189ec63bb13e2bc96a4c60b"
+        }
+      ],
+      "base_sha256": "d8819f8e11e7ebbfd90cf4dedc3affd342ab78e0ce1029e4461cf415a731a3c1",
+      "building_units_before": 10,
+      "building_units_after": 10,
+      "change_notes": "政府 33 号主楼替换一个市政占位楼，建立前广场；6 栋附属占位楼降低至 9.6–12 米。"
+    },
+    {
+      "id": 9,
+      "name": "西岛西南",
+      "file": "09_west_sw.glb",
+      "bytes": 23660800,
+      "sha256": "c6c0752e78a743394adfd271ccf8932bc0b26a32536899eb38cc82472325f40b",
+      "compression": "xz",
+      "compressed_bytes": 20673676,
+      "compressed_sha256": "076f1edea21fbe34fd419983badbbba7dfa76bb4ca9bfbe4e0e44cc4a7e11940",
+      "parts": [
+        {
+          "file": "districts/09_west_sw.glb.xz.part00",
+          "bytes": 8388608,
+          "sha256": "2df324dc2d5faefaae540fa355bb411342ad37935b481b695e3c2f91b40bc7d9",
+          "git_blob_sha": "43c042ba2f75266156f8bf8c906ce0ae0e3c92e8"
+        },
+        {
+          "file": "districts/09_west_sw.glb.xz.part01",
+          "bytes": 8388608,
+          "sha256": "2a77bcb0350554544cef4fca076cd7917b68bfa98bdb11bdeedfe22f33dd449e",
+          "git_blob_sha": "f0bf6fde2b75195ff1af4475f9f11f567c4c8ce2"
+        },
+        {
+          "file": "districts/09_west_sw.glb.xz.part02",
+          "bytes": 3896460,
+          "sha256": "909d3673936be1a174ac4b90856f985999a53501105d239a33d2bec7990d9cfe",
+          "git_blob_sha": "5d3e436852865ef73bb4ea9ece92fdf46fba13b6"
+        }
+      ],
+      "base_sha256": "288f9cec2bf4dbc94af452f307034cb6a8462daf7e75dad77f97ab194d8b2ed9",
+      "building_units_before": 20,
+      "building_units_after": 20,
+      "change_notes": "9 个原村镇地块改为别墅占位楼、庭院和步行入口，保持建筑数量。"
+    }
+  ],
+  "all_districts": [
+    {
+      "id": 1,
+      "name": "主岛西南",
+      "file": "01_main_sw.glb",
+      "base_version": "v13",
+      "base_sha256": "2bd08041cb5f73d93fbb9dcbb99e41096e8d26b745f8c29a19e26423222b60dd",
+      "version": "v14",
+      "sha256": "decbbdbe62688bd24fa5c8626441bb27c3582a3f77cf6af1a6be391ee35ed0ca",
+      "bytes": 24935852,
+      "building_units_before": 44,
+      "building_units_after": 44,
+      "source": {
+        "type": "incremental_district_parts",
+        "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+      }
+    },
+    {
+      "id": 2,
+      "name": "主岛南部偏西",
+      "file": "02_main_south_west_center.glb",
+      "base_version": "v13",
+      "base_sha256": "371fe4b82d3cef14b1bdd9483f97da187bc7a18e1b094bdb75ecfe6347219a80",
+      "version": "v13",
+      "sha256": "371fe4b82d3cef14b1bdd9483f97da187bc7a18e1b094bdb75ecfe6347219a80",
+      "bytes": 66250652,
+      "building_units_before": 139,
+      "building_units_after": 139,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/02_main_south_west_center.glb"
+      }
+    },
+    {
+      "id": 3,
+      "name": "主岛南部偏东／老城区街角",
+      "file": "03_main_south_east_center.glb",
+      "base_version": "v13",
+      "base_sha256": "abe41ed4421dcf9930005b9494836e2064f8d6f7bb6d4d057a4b5a9613ca24e1",
+      "version": "v13",
+      "sha256": "abe41ed4421dcf9930005b9494836e2064f8d6f7bb6d4d057a4b5a9613ca24e1",
+      "bytes": 100042260,
+      "building_units_before": 195,
+      "building_units_after": 195,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/03_main_south_east_center.glb"
+      }
+    },
+    {
+      "id": 4,
+      "name": "主岛东南",
+      "file": "04_main_se.glb",
+      "base_version": "v13",
+      "base_sha256": "84b056edb14838405f03a75703df189f0a7f90eccc11b89d4805a16413c78736",
+      "version": "v13",
+      "sha256": "84b056edb14838405f03a75703df189f0a7f90eccc11b89d4805a16413c78736",
+      "bytes": 41136656,
+      "building_units_before": 61,
+      "building_units_after": 61,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/04_main_se.glb"
+      }
+    },
+    {
+      "id": 5,
+      "name": "主岛西北",
+      "file": "05_main_nw.glb",
+      "base_version": "v13",
+      "base_sha256": "7adc1d4e06acd69d7387189ac852ddfff438122a82020a94cb2f9419b99e207c",
+      "version": "v14",
+      "sha256": "b2ed051ca5318cb6cf6c55f35ce1fe3dbbf20b3338dd0be1d24df4c0e87a28d7",
+      "bytes": 23582912,
+      "building_units_before": 12,
+      "building_units_after": 12,
+      "source": {
+        "type": "incremental_district_parts",
+        "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+      }
+    },
+    {
+      "id": 6,
+      "name": "主岛北部偏西／CBD原建筑",
+      "file": "06_main_north_west_center.glb",
+      "base_version": "v13",
+      "base_sha256": "c9ba3432b3f2197a5efe23cd95a5101968afbf7a1653e2105bb8016024f97a99",
+      "version": "v14",
+      "sha256": "1791239f8cef5c052f8d3b3461bcb32230d9051b2aac8cb059cb08cb39a1e7b1",
+      "bytes": 117028768,
+      "building_units_before": 15,
+      "building_units_after": 23,
+      "source": {
+        "type": "incremental_district_parts",
+        "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+      }
+    },
+    {
+      "id": 7,
+      "name": "主岛北部偏东／CBD",
+      "file": "07_main_north_east_center.glb",
+      "base_version": "v13",
+      "base_sha256": "b13c42599835c4ef4fab025f5feb657c8d3b1f55d9a7bcac5241ad2ab41332a5",
+      "version": "v14",
+      "sha256": "a4fd9d58fd95890f8702e6b6a6fad76e75cfd757d26f918c7d9868bfabd4bcc2",
+      "bytes": 119433616,
+      "building_units_before": 16,
+      "building_units_after": 20,
+      "source": {
+        "type": "incremental_district_parts",
+        "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+      }
+    },
+    {
+      "id": 8,
+      "name": "主岛东北",
+      "file": "08_main_ne.glb",
+      "base_version": "v13",
+      "base_sha256": "d8819f8e11e7ebbfd90cf4dedc3affd342ab78e0ce1029e4461cf415a731a3c1",
+      "version": "v14",
+      "sha256": "7644650dc0c87288742f4d8e15c246090c00300db894c7c4aae3c5be7c3571f6",
+      "bytes": 29365920,
+      "building_units_before": 10,
+      "building_units_after": 10,
+      "source": {
+        "type": "incremental_district_parts",
+        "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+      }
+    },
+    {
+      "id": 9,
+      "name": "西岛西南",
+      "file": "09_west_sw.glb",
+      "base_version": "v13",
+      "base_sha256": "288f9cec2bf4dbc94af452f307034cb6a8462daf7e75dad77f97ab194d8b2ed9",
+      "version": "v14",
+      "sha256": "c6c0752e78a743394adfd271ccf8932bc0b26a32536899eb38cc82472325f40b",
+      "bytes": 23660800,
+      "building_units_before": 20,
+      "building_units_after": 20,
+      "source": {
+        "type": "incremental_district_parts",
+        "manifest": "delivery/city_updates/v14_20261029/manifest.json"
+      }
+    },
+    {
+      "id": 10,
+      "name": "西岛东南",
+      "file": "10_west_se.glb",
+      "base_version": "v13",
+      "base_sha256": "60345307f889239d4e5de966e04c226b56172d3000d82d79deb208d0fb7f0232",
+      "version": "v13",
+      "sha256": "60345307f889239d4e5de966e04c226b56172d3000d82d79deb208d0fb7f0232",
+      "bytes": 23368664,
+      "building_units_before": 29,
+      "building_units_after": 29,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/10_west_se.glb"
+      }
+    },
+    {
+      "id": 11,
+      "name": "西岛西北",
+      "file": "11_west_nw.glb",
+      "base_version": "v13",
+      "base_sha256": "99d1c0f05400dc571d1ab187079cb21373ecd4d95895211fc334f38c424b4871",
+      "version": "v13",
+      "sha256": "99d1c0f05400dc571d1ab187079cb21373ecd4d95895211fc334f38c424b4871",
+      "bytes": 23427912,
+      "building_units_before": 25,
+      "building_units_after": 25,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/11_west_nw.glb"
+      }
+    },
+    {
+      "id": 12,
+      "name": "西岛东北／湖区",
+      "file": "12_west_ne.glb",
+      "base_version": "v13",
+      "base_sha256": "b72deb6db54ae3f538677a6fcbf8783be811d642e2ca30eef0b0f6d7ef9763ab",
+      "version": "v13",
+      "sha256": "b72deb6db54ae3f538677a6fcbf8783be811d642e2ca30eef0b0f6d7ef9763ab",
+      "bytes": 23347528,
+      "building_units_before": 26,
+      "building_units_after": 26,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/12_west_ne.glb"
+      }
+    },
+    {
+      "id": 13,
+      "name": "东岛西南",
+      "file": "13_east_sw.glb",
+      "base_version": "v13",
+      "base_sha256": "1311ec8d7f475e44f7ce9a2bafe676f0971aea2f6224673648b475ac34c7463e",
+      "version": "v13",
+      "sha256": "1311ec8d7f475e44f7ce9a2bafe676f0971aea2f6224673648b475ac34c7463e",
+      "bytes": 22666040,
+      "building_units_before": 13,
+      "building_units_after": 13,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/13_east_sw.glb"
+      }
+    },
+    {
+      "id": 14,
+      "name": "东岛东南",
+      "file": "14_east_se.glb",
+      "base_version": "v13",
+      "base_sha256": "f5022379eb9f0a7ca281fd108530138b877c9d7d078e4f776ca0cd36ee4e039b",
+      "version": "v13",
+      "sha256": "f5022379eb9f0a7ca281fd108530138b877c9d7d078e4f776ca0cd36ee4e039b",
+      "bytes": 22767768,
+      "building_units_before": 13,
+      "building_units_after": 13,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/14_east_se.glb"
+      }
+    },
+    {
+      "id": 15,
+      "name": "东岛西北",
+      "file": "15_east_nw.glb",
+      "base_version": "v13",
+      "base_sha256": "1ab1285805d2819efe93cc0daa9e002c9f60570cf53e8704e5d88914eeafa20f",
+      "version": "v13",
+      "sha256": "1ab1285805d2819efe93cc0daa9e002c9f60570cf53e8704e5d88914eeafa20f",
+      "bytes": 23558920,
+      "building_units_before": 20,
+      "building_units_after": 20,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/15_east_nw.glb"
+      }
+    },
+    {
+      "id": 16,
+      "name": "东岛东北／港区",
+      "file": "16_east_ne.glb",
+      "base_version": "v13",
+      "base_sha256": "0b5ded67a02837ca5a2fdae601dca19d3215b8c4fbe045993635a0e845c8670d",
+      "version": "v13",
+      "sha256": "0b5ded67a02837ca5a2fdae601dca19d3215b8c4fbe045993635a0e845c8670d",
+      "bytes": 22647224,
+      "building_units_before": 14,
+      "building_units_after": 14,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/16_east_ne.glb"
+      }
+    },
+    {
+      "id": 17,
+      "name": "公共桥梁及引道",
+      "file": "17_shared_bridges.glb",
+      "base_version": "v13",
+      "base_sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54",
+      "version": "v13",
+      "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54",
+      "bytes": 23851620,
+      "building_units_before": 0,
+      "building_units_after": 0,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/17_shared_bridges.glb"
+      }
+    },
+    {
+      "id": 18,
+      "name": "公共海面与湖水",
+      "file": "18_shared_water.glb",
+      "base_version": "v13",
+      "base_sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde",
+      "version": "v13",
+      "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde",
+      "bytes": 18052,
+      "building_units_before": 0,
+      "building_units_after": 0,
+      "source": {
+        "type": "baseline_archive",
+        "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+        "manifest": "delivery/city_v13/manifest.json",
+        "archive_inner_file": "huizhou_city_v13/districts/18_shared_water.glb"
+      }
+    }
+  ],
+  "resolved_districts_manifest": {
+    "schema": "hero13.city.districts.v1",
+    "units": "metres",
+    "blender_axes": "X east, Y north, Z up",
+    "glb_axes": "X east, Y up, -Z north",
+    "placement": "Every GLB is already in city world coordinates. Keep imported root transforms at identity; do not center or add offsets.",
+    "common_models": [
+      17,
+      18
+    ],
+    "land_district_count": 16,
+    "file_count": 18,
+    "exported_district_ids": [
+      1,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "reused_district_ids": [
+      2,
+      3,
+      4,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "source_mesh_count": 1518,
+    "source_triangle_count": 3132176,
+    "districts": [
+      {
+        "id": 1,
+        "name": "主岛西南",
+        "file": "01_main_sw.glb",
+        "file_size_bytes": 24935852,
+        "mesh_objects": 70,
+        "triangles": 46728,
+        "bounds_blender": [
+          [
+            -946.7494506835938,
+            13.632200241088867,
+            -4.0
+          ],
+          [
+            -491.5249938964844,
+            625.5,
+            51.26513671875
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -946.7494506835938,
+            -4.0,
+            -625.5
+          ],
+          [
+            -491.5249938964844,
+            51.26513671875,
+            -13.632200241088867
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "decbbdbe62688bd24fa5c8626441bb27c3582a3f77cf6af1a6be391ee35ed0ca",
+        "reused_from": null
+      },
+      {
+        "id": 2,
+        "name": "主岛南部偏西",
+        "file": "02_main_south_west_center.glb",
+        "file_size_bytes": 66250652,
+        "mesh_objects": 186,
+        "triangles": 332754,
+        "bounds_blender": [
+          [
+            -505.5249938964844,
+            -77.42237091064453,
+            -4.0
+          ],
+          [
+            13.836792945861816,
+            624.4749755859375,
+            51.56327438354492
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -505.5249938964844,
+            -4.0,
+            -624.4749755859375
+          ],
+          [
+            13.836792945861816,
+            51.56327438354492,
+            77.42237091064453
+          ]
+        ],
+        "source_building_instances": [
+          "OLDTOWN_Apartment_02",
+          "OLDTOWN_Apartment_03",
+          "OLDTOWN_Apartment_11",
+          "OLDTOWN_Infill_03_Asset27",
+          "OLDTOWN_Infill_04_Asset28",
+          "OLDTOWN_Infill_05_Asset27",
+          "OLDTOWN_Infill_07_Asset27",
+          "OLDTOWN_Infill_11_Asset27",
+          "OLDTOWN_Rear_05_01_Asset20",
+          "OLDTOWN_Rear_05_02_Asset19",
+          "OLDTOWN_Rear_07_01_Asset15",
+          "OLDTOWN_Rear_11_02_Asset18",
+          "OLDTOWN_Rear_13_01_Asset14",
+          "OLDTOWN_Rear_15_01_Asset19",
+          "OLDTOWN_Rear_15_02_Asset18",
+          "OLDTOWN_Rear_32_01_Asset17",
+          "OLDTOWN_Rear_32_02_Asset20",
+          "OLDTOWN_Rear_33_01_Asset20",
+          "OLDTOWN_Rear_33_02_Asset19"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "371fe4b82d3cef14b1bdd9483f97da187bc7a18e1b094bdb75ecfe6347219a80"
+      },
+      {
+        "id": 3,
+        "name": "主岛南部偏东／老城区街角",
+        "file": "03_main_south_east_center.glb",
+        "file_size_bytes": 100042260,
+        "mesh_objects": 404,
+        "triangles": 877047,
+        "bounds_blender": [
+          [
+            -8.749429702758789,
+            -73.3663101196289,
+            -4.0
+          ],
+          [
+            514.7532348632812,
+            627.4749755859375,
+            42.75483322143555
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -8.749429702758789,
+            -4.0,
+            -627.4749755859375
+          ],
+          [
+            514.7532348632812,
+            42.75483322143555,
+            73.3663101196289
+          ]
+        ],
+        "source_building_instances": [
+          "OLDTOWN_Backlane_Apartment_13",
+          "OLDTOWN_Backlane_Apartment_14",
+          "OLDTOWN_Connected_Arcade_05",
+          "OLDTOWN_Connected_Arcade_06",
+          "OLDTOWN_Connected_Arcade_07",
+          "OLDTOWN_Connected_Shop_08",
+          "OLDTOWN_Connected_Shop_09",
+          "OLDTOWN_Corner_Shop_10",
+          "OLDTOWN_Infill_01_Asset28",
+          "OLDTOWN_Infill_02_Asset27",
+          "OLDTOWN_Infill_06_Asset28",
+          "OLDTOWN_Infill_08_Asset28",
+          "OLDTOWN_Infill_09_Asset27",
+          "OLDTOWN_Infill_10_Asset28",
+          "OLDTOWN_Infill_12_Asset27",
+          "OLDTOWN_Infill_13_Asset28",
+          "OLDTOWN_Infill_14_Asset27",
+          "OLDTOWN_Infill_15_Asset28",
+          "OLDTOWN_Infill_16_Asset27",
+          "OLDTOWN_Infill_17_Asset28",
+          "OLDTOWN_Infill_18_Asset28",
+          "OLDTOWN_Joined_Storefront_12",
+          "OLDTOWN_Joined_Urban_Shopfront_13",
+          "OLDTOWN_Rear_00_01_Asset20",
+          "OLDTOWN_Rear_00_02_Asset19",
+          "OLDTOWN_Rear_00_03_Asset18",
+          "OLDTOWN_Rear_00_04_Asset17",
+          "OLDTOWN_Rear_00_05_Asset15",
+          "OLDTOWN_Rear_01_01_Asset13",
+          "OLDTOWN_Rear_02_01_Asset18",
+          "OLDTOWN_Rear_02_02_Asset17",
+          "OLDTOWN_Rear_03_01_Asset19",
+          "OLDTOWN_Rear_03_02_Asset18",
+          "OLDTOWN_Rear_04_01_Asset14",
+          "OLDTOWN_Rear_06_01_Asset18",
+          "OLDTOWN_Rear_06_02_Asset17",
+          "OLDTOWN_Rear_08_01_Asset17",
+          "OLDTOWN_Rear_08_02_Asset20",
+          "OLDTOWN_Rear_09_01_Asset20",
+          "OLDTOWN_Rear_09_02_Asset19",
+          "OLDTOWN_Rear_10_01_Asset13",
+          "OLDTOWN_Rear_11_01_Asset19",
+          "OLDTOWN_Rear_12_01_Asset17",
+          "OLDTOWN_Rear_12_02_Asset20",
+          "OLDTOWN_Rear_14_01_Asset18",
+          "OLDTOWN_Rear_14_02_Asset17",
+          "OLDTOWN_Rear_16_01_Asset15",
+          "OLDTOWN_Rear_17_01_Asset20",
+          "OLDTOWN_Rear_17_02_Asset19",
+          "OLDTOWN_Rear_18_01_Asset18",
+          "OLDTOWN_Rear_18_02_Asset17",
+          "OLDTOWN_Rear_19_01_Asset13",
+          "OLDTOWN_Rear_22_01_Asset14",
+          "OLDTOWN_Rear_23_01_Asset19",
+          "OLDTOWN_Rear_23_02_Asset18",
+          "OLDTOWN_Rear_24_01_Asset17",
+          "OLDTOWN_Rear_24_02_Asset20",
+          "OLDTOWN_Rear_27_01_Asset19",
+          "OLDTOWN_Rear_27_02_Asset18",
+          "OLDTOWN_Rear_28_01_Asset13",
+          "OLDTOWN_Rear_29_01_Asset20",
+          "OLDTOWN_Rear_29_02_Asset19"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "abe41ed4421dcf9930005b9494836e2064f8d6f7bb6d4d057a4b5a9613ca24e1"
+      },
+      {
+        "id": 4,
+        "name": "主岛东南",
+        "file": "04_main_se.glb",
+        "file_size_bytes": 41136656,
+        "mesh_objects": 131,
+        "triangles": 168871,
+        "bounds_blender": [
+          [
+            494.05120849609375,
+            22.67948341369629,
+            -4.0
+          ],
+          [
+            1039.40576171875,
+            634.5,
+            47.55078125
+          ]
+        ],
+        "bounds_glb": [
+          [
+            494.05120849609375,
+            -4.0,
+            -634.5
+          ],
+          [
+            1039.40576171875,
+            47.55078125,
+            -22.67948341369629
+          ]
+        ],
+        "source_building_instances": [
+          "OLDTOWN_Rear_20_01_Asset17",
+          "OLDTOWN_Rear_20_02_Asset20",
+          "OLDTOWN_Rear_21_01_Asset20",
+          "OLDTOWN_Rear_21_02_Asset19",
+          "OLDTOWN_Rear_25_01_Asset15",
+          "OLDTOWN_Rear_26_01_Asset18",
+          "OLDTOWN_Rear_26_02_Asset17",
+          "OLDTOWN_Rear_30_01_Asset18",
+          "OLDTOWN_Rear_30_02_Asset17",
+          "OLDTOWN_Rear_31_01_Asset14"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "84b056edb14838405f03a75703df189f0a7f90eccc11b89d4805a16413c78736"
+      },
+      {
+        "id": 5,
+        "name": "主岛西北",
+        "file": "05_main_nw.glb",
+        "file_size_bytes": 23582912,
+        "mesh_objects": 76,
+        "triangles": 32731,
+        "bounds_blender": [
+          [
+            -880.4920043945312,
+            615.3261108398438,
+            -4.0
+          ],
+          [
+            -491.5249938964844,
+            1158.144287109375,
+            40.47006607055664
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -880.4920043945312,
+            -4.0,
+            -1158.144287109375
+          ],
+          [
+            -491.5249938964844,
+            40.47006607055664,
+            -615.3261108398438
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "b2ed051ca5318cb6cf6c55f35ce1fe3dbbf20b3338dd0be1d24df4c0e87a28d7",
+        "reused_from": null
+      },
+      {
+        "id": 6,
+        "name": "主岛北部偏西／CBD原建筑",
+        "file": "06_main_north_west_center.glb",
+        "file_size_bytes": 117028768,
+        "mesh_objects": 146,
+        "triangles": 519262,
+        "bounds_blender": [
+          [
+            -505.5249938964844,
+            615.3261108398438,
+            -4.0
+          ],
+          [
+            7.8767900466918945,
+            1227.09228515625,
+            112.00724029541016
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -505.5249938964844,
+            -4.0,
+            -1227.09228515625
+          ],
+          [
+            7.8767900466918945,
+            112.00724029541016,
+            -615.3261108398438
+          ]
+        ],
+        "source_building_instances": [
+          "APT_V14_A32",
+          "APT_V14_A35",
+          "CBD_Imported_21",
+          "CBD_Imported_22",
+          "CBD_Imported_23",
+          "CBD_Imported_Office29",
+          "CBD_Imported_Office30",
+          "CBD_Modern_Glass_02",
+          "CBD_Office_Building_01",
+          "CBD_V14_G41",
+          "CBD_V14_G42",
+          "CBD_V14_G48",
+          "CBD_V14_M38",
+          "CBD_V14_O34",
+          "CBD_V14_O37",
+          "CBD_V14_O39",
+          "CBD_V14_O46"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "1791239f8cef5c052f8d3b3461bcb32230d9051b2aac8cb059cb08cb39a1e7b1",
+        "reused_from": null
+      },
+      {
+        "id": 7,
+        "name": "主岛北部偏东／CBD",
+        "file": "07_main_north_east_center.glb",
+        "file_size_bytes": 119433616,
+        "mesh_objects": 154,
+        "triangles": 809371,
+        "bounds_blender": [
+          [
+            -6.1232099533081055,
+            613.4749755859375,
+            -4.0
+          ],
+          [
+            509.2505798339844,
+            1210.57177734375,
+            117.39872741699219
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -6.1232099533081055,
+            -4.0,
+            -1210.57177734375
+          ],
+          [
+            509.2505798339844,
+            117.39872741699219,
+            -613.4749755859375
+          ]
+        ],
+        "source_building_instances": [
+          "APT_V14_A36",
+          "CBD_Imported_24",
+          "CBD_Imported_25",
+          "CBD_Imported_26A",
+          "CBD_Imported_26B",
+          "CBD_Imported_26C",
+          "CBD_Imported_Office27",
+          "CBD_Imported_Office28",
+          "CBD_V14_G44",
+          "CBD_V14_G45",
+          "CBD_V14_O40",
+          "CBD_V14_O42",
+          "CBD_V14_O43",
+          "CBD_V14_O47",
+          "CBD_V14_U31"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "a4fd9d58fd95890f8702e6b6a6fad76e75cfd757d26f918c7d9868bfabd4bcc2",
+        "reused_from": null
+      },
+      {
+        "id": 8,
+        "name": "主岛东北",
+        "file": "08_main_ne.glb",
+        "file_size_bytes": 29365920,
+        "mesh_objects": 77,
+        "triangles": 68982,
+        "bounds_blender": [
+          [
+            495.2505798339844,
+            613.12451171875,
+            -4.0
+          ],
+          [
+            1036.4569091796875,
+            1142.87548828125,
+            31.718704223632812
+          ]
+        ],
+        "bounds_glb": [
+          [
+            495.2505798339844,
+            -4.0,
+            -1142.87548828125
+          ],
+          [
+            1036.4569091796875,
+            31.718704223632812,
+            -613.12451171875
+          ]
+        ],
+        "source_building_instances": [
+          "GOV_V14_G33"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "7644650dc0c87288742f4d8e15c246090c00300db894c7c4aae3c5be7c3571f6",
+        "reused_from": null
+      },
+      {
+        "id": 9,
+        "name": "西岛西南",
+        "file": "09_west_sw.glb",
+        "file_size_bytes": 23660800,
+        "mesh_objects": 89,
+        "triangles": 31988,
+        "bounds_blender": [
+          [
+            -1408.26025390625,
+            -1169.1539306640625,
+            -4.0
+          ],
+          [
+            -947.5250244140625,
+            -717.7412719726562,
+            26.944561004638672
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -1408.26025390625,
+            -4.0,
+            717.7412719726562
+          ],
+          [
+            -947.5250244140625,
+            26.944561004638672,
+            1169.1539306640625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "c6c0752e78a743394adfd271ccf8932bc0b26a32536899eb38cc82472325f40b",
+        "reused_from": null
+      },
+      {
+        "id": 10,
+        "name": "西岛东南",
+        "file": "10_west_se.glb",
+        "file_size_bytes": 23368664,
+        "mesh_objects": 41,
+        "triangles": 30392,
+        "bounds_blender": [
+          [
+            -961.5,
+            -1169.473388671875,
+            -4.0
+          ],
+          [
+            -454.9646911621094,
+            -711.842041015625,
+            28.861783981323242
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -961.5,
+            -4.0,
+            711.842041015625
+          ],
+          [
+            -454.9646911621094,
+            28.861783981323242,
+            1169.473388671875
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "60345307f889239d4e5de966e04c226b56172d3000d82d79deb208d0fb7f0232"
+      },
+      {
+        "id": 11,
+        "name": "西岛西北",
+        "file": "11_west_nw.glb",
+        "file_size_bytes": 23427912,
+        "mesh_objects": 38,
+        "triangles": 30994,
+        "bounds_blender": [
+          [
+            -1412.8333740234375,
+            -728.5,
+            -4.0
+          ],
+          [
+            -947.13037109375,
+            -279.2508850097656,
+            30.713489532470703
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -1412.8333740234375,
+            -4.0,
+            279.2508850097656
+          ],
+          [
+            -947.13037109375,
+            30.713489532470703,
+            728.5
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "99d1c0f05400dc571d1ab187079cb21373ecd4d95895211fc334f38c424b4871"
+      },
+      {
+        "id": 12,
+        "name": "西岛东北／湖区",
+        "file": "12_west_ne.glb",
+        "file_size_bytes": 23347528,
+        "mesh_objects": 28,
+        "triangles": 30376,
+        "bounds_blender": [
+          [
+            -961.5,
+            -728.5,
+            -4.0
+          ],
+          [
+            -454.9211120605469,
+            -284.6963806152344,
+            28.35306167602539
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -961.5,
+            -4.0,
+            284.6963806152344
+          ],
+          [
+            -454.9211120605469,
+            28.35306167602539,
+            728.5
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "b72deb6db54ae3f538677a6fcbf8783be811d642e2ca30eef0b0f6d7ef9763ab"
+      },
+      {
+        "id": 13,
+        "name": "东岛西南",
+        "file": "13_east_sw.glb",
+        "file_size_bytes": 22666040,
+        "mesh_objects": 28,
+        "triangles": 22919,
+        "bounds_blender": [
+          [
+            239.73455810546875,
+            -1181.8336181640625,
+            -4.0
+          ],
+          [
+            756.0,
+            -794.5250244140625,
+            31.101587295532227
+          ]
+        ],
+        "bounds_glb": [
+          [
+            239.73455810546875,
+            -4.0,
+            794.5250244140625
+          ],
+          [
+            756.0,
+            31.101587295532227,
+            1181.8336181640625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "1311ec8d7f475e44f7ce9a2bafe676f0971aea2f6224673648b475ac34c7463e"
+      },
+      {
+        "id": 14,
+        "name": "东岛东南",
+        "file": "14_east_se.glb",
+        "file_size_bytes": 22767768,
+        "mesh_objects": 26,
+        "triangles": 23907,
+        "bounds_blender": [
+          [
+            739.5,
+            -1181.8336181640625,
+            -4.0
+          ],
+          [
+            1201.906982421875,
+            -794.5250244140625,
+            28.725881576538086
+          ]
+        ],
+        "bounds_glb": [
+          [
+            739.5,
+            -4.0,
+            794.5250244140625
+          ],
+          [
+            1201.906982421875,
+            28.725881576538086,
+            1181.8336181640625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "f5022379eb9f0a7ca281fd108530138b877c9d7d078e4f776ca0cd36ee4e039b"
+      },
+      {
+        "id": 15,
+        "name": "东岛西北",
+        "file": "15_east_nw.glb",
+        "file_size_bytes": 23558920,
+        "mesh_objects": 42,
+        "triangles": 32539,
+        "bounds_blender": [
+          [
+            205.06541442871094,
+            -808.5250244140625,
+            -4.0
+          ],
+          [
+            754.4749755859375,
+            -342.75799560546875,
+            32.11262512207031
+          ]
+        ],
+        "bounds_glb": [
+          [
+            205.06541442871094,
+            -4.0,
+            342.75799560546875
+          ],
+          [
+            754.4749755859375,
+            32.11262512207031,
+            808.5250244140625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "1ab1285805d2819efe93cc0daa9e002c9f60570cf53e8704e5d88914eeafa20f"
+      },
+      {
+        "id": 16,
+        "name": "东岛东北／港区",
+        "file": "16_east_ne.glb",
+        "file_size_bytes": 22647224,
+        "mesh_objects": 34,
+        "triangles": 22588,
+        "bounds_blender": [
+          [
+            739.5,
+            -808.5250244140625,
+            -4.0
+          ],
+          [
+            1201.48876953125,
+            -373.1330261230469,
+            31.895448684692383
+          ]
+        ],
+        "bounds_glb": [
+          [
+            739.5,
+            -4.0,
+            373.1330261230469
+          ],
+          [
+            1201.48876953125,
+            31.895448684692383,
+            808.5250244140625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": "v13",
+        "sha256": "0b5ded67a02837ca5a2fdae601dca19d3215b8c4fbe045993635a0e845c8670d"
+      },
+      {
+        "id": 17,
+        "name": "公共桥梁及引道",
+        "file": "17_shared_bridges.glb",
+        "file_size_bytes": 23851620,
+        "mesh_objects": 130,
+        "triangles": 50526,
+        "bounds_blender": [
+          [
+            -1010.0763549804688,
+            -859.898193359375,
+            -4.0
+          ],
+          [
+            648.399169921875,
+            132.81790161132812,
+            11.050000190734863
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -1010.0763549804688,
+            -4.0,
+            -132.81790161132812
+          ],
+          [
+            648.399169921875,
+            11.050000190734863,
+            859.898193359375
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": true,
+        "reused_from": "v13",
+        "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54"
+      },
+      {
+        "id": 18,
+        "name": "公共海面与湖水",
+        "file": "18_shared_water.glb",
+        "file_size_bytes": 18052,
+        "mesh_objects": 2,
+        "triangles": 201,
+        "bounds_blender": [
+          [
+            -2700.0,
+            -2400.0,
+            -0.07999999821186066
+          ],
+          [
+            2700.0,
+            2400.0,
+            9.960000038146973
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -2700.0,
+            -0.07999999821186066,
+            -2400.0
+          ],
+          [
+            2700.0,
+            9.960000038146973,
+            2400.0
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": true,
+        "reused_from": "v13",
+        "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde"
+      }
+    ]
+  },
+  "stats": {
+    "land_area_m2": 3250000.0000000037,
+    "land_plus_bridge_play_area_m2": 3280675.0097599644,
+    "water_excluded": true,
+    "road_length_m": 42338.246985151985,
+    "road_edges": 290,
+    "junctions": 170,
+    "graph_components": 1,
+    "max_grade": 0.08250586336195523,
+    "buildings": 664,
+    "placeholder_lots": 540,
+    "real_buildings": 124,
+    "building_limit": 699,
+    "building_count_by_zone": {
+      "OLDTOWN": 323,
+      "RESIDENTIAL": 110,
+      "GOVERNMENT": 7,
+      "CIVIC": 3,
+      "UNIVERSITY": 20,
+      "VILLAGE": 91,
+      "VILLA": 9,
+      "INDUSTRIAL": 60,
+      "APARTMENT": 12,
+      "CBD": 29
+    },
+    "pedestrian_alleys": 39,
+    "interchanges": 2,
+    "ramps": 6,
+    "building_coverage_percent": 18.137392641381325,
+    "global_scale_applied": false,
+    "backlane_placeholder_lots": 0,
+    "backlane_asset_instances": 80,
+    "replaced_backlane_sites": 35,
+    "added_backlane_access_links": 34,
+    "rear_asset_types": 9,
+    "source_asset_types": 53,
+    "infill_rear_instances_added": 18,
+    "unique_cbd_assets_added": 8,
+    "added_v12_access_links": 26,
+    "oldtown_building_footprint_m2": 175352.7180402534,
+    "cbd_buildings": 29,
+    "cbd_reserved_landmark_capacity": 1,
+    "cbd_planned_total_including_landmark": 30,
+    "cbd_boundary_area_m2": 365500.0,
+    "tianming_reserved_area_m2": 33540.0,
+    "source_geometry_texture_types": 51,
+    "apartment_buildings": 12,
+    "villa_buildings": 9,
+    "government_area_buildings": 7
+  },
+  "part_count": 37,
+  "compressed_bytes": 279935332,
+  "changed_glb_bytes": 338007868,
+  "validation_status": "PASS",
+  "preview_count": 7,
+  "full_city_binary_uploaded": false
+}

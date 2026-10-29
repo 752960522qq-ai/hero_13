@@ -10,16 +10,38 @@
   ],
   "land_district_count": 16,
   "file_count": 18,
-  "source_mesh_count": 1330,
-  "source_triangle_count": 2600546,
+  "exported_district_ids": [
+    1,
+    5,
+    6,
+    7,
+    8,
+    9
+  ],
+  "reused_district_ids": [
+    2,
+    3,
+    4,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "source_mesh_count": 1518,
+  "source_triangle_count": 3132176,
   "districts": [
     {
       "id": 1,
       "name": "主岛西南",
       "file": "01_main_sw.glb",
-      "file_size_bytes": 24172516,
-      "mesh_objects": 39,
-      "triangles": 39052,
+      "file_size_bytes": 24935852,
+      "mesh_objects": 70,
+      "triangles": 46728,
       "bounds_blender": [
         [
           -946.7494506835938,
@@ -50,7 +72,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "sha256": "decbbdbe62688bd24fa5c8626441bb27c3582a3f77cf6af1a6be391ee35ed0ca",
+      "reused_from": null
     },
     {
       "id": 2,
@@ -109,7 +133,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "371fe4b82d3cef14b1bdd9483f97da187bc7a18e1b094bdb75ecfe6347219a80"
     },
     {
       "id": 3,
@@ -211,7 +237,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "abe41ed4421dcf9930005b9494836e2064f8d6f7bb6d4d057a4b5a9613ca24e1"
     },
     {
       "id": 4,
@@ -261,15 +289,17 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "84b056edb14838405f03a75703df189f0a7f90eccc11b89d4805a16413c78736"
     },
     {
       "id": 5,
       "name": "主岛西北",
       "file": "05_main_nw.glb",
-      "file_size_bytes": 22630780,
-      "mesh_objects": 37,
-      "triangles": 22986,
+      "file_size_bytes": 23582912,
+      "mesh_objects": 76,
+      "triangles": 32731,
       "bounds_blender": [
         [
           -880.4920043945312,
@@ -300,15 +330,17 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "sha256": "b2ed051ca5318cb6cf6c55f35ce1fe3dbbf20b3338dd0be1d24df4c0e87a28d7",
+      "reused_from": null
     },
     {
       "id": 6,
       "name": "主岛北部偏西／CBD原建筑",
       "file": "06_main_north_west_center.glb",
-      "file_size_bytes": 63948060,
-      "mesh_objects": 99,
-      "triangles": 248812,
+      "file_size_bytes": 117028768,
+      "mesh_objects": 146,
+      "triangles": 519262,
       "bounds_blender": [
         [
           -505.5249938964844,
@@ -334,31 +366,43 @@
         ]
       ],
       "source_building_instances": [
+        "APT_V14_A32",
+        "APT_V14_A35",
         "CBD_Imported_21",
         "CBD_Imported_22",
         "CBD_Imported_23",
         "CBD_Imported_Office29",
         "CBD_Imported_Office30",
         "CBD_Modern_Glass_02",
-        "CBD_Office_Building_01"
+        "CBD_Office_Building_01",
+        "CBD_V14_G41",
+        "CBD_V14_G42",
+        "CBD_V14_G48",
+        "CBD_V14_M38",
+        "CBD_V14_O34",
+        "CBD_V14_O37",
+        "CBD_V14_O39",
+        "CBD_V14_O46"
       ],
       "root_translation": [
         0,
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "sha256": "1791239f8cef5c052f8d3b3461bcb32230d9051b2aac8cb059cb08cb39a1e7b1",
+      "reused_from": null
     },
     {
       "id": 7,
       "name": "主岛北部偏东／CBD",
       "file": "07_main_north_east_center.glb",
-      "file_size_bytes": 77999868,
-      "mesh_objects": 123,
-      "triangles": 596436,
+      "file_size_bytes": 119433616,
+      "mesh_objects": 154,
+      "triangles": 809371,
       "bounds_blender": [
         [
-          -8.749429702758789,
+          -6.1232099533081055,
           613.4749755859375,
           -4.0
         ],
@@ -370,7 +414,7 @@
       ],
       "bounds_glb": [
         [
-          -8.749429702758789,
+          -6.1232099533081055,
           -4.0,
           -1210.57177734375
         ],
@@ -381,28 +425,38 @@
         ]
       ],
       "source_building_instances": [
+        "APT_V14_A36",
         "CBD_Imported_24",
         "CBD_Imported_25",
         "CBD_Imported_26A",
         "CBD_Imported_26B",
         "CBD_Imported_26C",
         "CBD_Imported_Office27",
-        "CBD_Imported_Office28"
+        "CBD_Imported_Office28",
+        "CBD_V14_G44",
+        "CBD_V14_G45",
+        "CBD_V14_O40",
+        "CBD_V14_O42",
+        "CBD_V14_O43",
+        "CBD_V14_O47",
+        "CBD_V14_U31"
       ],
       "root_translation": [
         0,
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "sha256": "a4fd9d58fd95890f8702e6b6a6fad76e75cfd757d26f918c7d9868bfabd4bcc2",
+      "reused_from": null
     },
     {
       "id": 8,
       "name": "主岛东北",
       "file": "08_main_ne.glb",
-      "file_size_bytes": 24206868,
-      "mesh_objects": 73,
-      "triangles": 42046,
+      "file_size_bytes": 29365920,
+      "mesh_objects": 77,
+      "triangles": 68982,
       "bounds_blender": [
         [
           495.2505798339844,
@@ -412,7 +466,7 @@
         [
           1036.4569091796875,
           1142.87548828125,
-          37.269901275634766
+          31.718704223632812
         ]
       ],
       "bounds_glb": [
@@ -423,25 +477,29 @@
         ],
         [
           1036.4569091796875,
-          37.269901275634766,
+          31.718704223632812,
           -613.12451171875
         ]
       ],
-      "source_building_instances": [],
+      "source_building_instances": [
+        "GOV_V14_G33"
+      ],
       "root_translation": [
         0,
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "sha256": "7644650dc0c87288742f4d8e15c246090c00300db894c7c4aae3c5be7c3571f6",
+      "reused_from": null
     },
     {
       "id": 9,
       "name": "西岛西南",
       "file": "09_west_sw.glb",
-      "file_size_bytes": 23171744,
-      "mesh_objects": 44,
-      "triangles": 28100,
+      "file_size_bytes": 23660800,
+      "mesh_objects": 89,
+      "triangles": 31988,
       "bounds_blender": [
         [
           -1408.26025390625,
@@ -472,7 +530,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "sha256": "c6c0752e78a743394adfd271ccf8932bc0b26a32536899eb38cc82472325f40b",
+      "reused_from": null
     },
     {
       "id": 10,
@@ -511,7 +571,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "60345307f889239d4e5de966e04c226b56172d3000d82d79deb208d0fb7f0232"
     },
     {
       "id": 11,
@@ -550,7 +612,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "99d1c0f05400dc571d1ab187079cb21373ecd4d95895211fc334f38c424b4871"
     },
     {
       "id": 12,
@@ -589,7 +653,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "b72deb6db54ae3f538677a6fcbf8783be811d642e2ca30eef0b0f6d7ef9763ab"
     },
     {
       "id": 13,
@@ -628,7 +694,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "1311ec8d7f475e44f7ce9a2bafe676f0971aea2f6224673648b475ac34c7463e"
     },
     {
       "id": 14,
@@ -667,7 +735,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "f5022379eb9f0a7ca281fd108530138b877c9d7d078e4f776ca0cd36ee4e039b"
     },
     {
       "id": 15,
@@ -706,7 +776,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "1ab1285805d2819efe93cc0daa9e002c9f60570cf53e8704e5d88914eeafa20f"
     },
     {
       "id": 16,
@@ -745,7 +817,9 @@
         0,
         0
       ],
-      "common": false
+      "common": false,
+      "reused_from": "v13",
+      "sha256": "0b5ded67a02837ca5a2fdae601dca19d3215b8c4fbe045993635a0e845c8670d"
     },
     {
       "id": 17,
@@ -784,7 +858,9 @@
         0,
         0
       ],
-      "common": true
+      "common": true,
+      "reused_from": "v13",
+      "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54"
     },
     {
       "id": 18,
@@ -823,7 +899,9 @@
         0,
         0
       ],
-      "common": true
+      "common": true,
+      "reused_from": "v13",
+      "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde"
     }
   ]
 }

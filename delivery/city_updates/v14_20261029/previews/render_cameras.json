@@ -1,0 +1,110 @@
+[
+  {
+    "name": "01_city_overview_v14",
+    "location": [
+      1650,
+      -2200,
+      2500
+    ],
+    "target": [
+      -120,
+      -200,
+      25
+    ],
+    "ortho_scale": 4200,
+    "resolution": [
+      1900,
+      1450
+    ]
+  },
+  {
+    "name": "02_cbd_and_north_apartments_v14",
+    "location": [
+      -500,
+      380,
+      800
+    ],
+    "target": [
+      -20,
+      1000,
+      25
+    ],
+    "ortho_scale": 1450,
+    "resolution": [
+      1900,
+      1300
+    ]
+  },
+  {
+    "name": "03_municipal_campus_v14",
+    "location": [
+      1000,
+      1150,
+      270
+    ],
+    "target": [
+      715,
+      875,
+      18
+    ],
+    "ortho_scale": 430,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "04_binhai_avenue_v14",
+    "location": [
+      -1579,
+      -10,
+      288
+    ],
+    "target": [
+      -807,
+      630,
+      8
+    ],
+    "ortho_scale": 380,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "05_southwest_villas_v14",
+    "location": [
+      -1300,
+      -1180,
+      230
+    ],
+    "target": [
+      -1110,
+      -956,
+      12
+    ],
+    "ortho_scale": 330,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "06_north_apartments_v14",
+    "location": [
+      -440,
+      1390,
+      340
+    ],
+    "target": [
+      -130,
+      1150,
+      28
+    ],
+    "ortho_scale": 940,
+    "resolution": [
+      1800,
+      1250
+    ]
+  }
+]
