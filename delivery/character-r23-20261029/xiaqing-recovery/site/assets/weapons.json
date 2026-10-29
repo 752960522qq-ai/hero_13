@@ -1,0 +1,122 @@
+{
+  "type56": {
+    "label": "56式",
+    "url": "./assets/type56_reload.glb?v=r23",
+    "grip": [
+      0,
+      0,
+      0
+    ],
+    "supportGrip": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "stock": [
+      2.084992622997106e-8,
+      0.011887922883033752,
+      -0.276165634393692
+    ],
+    "muzzle": [
+      -4.6187427216182186e-8,
+      0.10333351045846939,
+      0.6117709875106812
+    ],
+    "visualLength": 0.8999999761581421,
+    "coordinateFrame": "glTF/Three.js: +Z barrel-forward, +Y weapon-up; grip at origin",
+    "supportGripZRange": [
+      0.21823062896728515,
+      0.31823062896728516
+    ],
+    "name": "56式",
+    "magazineNode": "Magazine",
+    "displayScale": 0.9666666922745888,
+    "socketOffset": [
+      0,
+      -0.006,
+      0.008
+    ],
+    "displayLength": 0.87,
+    "dimensionPolicy": "Uniform displayScale; local grip/support/stock/muzzle coordinates remain asset-space and receive the same scale at mount."
+  },
+  "hanyang88": {
+    "label": "汉阳造88式",
+    "url": "./assets/hanyang88.glb?v=r23",
+    "grip": [
+      0,
+      0,
+      0
+    ],
+    "supportGrip": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.3506849408149719
+    ],
+    "stock": [
+      1.4288746186252865e-8,
+      -0.05009784549474716,
+      -0.32688841223716736
+    ],
+    "muzzle": [
+      -3.985520180549429e-8,
+      0.03882584348320961,
+      0.9117807745933533
+    ],
+    "visualLength": 1.2499999701976776,
+    "coordinateFrame": "glTF/Three.js: +Z barrel-forward, +Y weapon-up; grip at origin",
+    "supportGripZRange": [
+      0.25068494081497195,
+      0.3506849408149719
+    ],
+    "name": "汉阳造88式",
+    "displayScale": 0.7600000181198124,
+    "socketOffset": [
+      0,
+      -0.006,
+      0.008
+    ],
+    "displayLength": 0.95,
+    "dimensionPolicy": "Uniform displayScale; local grip/support/stock/muzzle coordinates remain asset-space and receive the same scale at mount."
+  },
+  "qbz95": {
+    "name": "95式",
+    "label": "95式",
+    "url": "./assets/qbz95.glb?v=r23",
+    "grip": [
+      0,
+      0,
+      0
+    ],
+    "supportGrip": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "supportGripZRange": [
+      0.12,
+      0.23
+    ],
+    "stock": [
+      0,
+      0.09105376154184341,
+      -0.326276034116745
+    ],
+    "muzzle": [
+      0,
+      0.08801863342523575,
+      0.397601455450058
+    ],
+    "visualLength": 0.7459999918937683,
+    "coordinateFrame": "glTF/Three.js: +Z barrel-forward, +Y weapon-up; grip at origin",
+    "sourceLength": 0.9831553101539612,
+    "normalizationScale": 0.758781437983768,
+    "displayScale": 1.0053619412194328,
+    "socketOffset": [
+      0,
+      -0.006,
+      0.008
+    ],
+    "displayLength": 0.75,
+    "dimensionPolicy": "Uniform displayScale; local grip/support/stock/muzzle coordinates remain asset-space and receive the same scale at mount."
+  }
+}

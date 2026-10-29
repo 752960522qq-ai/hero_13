@@ -1,0 +1,48 @@
+{
+  "units": "metres",
+  "measurement": "Exact decoded scene vertices projected onto weapon +Z (barrel axis), including all magazine parts",
+  "weapons": {
+    "type56": {
+      "asset": "type56_reload.glb",
+      "vertexCount": 10092,
+      "nativeBarrelBounds": [
+        -0.2872268557548523,
+        0.6127731204032898
+      ],
+      "nativeLength": 0.8999999761581421,
+      "uniformScale": 0.9666666922745888,
+      "targetLength": 0.87,
+      "measuredDisplayLength": 0.87,
+      "errorMetres": 0,
+      "previousScale": 0.92
+    },
+    "hanyang88": {
+      "asset": "hanyang88.glb",
+      "vertexCount": 18272,
+      "nativeBarrelBounds": [
+        -0.3369373381137848,
+        0.9130626320838928
+      ],
+      "nativeLength": 1.2499999701976776,
+      "uniformScale": 0.7600000181198124,
+      "targetLength": 0.95,
+      "measuredDisplayLength": 0.95,
+      "errorMetres": 0,
+      "previousScale": 0.92
+    },
+    "qbz95": {
+      "asset": "qbz95.glb",
+      "vertexCount": 7921,
+      "nativeBarrelBounds": [
+        -0.34644263982772827,
+        0.39955735206604004
+      ],
+      "nativeLength": 0.7459999918937683,
+      "uniformScale": 1.0053619412194328,
+      "targetLength": 0.75,
+      "measuredDisplayLength": 0.75,
+      "errorMetres": 0,
+      "previousScale": 0.92
+    }
+  }
+}

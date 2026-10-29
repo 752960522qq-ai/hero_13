@@ -1,0 +1,94 @@
+{
+  "school_uniform": {
+    "l": {
+      "correction_passes": [
+        {
+          "ankle_pitch_deg": -6.272873581426224,
+          "toe_bottom": -3.695022314786911e-07,
+          "heel_bottom": 0.0012088753283023834,
+          "ankle_target_vertical_shift": -0.009082699194550514
+        },
+        {
+          "ankle_pitch_deg": -0.6021040342293232,
+          "toe_bottom": -1.4528632164001465e-07,
+          "heel_bottom": -1.695007085800171e-07,
+          "ankle_target_vertical_shift": -0.0007717683911323547
+        },
+        {
+          "ankle_pitch_deg": 1.2056546270215168e-05,
+          "toe_bottom": -8.102506399154663e-08,
+          "heel_bottom": -6.379559636116028e-08,
+          "ankle_target_vertical_shift": 2.2677704691886902e-07
+        }
+      ]
+    },
+    "r": {
+      "correction_passes": [
+        {
+          "ankle_pitch_deg": -8.790201579685123,
+          "toe_bottom": -3.46451997756958e-07,
+          "heel_bottom": 0.006182895042002201,
+          "ankle_target_vertical_shift": -0.002797454595565796
+        },
+        {
+          "ankle_pitch_deg": -3.234692824480424,
+          "toe_bottom": 9.313225746154785e-09,
+          "heel_bottom": 0.00017434824258089066,
+          "ankle_target_vertical_shift": -0.0030653895810246468
+        },
+        {
+          "ankle_pitch_deg": -0.09641976290866787,
+          "toe_bottom": -4.936009645462036e-08,
+          "heel_bottom": -2.514570951461792e-08,
+          "ankle_target_vertical_shift": -9.400304406881332e-05
+        }
+      ]
+    }
+  },
+  "floral_dress": {
+    "l": {
+      "correction_passes": [
+        {
+          "ankle_pitch_deg": -5.16841613100135,
+          "toe_bottom": 2.0070001482963562e-05,
+          "heel_bottom": 7.310882210731506e-08,
+          "ankle_target_vertical_shift": -0.008384805172681808
+        },
+        {
+          "ankle_pitch_deg": 0.007356833316491351,
+          "toe_bottom": -9.313225746154785e-08,
+          "heel_bottom": -6.752088665962219e-08,
+          "ankle_target_vertical_shift": -6.118323653936386e-06
+        },
+        {
+          "ankle_pitch_deg": -9.422391477089571e-06,
+          "toe_bottom": -9.313225746154785e-09,
+          "heel_bottom": 5.587935447692871e-08,
+          "ankle_target_vertical_shift": 7.35744833946228e-08
+        }
+      ]
+    },
+    "r": {
+      "correction_passes": [
+        {
+          "ankle_pitch_deg": -8.52403011582503,
+          "toe_bottom": -2.9802322387695312e-08,
+          "heel_bottom": 0.005238892510533333,
+          "ankle_target_vertical_shift": -0.0036871954798698425
+        },
+        {
+          "ankle_pitch_deg": -2.2718559013500212,
+          "toe_bottom": 0.0002715121954679489,
+          "heel_bottom": 7.450580596923828e-09,
+          "ankle_target_vertical_shift": -0.0032815635204315186
+        },
+        {
+          "ankle_pitch_deg": 0.10847524681362954,
+          "toe_bottom": 3.91155481338501e-08,
+          "heel_bottom": -3.725290298461914e-09,
+          "ankle_target_vertical_shift": -9.437091648578644e-05
+        }
+      ]
+    }
+  }
+}

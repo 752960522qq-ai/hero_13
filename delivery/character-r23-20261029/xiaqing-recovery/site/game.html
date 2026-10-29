@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#eeeee7"><meta name="description" content="三主角游戏原型：人物属性、技能、成长、制造与物品栏。">
+<title>三主角 · 游戏框架</title>
+<link rel="stylesheet" href="./game/style.css">
+</head>
+<body>
+<header class="topbar"><a class="wordmark" href="./game.html"><span class="logo">Ⅲ</span><span>生存档案<small>HERO / FIELD SYSTEMS</small></span></a><div class="top-links"><span id="saveState" class="save-state"><i></i>本地存档</span><a href="./index.html" class="lab-link">动作实验室 <span>↗</span></a></div></header>
+<main class="workspace">
+<section class="intro"><div><span class="eyebrow">PLAYABLE FRAMEWORK · 01</span><h1>三个人物，各自的生存方式。</h1></div><p>角色 · 成长 · 专属技能 · 制造</p></section>
+<nav id="characterPicker" class="character-picker" aria-label="选择主角"></nav>
+<div class="dashboard">
+<aside class="character-column">
+<section class="character-stage" aria-label="当前人物预览">
+<div class="stage-top"><span id="stageId" class="mono"></span><span id="assetStatus" class="asset-status"></span></div>
+<iframe id="characterFrame" title="夏晴 3D 人物与移动预览" src="./index.html?gamePreview=1" loading="lazy"></iframe>
+<div id="placeholder" class="placeholder"><div class="target-ring ring-one"></div><div class="target-ring ring-two"></div><span class="silhouette"><svg viewBox="0 0 180 280" aria-hidden="true"><circle cx="90" cy="52" r="30"/><path d="M65 90c-21 6-31 21-33 43l-8 66 20 3 13-65 4 65-8 74h29l8-69 8 69h29l-8-74 4-65 13 65 20-3-8-66c-2-22-12-37-33-43Z"/></svg></span><div class="placeholder-caption"><span id="placeholderId" class="mono"></span><p>人物模型待接入</p><span>属性与技能已就绪</span></div></div>
+<div class="stage-bottom"><div class="stage-name"><span id="characterRole"></span><h2 id="characterName"></h2></div><span id="stageIndex" class="stage-index"></span></div>
+</section>
+<section class="character-note"><span class="section-kicker">人物特质</span><p id="characterTrait"></p><div class="movement-note" id="movementNote"></div></section>
+<section class="session-note"><span class="status-dot"></span><p>进度保存在当前浏览器。人物与物品使用固定编号，后续可直接接入资源。</p></section>
+</aside>
+<section class="systems-column" aria-label="人物系统">
+<section id="vitals" class="vitals panel"></section>
+<section class="skill-panel panel"><div id="skillContent"></div><div class="skill-actions"><button id="activateSkill" class="primary"></button><button id="thinkButton" class="secondary">开始思考</button><button id="dodgeButton" class="dodge" hidden>闪避</button><button id="counterButton" class="danger" hidden>反击</button></div><p id="combatPrompt" class="combat-prompt"></p></section>
+<div class="tabs" role="tablist" aria-label="游戏系统"><button id="tab-attributes" role="tab" aria-selected="true" aria-controls="panel-attributes" data-tab="attributes">属性档案</button><button id="tab-crafting" role="tab" aria-selected="false" aria-controls="panel-crafting" data-tab="crafting">制造书</button><button id="tab-inventory" role="tab" aria-selected="false" aria-controls="panel-inventory" data-tab="inventory">物品栏 <span id="inventoryCount">0</span></button><button id="tab-sandbox" role="tab" aria-selected="false" aria-controls="panel-sandbox" data-tab="sandbox">演练场</button></div>
+<section id="panel-attributes" class="tab-panel panel" role="tabpanel" aria-labelledby="tab-attributes"><div class="section-head"><div><span class="section-kicker">CHARACTER ATTRIBUTES</span><h3>每一次行动，都留下成长。</h3></div><span class="small-chip" id="attributeCap"></span></div><div id="attributes" class="attributes"></div><details class="rules-details"><summary>查看成长规则与待定配置</summary><div id="growthRules"></div></details></section>
+<section id="panel-crafting" class="tab-panel panel" role="tabpanel" aria-labelledby="tab-crafting" hidden><div class="section-head"><div><span class="section-kicker">XIA QING / CRAFTING BOOK</span><h3>巧手灵心 · 制造书</h3></div><span class="small-chip">编号资源</span></div><p class="muted" id="craftingHelp"></p><div id="craftProgress"></div><div id="recipeList" class="recipe-list"></div></section>
+<section id="panel-inventory" class="tab-panel panel" role="tabpanel" aria-labelledby="tab-inventory" hidden><div class="section-head"><div><span class="section-kicker">PERSONAL INVENTORY</span><h3>随身物品</h3></div><span class="small-chip" id="inventoryOwner"></span></div><div id="inventoryList"></div><details class="rules-details"><summary>全部物品档案 · ITM_001 — ITM_006</summary><div id="itemRegistry" class="item-registry"></div></details></section>
+<section id="panel-sandbox" class="tab-panel panel" role="tabpanel" aria-labelledby="tab-sandbox" hidden><div class="section-head"><div><span class="section-kicker">SYSTEMS SANDBOX</span><h3>演练场</h3></div><span class="small-chip">事件模拟</span></div><p class="muted">用标准事件验证成长、战斗与制造。事件产生的进度会计入当前人物存档。</p><div id="sandboxControls"></div><details class="rules-details configuration"><summary>原型配置</summary><p class="muted">技能升级获取方式尚未设定。此处手动调整等级，用于体验各级效果；配置会随本地存档保存。</p><label>专属技能等级 <select id="skillLevel" aria-label="专属技能预览等级"></select></label><button class="text-button" id="resetGame">重置全部人物存档</button><p class="muted">罗甄第 6 级属性经验为 18000；成长倍率暂未设定。运气固定，无法升级。</p></details><div class="activity-log"><span class="section-kicker">最近事件</span><ol id="eventLog"></ol></div></section>
+</section>
+</div>
+<footer class="page-footer"><span>HERO 13 <i>/</i> 游戏框架 0.1</span><span>人物数据 × 3 · 制造物品 × 6</span></footer>
+</main>
+<div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+<noscript><div class="noscript">此游戏框架需要启用 JavaScript。</div></noscript>
+<script type="module" src="./game/ui.mjs"></script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+{
+  "dist/assets/superman_animated.glb": {
+    "bytes": 15456916,
+    "sha256": "ab7295b200ea8e4616902fd841dea5ad1ea70e63e5f39c37b2ef8abfeee1fea0"
+  },
+  "dist/assets/double_stars.glb": {
+    "bytes": 23288456,
+    "sha256": "7d506be4987cb08d11c8da2ec453f064aee607eab62bc7aa5ff0e90790475cf2"
+  },
+  "production/double_anim/double_stars_animated.blend": {
+    "bytes": 44626475,
+    "sha256": "0b5df66e7e4c0821998079738d1ab75796f583ab7a0a78f035924f5a3dc13ca0"
+  },
+  "production/superman_anim/superman_animated.blend": {
+    "bytes": 17270123,
+    "sha256": "d5c895171be285ff7165c5f53bfbcc11ee4786a91de1b24da9c2aa1602054212"
+  }
+}

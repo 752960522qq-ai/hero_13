@@ -1,0 +1,62 @@
+{
+  "dist/assets/floral_dress_xiaqing.glb": {
+    "bytes": 12886748,
+    "sha256": "ae096eec728762ba78d6521f654dbf4641f8ee8050a8a161e640e6195fb7d79a"
+  },
+  "dist/assets/type56.glb": {
+    "bytes": 628940,
+    "sha256": "ef6439c62167b214d76f882de929ce1a61a6ffcb837878439d7ec67c9ceb7e98"
+  },
+  "dist/assets/hanyang88.glb": {
+    "bytes": 1822720,
+    "sha256": "8a9457e89b17eb6ff0801df0fe6dcca8f8e059cc7a40dead4ff33260f1a5ac85"
+  },
+  "dist/assets/qbz95.glb": {
+    "bytes": 1051280,
+    "sha256": "91a63b07d884b2de12cdc913850e039b110751316df76728e8d185d42b0173d9"
+  },
+  "dist/assets/type56_reload.glb": {
+    "bytes": 631728,
+    "sha256": "97abd87d45421c7cb1bffb517c10cda6f34513b39a84842f58b31756583d1c29"
+  },
+  "dist/assets/green_t_xiaqing.glb": {
+    "bytes": 12534468,
+    "sha256": "a7483b267d0b1d6c38449dbe16ddc642b248db1560d1881623d1cbc7ca8a9271"
+  },
+  "dist/assets/vest_xiaqing.glb": {
+    "bytes": 15455292,
+    "sha256": "cc6004e63ca4f862cf2a5c8c4d66f2b7fc4ea1d68fe86381505e559c9d41bbaa"
+  },
+  "dist/assets/xiaqing_native_animated.glb": {
+    "bytes": 25098296,
+    "sha256": "df85a35cbbee722c2b4ad3af72aabc41b224c9d50b739a924837f1467e3b9c45"
+  },
+  "dist/assets/school_uniform_xiaqing.glb": {
+    "bytes": 16419428,
+    "sha256": "9e26679569e31b00f559be40a26cc84032348d66a3234c97cb45233b67312b6a"
+  },
+  "production/r21/weapons/qbz95_normalized.blend": {
+    "bytes": 2976192,
+    "sha256": "80664cc4c043f0edd47bdba212cf470be06e1636c98ba4d2f6e2a85a9e5608bb"
+  },
+  "production/r21/weapons/type56_reload.blend": {
+    "bytes": 1877228,
+    "sha256": "286c9bb2f848f97f4c461f6ae90668beacb2b4baf41f5597182cbb800b1f6be2"
+  },
+  "production/r21/actions/green_t_r21.blend": {
+    "bytes": 13340422,
+    "sha256": "ed21d326640e2232d048136973202af6f3cf24446556c899bc493eeaad65fd46"
+  },
+  "production/r21/actions/floral_dress_r21.blend": {
+    "bytes": 13648481,
+    "sha256": "055a37ba3200e0f3969ddeee9df23e6f68625eb97da3072b6356948df21bb981"
+  },
+  "production/r21/actions/vest_r21.blend": {
+    "bytes": 15933081,
+    "sha256": "d9be5305d160c2aee6ef02d35cc2045712b1c80aecc6c6dffff4b9e9d179f5e5"
+  },
+  "production/r21/actions/school_uniform_r21.blend": {
+    "bytes": 17962202,
+    "sha256": "b132216f1520c76fc3934fdd566232d5f10a1e1a6c0cad39ccf08e7e1ca51391"
+  }
+}

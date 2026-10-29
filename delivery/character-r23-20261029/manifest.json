@@ -1,0 +1,752 @@
+{
+  "xiaqing-recovery/site/cloth-physics.mjs": {
+    "sha256": "2a7b2a591deedf73a6ea735fd0fb238dcfff0cb724e0058b54a5b28e7a8f5514",
+    "size": 3783,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/weapon-viewer.js": {
+    "sha256": "8f565167992c7542286edfc316b94b8447cd7e957439b8612739fc0cccabd511",
+    "size": 23137,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/game.html": {
+    "sha256": "0b98f6da932b78d588c30b6f3c977aa20ff5f6ce675a6818f720b29d7573e30a",
+    "size": 6431,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/index.html": {
+    "sha256": "f9b609125418c392fe8c11d1c4b4e5b6536c9b9341c7d8084c0c18ca89c484b8",
+    "size": 5124,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/app.js": {
+    "sha256": "89688c780ecbf64aafa407fcdf4944019dd37b67a203a5e355545792819ef025",
+    "size": 24450,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/style.css": {
+    "sha256": "1aa3f8c9a328a1e0cf5b97cabe5618b7bbe106041486456ebd8aae478f8defe9",
+    "size": 8864,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/cloth-test.js": {
+    "sha256": "e548f982cedc4d8baa0561a267e36df927fe5d9812b278810f5a8caaf9708c0d",
+    "size": 6208,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/vest/index.html": {
+    "sha256": "193f29221545d7f3bd814b8c72cecede1ebceb5ed38c473d87e586792fbe6ca0",
+    "size": 359,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/vendor/three.module.js": {
+    "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+    "size": 603113,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/vendor/BufferGeometryUtils.js": {
+    "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751",
+    "size": 35539,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/vendor/three.core.js": {
+    "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20",
+    "size": 1403455,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/vendor/OrbitControls.js": {
+    "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c",
+    "size": 38703,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/vendor/GLTFLoader.js": {
+    "sha256": "adbbafe8ce40416525b6be0ee5cac0d3782482bcf0122c8ca8ec1ffa77d3440b",
+    "size": 114732,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/game/data.mjs": {
+    "sha256": "76b3a02b53bc308521ae7e867e2a734af452b60a11c23e988f2ab0fc8bb451a6",
+    "size": 11454,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/game/ui.mjs": {
+    "sha256": "b134bfce4bb7e35cdd31ee6321edfcd46144c4b7f580ba9a73a270b792eb7128",
+    "size": 32533,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/game/core.mjs": {
+    "sha256": "ba59ecf74ffcc442fe2d4c1491b8a7a2305c6fe0ce08e40ebe8bebb988b04023",
+    "size": 26316,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/game/scene-bridge.mjs": {
+    "sha256": "08667d189be166a67d4c5f90c37168b718818280744895d0466076821af1b8b0",
+    "size": 1797,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/game/API.md": {
+    "sha256": "85542896e10b67a475fbc22263674e4a12634b7b9da5fb8cee5422d7bd36b466",
+    "size": 5357,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/game/style.css": {
+    "sha256": "e2c520c77ca68bb50e5b89b27475b1bc824c7c19b7a052c88df5fbd2c854bc70",
+    "size": 18765,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/licenses/gpu-cloth-sim-MIT.txt": {
+    "sha256": "3e53bd060020c64601b050a039d42a07f969eafd1085e16b4b93e0f97f7c7689",
+    "size": 1067,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/assets/floral_dress_xiaqing.glb": {
+    "sha256": "9ab02d1914703da07891fc24e9f373d4950394462fcb92880bafc46d62b28e96",
+    "size": 13181176,
+    "parts": 3
+  },
+  "xiaqing-recovery/site/assets/weapons.json": {
+    "sha256": "0727cd467ec7a7ef51fb7c0a520ba5d94516c65e0759f7fec1206b5d9332226b",
+    "size": 2940,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/assets/type56.glb": {
+    "sha256": "ef6439c62167b214d76f882de929ce1a61a6ffcb837878439d7ec67c9ceb7e98",
+    "size": 628940,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/assets/hanyang88.glb": {
+    "sha256": "8a9457e89b17eb6ff0801df0fe6dcca8f8e059cc7a40dead4ff33260f1a5ac85",
+    "size": 1822720,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/assets/qbz95.glb": {
+    "sha256": "91a63b07d884b2de12cdc913850e039b110751316df76728e8d185d42b0173d9",
+    "size": 1051280,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/assets/type56_reload.glb": {
+    "sha256": "97abd87d45421c7cb1bffb517c10cda6f34513b39a84842f58b31756583d1c29",
+    "size": 631728,
+    "parts": 1
+  },
+  "xiaqing-recovery/site/assets/green_t_xiaqing.glb": {
+    "sha256": "a7483b267d0b1d6c38449dbe16ddc642b248db1560d1881623d1cbc7ca8a9271",
+    "size": 12534468,
+    "parts": 3
+  },
+  "xiaqing-recovery/site/assets/vest_xiaqing.glb": {
+    "sha256": "cc6004e63ca4f862cf2a5c8c4d66f2b7fc4ea1d68fe86381505e559c9d41bbaa",
+    "size": 15455292,
+    "parts": 4
+  },
+  "xiaqing-recovery/site/assets/xiaqing_native_animated.glb": {
+    "sha256": "df85a35cbbee722c2b4ad3af72aabc41b224c9d50b739a924837f1467e3b9c45",
+    "size": 25098296,
+    "parts": 6
+  },
+  "xiaqing-recovery/site/assets/school_uniform_xiaqing.glb": {
+    "sha256": "4d9f2b6b74d077a990784ab95c85b4f765998578bfeec0e7afb3d61eba33b3ac",
+    "size": 17653884,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r23/README.md": {
+    "sha256": "3b99cd15cf835e15a34b65fa2d8de6da6b7f8b1762275711f264beb4655cdab9",
+    "size": 908,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/weapons/mounted-report.json": {
+    "sha256": "b09f799e8641cb066ba13fe0a09302d41748c1e78d3da1882aa7c3f3dc343390",
+    "size": 2102,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/weapons/check-mounted.mjs": {
+    "sha256": "20f868c9e026b59209f88742771582bd77ba2d1ba291d954ffc19ca9fe7d2d85",
+    "size": 2409,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/weapons/size-weapons.mjs": {
+    "sha256": "5e52fe1d05ba0595211a29e27005339b2d4870fe248312c35aa376edbe3711d3",
+    "size": 2149,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/weapons/size-report.json": {
+    "sha256": "954df04662053ec7df481c095d339c6c078670b4962dcd450ef87f2cd8ac7417",
+    "size": 1301,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/weapons/README.md": {
+    "sha256": "97adc2964ed24d23535c297eb97730805e4c24acd8132c4381dcf43bb838cf0e",
+    "size": 1068,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/school/preservation.json": {
+    "sha256": "972a475ae1fb21d90bc76cfb1d05a0a6ef1610234f453b4b593213dc60139191",
+    "size": 8923,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/school/Jump_0.3.png": {
+    "sha256": "b1f007721522f6dfac48e71fc502854cb53fbeb935aa5bec81d7ebe95c3f82db",
+    "size": 455855,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/school/Jump_0.5.png": {
+    "sha256": "f1570869279369775aecb04bc70ee614557ca2663047a3f365b2d9748cc1ad6e",
+    "size": 441197,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/school/report.json": {
+    "sha256": "bd2688f65a84d94eec158e6cfae891ecc695d442c8988663c924ceffca6b9901",
+    "size": 1060,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/school/ground_dense.json": {
+    "sha256": "fd3e315404975cbe20e7d1f25a4578ac62f68b292984534fc9b9053955798283",
+    "size": 1750,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/school/school_uniform_r23.blend": {
+    "sha256": "29f6817f48e2b6a8232b0ad05e4941aba770fc20201023811b93054235190f54",
+    "size": 17723512,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r23/school/RifleIdle_0.5.png": {
+    "sha256": "949d3c2bc9a135c2e729c2767521b2106ae6d4914adac76738abe3140c98dbda",
+    "size": 456681,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r23/school/build_r23.py": {
+    "sha256": "1a0d055eb2e339c5a9ad00afbbd2c7dbff2da3244193eee89ee5c3cb1e9b6c55",
+    "size": 9911,
+    "parts": 1
+  },
+  "hero-character-test/site/index.html": {
+    "sha256": "8b58511a7ba559ecd7b1e738e50fd53a5550b96af60b3290b7c8c214164be781",
+    "size": 3160,
+    "parts": 1
+  },
+  "hero-character-test/site/app.js": {
+    "sha256": "c0c03cc6ada885d114c9d094b670bd6394a6c9fefec2099c47ac835f44cb0bab",
+    "size": 10498,
+    "parts": 1
+  },
+  "hero-character-test/site/style.css": {
+    "sha256": "4349c3b2784c961438b18b343cf23e0448d081732634c51c99de539a06e9aeec",
+    "size": 6346,
+    "parts": 1
+  },
+  "hero-character-test/site/vendor/three.module.js": {
+    "sha256": "c8211c69345d2e9949dc7a8ac969380497aa0600a5a8ac6a459c8cd02dd9cb8a",
+    "size": 603113,
+    "parts": 1
+  },
+  "hero-character-test/site/vendor/BufferGeometryUtils.js": {
+    "sha256": "fda7e946b8e0b5ab39b779206589e7a1079a22eb24efb89d7223e03fdfb1f751",
+    "size": 35539,
+    "parts": 1
+  },
+  "hero-character-test/site/vendor/three.core.js": {
+    "sha256": "eb077d2417f61d3e6d9264c317cabc4ea35769ed6b0ab533067292a550784c20",
+    "size": 1403455,
+    "parts": 1
+  },
+  "hero-character-test/site/vendor/OrbitControls.js": {
+    "sha256": "b97879c748170baadeb3fb84cea1ffdf4674e283dc06042f34e2acb95a76042c",
+    "size": 38703,
+    "parts": 1
+  },
+  "hero-character-test/site/vendor/GLTFLoader.js": {
+    "sha256": "adbbafe8ce40416525b6be0ee5cac0d3782482bcf0122c8ca8ec1ffa77d3440b",
+    "size": 114732,
+    "parts": 1
+  },
+  "hero-character-test/site/assets/superman_animated.glb": {
+    "sha256": "ab7295b200ea8e4616902fd841dea5ad1ea70e63e5f39c37b2ef8abfeee1fea0",
+    "size": 15456916,
+    "parts": 4
+  },
+  "hero-character-test/site/assets/double_stars.glb": {
+    "sha256": "7d506be4987cb08d11c8da2ec453f064aee607eab62bc7aa5ff0e90790475cf2",
+    "size": 23288456,
+    "parts": 5
+  },
+  "hero-character-test/site/assets/characters.json": {
+    "sha256": "9b7dcb042e9aade76bde619cdf66a94f85eedd24975c02603be951a32a2780e0",
+    "size": 433,
+    "parts": 1
+  },
+  "hero-character-test/production/check_weights.py": {
+    "sha256": "4d53f73f108245b4a123d10eb42790524ad870965c6ad14434a525bf166bb1af",
+    "size": 898,
+    "parts": 1
+  },
+  "hero-character-test/production/check_ground.py": {
+    "sha256": "83ebb22ac216bd5531fe473341bc20d1f8f6799d5fb63549539eabcc46e4d3ab",
+    "size": 1625,
+    "parts": 1
+  },
+  "hero-character-test/production/ground_final.json": {
+    "sha256": "ce99cb48d16f323fcf7c5e16249aa7941b40f7e2983037ee0d2722b72eb0f575",
+    "size": 246,
+    "parts": 1
+  },
+  "hero-character-test/production/weight_validation.json": {
+    "sha256": "ec7009abeb3953feeac00fb0295f1237615b5d9acd9ab0dd730f340091bb3f44",
+    "size": 3970,
+    "parts": 1
+  },
+  "hero-character-test/production/inspect_super.py": {
+    "sha256": "a0a26d64d66e7073a0bb88a9754a7562c626c8131004ee0b4294e4067a4deaa3",
+    "size": 977,
+    "parts": 1
+  },
+  "hero-character-test/production/file_manifest.json": {
+    "sha256": "a7b912bc1e67eb85a9734f3de172eb65c6da6e68e62557f99f2ad44c2c36b06a",
+    "size": 629,
+    "parts": 1
+  },
+  "hero-character-test/production/transfer_report.json": {
+    "sha256": "a23881ae93a398d1fa353b9e7f2a76cd64627fde64cd1f78f380c79a8fb00671",
+    "size": 6246,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_original.png": {
+    "sha256": "76c80cea942cf8883676db49d791942c0577db7f0c4c9b855980ba94daac4948",
+    "size": 446237,
+    "parts": 1
+  },
+  "hero-character-test/production/inspect_models.py": {
+    "sha256": "8ce20bf4a615edd58d7c84dd67c9b0c7e725f3a2500847ca83c8810d093c4176",
+    "size": 2028,
+    "parts": 1
+  },
+  "hero-character-test/production/inspect_double.py": {
+    "sha256": "8e73d64d156ff0e94f5c2d95f9db83725b44d47ae699fbfab7b8d0140a64b9c5",
+    "size": 457,
+    "parts": 1
+  },
+  "hero-character-test/production/inspection.json": {
+    "sha256": "82f027caf7a591a721ff2980468d8b1688967ca92e05e352e2ff47705f8a9b47",
+    "size": 43664,
+    "parts": 1
+  },
+  "hero-character-test/production/bind_double.py": {
+    "sha256": "2624e3bcd2112b764f70a3862ce9efa7e1f0ccc115bf133a1758c3f1dd72edb5",
+    "size": 6844,
+    "parts": 1
+  },
+  "hero-character-test/production/README.md": {
+    "sha256": "3114a38c64dde1787c940fa374a50c01c5a0673f23d3123798248965264eea65",
+    "size": 1673,
+    "parts": 1
+  },
+  "hero-character-test/production/double_original.png": {
+    "sha256": "3d1ce411c57592e0e3b137772dcb3513a5eaf1da803c8268e078b6706d358f7c",
+    "size": 637194,
+    "parts": 1
+  },
+  "hero-character-test/production/double_anim/render_check.py": {
+    "sha256": "d20f580e52f9cdeb03c9aee9aa2c857c0af9b0aa24dee73d1aa67fad40bb0124",
+    "size": 1205,
+    "parts": 1
+  },
+  "hero-character-test/production/double_anim/retarget.py": {
+    "sha256": "71e46122e8a126c4046be820ef7758dc8d97fe0f473d82ecc4ef0455f4ec2e48",
+    "size": 8493,
+    "parts": 1
+  },
+  "hero-character-test/production/double_anim/report.json": {
+    "sha256": "4642f885a69f72d14b034c91f97c93c987334af1932b1bd7289a471e2cbd99ba",
+    "size": 1254,
+    "parts": 1
+  },
+  "hero-character-test/production/double_anim/Walk.png": {
+    "sha256": "4c66d74ccb5d7505819f73dcf14ee604885b1293aa37befac91c0a86a7e1b20c",
+    "size": 517871,
+    "parts": 1
+  },
+  "hero-character-test/production/double_anim/Idle.png": {
+    "sha256": "67187f3c51330d81d83a2d458f4cbb35b67f03994228186e8fc3691fcfd471a5",
+    "size": 512725,
+    "parts": 1
+  },
+  "hero-character-test/production/double_anim/double_stars_animated.blend": {
+    "sha256": "0b5df66e7e4c0821998079738d1ab75796f583ab7a0a78f035924f5a3dc13ca0",
+    "size": 44626475,
+    "parts": 10
+  },
+  "hero-character-test/production/double_anim/Run.png": {
+    "sha256": "a59daf61c33199f9ad7503c1260fe5394cd5816e3f1c5e9a5a24ec6ddd73eaed",
+    "size": 498520,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/clean.py": {
+    "sha256": "a49f8b57d01e8a4a60bbb3e532c620525554999931c7dcd1dddbba7f39d0e804",
+    "size": 1975,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/inspect.py": {
+    "sha256": "f5ef8d0623c624a3aa3a470826f9bb7b539b4ecb642ff5169cb675ba9844b263",
+    "size": 1065,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/render_check.py": {
+    "sha256": "e718951e53696989611af8317a350318e071e6881a275f9724d19d7ef90d31fe",
+    "size": 1201,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/retarget.py": {
+    "sha256": "81b874ad56def7b7671431a6248fb7b9540a1a185efb937ca51d9a88aa8f0e71",
+    "size": 7915,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/report.json": {
+    "sha256": "fb88f1cf021b6a2e80193aa86afd050edb76a078c33daf8aeaf177afa1d28175",
+    "size": 2444,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/Walk.png": {
+    "sha256": "15ab437fc95e42f50b45221a4fbffeb30dff593b13d6fbc0295ea6b87c6a87d0",
+    "size": 492135,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/Idle.png": {
+    "sha256": "39336d778b009bf677dd912961abec3abd48747053b7856594bc4e8b9d1148b8",
+    "size": 488639,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/superman_animated.blend": {
+    "sha256": "d5c895171be285ff7165c5f53bfbcc11ee4786a91de1b24da9c2aa1602054212",
+    "size": 17270123,
+    "parts": 4
+  },
+  "hero-character-test/production/superman_anim/clean_rest.json": {
+    "sha256": "ac00eb722bbd2b3503ff0ccc83eba8f8dc0c66dd0658ffcb44367c74011143b0",
+    "size": 58520,
+    "parts": 1
+  },
+  "hero-character-test/production/superman_anim/Run.png": {
+    "sha256": "668bee55f00f6dd74eb93097cf75a4514c233833029c8f17b9976aa0909fd713",
+    "size": 473872,
+    "parts": 1
+  },
+  "hero-character-test/production/inputs/double stars have head.glb": {
+    "sha256": "67d15b26a5ef36a925ce587f1a512629bbb71f3a719b85f2b65aeea9613258e9",
+    "size": 20047164,
+    "parts": 5
+  },
+  "hero-character-test/production/inputs/Running.fbx": {
+    "sha256": "4bd78678bdab7ffb7042944729dc56fb21aa16e5a1932f3d8614adcb4fd96e55",
+    "size": 1813648,
+    "parts": 1
+  },
+  "hero-character-test/production/inputs/male_Idle.fbx": {
+    "sha256": "3772c5343739ecda2e2dc258c2190a4c91792dd6710f4eccfd4f2ba73beae6eb",
+    "size": 2261824,
+    "parts": 1
+  },
+  "hero-character-test/production/inputs/Walking.fbx": {
+    "sha256": "e178092359426a7b190d2dcc380e86cf3f30948df7079d84289ea65bdf9bfc8e",
+    "size": 1853856,
+    "parts": 1
+  },
+  "hero-character-test/production/inputs/superman.glb": {
+    "sha256": "3d949d77cd36974d0884a642c0208349b5f504c239b87bbd85720e57ac72d7fb",
+    "size": 15064564,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r21/runtime-report.json": {
+    "sha256": "b1b63582064a8a11c528f63c27607ccf18d2be93052f430948b71def0ecaf65c",
+    "size": 43685,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/files.json": {
+    "sha256": "1fbe239f364ee7b04495b6e8a3e8e9221c9268980ee05e8f62aa71cf3d2ac318",
+    "size": 2274,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/README.md": {
+    "sha256": "a23232ddb556c7c7c5923303f8a163fec4a0b62f2aaf28f5bdd2b2ba78306fc2",
+    "size": 1793,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/weapons/qbz95_normalized.blend": {
+    "sha256": "80664cc4c043f0edd47bdba212cf470be06e1636c98ba4d2f6e2a85a9e5608bb",
+    "size": 2976192,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/weapons/build_weapons.py": {
+    "sha256": "5132d9ab0e55b9ccee3f2c8be9ebfc7c27563cd7ec22a3400c955c11e64547e1",
+    "size": 4514,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/weapons/type56_reload.blend": {
+    "sha256": "286c9bb2f848f97f4c461f6ae90668beacb2b4baf41f5597182cbb800b1f6be2",
+    "size": 1877228,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/weapons/weapons_r21.json": {
+    "sha256": "d3e132893392628a468487d98382e4de72fca0f431611ba7fe2b5fbc585a3df5",
+    "size": 1023,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/previews/pose-Reload-0.61.png": {
+    "sha256": "e2cbf52de85990d87d3328031f63e3790d717c60420387934722006d8bfd1988",
+    "size": 1279597,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/previews/pose-Reload-0.24.png": {
+    "sha256": "9dcd3429d57bb0d90cd86c7309568c2f811d78d7751fc8cc30aac06230afe453",
+    "size": 1253841,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/previews/pose-RifleIdle-0.5.png": {
+    "sha256": "ece3ba0636d8f39f022674f7a8c8b5b91850a2f2574c1d319147ede7961db401",
+    "size": 1290377,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/green_t_r21.blend": {
+    "sha256": "ed21d326640e2232d048136973202af6f3cf24446556c899bc493eeaad65fd46",
+    "size": 13340422,
+    "parts": 3
+  },
+  "xiaqing-recovery/production/r21/actions/floral_dress_r21.blend": {
+    "sha256": "055a37ba3200e0f3969ddeee9df23e6f68625eb97da3072b6356948df21bb981",
+    "size": 13648481,
+    "parts": 3
+  },
+  "xiaqing-recovery/production/r21/actions/finalize.py": {
+    "sha256": "cf2028101bf4428eed557219bd33fbe6eba64e5113af364fa993a7380f092bef",
+    "size": 3285,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/preservation.json": {
+    "sha256": "db4bb23b2e013bae313c956736bc5045f5fc2c1262aa1b002ff3efae7d564567",
+    "size": 1203,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/inspect_json.py": {
+    "sha256": "d65cba6d0b711c39a59e0b6b001eb5df062cfffe1c13b150cda220bc5fa96802",
+    "size": 541,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/school_uniform_Jump.npz": {
+    "sha256": "ed7ce6ee0efeea519e45a4360528ceab6c32865b00a5fae118d1b6d17abddc13",
+    "size": 576109,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/vest_FiringRifle.npz": {
+    "sha256": "91474b98fe86a9dc4cf0f247b26a2e74623aa9b93a4d6d8c1c81d62ec2a6b92d",
+    "size": 406799,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/floral_dress_Jump.npz": {
+    "sha256": "6f62b8534a4a52e1e9c4eb120606ad8fd767e5a756bfc30731bae0cb53e948bb",
+    "size": 577974,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/vest_Fire.png": {
+    "sha256": "c43654db1fcfff5f5d1165fdc66cae409eb14e9a50988689f898722024aa1f06",
+    "size": 340339,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/inspect.py": {
+    "sha256": "93e8f2412572d63f69f92a3adc5f65b2d2ccc2a0e64268e56625b082405e53a1",
+    "size": 793,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/validate_preservation.py": {
+    "sha256": "7adf523567aab79cd80743b46a457ec565d29ffa204334fd72bc75082037e6d0",
+    "size": 896,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/report.json": {
+    "sha256": "35f8cb4a73d0bfa005f0efec5d3beb6263052ad6e558bb2dbcfb207f8d44b4e2",
+    "size": 6852,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/green_t_FiringRifle.npz": {
+    "sha256": "265304b0c6156bc40a53d83a2813a681bc5641166701a6ba6e363020562b8edf",
+    "size": 410191,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/green_t_Jump.npz": {
+    "sha256": "103f28a1830536418c30fc82bbb042b553b3248f93a252128ef24da5e328a485",
+    "size": 573420,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/green_t_Jump.png": {
+    "sha256": "d4a3d83e5d6528a1a0493b0af4a71f1c50ef9b2cb7a1902d0909630f9bc90195",
+    "size": 342385,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/floral_dress_FiringRifle.npz": {
+    "sha256": "177729bc2baae412b5ea376bccc23e8c6804de587813d53690fe8455d1fe1a00",
+    "size": 410489,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/inspect_ground.py": {
+    "sha256": "2746802908d87755ecbce358b2535b4438a0db83ebe6e2de4a4fb8b8fe5e7e0c",
+    "size": 403,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/vest_r21.blend": {
+    "sha256": "d9be5305d160c2aee6ef02d35cc2045712b1c80aecc6c6dffff4b9e9d179f5e5",
+    "size": 15933081,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r21/actions/school_uniform_r21.blend": {
+    "sha256": "b132216f1520c76fc3934fdd566232d5f10a1e1a6c0cad39ccf08e7e1ca51391",
+    "size": 17962202,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r21/actions/school_uniform_FiringRifle.npz": {
+    "sha256": "0c584edbbfe917ca4acb61cac318f80490b1b73b08294626cc5e81ec3263526a",
+    "size": 409265,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/green_t_Fire.png": {
+    "sha256": "61ea71bdf72a084c357e8f65e2aa1a659b133811daef8c0cabed62342acf50c0",
+    "size": 351070,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/vest_Jump.png": {
+    "sha256": "76e26417de73182caab2c0d0e82ac93cd883e8e0dbc76f4094e01425e5b66714",
+    "size": 335929,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/vest_Jump.npz": {
+    "sha256": "735d59f2ce5d176fbcdef14e85037aeb1612bd9d04d155bbf63b406042d2e614",
+    "size": 574127,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/retarget_new.py": {
+    "sha256": "cacd5c85d0e1cdbca5001082867c44fee91e9bdd10bcb15eec82c1708cf29495",
+    "size": 10503,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/inputs/Jump.fbx": {
+    "sha256": "b5472d0bd390ad6c31188047f81e36734952342977d6e14e31201dd7ef7ca991",
+    "size": 1808576,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/inputs/Firing Rifle.fbx": {
+    "sha256": "5b4af2eb76d631a4e34ba36fbcf0ea2ac5ca076cea8e55c7e9875cd0c9da4666",
+    "size": 1813536,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/inputs/qbz95.glb": {
+    "sha256": "fe78925e34b39044ab9bcd435a304cc0e35c9c66c0ab801ff3c895833183bf39",
+    "size": 1113408,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/README.md": {
+    "sha256": "86eaff9682baef0100c01609df94df482c00ab9c980b442782e5d22897c56cbc",
+    "size": 905,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/reload/reload-metrics-before.json": {
+    "sha256": "fcec561e592b3cdc05764cbf60a915c6339a606ea10aa895d516bd58aea3690e",
+    "size": 571941,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/reload/pose-Reload-0.61.png": {
+    "sha256": "6140333ff1bd2d7efe3a4e90cfd9ee7084345d8ae21270d697c2a21b8758f676",
+    "size": 1261935,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/reload/reload-metrics-after.json": {
+    "sha256": "636373474f8ac7c698ee60f92fe813ac0df28293c396bae1c0af1a8079787cee",
+    "size": 570897,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/preservation.json": {
+    "sha256": "5963287cc401ab52495567cea1b6b1f1f92a1a944acea6d39081fed341161746",
+    "size": 845,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/fix_stance.py": {
+    "sha256": "bab17d4f032124c6c8e8e2e09a6e7f33d7dd865a8a970476e4d5bb85eae5cdd7",
+    "size": 5146,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/finalize_stance.py": {
+    "sha256": "560aab4e5fbb9d980f5738e43ce76972c187f9c9d74374369c3bb5ff8626a796",
+    "size": 3450,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/floral_dress_Fire_after.png": {
+    "sha256": "aeefe033fec474e3ca5f1dcbf054530fba73352f297d31be3d8206d206dfe798",
+    "size": 465267,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/heel_contact_report.json": {
+    "sha256": "a60e3333e7d0e7160f4f5ab0cdb8ea3aa0b5158d3e5fcc317941e22928c9079a",
+    "size": 3037,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/school_uniform_Fire_after.png": {
+    "sha256": "f8f19abfc6c09fac36debe1433606c99653beb02e6eed1de67d29ff9093a7daa",
+    "size": 447216,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/ground_report.json": {
+    "sha256": "3c7c9488f43aa89d6c6102513198fadaabe7cfc871a1b8f7934c013045ac4faf",
+    "size": 11816,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/floral_dress_r22.blend": {
+    "sha256": "9ca7b24915c4f7030c370d2e2821f162db7d9cd3fefc7665d79d1424b532872c",
+    "size": 13380328,
+    "parts": 3
+  },
+  "xiaqing-recovery/production/r22/stance/school_uniform_r22.blend": {
+    "sha256": "f1f9fac6e6f077f46f24be134e7241f05a5821483d771fe456010912a04f8d3d",
+    "size": 17713490,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r22/stance/heel_contact.py": {
+    "sha256": "f84a300826159833f252f889e4b4c792d273744b86f83bc9fa772e7a8646efd9",
+    "size": 5383,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r22/stance/patch_report.json": {
+    "sha256": "bb7c57ef5d9b3a910a71f954b4570b0dddc48ce5772c7b664607bc645ad958af",
+    "size": 2222,
+    "parts": 1
+  },
+  "xiaqing-recovery/production/r21/actions/originals/vest_xiaqing.glb": {
+    "sha256": "076962b853bbef7a78fa75e7494675fa6af0930e4e9c6b3729f2145e770b5feb",
+    "size": 14221352,
+    "parts": 3
+  },
+  "xiaqing-recovery/production/r21/actions/originals/green_t_xiaqing.glb": {
+    "sha256": "780bfabe6e4f422aecc9affe89473b3c84b664679c7bdaed13d21f1faafc54b3",
+    "size": 11303156,
+    "parts": 3
+  },
+  "xiaqing-recovery/production/r21/actions/originals/floral_dress_xiaqing.glb": {
+    "sha256": "d6220e720913bb74121382e5ce748835bad3e9c7ebf0d14ad751da05e1ccb1be",
+    "size": 11644140,
+    "parts": 3
+  },
+  "xiaqing-recovery/production/r21/actions/originals/school_uniform_xiaqing.glb": {
+    "sha256": "8fa36f00d99c07bc6093c879637d7c63878a190bcf1543556311aa7671fbb4aa",
+    "size": 15174172,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r22/stance/floral_dress_r21_original.glb": {
+    "sha256": "ae096eec728762ba78d6521f654dbf4641f8ee8050a8a161e640e6195fb7d79a",
+    "size": 12886748,
+    "parts": 3
+  },
+  "xiaqing-recovery/production/r22/stance/school_uniform_r21_original.glb": {
+    "sha256": "9e26679569e31b00f559be40a26cc84032348d66a3234c97cb45233b67312b6a",
+    "size": 16419428,
+    "parts": 4
+  },
+  "xiaqing-recovery/production/r23/school/baseline.glb": {
+    "sha256": "60822db509a1f53d9ead853b6052a1c78c12d2a0f8ebe17f7bc4ece1055924c6",
+    "size": 16715176,
+    "parts": 4
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "floral_dress_xiaqing.glb": {
+    "meshes": true,
+    "nodes": true,
+    "skins": true,
+    "materials": true,
+    "textures": true,
+    "images": true,
+    "old_animation_channels_unchanged": true,
+    "original_binary_bytes_preserved": true,
+    "new_clips": [
+      "Fire",
+      "Jump"
+    ]
+  },
+  "green_t_xiaqing.glb": {
+    "meshes": true,
+    "nodes": true,
+    "skins": true,
+    "materials": true,
+    "textures": true,
+    "images": true,
+    "old_animation_channels_unchanged": true,
+    "original_binary_bytes_preserved": true,
+    "new_clips": [
+      "Fire",
+      "Jump"
+    ]
+  },
+  "vest_xiaqing.glb": {
+    "meshes": true,
+    "nodes": true,
+    "skins": true,
+    "materials": true,
+    "textures": true,
+    "images": true,
+    "old_animation_channels_unchanged": true,
+    "original_binary_bytes_preserved": true,
+    "new_clips": [
+      "Fire",
+      "Jump"
+    ]
+  },
+  "school_uniform_xiaqing.glb": {
+    "meshes": true,
+    "nodes": true,
+    "skins": true,
+    "materials": true,
+    "textures": true,
+    "images": true,
+    "old_animation_channels_unchanged": true,
+    "original_binary_bytes_preserved": true,
+    "new_clips": [
+      "Fire",
+      "Jump"
+    ]
+  }
+}

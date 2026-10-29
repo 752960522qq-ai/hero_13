@@ -1,0 +1,28 @@
+{
+  "baseline_shoulders_m": 0.33319994807243347,
+  "final_shoulders_m": 0.35985593497753143,
+  "shoulder_multiplier": 1.0799999731671726,
+  "lateral_delta_each_m": 0.01332799792289734,
+  "affected_rest_bone_roots": [
+    "l_arm_humerus",
+    "r_arm_humerus"
+  ],
+  "shifted_mesh_vertices": 13975,
+  "unchanged_materials": true,
+  "unchanged_weights": true,
+  "jump_skirt_controls": [
+    "outfit_skirt_front_L",
+    "outfit_skirt_back_L",
+    "outfit_skirt_front_R",
+    "outfit_skirt_back_R",
+    "l_leg_femur",
+    "r_leg_femur"
+  ],
+  "skirt_method": "Jump-only skirt-specific hip-flexion cap 55deg and coherent front/back lift around fixed waistband pivots; vertical root, knee and ankle channels retained; no static skirt scaling",
+  "jump_max_adapted_hip_flex_deg": 55.0,
+  "exceptions_to_unchanged_animation_channels": [
+    "all clips: l/r humerus root translation shifted by shoulder offset",
+    "Jump only: l/r femur rotation cap and 4 skirt controls rotation/translation"
+  ],
+  "arm_segment_lengths_unchanged_max_error_m": 2.7755575615628914e-17
+}

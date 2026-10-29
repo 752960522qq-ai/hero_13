@@ -1,0 +1,431 @@
+{
+  "animation_changed_channels": [
+    [
+      "Aim",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "Aim",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "Idle",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "Idle",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "PistolIdle",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "PistolIdle",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "Reload",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "Reload",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "RifleIdle",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "RifleIdle",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "RifleRun",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "RifleRun",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "Run",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "Run",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "Walk",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "Walk",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "Jump",
+      "l_leg_femur",
+      "rotation"
+    ],
+    [
+      "Jump",
+      "r_leg_femur",
+      "rotation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_front_L",
+      "translation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_front_L",
+      "rotation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_back_L",
+      "translation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_back_L",
+      "rotation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_front_R",
+      "translation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_front_R",
+      "rotation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_back_R",
+      "translation"
+    ],
+    [
+      "Jump",
+      "outfit_skirt_back_R",
+      "rotation"
+    ],
+    [
+      "Jump",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "Jump",
+      "r_arm_humerus",
+      "translation"
+    ],
+    [
+      "Fire",
+      "l_arm_humerus",
+      "translation"
+    ],
+    [
+      "Fire",
+      "r_arm_humerus",
+      "translation"
+    ]
+  ],
+  "animation_unchanged_channels": 13200,
+  "material_image_texture_equal": true,
+  "weights_joints_normals_uv_equal": true,
+  "vertex_changes": [
+    {
+      "mesh": "meshes[0].007",
+      "changed": 5263,
+      "max_displacement": 0.013328000903129578,
+      "changed_position_min": [
+        -0.22852958738803864,
+        1.1811752319335938,
+        -0.02692977897822857
+      ],
+      "changed_position_max": [
+        0.23281480371952057,
+        1.3918335437774658,
+        0.13913287222385406
+      ]
+    },
+    {
+      "mesh": "meshes[0].007",
+      "changed": 8712,
+      "max_displacement": 0.013328000903129578,
+      "changed_position_min": [
+        -0.4036617875099182,
+        0.8961151242256165,
+        0.023614196106791496
+      ],
+      "changed_position_max": [
+        0.40236496925354004,
+        1.275466799736023,
+        0.4118231236934662
+      ]
+    },
+    {
+      "mesh": "SchoolUniform_JawSeam",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[0]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[1]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[10]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[11]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[12]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[13]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[14]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[15]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[16]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[17]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[18]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[19]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[2]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[20]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[21]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[22]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[23]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[24]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[25]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[26]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[27]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[28]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[3]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[4]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[5]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[6]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[7]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[8]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[9]",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    },
+    {
+      "mesh": "meshes[0].001",
+      "changed": 0,
+      "max_displacement": 0.0,
+      "changed_position_min": null,
+      "changed_position_max": null
+    }
+  ],
+  "pinned_chest_waist_and_leg_core_vertices_exact": true,
+  "arm_segment_lengths": {
+    "l_arm_humerus->l_arm_radius": {
+      "before": 0.26830121716610916,
+      "after": 0.26830121716610916,
+      "difference_m": 0.0
+    },
+    "l_arm_radius->l_arm_wrist": {
+      "before": 0.18472463220047364,
+      "after": 0.18472463220047367,
+      "difference_m": 2.7755575615628914e-17
+    },
+    "r_arm_humerus->r_arm_radius": {
+      "before": 0.2627762037697664,
+      "after": 0.2627762037697664,
+      "difference_m": 0.0
+    },
+    "r_arm_radius->r_arm_wrist": {
+      "before": 0.18273569066436443,
+      "after": 0.18273569066436443,
+      "difference_m": 0.0
+    }
+  },
+  "all_head_jaw_hair_mesh_positions_unchanged": true,
+  "vertical_root_knee_ankle_channels_unchanged": true
+}

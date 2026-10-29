@@ -1,0 +1,31 @@
+{
+  "school_uniform": {
+    "mesh_node_rest_skin_material_texture_unchanged": true,
+    "original_binary_prefix_unchanged": true,
+    "unrelated_Idle_Walk_Run_Jump_animations_unchanged": true,
+    "updated_clips": [
+      "Aim",
+      "PistolIdle",
+      "Reload",
+      "RifleIdle",
+      "RifleRun",
+      "Fire"
+    ],
+    "sha256": "60822db509a1f53d9ead853b6052a1c78c12d2a0f8ebe17f7bc4ece1055924c6"
+  },
+  "floral_dress": {
+    "mesh_node_rest_skin_material_texture_unchanged": true,
+    "original_binary_prefix_unchanged": true,
+    "unrelated_Idle_Walk_Run_Jump_animations_unchanged": true,
+    "updated_clips": [
+      "Aim",
+      "PistolIdle",
+      "Reload",
+      "RifleIdle",
+      "RifleRun",
+      "Fire"
+    ],
+    "sha256": "9ab02d1914703da07891fc24e9f373d4950394462fcb92880bafc46d62b28e96"
+  },
+  "vest_binary_unchanged": true
+}

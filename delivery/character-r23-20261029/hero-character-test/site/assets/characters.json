@@ -1,0 +1,20 @@
+{
+  "double_stars": {
+    "label": "双星",
+    "url": "./assets/double_stars.glb",
+    "ground": {
+      "Idle": 0.01637415401637554,
+      "Walk": 0.03322737663984299,
+      "Run": -0.07087070494890213
+    }
+  },
+  "superman": {
+    "label": "超人",
+    "url": "./assets/superman_animated.glb",
+    "ground": {
+      "Idle": 0.028512893244624138,
+      "Walk": 0.052269600331783295,
+      "Run": -0.05855059251189232
+    }
+  }
+}

@@ -1,0 +1,98 @@
+[
+  {
+    "outfit": "vest",
+    "weapon": "type56",
+    "expected": 0.87,
+    "mountedLength": 0.8699997171408247,
+    "error": 2.8285917530457283e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "vest",
+    "weapon": "hanyang88",
+    "expected": 0.95,
+    "mountedLength": 0.949999694998227,
+    "error": 3.050017729488985e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "vest",
+    "weapon": "qbz95",
+    "expected": 0.75,
+    "mountedLength": 0.7499997575570234,
+    "error": 2.424429765834901e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "green_t",
+    "weapon": "type56",
+    "expected": 0.87,
+    "mountedLength": 0.8699995266552745,
+    "error": 4.7334472552673645e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "green_t",
+    "weapon": "hanyang88",
+    "expected": 0.95,
+    "mountedLength": 0.9499994879416283,
+    "error": 5.120583717044269e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "green_t",
+    "weapon": "qbz95",
+    "expected": 0.75,
+    "mountedLength": 0.7499995948402256,
+    "error": 4.0515977439703477e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "floral_dress",
+    "weapon": "type56",
+    "expected": 0.87,
+    "mountedLength": 0.8699996864774892,
+    "error": 3.1352251084193483e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "floral_dress",
+    "weapon": "hanyang88",
+    "expected": 0.95,
+    "mountedLength": 0.9499996581040755,
+    "error": 3.418959244605446e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "floral_dress",
+    "weapon": "qbz95",
+    "expected": 0.75,
+    "mountedLength": 0.7499997267178702,
+    "error": 2.732821298145893e-7,
+    "unit": "m"
+  },
+  {
+    "outfit": "school_uniform",
+    "weapon": "type56",
+    "expected": 0.87,
+    "mountedLength": 0.8699999362210931,
+    "error": 6.37789069335426e-8,
+    "unit": "m"
+  },
+  {
+    "outfit": "school_uniform",
+    "weapon": "hanyang88",
+    "expected": 0.95,
+    "mountedLength": 0.949999932586551,
+    "error": 6.741344893423928e-8,
+    "unit": "m"
+  },
+  {
+    "outfit": "school_uniform",
+    "weapon": "qbz95",
+    "expected": 0.75,
+    "mountedLength": 0.7499999462750916,
+    "error": 5.37249084109348e-8,
+    "unit": "m"
+  }
+]

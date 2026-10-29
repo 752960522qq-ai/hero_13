@@ -1,0 +1,1898 @@
+[
+  {
+    "outfit": "vest",
+    "id": "type56",
+    "name": "RifleIdle",
+    "selected": "type56",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.32551170163549453,
+      0.10474554734955076,
+      -0.8540895889506638,
+      0,
+      0.2447984698979706,
+      0.8641536195097457,
+      0.19927762166935475,
+      0,
+      0.8249333648946922,
+      -0.2977687847496674,
+      0.27788127555210224,
+      0,
+      -0.014711023514459479,
+      1.1269035849664784,
+      0.21355939454979678,
+      1
+    ],
+    "rightGripWorld": [
+      -0.014711023514459479,
+      1.1269035849664784,
+      0.21355939454979678
+    ],
+    "supportTargetWorld": [
+      0.2684029139038359,
+      1.1048456307923573,
+      0.3187549634070284
+    ],
+    "leftGripWorld": [
+      0.2684029867012285,
+      1.1048456418597645,
+      0.31875491741422085
+    ],
+    "supportIKActive": true,
+    "supportError": 7.166018030484385e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "type56",
+    "name": "Fire",
+    "selected": "type56",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153394477797733,
+      0.08593353629856852,
+      -0.03419164148838315,
+      0,
+      -0.08898673378563057,
+      0.9109848224492126,
+      -0.09267061753728112,
+      0,
+      0.025200409605246,
+      0.09550865225083707,
+      0.9146817433355843,
+      0,
+      -0.20197935596518868,
+      1.32150539826435,
+      0.25399135811752327,
+      1
+    ],
+    "rightGripWorld": [
+      -0.20197935596518868,
+      1.32150539826435,
+      0.25399135811752327
+    ],
+    "supportTargetWorld": [
+      -0.20144628472760182,
+      1.4285402771790432,
+      0.5372747315206037
+    ],
+    "leftGripWorld": [
+      -0.20144626114486253,
+      1.4285402712321118,
+      0.5372746977680529
+    ],
+    "supportIKActive": true,
+    "supportError": 2.203262626471342e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "type56",
+    "name": "Reload",
+    "selected": "type56",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157712502947853,
+      0.08091211314684005,
+      -0.034867612874943416,
+      0,
+      -0.08406668831923968,
+      0.9114248781754926,
+      -0.09293734716514954,
+      0,
+      0.026368820371009127,
+      0.09569596117322134,
+      0.9146290965145534,
+      0,
+      -0.1259093254195147,
+      1.2978053695340759,
+      0.26005098835575235,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1259093254195147,
+      1.2978053695340759,
+      0.26005098835575235
+    ],
+    "supportTargetWorld": [
+      -0.12459050694767329,
+      1.4049368778693978,
+      0.5432951679953297
+    ],
+    "leftGripWorld": [
+      -0.12210400006942611,
+      1.3366281235897302,
+      0.46863582147239446
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "hanyang88",
+    "name": "RifleIdle",
+    "selected": "hanyang88",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.32551170163549453,
+      0.10474554734955076,
+      -0.8540895889506638,
+      0,
+      0.2447984698979706,
+      0.8641536195097457,
+      0.19927762166935475,
+      0,
+      0.8249333648946922,
+      -0.2977687847496674,
+      0.27788127555210224,
+      0,
+      -0.014711023514459479,
+      1.1269035849664784,
+      0.21355939454979678,
+      1
+    ],
+    "rightGripWorld": [
+      -0.014711023514459479,
+      1.1269035849664784,
+      0.21355939454979678
+    ],
+    "supportTargetWorld": [
+      0.2791796334390351,
+      1.0387151434518864,
+      0.3147519538110992
+    ],
+    "leftGripWorld": [
+      0.27917971682698195,
+      1.0387151303272766,
+      0.3147519098165752
+    ],
+    "supportIKActive": true,
+    "supportError": 8.380647749365596e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.3506849408149719
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "hanyang88",
+    "name": "Fire",
+    "selected": "hanyang88",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153394477797733,
+      0.08593353629856852,
+      -0.03419164148838315,
+      0,
+      -0.08898673378563057,
+      0.9109848224492126,
+      -0.09267061753728112,
+      0,
+      0.025200409605246,
+      0.09550865225083707,
+      0.9146817433355843,
+      0,
+      -0.20197935596518868,
+      1.32150539826435,
+      0.25399135811752327,
+      1
+    ],
+    "rightGripWorld": [
+      -0.20197935596518868,
+      1.32150539826435,
+      0.25399135811752327
+    ],
+    "supportTargetWorld": [
+      -0.19481373229340868,
+      1.3721132351885748,
+      0.5730154972267808
+    ],
+    "leftGripWorld": [
+      -0.19481369496419748,
+      1.3721132258307551,
+      0.573015452666276
+    ],
+    "supportIKActive": true,
+    "supportError": 3.704013032308718e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.3506849408149719
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "hanyang88",
+    "name": "Reload",
+    "selected": "hanyang88",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157712502947853,
+      0.08091211314684005,
+      -0.034867612874943416,
+      0,
+      -0.08406668831923968,
+      0.9114248781754926,
+      -0.09293734716514954,
+      0,
+      0.026368820371009127,
+      0.09569596117322134,
+      0.9146290965145534,
+      0,
+      -0.1259093254195147,
+      1.2978053695340759,
+      0.26005098835575235,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1259093254195147,
+      1.2978053695340759,
+      0.26005098835575235
+    ],
+    "supportTargetWorld": [
+      -0.1182415263104315,
+      1.3484871601454629,
+      0.5790516540604238
+    ],
+    "leftGripWorld": [
+      -0.12210400006942611,
+      1.3366281235897302,
+      0.46863582147239446
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "qbz95",
+    "name": "RifleIdle",
+    "selected": "qbz95",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.32551170163549453,
+      0.10474554734955076,
+      -0.8540895889506638,
+      0,
+      0.2447984698979706,
+      0.8641536195097457,
+      0.19927762166935475,
+      0,
+      0.8249333648946922,
+      -0.2977687847496674,
+      0.27788127555210224,
+      0,
+      -0.014711023514459479,
+      1.1269035849664784,
+      0.21355939454979678,
+      1
+    ],
+    "rightGripWorld": [
+      -0.014711023514459479,
+      1.1269035849664784,
+      0.21355939454979678
+    ],
+    "supportTargetWorld": [
+      0.14281575711916572,
+      1.1228034313778759,
+      0.2730933517068513
+    ],
+    "leftGripWorld": [
+      0.14281576912603297,
+      1.1228034395829543,
+      0.2730933318544302
+    ],
+    "supportIKActive": true,
+    "supportError": 1.6333955331850616e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "qbz95",
+    "name": "Fire",
+    "selected": "qbz95",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153394477797733,
+      0.08593353629856852,
+      -0.03419164148838315,
+      0,
+      -0.08898673378563057,
+      0.9109848224492126,
+      -0.09267061753728112,
+      0,
+      0.025200409605246,
+      0.09550865225083707,
+      0.9146817433355843,
+      0,
+      -0.20197935596518868,
+      1.32150539826435,
+      0.25399135811752327,
+      1
+    ],
+    "rightGripWorld": [
+      -0.20197935596518868,
+      1.32150539826435,
+      0.25399135811752327
+    ],
+    "supportTargetWorld": [
+      -0.20251045563045864,
+      1.3886339411518782,
+      0.40848823554349867
+    ],
+    "leftGripWorld": [
+      -0.20251047533005018,
+      1.388633952406517,
+      0.4084882327938419
+    ],
+    "supportIKActive": true,
+    "supportError": 3.011961048777299e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "vest",
+    "id": "qbz95",
+    "name": "Reload",
+    "selected": "qbz95",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157712502947853,
+      0.08091211314684005,
+      -0.034867612874943416,
+      0,
+      -0.08406668831923968,
+      0.9114248781754926,
+      -0.09293734716514954,
+      0,
+      0.026368820371009127,
+      0.09569596117322134,
+      0.9146290965145534,
+      0,
+      -0.1259093254195147,
+      1.2978053695340759,
+      0.26005098835575235,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1259093254195147,
+      1.2978053695340759,
+      0.26005098835575235
+    ],
+    "supportTargetWorld": [
+      -0.12596398791571392,
+      1.3649909766677035,
+      0.4145239034409841
+    ],
+    "leftGripWorld": [
+      -0.12210400006942611,
+      1.3366281235897302,
+      0.46863582147239446
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "type56",
+    "name": "RifleIdle",
+    "selected": "type56",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255128413598891,
+      0.10474546198645787,
+      -0.8540898727986883,
+      0,
+      0.24479814219876025,
+      0.8641536198500687,
+      0.19927779060461479,
+      0,
+      0.8249331403810242,
+      -0.29776861437987534,
+      0.2778822405092695,
+      0,
+      -0.00008168817599066291,
+      1.1307570166636207,
+      0.2341696917267861,
+      1
+    ],
+    "rightGripWorld": [
+      -0.00008168817599066291,
+      1.1307570166636207,
+      0.2341696917267861
+    ],
+    "supportTargetWorld": [
+      0.28303215022583517,
+      1.108699116735019,
+      0.33936558187546484
+    ],
+    "leftGripWorld": [
+      0.2830321879395755,
+      1.1086991392525019,
+      0.3393655072110661
+    ],
+    "supportIKActive": true,
+    "supportError": 4.309459317641878e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "type56",
+    "name": "Fire",
+    "selected": "type56",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153386771649275,
+      0.08594332786021906,
+      -0.03419104617652459,
+      0,
+      -0.08899597667620476,
+      0.9109843427939092,
+      -0.09267033033532346,
+      0,
+      0.025198932760517163,
+      0.09550835454435623,
+      0.9146815127097291,
+      0,
+      -0.17962357469152548,
+      1.3312008739238528,
+      0.2650076689695869,
+      1
+    ],
+    "rightGripWorld": [
+      -0.17962357469152548,
+      1.3312008739238528,
+      0.2650076689695869
+    ],
+    "supportTargetWorld": [
+      -0.17909175103501754,
+      1.438235617745616,
+      0.5482909931427269
+    ],
+    "leftGripWorld": [
+      -0.17909174353047888,
+      1.4382356436460497,
+      0.5482909823745372
+    ],
+    "supportIKActive": true,
+    "supportError": 1.4880702134627915e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "type56",
+    "name": "Reload",
+    "selected": "type56",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157713277238251,
+      0.08091207116263818,
+      -0.034866332074135295,
+      0,
+      -0.08406652442737583,
+      0.9114244227221416,
+      -0.09293766309120094,
+      0,
+      0.02636757561277871,
+      0.09569638913870744,
+      0.9146288457292905,
+      0,
+      -0.13880887832918726,
+      1.2994269836616725,
+      0.28529626128043195,
+      1
+    ],
+    "rightGripWorld": [
+      -0.13880887832918726,
+      1.2994269836616725,
+      0.28529626128043195
+    ],
+    "supportTargetWorld": [
+      -0.1374904421893289,
+      1.4065585898714563,
+      0.5685403345335853
+    ],
+    "leftGripWorld": [
+      -0.14514326020117835,
+      1.3319219428633113,
+      0.4794578509506873
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "hanyang88",
+    "name": "RifleIdle",
+    "selected": "hanyang88",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255128413598891,
+      0.10474546198645787,
+      -0.8540898727986883,
+      0,
+      0.24479814219876025,
+      0.8641536198500687,
+      0.19927779060461479,
+      0,
+      0.8249331403810242,
+      -0.29776861437987534,
+      0.2778822405092695,
+      0,
+      -0.00008168817599066291,
+      1.1307570166636207,
+      0.2341696917267861,
+      1
+    ],
+    "rightGripWorld": [
+      -0.00008168817599066291,
+      1.1307570166636207,
+      0.2341696917267861
+    ],
+    "supportTargetWorld": [
+      0.29380888388753956,
+      1.042568634901544,
+      0.3353625925577749
+    ],
+    "leftGripWorld": [
+      0.29380893551712767,
+      1.042568633459695,
+      0.335362513909845
+    ],
+    "supportIKActive": true,
+    "supportError": 5.6830339371658634e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.3506849408149719
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "hanyang88",
+    "name": "Fire",
+    "selected": "hanyang88",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153386771649275,
+      0.08594332786021906,
+      -0.03419104617652459,
+      0,
+      -0.08899597667620476,
+      0.9109843427939092,
+      -0.09267033033532346,
+      0,
+      0.025198932760517163,
+      0.09550835454435623,
+      0.9146815127097291,
+      0,
+      -0.17962357469152548,
+      1.3312008739238528,
+      0.2650076689695869,
+      1
+    ],
+    "rightGripWorld": [
+      -0.17962357469152548,
+      1.3312008739238528,
+      0.2650076689695869
+    ],
+    "supportTargetWorld": [
+      -0.17276339150184875,
+      1.3806535457800835,
+      0.5729698270648809
+    ],
+    "leftGripWorld": [
+      -0.1727633726453499,
+      1.380653557829517,
+      0.5729698117578872
+    ],
+    "supportIKActive": true,
+    "supportError": 1.208227192156132e-8,
+    "reachError": 1.1102230246251565e-16,
+    "nominalReachError": 0.009436418424482895,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.3385912170665336
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "hanyang88",
+    "name": "Reload",
+    "selected": "hanyang88",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157713277238251,
+      0.08091207116263818,
+      -0.034866332074135295,
+      0,
+      -0.08406652442737583,
+      0.9114244227221416,
+      -0.09293766309120094,
+      0,
+      0.02636757561277871,
+      0.09569638913870744,
+      0.9146288457292905,
+      0,
+      -0.13880887832918726,
+      1.2994269836616725,
+      0.28529626128043195,
+      1
+    ],
+    "rightGripWorld": [
+      -0.13880887832918726,
+      1.2994269836616725,
+      0.28529626128043195
+    ],
+    "supportTargetWorld": [
+      -0.1311415126590855,
+      1.3501089157976491,
+      0.604296833103263
+    ],
+    "leftGripWorld": [
+      -0.14514326020117835,
+      1.3319219428633113,
+      0.4794578509506873
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "qbz95",
+    "name": "RifleIdle",
+    "selected": "qbz95",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255128413598891,
+      0.10474546198645787,
+      -0.8540898727986883,
+      0,
+      0.24479814219876025,
+      0.8641536198500687,
+      0.19927779060461479,
+      0,
+      0.8249331403810242,
+      -0.29776861437987534,
+      0.2778822405092695,
+      0,
+      -0.00008168817599066291,
+      1.1307570166636207,
+      0.2341696917267861,
+      1
+    ],
+    "rightGripWorld": [
+      -0.00008168817599066291,
+      1.1307570166636207,
+      0.2341696917267861
+    ],
+    "supportTargetWorld": [
+      0.15744503512397137,
+      1.126656892826757,
+      0.29370382664539335
+    ],
+    "leftGripWorld": [
+      0.1574450439117014,
+      1.1266569274558236,
+      0.2937037888330801
+    ],
+    "supportIKActive": true,
+    "supportError": 2.8634308008587444e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "qbz95",
+    "name": "Fire",
+    "selected": "qbz95",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153386771649275,
+      0.08594332786021906,
+      -0.03419104617652459,
+      0,
+      -0.08899597667620476,
+      0.9109843427939092,
+      -0.09267033033532346,
+      0,
+      0.025198932760517163,
+      0.09550835454435623,
+      0.9146815127097291,
+      0,
+      -0.17962357469152548,
+      1.3312008739238528,
+      0.2650076689695869,
+      1
+    ],
+    "rightGripWorld": [
+      -0.17962357469152548,
+      1.3312008739238528,
+      0.2650076689695869
+    ],
+    "supportTargetWorld": [
+      -0.18015544406867376,
+      1.398329338287122,
+      0.41950452205521926
+    ],
+    "leftGripWorld": [
+      -0.18015548643309884,
+      1.3983293953425315,
+      0.41950450649810606
+    ],
+    "supportIKActive": true,
+    "supportError": 6.826876262445063e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "green_t",
+    "id": "qbz95",
+    "name": "Reload",
+    "selected": "qbz95",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157713277238251,
+      0.08091207116263818,
+      -0.034866332074135295,
+      0,
+      -0.08406652442737583,
+      0.9114244227221416,
+      -0.09293766309120094,
+      0,
+      0.02636757561277871,
+      0.09569638913870744,
+      0.9146288457292905,
+      0,
+      -0.13880887832918726,
+      1.2994269836616725,
+      0.28529626128043195,
+      1
+    ],
+    "rightGripWorld": [
+      -0.13880887832918726,
+      1.2994269836616725,
+      0.28529626128043195
+    ],
+    "supportTargetWorld": [
+      -0.1388637489821001,
+      1.3666126402556795,
+      0.4397691150992168
+    ],
+    "leftGripWorld": [
+      -0.14514326020117835,
+      1.3319219428633113,
+      0.4794578509506873
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "type56",
+    "name": "RifleIdle",
+    "selected": "type56",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255120522888995,
+      0.10474578980943246,
+      -0.8540897930407039,
+      0,
+      0.24479862378919423,
+      0.8641537657342502,
+      0.19927765463770547,
+      0,
+      0.8249333119799969,
+      -0.29776895804012504,
+      0.27788142132441557,
+      0,
+      -0.005450211795627595,
+      1.1522821327229167,
+      0.2592098375616069,
+      1
+    ],
+    "rightGripWorld": [
+      -0.005450211795627595,
+      1.1522821327229167,
+      0.2592098375616069
+    ],
+    "supportTargetWorld": [
+      0.27766372173044274,
+      1.130224135704318,
+      0.3644054555816839
+    ],
+    "leftGripWorld": [
+      0.2776637606458592,
+      1.1302241431875222,
+      0.364405451693561
+    ],
+    "supportIKActive": true,
+    "supportError": 2.6211097468867395e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "type56",
+    "name": "Fire",
+    "selected": "type56",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153390336655468,
+      0.08593700299208619,
+      -0.03419270298202559,
+      0,
+      -0.08898928585679303,
+      0.9109845302952728,
+      -0.09267067905248422,
+      0,
+      0.025201225597164915,
+      0.0955081111923438,
+      0.9146818197533719,
+      0,
+      -0.1810681802710253,
+      1.3047906285701347,
+      0.28513700278051674,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1810681802710253,
+      1.3047906285701347,
+      0.28513700278051674
+    ],
+    "supportTargetWorld": [
+      -0.180535064065412,
+      1.4118253107244652,
+      0.5684203953268328
+    ],
+    "leftGripWorld": [
+      -0.18053505907227863,
+      1.4118252938321718,
+      0.568420388658789
+    ],
+    "supportIKActive": true,
+    "supportError": 1.296120543074465e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "type56",
+    "name": "Reload",
+    "selected": "type56",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157720165910813,
+      0.08091227566768361,
+      -0.03486666282243634,
+      0,
+      -0.08406642248450384,
+      0.9114249361924547,
+      -0.09293753613102976,
+      0,
+      0.026368075513005684,
+      0.09569621115830491,
+      0.9146296773850402,
+      0,
+      -0.15679454435801865,
+      1.3316540804332209,
+      0.306875647018503,
+      1
+    ],
+    "rightGripWorld": [
+      -0.15679454435801865,
+      1.3316540804332209,
+      0.306875647018503
+    ],
+    "supportTargetWorld": [
+      -0.15547594055816502,
+      1.4387856732024131,
+      0.5901199956111489
+    ],
+    "leftGripWorld": [
+      -0.16172878179100955,
+      1.3656127486993974,
+      0.506486150943817
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "hanyang88",
+    "name": "RifleIdle",
+    "selected": "hanyang88",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255120522888995,
+      0.10474578980943246,
+      -0.8540897930407039,
+      0,
+      0.24479862378919423,
+      0.8641537657342502,
+      0.19927765463770547,
+      0,
+      0.8249333119799969,
+      -0.29776895804012504,
+      0.27788142132441557,
+      0,
+      -0.005450211795627595,
+      1.1522821327229167,
+      0.2592098375616069,
+      1
+    ],
+    "rightGripWorld": [
+      -0.005450211795627595,
+      1.1522821327229167,
+      0.2592098375616069
+    ],
+    "supportTargetWorld": [
+      0.2884404294925819,
+      1.064093633185042,
+      0.36040244856243386
+    ],
+    "leftGripWorld": [
+      0.2884404797306689,
+      1.064093607633154,
+      0.36040245151193634
+    ],
+    "supportIKActive": true,
+    "supportError": 4.714365354921169e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.3506849408149719
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "hanyang88",
+    "name": "Fire",
+    "selected": "hanyang88",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153390336655468,
+      0.08593700299208619,
+      -0.03419270298202559,
+      0,
+      -0.08898928585679303,
+      0.9109845302952728,
+      -0.09267067905248422,
+      0,
+      0.025201225597164915,
+      0.0955081111923438,
+      0.9146818197533719,
+      0,
+      -0.1810681802710253,
+      1.3047906285701347,
+      0.28513700278051674,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1810681802710253,
+      1.3047906285701347,
+      0.28513700278051674
+    ],
+    "supportTargetWorld": [
+      -0.17452980703770735,
+      1.353020201170975,
+      0.5813863839155518
+    ],
+    "leftGripWorld": [
+      -0.17452980539060414,
+      1.3530201912710018,
+      0.5813863783017511
+    ],
+    "supportIKActive": true,
+    "supportError": 6.423332969724625e-9,
+    "reachError": 5.551115123125783e-17,
+    "nominalReachError": 0.018743326045445652,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.32578580854263733
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "hanyang88",
+    "name": "Reload",
+    "selected": "hanyang88",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157720165910813,
+      0.08091227566768361,
+      -0.03486666282243634,
+      0,
+      -0.08406642248450384,
+      0.9114249361924547,
+      -0.09293753613102976,
+      0,
+      0.026368075513005684,
+      0.09569621115830491,
+      0.9146296773850402,
+      0,
+      -0.15679454435801865,
+      1.3316540804332209,
+      0.306875647018503,
+      1
+    ],
+    "rightGripWorld": [
+      -0.15679454435801865,
+      1.3316540804332209,
+      0.306875647018503
+    ],
+    "supportTargetWorld": [
+      -0.1491270014652765,
+      1.3823359598005565,
+      0.6258765128756483
+    ],
+    "leftGripWorld": [
+      -0.16172878179100955,
+      1.3656127486993974,
+      0.506486150943817
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "qbz95",
+    "name": "RifleIdle",
+    "selected": "qbz95",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255120522888995,
+      0.10474578980943246,
+      -0.8540897930407039,
+      0,
+      0.24479862378919423,
+      0.8641537657342502,
+      0.19927765463770547,
+      0,
+      0.8249333119799969,
+      -0.29776895804012504,
+      0.27788142132441557,
+      0,
+      -0.005450211795627595,
+      1.1522821327229167,
+      0.2592098375616069,
+      1
+    ],
+    "rightGripWorld": [
+      -0.005450211795627595,
+      1.1522821327229167,
+      0.2592098375616069
+    ],
+    "supportTargetWorld": [
+      0.15207656812753537,
+      1.1481819569912404,
+      0.31874382198495577
+    ],
+    "leftGripWorld": [
+      0.15207657601879945,
+      1.1481819834460754,
+      0.31874380986501427
+    ],
+    "supportIKActive": true,
+    "supportError": 2.4539411094730726e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "qbz95",
+    "name": "Fire",
+    "selected": "qbz95",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153390336655468,
+      0.08593700299208619,
+      -0.03419270298202559,
+      0,
+      -0.08898928585679303,
+      0.9109845302952728,
+      -0.09267067905248422,
+      0,
+      0.025201225597164915,
+      0.0955081111923438,
+      0.9146818197533719,
+      0,
+      -0.1810681802710253,
+      1.3047906285701347,
+      0.28513700278051674,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1810681802710253,
+      1.3047906285701347,
+      0.28513700278051674
+    ],
+    "supportTargetWorld": [
+      -0.18159927889150052,
+      1.3719190608495757,
+      0.4396338901355116
+    ],
+    "leftGripWorld": [
+      -0.18159926710846117,
+      1.37191903980851,
+      0.43963388294210426
+    ],
+    "supportIKActive": true,
+    "supportError": 1.9492234750399394e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "floral_dress",
+    "id": "qbz95",
+    "name": "Reload",
+    "selected": "qbz95",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157720165910813,
+      0.08091227566768361,
+      -0.03486666282243634,
+      0,
+      -0.08406642248450384,
+      0.9114249361924547,
+      -0.09293753613102976,
+      0,
+      0.026368075513005684,
+      0.09569621115830491,
+      0.9146296773850402,
+      0,
+      -0.15679454435801865,
+      1.3316540804332209,
+      0.306875647018503,
+      1
+    ],
+    "rightGripWorld": [
+      -0.15679454435801865,
+      1.3316540804332209,
+      0.306875647018503
+    ],
+    "supportTargetWorld": [
+      -0.15684932212176297,
+      1.3988397344077947,
+      0.4613486530100709
+    ],
+    "leftGripWorld": [
+      -0.16172878179100955,
+      1.3656127486993974,
+      0.506486150943817
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "type56",
+    "name": "RifleIdle",
+    "selected": "type56",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255120172541669,
+      0.10474547561425579,
+      -0.8540896239517377,
+      0,
+      0.2447985061372554,
+      0.8641535075976035,
+      0.19927771471848132,
+      0,
+      0.8249331201319384,
+      -0.2977690112223784,
+      0.2778813188394322,
+      0,
+      -0.018659083819866785,
+      1.1548884943075277,
+      0.2809066851229243,
+      1
+    ],
+    "rightGripWorld": [
+      -0.018659083819866785,
+      1.1548884943075277,
+      0.2809066851229243
+    ],
+    "supportTargetWorld": [
+      0.264454778756225,
+      1.1328304586476927,
+      0.3861022755837289
+    ],
+    "leftGripWorld": [
+      0.2644548072534023,
+      1.1328304672908085,
+      0.38610221785883625
+    ],
+    "supportIKActive": true,
+    "supportError": 3.180738676750166e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "type56",
+    "name": "Fire",
+    "selected": "type56",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153389826073566,
+      0.08593738838145043,
+      -0.03419174924811297,
+      0,
+      -0.08899026045762726,
+      0.9109847583091827,
+      -0.09267079685501955,
+      0,
+      0.025200147024775132,
+      0.09550854269030573,
+      0.9146816263398984,
+      0,
+      -0.1949246394172957,
+      1.295579818939496,
+      0.2804467010254722,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1949246394172957,
+      1.295579818939496,
+      0.2804467010254722
+    ],
+    "supportTargetWorld": [
+      -0.1943919484395652,
+      1.4026146575924825,
+      0.5637300221109531
+    ],
+    "leftGripWorld": [
+      -0.19439190487776803,
+      1.4026146670227182,
+      0.5637299571151114
+    ],
+    "supportIKActive": true,
+    "supportError": 4.6210053928488164e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -2.4025744949085492e-8,
+      0.0841299444437027,
+      0.31823062896728516
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "type56",
+    "name": "Reload",
+    "selected": "type56",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157711908960069,
+      0.08091173811765551,
+      -0.034866937531618736,
+      0,
+      -0.08406636361786385,
+      0.9114250184722719,
+      -0.0929372582136935,
+      0,
+      0.026368338176697287,
+      0.0956959529805218,
+      0.9146292909027873,
+      0,
+      -0.1731503762047209,
+      1.3334213196261755,
+      0.314672423759871,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1731503762047209,
+      1.3334213196261755,
+      0.314672423759871
+    ],
+    "supportTargetWorld": [
+      -0.17183168386476852,
+      1.440552837157499,
+      0.597916672743203
+    ],
+    "leftGripWorld": [
+      -0.16933679013804182,
+      1.3702730737129336,
+      0.5203823874308352
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "hanyang88",
+    "name": "RifleIdle",
+    "selected": "hanyang88",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255120172541669,
+      0.10474547561425579,
+      -0.8540896239517377,
+      0,
+      0.2447985061372554,
+      0.8641535075976035,
+      0.19927771471848132,
+      0,
+      0.8249331201319384,
+      -0.2977690112223784,
+      0.2778813188394322,
+      0,
+      -0.018659083819866785,
+      1.1548884943075277,
+      0.2809066851229243,
+      1
+    ],
+    "rightGripWorld": [
+      -0.018659083819866785,
+      1.1548884943075277,
+      0.2809066851229243
+    ],
+    "supportTargetWorld": [
+      0.27523148797982744,
+      1.0666999712699086,
+      0.38209926131252747
+    ],
+    "leftGripWorld": [
+      0.27523152000460727,
+      1.06669997876112,
+      0.38209918702672696
+    ],
+    "supportIKActive": true,
+    "supportError": 4.578029760778706e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.3506849408149719
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "hanyang88",
+    "name": "Fire",
+    "selected": "hanyang88",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153389826073566,
+      0.08593738838145043,
+      -0.03419174924811297,
+      0,
+      -0.08899026045762726,
+      0.9109847583091827,
+      -0.09267079685501955,
+      0,
+      0.025200147024775132,
+      0.09550854269030573,
+      0.9146816263398984,
+      0,
+      -0.1949246394172957,
+      1.295579818939496,
+      0.2804467010254722,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1949246394172957,
+      1.295579818939496,
+      0.2804467010254722
+    ],
+    "supportTargetWorld": [
+      -0.18834866511131573,
+      1.3439534455802244,
+      0.5780742296008003
+    ],
+    "leftGripWorld": [
+      -0.18834861983619136,
+      1.3439534544739318,
+      0.5780741541502012
+    ],
+    "supportIKActive": true,
+    "supportError": 5.72615458317246e-8,
+    "reachError": 0,
+    "nominalReachError": 0.017007395533312708,
+    "supportGripUsed": [
+      -1.532892568434363e-8,
+      0.01878669299185276,
+      0.32729257617096247
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "hanyang88",
+    "name": "Reload",
+    "selected": "hanyang88",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157711908960069,
+      0.08091173811765551,
+      -0.034866937531618736,
+      0,
+      -0.08406636361786385,
+      0.9114250184722719,
+      -0.0929372582136935,
+      0,
+      0.026368338176697287,
+      0.0956959529805218,
+      0.9146292909027873,
+      0,
+      -0.1731503762047209,
+      1.3334213196261755,
+      0.314672423759871,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1731503762047209,
+      1.3334213196261755,
+      0.314672423759871
+    ],
+    "supportTargetWorld": [
+      -0.16548274009385544,
+      1.3841031100002243,
+      0.6336731593046622
+    ],
+    "leftGripWorld": [
+      -0.16933679013804182,
+      1.3702730737129336,
+      0.5203823874308352
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "qbz95",
+    "name": "RifleIdle",
+    "selected": "qbz95",
+    "action": "RifleIdle",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.3255120172541669,
+      0.10474547561425579,
+      -0.8540896239517377,
+      0,
+      0.2447985061372554,
+      0.8641535075976035,
+      0.19927771471848132,
+      0,
+      0.8249331201319384,
+      -0.2977690112223784,
+      0.2778813188394322,
+      0,
+      -0.018659083819866785,
+      1.1548884943075277,
+      0.2809066851229243,
+      1
+    ],
+    "rightGripWorld": [
+      -0.018659083819866785,
+      1.1548884943075277,
+      0.2809066851229243
+    ],
+    "supportTargetWorld": [
+      0.13886765610516352,
+      1.1507882949960413,
+      0.34044065498855963
+    ],
+    "leftGripWorld": [
+      0.1388676708611819,
+      1.1507883017387648,
+      0.3404406308842827
+    ],
+    "supportIKActive": true,
+    "supportError": 1.4800938629004529e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "qbz95",
+    "name": "Fire",
+    "selected": "qbz95",
+    "action": "Fire",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9153389826073566,
+      0.08593738838145043,
+      -0.03419174924811297,
+      0,
+      -0.08899026045762726,
+      0.9109847583091827,
+      -0.09267079685501955,
+      0,
+      0.025200147024775132,
+      0.09550854269030573,
+      0.9146816263398984,
+      0,
+      -0.1949246394172957,
+      1.295579818939496,
+      0.2804467010254722,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1949246394172957,
+      1.295579818939496,
+      0.2804467010254722
+    ],
+    "supportTargetWorld": [
+      -0.19545598025407704,
+      1.3627083391537678,
+      0.43494354810079694
+    ],
+    "leftGripWorld": [
+      -0.19545595028665264,
+      1.3627083359899808,
+      0.4349435298363928
+    ],
+    "supportIKActive": true,
+    "supportError": 1.5020641942003404e-8,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": [
+      0,
+      0.05539104342460632,
+      0.17451971769332886
+    ],
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  },
+  {
+    "outfit": "school_uniform",
+    "id": "qbz95",
+    "name": "Reload",
+    "selected": "qbz95",
+    "action": "Reload",
+    "loading": false,
+    "error": null,
+    "visible": true,
+    "weaponMatrixWorld": [
+      0.9157711908960069,
+      0.08091173811765551,
+      -0.034866937531618736,
+      0,
+      -0.08406636361786385,
+      0.9114250184722719,
+      -0.0929372582136935,
+      0,
+      0.026368338176697287,
+      0.0956959529805218,
+      0.9146292909027873,
+      0,
+      -0.1731503762047209,
+      1.3334213196261755,
+      0.314672423759871,
+      1
+    ],
+    "rightGripWorld": [
+      -0.1731503762047209,
+      1.3334213196261755,
+      0.314672423759871
+    ],
+    "supportTargetWorld": [
+      -0.1732051048677873,
+      1.4006069331012005,
+      0.46914537769679643
+    ],
+    "leftGripWorld": [
+      -0.16933679013804182,
+      1.3702730737129336,
+      0.5203823874308352
+    ],
+    "supportIKActive": false,
+    "supportError": 0,
+    "reachError": 0,
+    "nominalReachError": 0,
+    "supportGripUsed": null,
+    "clamped": false,
+    "coordinates": "Three.js world meters; supportError is measured after IK"
+  }
+]

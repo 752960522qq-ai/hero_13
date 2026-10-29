@@ -1,0 +1,298 @@
+{
+  "source_skeleton": "superman UE skeleton",
+  "bone_count": 132,
+  "mesh_count": 43,
+  "height_m": 1.675,
+  "uniform_source_asset_scale": 1.7119902273069816,
+  "source_weights": "4-neighbor anatomically restricted surface interpolation after skeleton rest warp",
+  "target_mesh_edited": false,
+  "stats": {
+    "tripo_part_11": {
+      "vertices": 8938,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_35": {
+      "vertices": 1130,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_1": {
+      "vertices": 29061,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_16": {
+      "vertices": 5620,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_20": {
+      "vertices": 2474,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_24": {
+      "vertices": 2501,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_28": {
+      "vertices": 5502,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_32": {
+      "vertices": 1846,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_10": {
+      "vertices": 5983,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_14": {
+      "vertices": 7501,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_2": {
+      "vertices": 17904,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_39": {
+      "vertices": 720,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_40": {
+      "vertices": 678,
+      "unweighted": 0,
+      "max_influences": 0
+    },
+    "tripo_part_41": {
+      "vertices": 624,
+      "unweighted": 0,
+      "max_influences": 0
+    },
+    "tripo_part_42": {
+      "vertices": 616,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_15": {
+      "vertices": 5455,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_19": {
+      "vertices": 4026,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_23": {
+      "vertices": 4708,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_27": {
+      "vertices": 11425,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_31": {
+      "vertices": 2808,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_36": {
+      "vertices": 1097,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_4": {
+      "vertices": 12607,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_7": {
+      "vertices": 12192,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_0": {
+      "vertices": 31654,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_13": {
+      "vertices": 8274,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_3": {
+      "vertices": 17226,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_38": {
+      "vertices": 945,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_5": {
+      "vertices": 12274,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_9": {
+      "vertices": 12164,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_18": {
+      "vertices": 6110,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_22": {
+      "vertices": 3178,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_26": {
+      "vertices": 11918,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_30": {
+      "vertices": 3416,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_34": {
+      "vertices": 1170,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_6": {
+      "vertices": 13505,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_12": {
+      "vertices": 8730,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_37": {
+      "vertices": 912,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_8": {
+      "vertices": 12428,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_17": {
+      "vertices": 5101,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_21": {
+      "vertices": 3384,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_25": {
+      "vertices": 2132,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_29": {
+      "vertices": 5741,
+      "unweighted": 0,
+      "max_influences": 4
+    },
+    "tripo_part_33": {
+      "vertices": 1337,
+      "unweighted": 0,
+      "max_influences": 4
+    }
+  },
+  "target_joint_anchors": {
+    "upperarm_l_28": [
+      0.20999999344348907,
+      0.03999999910593033,
+      1.3450000286102295
+    ],
+    "lowerarm_l_23": [
+      0.38999998569488525,
+      0.02500000037252903,
+      1.100000023841858
+    ],
+    "hand_l_19": [
+      0.5049999952316284,
+      -0.05000000074505806,
+      0.9649999737739563
+    ],
+    "thigh_l_114": [
+      0.09000000357627869,
+      0.0,
+      0.9300000071525574
+    ],
+    "calf_l_110": [
+      0.1469999998807907,
+      0.019999999552965164,
+      0.5350000262260437
+    ],
+    "foot_l_107": [
+      0.1899999976158142,
+      0.029999999329447746,
+      0.11999999731779099
+    ],
+    "ball_l_106": [
+      0.19699999690055847,
+      -0.10000000149011612,
+      0.03999999910593033
+    ],
+    "upperarm_r_59": [
+      -0.20999999344348907,
+      0.03999999910593033,
+      1.3450000286102295
+    ],
+    "lowerarm_r_54": [
+      -0.38999998569488525,
+      0.02500000037252903,
+      1.100000023841858
+    ],
+    "hand_r_50": [
+      -0.5049999952316284,
+      -0.05000000074505806,
+      0.9649999737739563
+    ],
+    "thigh_r_125": [
+      -0.09000000357627869,
+      0.0,
+      0.9300000071525574
+    ],
+    "calf_r_121": [
+      -0.1469999998807907,
+      0.019999999552965164,
+      0.5350000262260437
+    ],
+    "foot_r_118": [
+      -0.1899999976158142,
+      0.029999999329447746,
+      0.11999999731779099
+    ],
+    "ball_r_117": [
+      -0.19699999690055847,
+      -0.10000000149011612,
+      0.03999999910593033
+    ]
+  }
+}

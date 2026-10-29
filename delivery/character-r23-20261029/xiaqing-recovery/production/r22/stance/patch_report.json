@@ -1,0 +1,88 @@
+{
+  "floral_dress": {
+    "PistolIdle": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 1.3333333730697632
+    },
+    "Fire": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 0.2666666805744171
+    },
+    "RifleRun": {
+      "source_lower_body": "Run",
+      "source_phase": "normalized gait",
+      "changed_nodes": 41,
+      "duration": 0.6666666865348816
+    },
+    "Aim": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 3.0833332538604736
+    },
+    "Reload": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 3.299999952316284
+    },
+    "RifleIdle": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 8.566666603088379
+    },
+    "preservation": {
+      "mesh_rest_skin_material_image_nodes_unchanged": true,
+      "old_binary_prefix_unchanged": true,
+      "Idle_Run_Walk_Jump_unchanged": true
+    }
+  },
+  "school_uniform": {
+    "PistolIdle": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 1.3333333730697632
+    },
+    "Fire": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 0.2666666805744171
+    },
+    "RifleRun": {
+      "source_lower_body": "Run",
+      "source_phase": "normalized gait",
+      "changed_nodes": 41,
+      "duration": 0.6666666865348816
+    },
+    "Aim": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 3.0833332538604736
+    },
+    "Reload": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 3.299999952316284
+    },
+    "RifleIdle": {
+      "source_lower_body": "Idle",
+      "source_phase": 0.5,
+      "changed_nodes": 41,
+      "duration": 8.566666603088379
+    },
+    "preservation": {
+      "mesh_rest_skin_material_image_nodes_unchanged": true,
+      "old_binary_prefix_unchanged": true,
+      "Idle_Run_Walk_Jump_unchanged": true
+    }
+  }
+}
