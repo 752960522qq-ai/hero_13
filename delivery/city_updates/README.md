@@ -1,3 +1,5 @@
+> 最新增量为 **v15**：收紧 CBD、内移市政区、修复建筑下陷，误放公寓区的两栋写字楼改归 CBD。只替换实际变动区块；详见 `delivery/city_updates/v15_20261029/README.md`，当前来源清单为 `design/city/districts/current_sources_v15.json`。
+
 # 城市区块增量上传约定
 
 生效日期：2026-10-29。用户要求：“以后上传就只上传修改的那个区块即可，做好备注”。

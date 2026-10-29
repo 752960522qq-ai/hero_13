@@ -1,0 +1,3207 @@
+{
+  "status": "PASS",
+  "city_buildings": 664,
+  "source_meshes_preserved": 124,
+  "street_meshes_preserved": 299,
+  "source_instances": [
+    {
+      "name": "CBD_Imported_26B",
+      "height_m": 85.9999973513186,
+      "bottom_to_foundation_m": 0.016998291015625
+    },
+    {
+      "name": "CBD_V14_G41",
+      "height_m": 23.999999198131263,
+      "bottom_to_foundation_m": 0.01700115203857422
+    },
+    {
+      "name": "CBD_Imported_26C",
+      "height_m": 38.00000048428774,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_Office_Building_01",
+      "height_m": 43.99999909219332,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_V14_O37",
+      "height_m": 35.99999993504025,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_V14_G45",
+      "height_m": 59.99999825831037,
+      "bottom_to_foundation_m": 0.017002105712890625
+    },
+    {
+      "name": "CBD_V14_M38",
+      "height_m": 28.99999937938992,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_V14_O43",
+      "height_m": 54.0000002940651,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_Imported_26A",
+      "height_m": 92.00000232411548,
+      "bottom_to_foundation_m": 0.01700019836425426
+    },
+    {
+      "name": "CBD_Imported_Office28",
+      "height_m": 32.00000011478551,
+      "bottom_to_foundation_m": 0.01700019836425426
+    },
+    {
+      "name": "CBD_V14_G42",
+      "height_m": 23.999999198131263,
+      "bottom_to_foundation_m": 0.016998291015625
+    },
+    {
+      "name": "CBD_V14_U31",
+      "height_m": 80.00000080442987,
+      "bottom_to_foundation_m": 0.016999244689941406
+    },
+    {
+      "name": "CBD_Imported_21",
+      "height_m": 86.00000017089769,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_V14_O40",
+      "height_m": 54.00000076764263,
+      "bottom_to_foundation_m": 0.017002105712890625
+    },
+    {
+      "name": "CBD_V14_G44",
+      "height_m": 38.00000055774581,
+      "bottom_to_foundation_m": 0.016999244689941406
+    },
+    {
+      "name": "GOV_V14_G33",
+      "height_m": 26.000000681262463,
+      "bottom_to_foundation_m": 0.017000198364261365
+    },
+    {
+      "name": "CBD_V14_O39",
+      "height_m": 26.000001018401235,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_V14_O34",
+      "height_m": 82.00000192271546,
+      "bottom_to_foundation_m": 0.016998291015625
+    },
+    {
+      "name": "CBD_Imported_Office27",
+      "height_m": 63.999998378101736,
+      "bottom_to_foundation_m": 0.016999244689941406
+    },
+    {
+      "name": "CBD_V14_O42",
+      "height_m": 54.0000002940651,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_Modern_Glass_02",
+      "height_m": 68.0000026000198,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "APT_V14_A32",
+      "height_m": 71.99999672570266,
+      "bottom_to_foundation_m": 0.017002105712890625
+    },
+    {
+      "name": "CBD_V14_G48",
+      "height_m": 61.99999976111576,
+      "bottom_to_foundation_m": 0.017000198364261365
+    },
+    {
+      "name": "CBD_V14_O47",
+      "height_m": 27.999999858322553,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_Imported_23",
+      "height_m": 96.00000354112126,
+      "bottom_to_foundation_m": 0.01700019836425426
+    },
+    {
+      "name": "CBD_Imported_24",
+      "height_m": 87.99999736621976,
+      "bottom_to_foundation_m": 0.01700019836425426
+    },
+    {
+      "name": "CBD_Imported_Office30",
+      "height_m": 62.00000174483284,
+      "bottom_to_foundation_m": 0.017002105712890625
+    },
+    {
+      "name": "CBD_Imported_Office29",
+      "height_m": 29.99999980451264,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_V14_O46",
+      "height_m": 27.99999897150724,
+      "bottom_to_foundation_m": 0.016998291015625
+    },
+    {
+      "name": "APT_V14_A35",
+      "height_m": 77.9999986756593,
+      "bottom_to_foundation_m": 0.017000198364257812
+    },
+    {
+      "name": "CBD_Imported_22",
+      "height_m": 90.00000349711627,
+      "bottom_to_foundation_m": 0.01700115203857422
+    },
+    {
+      "name": "CBD_Imported_25",
+      "height_m": 103.99999736621976,
+      "bottom_to_foundation_m": 0.017002105712890625
+    }
+  ],
+  "all_buildings_ground_sampled": 664,
+  "maximum_remaining_building_terrain_penetration_m": 0.07859200952875867,
+  "ground_corrections": 56,
+  "ground_penetration_details": [
+    {
+      "name": "MAIN_OLDTOWN_0191",
+      "terrain_penetration_m": 0.02203855519824849
+    },
+    {
+      "name": "MAIN_OLDTOWN_0188",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0189",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0186",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0187",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0170",
+      "terrain_penetration_m": 0.008517219557511169
+    },
+    {
+      "name": "MAIN_OLDTOWN_0171",
+      "terrain_penetration_m": 0.012295917621813146
+    },
+    {
+      "name": "MAIN_OLDTOWN_0190",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0178",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0179",
+      "terrain_penetration_m": 0.06123830737768543
+    },
+    {
+      "name": "MAIN_OLDTOWN_0159",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0160",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0175",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0144",
+      "terrain_penetration_m": 0.03934409956798923
+    },
+    {
+      "name": "MAIN_OLDTOWN_0148",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0149",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0150",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0151",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0152",
+      "terrain_penetration_m": 2.686331264101227e-07
+    },
+    {
+      "name": "MAIN_OLDTOWN_0136",
+      "terrain_penetration_m": 0.019516931820660943
+    },
+    {
+      "name": "MAIN_OLDTOWN_0137",
+      "terrain_penetration_m": 0.003518741759346966
+    },
+    {
+      "name": "MAIN_OLDTOWN_0138",
+      "terrain_penetration_m": 0.00806200020175929
+    },
+    {
+      "name": "MAIN_OLDTOWN_0139",
+      "terrain_penetration_m": 0.05816988452572147
+    },
+    {
+      "name": "MAIN_OLDTOWN_0174",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0181",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0172",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0173",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0161",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0019",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0014",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0180",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0140",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0141",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0142",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0143",
+      "terrain_penetration_m": 2.614768970232717e-07
+    },
+    {
+      "name": "MAIN_OLDTOWN_0011",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0176",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0177",
+      "terrain_penetration_m": 0.018753559380106033
+    },
+    {
+      "name": "MAIN_OLDTOWN_0200",
+      "terrain_penetration_m": 0.010654558378464074
+    },
+    {
+      "name": "MAIN_OLDTOWN_0201",
+      "terrain_penetration_m": 0.009047665887898404
+    },
+    {
+      "name": "MAIN_OLDTOWN_0027",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0155",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0156",
+      "terrain_penetration_m": 0.06173963713532071
+    },
+    {
+      "name": "MAIN_OLDTOWN_0157",
+      "terrain_penetration_m": 0.021200414981326965
+    },
+    {
+      "name": "MAIN_OLDTOWN_0158",
+      "terrain_penetration_m": 0.005371669331855067
+    },
+    {
+      "name": "MAIN_OLDTOWN_0015",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0016",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0017",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0145",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0124",
+      "terrain_penetration_m": 0.023901531228750272
+    },
+    {
+      "name": "MAIN_OLDTOWN_0125",
+      "terrain_penetration_m": 0.005283269210304198
+    },
+    {
+      "name": "MAIN_OLDTOWN_0126",
+      "terrain_penetration_m": 0.011094118454218815
+    },
+    {
+      "name": "MAIN_OLDTOWN_0127",
+      "terrain_penetration_m": 0.043355242814064
+    },
+    {
+      "name": "MAIN_OLDTOWN_0205",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0006",
+      "terrain_penetration_m": 0.059313089820847154
+    },
+    {
+      "name": "MAIN_OLDTOWN_0007",
+      "terrain_penetration_m": 0.008382341138984728
+    },
+    {
+      "name": "MAIN_OLDTOWN_0132",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0024",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0025",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0182",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0183",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0162",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0163",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0254",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0204",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0166",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0167",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0168",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0169",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0008",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0009",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0218",
+      "terrain_penetration_m": 0.014293446944709132
+    },
+    {
+      "name": "MAIN_OLDTOWN_0197",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0018",
+      "terrain_penetration_m": 0.047913121809873616
+    },
+    {
+      "name": "MAIN_OLDTOWN_0185",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0022",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0023",
+      "terrain_penetration_m": 0.01873497589940598
+    },
+    {
+      "name": "MAIN_OLDTOWN_0235",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0192",
+      "terrain_penetration_m": 0.07557752347626767
+    },
+    {
+      "name": "MAIN_OLDTOWN_0193",
+      "terrain_penetration_m": 0.010290036754156517
+    },
+    {
+      "name": "MAIN_OLDTOWN_0202",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0203",
+      "terrain_penetration_m": 3.180585864015484e-06
+    },
+    {
+      "name": "MAIN_OLDTOWN_0010",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0133",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0184",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0128",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0129",
+      "terrain_penetration_m": 0.005456432550863255
+    },
+    {
+      "name": "MAIN_OLDTOWN_0130",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0131",
+      "terrain_penetration_m": 0.048025266145293344
+    },
+    {
+      "name": "MAIN_OLDTOWN_0030",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0031",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0032",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0026",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0110",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0035",
+      "terrain_penetration_m": 0.0186316145594958
+    },
+    {
+      "name": "MAIN_OLDTOWN_0036",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0056",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0261",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0262",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0075",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0196",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0194",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0195",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0225",
+      "terrain_penetration_m": 0.06733128166836178
+    },
+    {
+      "name": "MAIN_OLDTOWN_0226",
+      "terrain_penetration_m": 0.031661421633187636
+    },
+    {
+      "name": "MAIN_OLDTOWN_0227",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0228",
+      "terrain_penetration_m": 0.02709344342790221
+    },
+    {
+      "name": "MAIN_OLDTOWN_0107",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0108",
+      "terrain_penetration_m": 0.0005090808013505921
+    },
+    {
+      "name": "MAIN_OLDTOWN_0105",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0106",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0004",
+      "terrain_penetration_m": 0.0008464292182939204
+    },
+    {
+      "name": "MAIN_OLDTOWN_0248",
+      "terrain_penetration_m": 2.8202663315823884e-07
+    },
+    {
+      "name": "MAIN_OLDTOWN_0249",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0250",
+      "terrain_penetration_m": 0.03063533862520096
+    },
+    {
+      "name": "MAIN_OLDTOWN_0251",
+      "terrain_penetration_m": 0.05386673523790009
+    },
+    {
+      "name": "MAIN_OLDTOWN_0252",
+      "terrain_penetration_m": 0.0644077351867729
+    },
+    {
+      "name": "MAIN_OLDTOWN_0253",
+      "terrain_penetration_m": 0.069518785859497
+    },
+    {
+      "name": "MAIN_OLDTOWN_0051",
+      "terrain_penetration_m": 0.06822520701388513
+    },
+    {
+      "name": "MAIN_OLDTOWN_0052",
+      "terrain_penetration_m": 0.006602710820471813
+    },
+    {
+      "name": "MAIN_OLDTOWN_0242",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0243",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0244",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0245",
+      "terrain_penetration_m": 0.003854042599241936
+    },
+    {
+      "name": "MAIN_OLDTOWN_0246",
+      "terrain_penetration_m": 0.009830809886093306
+    },
+    {
+      "name": "MAIN_OLDTOWN_0247",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0072",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0073",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0033",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0034",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0206",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0207",
+      "terrain_penetration_m": 0.006838136208221712
+    },
+    {
+      "name": "MAIN_OLDTOWN_0208",
+      "terrain_penetration_m": 0.008545414830045672
+    },
+    {
+      "name": "MAIN_OLDTOWN_0209",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0210",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0211",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0229",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0230",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0231",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0232",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0233",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0234",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0273",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0274",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0275",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0276",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0277",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0278",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0053",
+      "terrain_penetration_m": 0.002506730547386482
+    },
+    {
+      "name": "MAIN_OLDTOWN_0054",
+      "terrain_penetration_m": 0.009850607888864715
+    },
+    {
+      "name": "MAIN_OLDTOWN_0212",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0213",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0214",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0215",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0216",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0217",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0070",
+      "terrain_penetration_m": 0.016555256704661403
+    },
+    {
+      "name": "MAIN_OLDTOWN_0071",
+      "terrain_penetration_m": 0.02386695346273804
+    },
+    {
+      "name": "MAIN_OLDTOWN_0089",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0090",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0263",
+      "terrain_penetration_m": 0.003181191108339476
+    },
+    {
+      "name": "MAIN_OLDTOWN_0264",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0265",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0266",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0267",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0268",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0269",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0270",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0083",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0084",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0085",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0086",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0109",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0055",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0074",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0001",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0002",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0000",
+      "terrain_penetration_m": 0.07499834023826324
+    },
+    {
+      "name": "MAIN_OLDTOWN_0102",
+      "terrain_penetration_m": 0.0476402526628128
+    },
+    {
+      "name": "MAIN_OLDTOWN_0003",
+      "terrain_penetration_m": 0.00027784458982615945
+    },
+    {
+      "name": "MAIN_OLDTOWN_0048",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0067",
+      "terrain_penetration_m": 0.020593920336176907
+    },
+    {
+      "name": "MAIN_OLDTOWN_0271",
+      "terrain_penetration_m": 0.060139000127581
+    },
+    {
+      "name": "MAIN_OLDTOWN_0272",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0087",
+      "terrain_penetration_m": 0.017074875142943924
+    },
+    {
+      "name": "MAIN_OLDTOWN_0088",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0255",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0121",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0219",
+      "terrain_penetration_m": 0.0644143745483241
+    },
+    {
+      "name": "MAIN_OLDTOWN_0236",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0081",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0279",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0097",
+      "terrain_penetration_m": 1.8981449301236353e-08
+    },
+    {
+      "name": "MAIN_OLDTOWN_0098",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0099",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0100",
+      "terrain_penetration_m": 0.00267049734467939
+    },
+    {
+      "name": "MAIN_OLDTOWN_0093",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0094",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0095",
+      "terrain_penetration_m": 0.014516077199012045
+    },
+    {
+      "name": "MAIN_OLDTOWN_0096",
+      "terrain_penetration_m": 0.018868662704210948
+    },
+    {
+      "name": "MAIN_OLDTOWN_0039",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0040",
+      "terrain_penetration_m": 0.014560885175797011
+    },
+    {
+      "name": "MAIN_OLDTOWN_0041",
+      "terrain_penetration_m": 0.0086895356863117
+    },
+    {
+      "name": "MAIN_OLDTOWN_0042",
+      "terrain_penetration_m": 0.011045067505248696
+    },
+    {
+      "name": "MAIN_OLDTOWN_0062",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0063",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0064",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0065",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0043",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0044",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0045",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0046",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0058",
+      "terrain_penetration_m": 0.021882362523830245
+    },
+    {
+      "name": "MAIN_OLDTOWN_0059",
+      "terrain_penetration_m": 0.02968083887665518
+    },
+    {
+      "name": "MAIN_OLDTOWN_0060",
+      "terrain_penetration_m": 0.016741716426014186
+    },
+    {
+      "name": "MAIN_OLDTOWN_0061",
+      "terrain_penetration_m": 0.07853245312177393
+    },
+    {
+      "name": "MAIN_OLDTOWN_0112",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0113",
+      "terrain_penetration_m": 0.05305955367472848
+    },
+    {
+      "name": "MAIN_OLDTOWN_0114",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0115",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0077",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0078",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0079",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0080",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0116",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0117",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0118",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0119",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0101",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0047",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0066",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_OLDTOWN_0120",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0058",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0018",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0014",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0021",
+      "terrain_penetration_m": 0.02162853343076776
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0008",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0000",
+      "terrain_penetration_m": 0.04264382034323333
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0027",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0070",
+      "terrain_penetration_m": 0.044432161713229945
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0033",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0052",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0045",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0038",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0074",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0029",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0054",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0041",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0064",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0082",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0076",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0086",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0081",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0101",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0056",
+      "terrain_penetration_m": 0.006235865547669306
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0017",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0015",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0020",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0009",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0001",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0026",
+      "terrain_penetration_m": 0.020385966751563345
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0071",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0032",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0053",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0044",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0037",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0075",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0028",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0055",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0040",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0065",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0083",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0077",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0087",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0102",
+      "terrain_penetration_m": 0.017760475962049327
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0060",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0016",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0012",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0019",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0006",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0002",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0025",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0072",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0031",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0050",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0043",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0036",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0039",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0066",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0084",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0078",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0088",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0103",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0062",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0013",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0007",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0003",
+      "terrain_penetration_m": 0.006738985733736769
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0023",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0073",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0030",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0051",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0042",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0035",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0067",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0085",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0079",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0089",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0104",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0059",
+      "terrain_penetration_m": 0.028638872424089357
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0010",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0004",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0024",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0048",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0034",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0068",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0080",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0090",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0105",
+      "terrain_penetration_m": 0.015562784062527868
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0057",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0011",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0005",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0022",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0049",
+      "terrain_penetration_m": 0.07702250120771659
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0069",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0091",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0106",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0061",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0046",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0092",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0107",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0063",
+      "terrain_penetration_m": 0.0003440656422846189
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0047",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0093",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0108",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0094",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0109",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0095",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0110",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0096",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0111",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0097",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0112",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0004",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0008",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0002",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0007",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0009",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0006",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0000",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0001",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_CIVIC_0005",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0008",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0021",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0004",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0019",
+      "terrain_penetration_m": 0.06780296798433483
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0009",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0023",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0013",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0017",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0005",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0020",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0007",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0018",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0014",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0022",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0003",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0016",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0012",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0010",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0001",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_UNIVERSITY_0015",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0022",
+      "terrain_penetration_m": 0.04520726792869212
+    },
+    {
+      "name": "WEST_VILLAGE_0062",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0097",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0047",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0027",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0021",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0120",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0074",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0053",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0051",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0003",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0071",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0123",
+      "terrain_penetration_m": 0.011101994691645523
+    },
+    {
+      "name": "WEST_VILLAGE_0035",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0002",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0024",
+      "terrain_penetration_m": 0.058031743668134794
+    },
+    {
+      "name": "WEST_VILLAGE_0059",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0096",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0044",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0029",
+      "terrain_penetration_m": 0.008348087517639158
+    },
+    {
+      "name": "WEST_VILLAGE_0020",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0118",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0079",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0050",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0008",
+      "terrain_penetration_m": 0.05618081627253346
+    },
+    {
+      "name": "WEST_VILLAGE_0070",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0124",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0036",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0001",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0023",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0065",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0098",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0046",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0026",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0019",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0121",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0075",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0052",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0014",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0072",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0032",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0000",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0056",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0095",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0043",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0028",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0017",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0117",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0080",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0048",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0004",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0069",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0037",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0068",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0101",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0041",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0030",
+      "terrain_penetration_m": 0.02406464030064903
+    },
+    {
+      "name": "WEST_VILLAGE_0016",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0116",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0084",
+      "terrain_penetration_m": 0.07859200952875867
+    },
+    {
+      "name": "WEST_VILLAGE_0049",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0011",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0073",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0033",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0061",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0100",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0045",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0025",
+      "terrain_penetration_m": 0.07115272839702502
+    },
+    {
+      "name": "WEST_VILLAGE_0018",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0119",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0076",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0013",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0038",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0058",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0102",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0040",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0031",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0015",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0115",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0085",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0005",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0034",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0064",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0099",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0039",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0122",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0081",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0009",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0055",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0105",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0042",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0088",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0012",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0067",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0104",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0077",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0006",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0060",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0106",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "WEST_VILLAGE_0086",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0019",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0045",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0036",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0060",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0037",
+      "terrain_penetration_m": 0.008270976161636412
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0021",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0031",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0023",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0007",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0018",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0044",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0034",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0056",
+      "terrain_penetration_m": 0.07535033260032975
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0038",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0022",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0030",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0008",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0016",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0043",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0032",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0052",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0040",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0020",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0029",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0003",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0015",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0048",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0035",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0061",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0041",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0028",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0009",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0017",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0047",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0033",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0057",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0039",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0027",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0004",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0014",
+      "terrain_penetration_m": 0.06736413730180857
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0046",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0053",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0042",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0026",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0010",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0013",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0051",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0062",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0025",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0005",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0012",
+      "terrain_penetration_m": 0.0015512682553762147
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0050",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0058",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0024",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0000",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0011",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0049",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0054",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0001",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0063",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_01",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_02",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_03",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_04",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_05",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_06",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_07",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_08",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "MAIN_NORTH_APARTMENT_09",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Modern_Glass_02",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Office_Building_01",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Apartment_02",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Apartment_03",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Connected_Arcade_06",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Connected_Arcade_07",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Connected_Arcade_05",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Connected_Shop_08",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Connected_Shop_09",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Corner_Shop_10",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Apartment_11",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Joined_Storefront_12",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Joined_Urban_Shopfront_13",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Backlane_Apartment_13",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Backlane_Apartment_14",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_00_01_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_00_02_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_00_03_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_00_04_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_00_05_Asset15",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_01_01_Asset13",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_02_01_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_02_02_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_03_01_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_03_02_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_04_01_Asset14",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_05_01_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_05_02_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_06_01_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_06_02_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_07_01_Asset15",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_08_01_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_08_02_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_09_01_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_09_02_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_10_01_Asset13",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_11_01_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_11_02_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_12_01_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_12_02_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_13_01_Asset14",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_14_01_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_14_02_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_15_01_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_15_02_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_16_01_Asset15",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_17_01_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_17_02_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_18_01_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_18_02_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_19_01_Asset13",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_20_01_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_20_02_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_21_01_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_21_02_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_22_01_Asset14",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_23_01_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_23_02_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_24_01_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_24_02_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_25_01_Asset15",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_26_01_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_26_02_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_27_01_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_27_02_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_28_01_Asset13",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_29_01_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_29_02_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_30_01_Asset18",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_30_02_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_31_01_Asset14",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_32_01_Asset17",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_32_02_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_33_01_Asset20",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Rear_33_02_Asset19",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_01_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_02_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_03_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_04_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_05_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_06_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_07_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_08_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_09_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_10_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_11_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_12_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_13_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_14_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_15_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_16_Asset27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_17_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "OLDTOWN_Infill_18_Asset28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_21",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_22",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_23",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_24",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_25",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_26A",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_26B",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_26C",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_Office30",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_Office29",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_Office28",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_Office27",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O37",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_M38",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G41",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G42",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O34",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_U31",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O40",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G45",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O39",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O46",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G44",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O43",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O47",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O42",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G48",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "GOV_V14_G33",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "APT_V14_A32",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "APT_V14_A35",
+      "terrain_penetration_m": 0.0
+    },
+    {
+      "name": "APT_V14_A36",
+      "terrain_penetration_m": 0.0
+    }
+  ],
+  "access_checks": [
+    {
+      "name": "CBD_Imported_26C_Entrance_Walk_V15",
+      "samples": 74,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11433878754260185,
+      "tread_run_m": 7.89000000000002
+    },
+    {
+      "name": "CBD_Imported_Office27_Entrance_Walk_V15",
+      "samples": 148,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.1499074759245152,
+      "tread_run_m": 1.1806250000000014
+    },
+    {
+      "name": "CBD_Imported_26B_Entrance_Walk_V15",
+      "samples": 151,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11728938960494754,
+      "tread_run_m": 1.4086045018819344
+    },
+    {
+      "name": "CBD_Imported_25_Entrance_Walk_V15",
+      "samples": 73,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11499682119601155,
+      "tread_run_m": 0.9282352941176494
+    },
+    {
+      "name": "CBD_Imported_26A_Entrance_Walk_V15",
+      "samples": 156,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11637563093043361,
+      "tread_run_m": 1.973685622317594
+    },
+    {
+      "name": "CBD_V14_O37_Entrance_Walk_V15",
+      "samples": 187,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_Office29_Entrance_Walk_V15",
+      "samples": 143,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11647677611406897,
+      "tread_run_m": 1.3550466721228547
+    },
+    {
+      "name": "CBD_V14_O34_Entrance_Walk_V15",
+      "samples": 109,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_Office28_Entrance_Walk_V15",
+      "samples": 68,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_Office_Building_01_Entrance_Walk_V15",
+      "samples": 99,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11981365595400817,
+      "tread_run_m": 0.9756938441042174
+    },
+    {
+      "name": "CBD_V14_U31_Entrance_Walk_V15",
+      "samples": 92,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_Office30_Entrance_Walk_V15",
+      "samples": 139,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14689121812565945,
+      "tread_run_m": 1.1088757234195161
+    },
+    {
+      "name": "CBD_Imported_23_Entrance_Walk_V15",
+      "samples": 92,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11673610007632114,
+      "tread_run_m": 1.3150204181534653
+    },
+    {
+      "name": "APT_V14_A35_Entrance_Walk_V15",
+      "samples": 30,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G48_Entrance_Walk_V15",
+      "samples": 82,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "APT_V14_A32_Entrance_Walk_V15",
+      "samples": 33,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_Imported_24_Entrance_Walk_V15",
+      "samples": 45,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O47_Entrance_Walk_V15",
+      "samples": 97,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14924125216671566,
+      "tread_run_m": 0.8419788451272839
+    },
+    {
+      "name": "CBD_Imported_22_Entrance_Walk_V15",
+      "samples": 190,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11940237290714703,
+      "tread_run_m": 5.103331822076133
+    },
+    {
+      "name": "CBD_V14_G42_Entrance_Walk_V15",
+      "samples": 63,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11709650616770845,
+      "tread_run_m": 0.8998946328820356
+    },
+    {
+      "name": "CBD_V14_G41_Entrance_Walk_V15",
+      "samples": 72,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.1092458814211195,
+      "tread_run_m": 1.1130053763440937
+    },
+    {
+      "name": "CBD_V14_M38_Entrance_Walk_V15",
+      "samples": 148,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14802688321090124,
+      "tread_run_m": 1.2187096774193562
+    },
+    {
+      "name": "CBD_Imported_21_Entrance_Walk_V15",
+      "samples": 226,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11881092532575002,
+      "tread_run_m": 1.5195059683333905
+    },
+    {
+      "name": "CBD_V14_O46_Entrance_Walk_V15",
+      "samples": 253,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_V14_O39_Entrance_Walk_V15",
+      "samples": 42,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.10345767854443248,
+      "tread_run_m": 2.002771031890435
+    },
+    {
+      "name": "CBD_V14_O40_Entrance_Walk_V15",
+      "samples": 102,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11694726526178068,
+      "tread_run_m": 1.1126931556699222
+    },
+    {
+      "name": "CBD_V14_O43_Entrance_Walk_V15",
+      "samples": 200,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14810102174791995,
+      "tread_run_m": 1.4756076545885424
+    },
+    {
+      "name": "CBD_V14_O42_Entrance_Walk_V15",
+      "samples": 148,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.1197348155831031,
+      "tread_run_m": 1.1245244298042916
+    },
+    {
+      "name": "CBD_Modern_Glass_02_Entrance_Walk_V15",
+      "samples": 156,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11792559545197763,
+      "tread_run_m": 1.2727772585860653
+    },
+    {
+      "name": "CBD_V14_G45_Entrance_Walk_V15",
+      "samples": 64,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": false,
+      "riser_height_m": 0.0,
+      "tread_run_m": 0.0
+    },
+    {
+      "name": "CBD_V14_G44_Entrance_Walk_V15",
+      "samples": 139,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11586380561301253,
+      "tread_run_m": 1.5170766307674892
+    },
+    {
+      "name": "GOV_V14_G33_Entrance_Walk_V15",
+      "samples": 225,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14809615598586426,
+      "tread_run_m": 0.9605981977730724
+    },
+    {
+      "name": "MAIN_CIVIC_0004_Entrance_Walk_V15",
+      "samples": 174,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11728613299220131,
+      "tread_run_m": 1.124186046511628
+    },
+    {
+      "name": "MAIN_CIVIC_0008_Entrance_Walk_V15",
+      "samples": 184,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14782013956710868,
+      "tread_run_m": 1.1130232558139528
+    },
+    {
+      "name": "MAIN_CIVIC_0002_Entrance_Walk_V15",
+      "samples": 184,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14911515425217017,
+      "tread_run_m": 0.9970833333333328
+    },
+    {
+      "name": "MAIN_CIVIC_0007_Entrance_Walk_V15",
+      "samples": 292,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14741142386279343,
+      "tread_run_m": 1.4479069767441854
+    },
+    {
+      "name": "MAIN_CIVIC_0009_Entrance_Walk_V15",
+      "samples": 270,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14931721380585194,
+      "tread_run_m": 1.3429090909090904
+    },
+    {
+      "name": "MAIN_CIVIC_0006_Entrance_Walk_V15",
+      "samples": 286,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14908313247066599,
+      "tread_run_m": 1.4101750019592816
+    },
+    {
+      "name": "MAIN_CIVIC_0000_Entrance_Walk_V15",
+      "samples": 167,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.1195252231399306,
+      "tread_run_m": 1.1963286755084028
+    },
+    {
+      "name": "MAIN_CIVIC_0001_Entrance_Walk_V15",
+      "samples": 172,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.14707844069811496,
+      "tread_run_m": 0.986111111111112
+    },
+    {
+      "name": "MAIN_CIVIC_0005_Entrance_Walk_V15",
+      "samples": 246,
+      "holes": 0,
+      "maximum_soil_penetration_m": 0.0,
+      "stairs": true,
+      "riser_height_m": 0.11818582656166579,
+      "tread_run_m": 1.164473684210527
+    }
+  ],
+  "cbd_buildings": 31,
+  "cbd_footprint_hull_before_m2": 286329.3770544263,
+  "cbd_footprint_hull_after_m2": 137552.83147410006,
+  "municipal_shore_distance_before_mean_m": 146.1663617983766,
+  "municipal_shore_distance_after_mean_m": 305.96288743950345,
+  "failures": [],
+  "limits": "Static model and access geometry. Game collision, navigation, traffic and runtime performance are not validated."
+}

@@ -1,3 +1,5 @@
+> 最新增量为 **v15**：收紧 CBD、内移市政区、修复建筑下陷，误放公寓区的两栋写字楼改归 CBD。只替换实际变动区块；详见 `delivery/city_updates/v15_20261029/README.md`，当前来源清单为 `design/city/districts/current_sources_v15.json`。
+
 # 当前城市区块 · v13 基准 + v14 增量
 
 全城现有 664 座、净陆地 3.25 km²。CBD 29 座已全部采用素材建筑，另保留 172×195 米天明大厦用地，未来 CBD 合计 30 座。
