@@ -1,3 +1,5 @@
+> 最新完整城市为 [v13](../city_v13/README.md)：CBD 29 座＋天明大厦预留地，未来合计 30 座；全城现有 652 座，净陆地 3.25 km²。以下为历史 v12 归档，参数保留用于旧版恢复。
+
 # 城市 v12 完整工程
 
 新增两类后巷素材并沿现有楼排加密，后巷从 62 栋增至 80 栋。本次 8 个写字楼模型在 CBD 各使用一次。全城 682 个建筑单元，净陆地 3.25 km²。
@@ -18,3 +20,4 @@ python3 delivery/city_v12/reassemble.py --extract
 脚本逐一核对分卷、合并归档并校验全部 85 个解压文件。解压后打开 `huizhou_city_v12/huizhou_road_network.blend`，或导入同目录的全城 GLB。18 个区块使用相同世界坐标，保持根节点变换为单位矩阵。
 
 详细变更见 [design/city/v12](../../design/city/v12/README.md)，预览见 [design/city/previews/v12](../../design/city/previews/v12)。请使用整套 v12 区块。
+

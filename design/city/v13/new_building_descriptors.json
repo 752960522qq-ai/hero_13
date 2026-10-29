@@ -1,0 +1,388 @@
+[
+  {
+    "instance_name": "CBD_Imported_Office30",
+    "file": "cbd_office_30.glb",
+    "source_filename": "cbd_office_30.glb",
+    "original_upload_name": "01-modern-office-building-3d-model-30.glb",
+    "source_key": "C30",
+    "uniform_scale": 63.21538365797498,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 62.0,
+    "source_bounds": [
+      [
+        -0.3048858642578125,
+        -0.2869873046875,
+        0.0
+      ],
+      [
+        0.3048858642578125,
+        0.2869873046875,
+        0.98077392578125
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 38.5469537619018,
+    "front": 0.0,
+    "anchor": [
+      -172.14201257078847,
+      1059.273476880951
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      -153.99999999999997,
+      1040.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -172.14201257078847,
+        1059.273476880951
+      ],
+      [
+        -172.14201257078847,
+        1020.7265231190491
+      ],
+      [
+        -135.8579874292115,
+        1020.7265231190491
+      ],
+      [
+        -135.8579874292115,
+        1059.273476880951
+      ]
+    ],
+    "pad_xy": [
+      [
+        -172.22201257078848,
+        1059.353476880951
+      ],
+      [
+        -135.7779874292115,
+        1059.353476880951
+      ],
+      [
+        -135.7779874292115,
+        1020.6465231190491
+      ],
+      [
+        -172.22201257078848,
+        1020.6465231190491
+      ],
+      [
+        -172.22201257078848,
+        1059.353476880951
+      ]
+    ],
+    "floor": 11.590902451901377,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v13",
+    "access_alley": "CBD_Imported_Office30_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0012"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 10.569680280030719
+  },
+  {
+    "instance_name": "CBD_Imported_Office29",
+    "file": "cbd_office_29.glb",
+    "source_filename": "cbd_office_29.glb",
+    "original_upload_name": "02-office-building-3d-model-29.glb",
+    "source_key": "C29",
+    "uniform_scale": 62.78798334981573,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 30.0,
+    "source_bounds": [
+      [
+        -0.492034912109375,
+        -0.21207427978515625,
+        0.0
+      ],
+      [
+        0.492034912109375,
+        0.21207427978515625,
+        0.4777984321117401
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 61.78775973810297,
+    "front": 0.0,
+    "anchor": [
+      -143.31571634807455,
+      882.8938798690515
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      -130.0,
+      852.0
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        -143.31571634807455,
+        882.8938798690515
+      ],
+      [
+        -143.31571634807455,
+        821.1061201309485
+      ],
+      [
+        -116.68428365192544,
+        821.1061201309485
+      ],
+      [
+        -116.68428365192544,
+        882.8938798690515
+      ]
+    ],
+    "pad_xy": [
+      [
+        -143.39571634807456,
+        882.9738798690515
+      ],
+      [
+        -116.60428365192544,
+        882.9738798690515
+      ],
+      [
+        -116.60428365192544,
+        821.0261201309485
+      ],
+      [
+        -143.39571634807456,
+        821.0261201309485
+      ],
+      [
+        -143.39571634807456,
+        882.9738798690515
+      ]
+    ],
+    "floor": 17.6177443218267,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v13",
+    "access_alley": "CBD_Imported_Office29_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0005"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 17.0477443218267
+  },
+  {
+    "instance_name": "CBD_Imported_Office28",
+    "file": "cbd_office_28.glb",
+    "source_filename": "cbd_office_28.glb",
+    "original_upload_name": "03-modern-office-building-3d-model-28.glb",
+    "source_key": "C28",
+    "uniform_scale": 54.302226825479025,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 32.0,
+    "source_bounds": [
+      [
+        -0.493194580078125,
+        -0.2678681015968323,
+        0.0
+      ],
+      [
+        0.493194580078125,
+        0.2678681015968323,
+        0.58929443359375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 53.563127912998446,
+    "front": 0.0,
+    "anchor": [
+      325.54583441222167,
+      978.2184360435008
+    ],
+    "theta": 1.5707963267948966,
+    "angle": 90.0,
+    "center": [
+      311.0,
+      1005.0000000000001
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        325.54583441222167,
+        978.2184360435008
+      ],
+      [
+        325.54583441222167,
+        1031.7815639564992
+      ],
+      [
+        296.4541655877784,
+        1031.7815639564992
+      ],
+      [
+        296.4541655877784,
+        978.2184360435008
+      ]
+    ],
+    "pad_xy": [
+      [
+        325.62583441222165,
+        978.1384360435007
+      ],
+      [
+        296.3741655877784,
+        978.1384360435007
+      ],
+      [
+        296.3741655877784,
+        1031.8615639564991
+      ],
+      [
+        325.62583441222165,
+        1031.8615639564991
+      ],
+      [
+        325.62583441222165,
+        978.1384360435007
+      ]
+    ],
+    "floor": 10.725388058185073,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v13",
+    "access_alley": "CBD_Imported_Office28_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0060",
+      "MAIN_CBD_0061"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 8.582967463357944
+  },
+  {
+    "instance_name": "CBD_Imported_Office27",
+    "file": "cbd_office_27.glb",
+    "source_filename": "cbd_office_27.glb",
+    "original_upload_name": "04-modern-office-building-3d-model27.glb",
+    "source_key": "C27",
+    "uniform_scale": 65.13298962668489,
+    "local_axis_scale": [
+      1.0,
+      1.0,
+      1.0
+    ],
+    "target_height_m": 64.0,
+    "source_bounds": [
+      [
+        -0.406494140625,
+        -0.33697509765625,
+        0.0
+      ],
+      [
+        0.406494140625,
+        0.33697509765625,
+        0.98260498046875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "turn": 0.0,
+    "left": 0.0,
+    "right": 52.952357289272626,
+    "front": 0.0,
+    "anchor": [
+      389.05180445990436,
+      830.4761786446363
+    ],
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      411.0,
+      804.0000000000001
+    ],
+    "region": "MAIN",
+    "zone": "CBD",
+    "footprint_xy": [
+      [
+        389.05180445990436,
+        830.4761786446363
+      ],
+      [
+        389.05180445990436,
+        777.5238213553637
+      ],
+      [
+        432.9481955400957,
+        777.5238213553637
+      ],
+      [
+        432.9481955400957,
+        830.4761786446363
+      ]
+    ],
+    "pad_xy": [
+      [
+        388.9718044599044,
+        830.5561786446364
+      ],
+      [
+        433.0281955400957,
+        830.5561786446364
+      ],
+      [
+        433.0281955400957,
+        777.4438213553636
+      ],
+      [
+        388.9718044599044,
+        777.4438213553636
+      ],
+      [
+        388.9718044599044,
+        830.5561786446364
+      ]
+    ],
+    "floor": 14.956153689679743,
+    "direct_sidewalk_frontage": false,
+    "direct_alley_frontage": true,
+    "building_count_units": 1,
+    "typology": "office_source_building",
+    "reuse_rotation_only_no_mirror": true,
+    "added_in_version": "v13",
+    "access_alley": "CBD_Imported_Office27_Entrance_Plaza",
+    "replaces_placeholder_sites": [
+      "MAIN_CBD_0077",
+      "MAIN_CBD_0081"
+    ],
+    "unique_cbd_use": true,
+    "foundation_bottom_m": 14.386153689679745
+  }
+]

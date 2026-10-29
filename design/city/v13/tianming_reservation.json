@@ -1,0 +1,39 @@
+{
+  "name": "Tianming Tower",
+  "object": "CBD_Tianming_Reserved_Pad",
+  "polygon": [
+    [
+      -203.0,
+      735.0
+    ],
+    [
+      -203.0,
+      930.0
+    ],
+    [
+      -375.0,
+      930.0
+    ],
+    [
+      -375.0,
+      735.0
+    ],
+    [
+      -203.0,
+      735.0
+    ]
+  ],
+  "size_m": [
+    172.0,
+    195.0
+  ],
+  "area_m2": 33540.0,
+  "surface_z_m": 17.289620044268666,
+  "building_present": false,
+  "existing_building_count_units": 0,
+  "future_building_capacity": 1,
+  "clearance_policy": "Keep this entire polygon and its access free of buildings until Tianming Tower is supplied.",
+  "access_object": "CBD_Tianming_Reserved_Access",
+  "road_goal": "MAIN_NS_-190_left",
+  "site_access_width_m": 8.0
+}

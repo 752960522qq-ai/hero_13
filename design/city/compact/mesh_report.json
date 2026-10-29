@@ -1,7 +1,7 @@
 {
-  "version": "v12",
-  "mesh_objects": 1319,
-  "triangles": 2492053,
-  "master_glb_bytes": 224582688,
+  "version": "v13",
+  "mesh_objects": 1330,
+  "triangles": 2600546,
+  "master_glb_bytes": 247160032,
   "detail_report": "compact_validation.json"
 }

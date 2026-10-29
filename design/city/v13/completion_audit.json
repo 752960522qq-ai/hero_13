@@ -1,0 +1,26 @@
+{
+  "status": "PASS",
+  "archive_bytes": 429420632,
+  "archive_sha256": "abf8173a0fc7df91c8b4f41f7cfbe41ea791597794fddc5e04e94482c85d4a41",
+  "part_count": 52,
+  "extracted_files_sha256_verified": 94,
+  "city_building_units": 652,
+  "cbd_existing_buildings": 29,
+  "cbd_planned_with_tianming": 30,
+  "cbd_source_models": 14,
+  "cbd_placeholders": 15,
+  "net_land_km2": 3.25,
+  "tianming_reserved_size_m": [
+    172,
+    195
+  ],
+  "tianming_reserved_area_m2": 33540,
+  "new_office_models_each_used_once": 4,
+  "full_glb_bytes": 247160032,
+  "native_blend_bytes": 205165422,
+  "districts_reimported": 18,
+  "district_triangles": 2600546,
+  "maximum_district_world_position_error_m": 0,
+  "preview_files_saved_in_project": 5,
+  "preview_library_save_completed": false
+}

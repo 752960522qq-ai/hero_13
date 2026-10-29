@@ -1,5 +1,5 @@
 {
-  "schema": "hero13.city.build.v12",
+  "schema": "hero13.city.build.v13",
   "stats": {
     "land_area_m2": 3250000.0000000037,
     "land_plus_bridge_play_area_m2": 3280675.0097599644,
@@ -9,14 +9,14 @@
     "junctions": 170,
     "graph_components": 1,
     "max_grade": 0.08250586336195523,
-    "buildings": 682,
-    "placeholder_lots": 581,
-    "real_buildings": 101,
+    "buildings": 652,
+    "placeholder_lots": 547,
+    "real_buildings": 105,
     "building_limit": 699,
     "building_count_by_zone": {
       "OLDTOWN": 323,
       "RESIDENTIAL": 110,
-      "CBD": 59,
+      "CBD": 29,
       "CIVIC": 10,
       "UNIVERSITY": 20,
       "VILLAGE": 100,
@@ -25,18 +25,23 @@
     "pedestrian_alleys": 39,
     "interchanges": 2,
     "ramps": 6,
-    "building_coverage_percent": 19.522175221544515,
+    "building_coverage_percent": 18.15352270975908,
     "global_scale_applied": false,
     "backlane_placeholder_lots": 0,
     "backlane_asset_instances": 80,
     "replaced_backlane_sites": 35,
     "added_backlane_access_links": 34,
     "rear_asset_types": 9,
-    "source_asset_types": 30,
+    "source_asset_types": 34,
     "infill_rear_instances_added": 18,
     "unique_cbd_assets_added": 8,
     "added_v12_access_links": 26,
-    "oldtown_building_footprint_m2": 175352.7180402534
+    "oldtown_building_footprint_m2": 175352.7180402534,
+    "cbd_buildings": 29,
+    "cbd_reserved_landmark_capacity": 1,
+    "cbd_planned_total_including_landmark": 30,
+    "cbd_boundary_area_m2": 365500.0,
+    "tianming_reserved_area_m2": 33540.0
   },
   "massing_batches": 69,
   "mesh_objects": 1222,
@@ -842,13 +847,13 @@
       "bridge": true
     }
   ],
-  "original_source_buildings": 101,
-  "building_count": 682,
+  "original_source_buildings": 105,
+  "building_count": 652,
   "added_canopy": false,
   "rear_sites_replaced": 35,
   "rear_instances_added": 60,
   "rear_instances_total": 80,
-  "source_asset_types": 30,
+  "source_asset_types": 34,
   "rear_asset_types": 9,
   "reuse_counts": {
     "20": 12,
@@ -881,5 +886,51 @@
   "unique_cbd_assets_added": 8,
   "v12_terrain_triangles_cut": 570,
   "v12_retaining_wall_triangles": 5008,
-  "v12_unsampled_wall_segments": 0
+  "v12_unsampled_wall_segments": 0,
+  "cbd_existing_buildings": 29,
+  "cbd_planned_buildings": 30,
+  "cbd_removed_placeholders": 34,
+  "cbd_new_source_instances": 4,
+  "tianming_reservation": {
+    "name": "Tianming Tower",
+    "object": "CBD_Tianming_Reserved_Pad",
+    "polygon": [
+      [
+        -203.0,
+        735.0
+      ],
+      [
+        -203.0,
+        930.0
+      ],
+      [
+        -375.0,
+        930.0
+      ],
+      [
+        -375.0,
+        735.0
+      ],
+      [
+        -203.0,
+        735.0
+      ]
+    ],
+    "size_m": [
+      172.0,
+      195.0
+    ],
+    "area_m2": 33540.0,
+    "surface_z_m": 17.289620044268666,
+    "building_present": false,
+    "existing_building_count_units": 0,
+    "future_building_capacity": 1,
+    "clearance_policy": "Keep this entire polygon and its access free of buildings until Tianming Tower is supplied.",
+    "access_object": "CBD_Tianming_Reserved_Access",
+    "road_goal": "MAIN_NS_-190_left",
+    "site_access_width_m": 8.0
+  },
+  "v13_terrain_triangles_cut": 633,
+  "v13_retaining_wall_triangles": 3300,
+  "v13_unsampled_wall_segments": 0
 }

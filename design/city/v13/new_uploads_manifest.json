@@ -1,0 +1,30 @@
+[
+  {
+    "workspace_upload_name": "01-modern-office-building-3d-model-30.glb",
+    "file": "cbd_office_30.glb",
+    "bytes": 6281492,
+    "sha256": "eee8fa2e5a1d5880520c9e34b059efcae549243417ead2adbadd6bd6223e6251",
+    "original_bytes_preserved": true
+  },
+  {
+    "workspace_upload_name": "02-office-building-3d-model-29.glb",
+    "file": "cbd_office_29.glb",
+    "bytes": 5359972,
+    "sha256": "4a0857acfb7774add4b1f870f65f5bb47b935b30ca7b5e4f581f90094917f306",
+    "original_bytes_preserved": true
+  },
+  {
+    "workspace_upload_name": "03-modern-office-building-3d-model-28.glb",
+    "file": "cbd_office_28.glb",
+    "bytes": 6032548,
+    "sha256": "d5f1aceaf7aa7d22da1e5fb9a7641980e0914bf978731a1bf872ab6794866490",
+    "original_bytes_preserved": true
+  },
+  {
+    "workspace_upload_name": "04-modern-office-building-3d-model27.glb",
+    "file": "cbd_office_27.glb",
+    "bytes": 5143316,
+    "sha256": "b64bd367ec174c12e8525a0d16b58c2c00b19f0719e2f4625fd22f8072b3e6c9",
+    "original_bytes_preserved": true
+  }
+]

@@ -10,8 +10,8 @@
   ],
   "land_district_count": 16,
   "file_count": 18,
-  "source_mesh_count": 1319,
-  "source_triangle_count": 2492053,
+  "source_mesh_count": 1330,
+  "source_triangle_count": 2600546,
   "districts": [
     {
       "id": 1,
@@ -56,7 +56,7 @@
       "id": 2,
       "name": "主岛南部偏西",
       "file": "02_main_south_west_center.glb",
-      "file_size_bytes": 66172484,
+      "file_size_bytes": 66250652,
       "mesh_objects": 186,
       "triangles": 332754,
       "bounds_blender": [
@@ -306,9 +306,9 @@
       "id": 6,
       "name": "主岛北部偏西／CBD原建筑",
       "file": "06_main_north_west_center.glb",
-      "file_size_bytes": 52398656,
-      "mesh_objects": 92,
-      "triangles": 192711,
+      "file_size_bytes": 63948060,
+      "mesh_objects": 99,
+      "triangles": 248812,
       "bounds_blender": [
         [
           -505.5249938964844,
@@ -318,7 +318,7 @@
         [
           7.8767900466918945,
           1227.09228515625,
-          120.04547882080078
+          112.00724029541016
         ]
       ],
       "bounds_glb": [
@@ -329,7 +329,7 @@
         ],
         [
           7.8767900466918945,
-          120.04547882080078,
+          112.00724029541016,
           -615.3261108398438
         ]
       ],
@@ -337,6 +337,8 @@
         "CBD_Imported_21",
         "CBD_Imported_22",
         "CBD_Imported_23",
+        "CBD_Imported_Office29",
+        "CBD_Imported_Office30",
         "CBD_Modern_Glass_02",
         "CBD_Office_Building_01"
       ],
@@ -351,9 +353,9 @@
       "id": 7,
       "name": "主岛北部偏东／CBD",
       "file": "07_main_north_east_center.glb",
-      "file_size_bytes": 67039432,
-      "mesh_objects": 117,
-      "triangles": 543996,
+      "file_size_bytes": 77999868,
+      "mesh_objects": 123,
+      "triangles": 596436,
       "bounds_blender": [
         [
           -8.749429702758789,
@@ -383,7 +385,9 @@
         "CBD_Imported_25",
         "CBD_Imported_26A",
         "CBD_Imported_26B",
-        "CBD_Imported_26C"
+        "CBD_Imported_26C",
+        "CBD_Imported_Office27",
+        "CBD_Imported_Office28"
       ],
       "root_translation": [
         0,
@@ -396,9 +400,9 @@
       "id": 8,
       "name": "主岛东北",
       "file": "08_main_ne.glb",
-      "file_size_bytes": 24210764,
-      "mesh_objects": 74,
-      "triangles": 42094,
+      "file_size_bytes": 24206868,
+      "mesh_objects": 73,
+      "triangles": 42046,
       "bounds_blender": [
         [
           495.2505798339844,
@@ -408,7 +412,7 @@
         [
           1036.4569091796875,
           1142.87548828125,
-          97.05767059326172
+          37.269901275634766
         ]
       ],
       "bounds_glb": [
@@ -419,7 +423,7 @@
         ],
         [
           1036.4569091796875,
-          97.05767059326172,
+          37.269901275634766,
           -613.12451171875
         ]
       ],

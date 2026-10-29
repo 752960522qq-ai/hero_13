@@ -1372,6 +1372,50 @@
         1.0000000127444142,
         1.0000000127444142
       ]
+    },
+    {
+      "name": "CBD_Imported_Office30",
+      "height_m": 62.00000174483284,
+      "height_error_m": 1.744832843542099e-06,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        1.000000028142486,
+        1.000000028142486,
+        1.0000000281424652
+      ]
+    },
+    {
+      "name": "CBD_Imported_Office29",
+      "height_m": 29.99999980451264,
+      "height_error_m": 1.954873596332618e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999327285628,
+        0.9999999327285628,
+        0.9999999934837547
+      ]
+    },
+    {
+      "name": "CBD_Imported_Office28",
+      "height_m": 32.00000011478551,
+      "height_error_m": 1.1478550732135773e-07,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999999333377453,
+        0.9999999333377453,
+        1.000000003587047
+      ]
+    },
+    {
+      "name": "CBD_Imported_Office27",
+      "height_m": 63.999998378101736,
+      "height_error_m": 1.6218982636928558e-06,
+      "image_hashes_preserved": true,
+      "axis_scales": [
+        0.9999998575222184,
+        0.9999998575222184,
+        0.9999999746578396
+      ]
     }
   ],
   "source_image_count_by_building": {
@@ -1475,22 +1519,26 @@
     "CBD_Imported_25": 1,
     "CBD_Imported_26A": 1,
     "CBD_Imported_26B": 1,
-    "CBD_Imported_26C": 1
+    "CBD_Imported_26C": 1,
+    "CBD_Imported_Office30": 1,
+    "CBD_Imported_Office29": 1,
+    "CBD_Imported_Office28": 1,
+    "CBD_Imported_Office27": 1
   },
   "original_road_atlas_preserved": true,
-  "original_source_building_count": 101,
+  "original_source_building_count": 105,
   "corner_on_right": true,
   "corner_turn_degrees": 90,
   "corner_intrinsic_depth_scale": 1.45,
   "additional_canopy_present": false,
   "source_texture_bytes_preserved": true,
   "glb_external_resources": false,
-  "mesh_objects": 1319,
-  "imported_triangles": 2492053,
-  "file_size_bytes": 224582688,
+  "mesh_objects": 1330,
+  "imported_triangles": 2600546,
+  "file_size_bytes": 247160032,
   "limitations": "Geometry and metric areas verified. Game collision meshes, navigation, streaming logic and runtime FPS were not integrated or benchmarked.",
-  "placeholder_lots_verified": 581,
-  "placeholder_maximum_roof_height_error_m": 3.731182559363333e-06,
+  "placeholder_lots_verified": 547,
+  "placeholder_maximum_roof_height_error_m": 3.629044257991154e-06,
   "terrain_height_range_m": [
     3.0,
     30.528854370117188
@@ -2100,6 +2148,30 @@
     {
       "instance": "CBD_Imported_26C",
       "maximum_threshold_lip_m": 0.019999824391177867,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "CBD_Imported_Office30",
+      "maximum_threshold_lip_m": 0.0200000013398558,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "CBD_Imported_Office29",
+      "maximum_threshold_lip_m": 0.01999975395560938,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "CBD_Imported_Office28",
+      "maximum_threshold_lip_m": 0.02000036287257423,
+      "direct_sidewalk_frontage": false,
+      "direct_alley_frontage": true
+    },
+    {
+      "instance": "CBD_Imported_Office27",
+      "maximum_threshold_lip_m": 0.019999697980528808,
       "direct_sidewalk_frontage": false,
       "direct_alley_frontage": true
     }

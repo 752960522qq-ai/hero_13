@@ -1,0 +1,74 @@
+[
+  {
+    "name": "01_cbd_compact_v13",
+    "location": [
+      50,
+      -200,
+      940
+    ],
+    "target": [
+      25,
+      875,
+      40
+    ],
+    "ortho_scale": 1180,
+    "resolution": [
+      1900,
+      1450
+    ]
+  },
+  {
+    "name": "02_tianming_reserved_v13",
+    "location": [
+      -700,
+      560,
+      400
+    ],
+    "target": [
+      -265,
+      830,
+      18
+    ],
+    "ortho_scale": 440,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "03_east_offices_v13",
+    "location": [
+      710,
+      480,
+      285
+    ],
+    "target": [
+      360,
+      900,
+      48
+    ],
+    "ortho_scale": 650,
+    "resolution": [
+      1800,
+      1250
+    ]
+  },
+  {
+    "name": "04_city_overview_v13",
+    "location": [
+      1650,
+      -2200,
+      2500
+    ],
+    "target": [
+      -120,
+      -200,
+      25
+    ],
+    "ortho_scale": 4200,
+    "resolution": [
+      1900,
+      1450
+    ]
+  }
+]
