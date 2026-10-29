@@ -1,0 +1,1168 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "checks": [
+    {
+      "check": "global_and_zone_counts",
+      "passed": true,
+      "detail": {
+        "OLDTOWN": 200,
+        "RESIDENTIAL": 110,
+        "UNIVERSITY": 20,
+        "VILLAGE": 91,
+        "VILLA": 9,
+        "INDUSTRIAL": 60,
+        "GOVERNMENT": 7,
+        "CBD": 32,
+        "APARTMENT": 12
+      }
+    },
+    {
+      "check": "oldtown_street_cap_includes_all_source_buildings",
+      "passed": true,
+      "detail": {
+        "actual": 120,
+        "limit": 120,
+        "rear": 80
+      }
+    },
+    {
+      "check": "arcade_pool_cap_and_all_types_used",
+      "passed": true,
+      "detail": {
+        "05": 3,
+        "06": 3,
+        "07": 3,
+        "08": 3,
+        "09": 3,
+        "10": 3,
+        "12": 3,
+        "13": 3,
+        "57": 3,
+        "56": 3
+      }
+    },
+    {
+      "check": "oldtown_envelope_reduced",
+      "passed": true,
+      "detail": {
+        "street_buildings_before": 243,
+        "street_buildings_after": 120,
+        "street_building_limit": 120,
+        "rear_buildings": 80,
+        "building_units": 200,
+        "street_envelope_before_m2": 495148.4263665815,
+        "street_envelope_after_m2": 225707.2166192102,
+        "polygon": [
+          [
+            90.03,
+            125.03
+          ],
+          [
+            46.97,
+            148.5
+          ],
+          [
+            -44.97,
+            199.47
+          ],
+          [
+            -183.47,
+            291.97
+          ],
+          [
+            -183.47,
+            348.03
+          ],
+          [
+            -145.0,
+            429.1950309773491
+          ],
+          [
+            46.969999999999985,
+            469.5
+          ],
+          [
+            343.47,
+            469.5
+          ],
+          [
+            609.7900000000001,
+            402.47
+          ],
+          [
+            609.7900000000001,
+            199.47
+          ],
+          [
+            343.29,
+            125.03
+          ],
+          [
+            90.03,
+            125.03
+          ]
+        ],
+        "removed_peripheral_placeholder_names": [
+          "MAIN_OLDTOWN_0000",
+          "MAIN_OLDTOWN_0001",
+          "MAIN_OLDTOWN_0002",
+          "MAIN_OLDTOWN_0003",
+          "MAIN_OLDTOWN_0004",
+          "MAIN_OLDTOWN_0022",
+          "MAIN_OLDTOWN_0023",
+          "MAIN_OLDTOWN_0026",
+          "MAIN_OLDTOWN_0030",
+          "MAIN_OLDTOWN_0031",
+          "MAIN_OLDTOWN_0032",
+          "MAIN_OLDTOWN_0033",
+          "MAIN_OLDTOWN_0034",
+          "MAIN_OLDTOWN_0035",
+          "MAIN_OLDTOWN_0036",
+          "MAIN_OLDTOWN_0039",
+          "MAIN_OLDTOWN_0040",
+          "MAIN_OLDTOWN_0041",
+          "MAIN_OLDTOWN_0042",
+          "MAIN_OLDTOWN_0043",
+          "MAIN_OLDTOWN_0044",
+          "MAIN_OLDTOWN_0045",
+          "MAIN_OLDTOWN_0046",
+          "MAIN_OLDTOWN_0047",
+          "MAIN_OLDTOWN_0048",
+          "MAIN_OLDTOWN_0053",
+          "MAIN_OLDTOWN_0054",
+          "MAIN_OLDTOWN_0055",
+          "MAIN_OLDTOWN_0058",
+          "MAIN_OLDTOWN_0059",
+          "MAIN_OLDTOWN_0060",
+          "MAIN_OLDTOWN_0061",
+          "MAIN_OLDTOWN_0062",
+          "MAIN_OLDTOWN_0063",
+          "MAIN_OLDTOWN_0064",
+          "MAIN_OLDTOWN_0065",
+          "MAIN_OLDTOWN_0066",
+          "MAIN_OLDTOWN_0067",
+          "MAIN_OLDTOWN_0070",
+          "MAIN_OLDTOWN_0071",
+          "MAIN_OLDTOWN_0072",
+          "MAIN_OLDTOWN_0073",
+          "MAIN_OLDTOWN_0074",
+          "MAIN_OLDTOWN_0075",
+          "MAIN_OLDTOWN_0077",
+          "MAIN_OLDTOWN_0078",
+          "MAIN_OLDTOWN_0079",
+          "MAIN_OLDTOWN_0080",
+          "MAIN_OLDTOWN_0081",
+          "MAIN_OLDTOWN_0083",
+          "MAIN_OLDTOWN_0084",
+          "MAIN_OLDTOWN_0085",
+          "MAIN_OLDTOWN_0086",
+          "MAIN_OLDTOWN_0087",
+          "MAIN_OLDTOWN_0088",
+          "MAIN_OLDTOWN_0089",
+          "MAIN_OLDTOWN_0090",
+          "MAIN_OLDTOWN_0093",
+          "MAIN_OLDTOWN_0094",
+          "MAIN_OLDTOWN_0095",
+          "MAIN_OLDTOWN_0096",
+          "MAIN_OLDTOWN_0097",
+          "MAIN_OLDTOWN_0098",
+          "MAIN_OLDTOWN_0099",
+          "MAIN_OLDTOWN_0100",
+          "MAIN_OLDTOWN_0101",
+          "MAIN_OLDTOWN_0102",
+          "MAIN_OLDTOWN_0105",
+          "MAIN_OLDTOWN_0106",
+          "MAIN_OLDTOWN_0109",
+          "MAIN_OLDTOWN_0112",
+          "MAIN_OLDTOWN_0113",
+          "MAIN_OLDTOWN_0114",
+          "MAIN_OLDTOWN_0115",
+          "MAIN_OLDTOWN_0116",
+          "MAIN_OLDTOWN_0117",
+          "MAIN_OLDTOWN_0118",
+          "MAIN_OLDTOWN_0119",
+          "MAIN_OLDTOWN_0120",
+          "MAIN_OLDTOWN_0121",
+          "MAIN_OLDTOWN_0128",
+          "MAIN_OLDTOWN_0129",
+          "MAIN_OLDTOWN_0130",
+          "MAIN_OLDTOWN_0131",
+          "MAIN_OLDTOWN_0166",
+          "MAIN_OLDTOWN_0167",
+          "MAIN_OLDTOWN_0168",
+          "MAIN_OLDTOWN_0169",
+          "MAIN_OLDTOWN_0182",
+          "MAIN_OLDTOWN_0183",
+          "MAIN_OLDTOWN_0184",
+          "MAIN_OLDTOWN_0185",
+          "MAIN_OLDTOWN_0194",
+          "MAIN_OLDTOWN_0195",
+          "MAIN_OLDTOWN_0196",
+          "MAIN_OLDTOWN_0202",
+          "MAIN_OLDTOWN_0203",
+          "MAIN_OLDTOWN_0219",
+          "MAIN_OLDTOWN_0225",
+          "MAIN_OLDTOWN_0226",
+          "MAIN_OLDTOWN_0227",
+          "MAIN_OLDTOWN_0228",
+          "MAIN_OLDTOWN_0236",
+          "MAIN_OLDTOWN_0255",
+          "MAIN_OLDTOWN_0261",
+          "MAIN_OLDTOWN_0262",
+          "MAIN_OLDTOWN_0263",
+          "MAIN_OLDTOWN_0264",
+          "MAIN_OLDTOWN_0265",
+          "MAIN_OLDTOWN_0266",
+          "MAIN_OLDTOWN_0267",
+          "MAIN_OLDTOWN_0268",
+          "MAIN_OLDTOWN_0269",
+          "MAIN_OLDTOWN_0270",
+          "MAIN_OLDTOWN_0271",
+          "MAIN_OLDTOWN_0272",
+          "MAIN_OLDTOWN_0273",
+          "MAIN_OLDTOWN_0274",
+          "MAIN_OLDTOWN_0275",
+          "MAIN_OLDTOWN_0276",
+          "MAIN_OLDTOWN_0277",
+          "MAIN_OLDTOWN_0278",
+          "MAIN_OLDTOWN_0279"
+        ],
+        "replaced_placeholder_names": [
+          "MAIN_OLDTOWN_0242",
+          "MAIN_OLDTOWN_0243",
+          "MAIN_OLDTOWN_0244",
+          "MAIN_OLDTOWN_0245",
+          "MAIN_OLDTOWN_0246",
+          "MAIN_OLDTOWN_0247",
+          "MAIN_OLDTOWN_0206",
+          "MAIN_OLDTOWN_0207",
+          "MAIN_OLDTOWN_0208",
+          "MAIN_OLDTOWN_0209",
+          "MAIN_OLDTOWN_0210",
+          "MAIN_OLDTOWN_0211",
+          "MAIN_OLDTOWN_0248",
+          "MAIN_OLDTOWN_0249",
+          "MAIN_OLDTOWN_0250",
+          "MAIN_OLDTOWN_0251",
+          "MAIN_OLDTOWN_0252",
+          "MAIN_OLDTOWN_0212",
+          "MAIN_OLDTOWN_0213",
+          "MAIN_OLDTOWN_0214",
+          "MAIN_OLDTOWN_0215",
+          "MAIN_OLDTOWN_0216"
+        ],
+        "street_runs": [
+          {
+            "frontage_group": "85:H-1",
+            "source_instances": [
+              "OLDTOWN_V17_ARCADE_05_01",
+              "OLDTOWN_V17_ARCADE_06_01",
+              "OLDTOWN_V17_ARCADE_10_01",
+              "OLDTOWN_V17_ARCADE_57_01",
+              "OLDTOWN_V17_ARCADE_56_01",
+              "OLDTOWN_V17_ARCADE_07_01"
+            ],
+            "replaced_placeholder_names": [
+              "MAIN_OLDTOWN_0242",
+              "MAIN_OLDTOWN_0243",
+              "MAIN_OLDTOWN_0244",
+              "MAIN_OLDTOWN_0245",
+              "MAIN_OLDTOWN_0246",
+              "MAIN_OLDTOWN_0247"
+            ],
+            "length_m": 110.88004088288808,
+            "south_facing": true,
+            "front_line": [
+              [
+                427.71997955855596,
+                237.53
+              ],
+              [
+                538.600020441444,
+                237.53
+              ]
+            ]
+          },
+          {
+            "frontage_group": "79:H-1",
+            "source_instances": [
+              "OLDTOWN_V17_ARCADE_05_02",
+              "OLDTOWN_V17_ARCADE_06_02",
+              "OLDTOWN_V17_ARCADE_10_02",
+              "OLDTOWN_V17_ARCADE_57_02",
+              "OLDTOWN_V17_ARCADE_56_02",
+              "OLDTOWN_V17_ARCADE_09_01"
+            ],
+            "replaced_placeholder_names": [
+              "MAIN_OLDTOWN_0206",
+              "MAIN_OLDTOWN_0207",
+              "MAIN_OLDTOWN_0208",
+              "MAIN_OLDTOWN_0209",
+              "MAIN_OLDTOWN_0210",
+              "MAIN_OLDTOWN_0211"
+            ],
+            "length_m": 117.51892638093496,
+            "south_facing": true,
+            "front_line": [
+              [
+                424.4005368095325,
+                325.03
+              ],
+              [
+                541.9194631904675,
+                325.03
+              ]
+            ]
+          },
+          {
+            "frontage_group": "85:H1",
+            "source_instances": [
+              "OLDTOWN_V17_ARCADE_07_02",
+              "OLDTOWN_V17_ARCADE_08_01",
+              "OLDTOWN_V17_ARCADE_09_02",
+              "OLDTOWN_V17_ARCADE_12_01",
+              "OLDTOWN_V17_ARCADE_13_01"
+            ],
+            "replaced_placeholder_names": [
+              "MAIN_OLDTOWN_0248",
+              "MAIN_OLDTOWN_0249",
+              "MAIN_OLDTOWN_0250",
+              "MAIN_OLDTOWN_0251",
+              "MAIN_OLDTOWN_0252"
+            ],
+            "length_m": 157.73485961914062,
+            "south_facing": false,
+            "front_line": [
+              [
+                546.1879655238561,
+                314.97
+              ],
+              [
+                388.45310590471547,
+                314.97
+              ]
+            ]
+          },
+          {
+            "frontage_group": "79:H1",
+            "source_instances": [
+              "OLDTOWN_V17_ARCADE_08_02",
+              "OLDTOWN_V17_ARCADE_12_02",
+              "OLDTOWN_V17_ARCADE_13_02",
+              "OLDTOWN_V17_ARCADE_57_03",
+              "OLDTOWN_V17_ARCADE_56_03"
+            ],
+            "replaced_placeholder_names": [
+              "MAIN_OLDTOWN_0212",
+              "MAIN_OLDTOWN_0213",
+              "MAIN_OLDTOWN_0214",
+              "MAIN_OLDTOWN_0215",
+              "MAIN_OLDTOWN_0216"
+            ],
+            "length_m": 124.52335997468495,
+            "south_facing": false,
+            "front_line": [
+              [
+                529.5822157016282,
+                402.47
+              ],
+              [
+                405.0588557269433,
+                402.47
+              ]
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "check": "unchanged_coasts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_lake",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_nodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_edges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_interchanges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_grade_separated_crossings",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_pedestrian_alleys",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_cbd_plan",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "municipal_campus_unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "untouched_original_geometry_uv_and_transforms",
+      "passed": true,
+      "detail": {
+        "checked": 1005,
+        "failures": []
+      }
+    },
+    {
+      "check": "changed_buildings_land_roads_reserved_lot_and_neighbors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "changed_buildings_perimeter_ground_continuity",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "source_heights_uvs_and_uniform_nonmirrored_scale",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "new_arcade_mesh_reuse_05",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_06",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_07",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_08",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_09",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_10",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_12",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_13",
+      "passed": true,
+      "detail": {
+        "new_instances": 2
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_57",
+      "passed": true,
+      "detail": {
+        "new_instances": 3
+      }
+    },
+    {
+      "check": "new_arcade_mesh_reuse_56",
+      "passed": true,
+      "detail": {
+        "new_instances": 3
+      }
+    },
+    {
+      "check": "all_apartments_inside_marked_destination",
+      "passed": true,
+      "detail": [
+        {
+          "name": "APT_V16_YELLOW_50_01",
+          "center": [
+            -443,
+            1007
+          ]
+        },
+        {
+          "name": "APT_V16_YELLOW_50_02",
+          "center": [
+            -401,
+            1007
+          ]
+        },
+        {
+          "name": "APT_V16_YELLOW_50_03",
+          "center": [
+            -443,
+            1062
+          ]
+        },
+        {
+          "name": "APT_V16_YELLOW_50_04",
+          "center": [
+            -401,
+            1062
+          ]
+        },
+        {
+          "name": "APT_V16_PINK_53_01",
+          "center": [
+            -359,
+            1007
+          ]
+        },
+        {
+          "name": "APT_V16_PINK_53_02",
+          "center": [
+            -317,
+            1007
+          ]
+        },
+        {
+          "name": "APT_V16_PINK_53_03",
+          "center": [
+            -359,
+            1062
+          ]
+        },
+        {
+          "name": "APT_V16_PINK_53_04",
+          "center": [
+            -317,
+            1062
+          ]
+        },
+        {
+          "name": "APT_V16_GRAY_54_01",
+          "center": [
+            -275,
+            1007
+          ]
+        },
+        {
+          "name": "APT_V16_GRAY_54_02",
+          "center": [
+            -233,
+            1007
+          ]
+        },
+        {
+          "name": "APT_V16_GRAY_54_03",
+          "center": [
+            -275,
+            1062
+          ]
+        },
+        {
+          "name": "APT_V16_GRAY_54_04",
+          "center": [
+            -233,
+            1062
+          ]
+        }
+      ]
+    },
+    {
+      "check": "four_of_each_color_grouped",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "apartment_walks_connected_and_clear_of_traffic",
+      "passed": true,
+      "detail": [
+        {
+          "name": "APT_V16_YELLOW_50_01",
+          "missing_samples": 0,
+          "maximum_grade": 0.01915282950909402,
+          "length_m": 12.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_YELLOW_50_02",
+          "missing_samples": 0,
+          "maximum_grade": 0.014598519906365352,
+          "length_m": 12.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_YELLOW_50_03",
+          "missing_samples": 0,
+          "maximum_grade": 0.029459719236304797,
+          "length_m": 17.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_YELLOW_50_04",
+          "missing_samples": 0,
+          "maximum_grade": 0.023962191557568947,
+          "length_m": 17.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_01",
+          "missing_samples": 0,
+          "maximum_grade": 0.009340286254883645,
+          "length_m": 11.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_02",
+          "missing_samples": 0,
+          "maximum_grade": 0.00412940979004055,
+          "length_m": 11.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_03",
+          "missing_samples": 0,
+          "maximum_grade": 0.015293199354908603,
+          "length_m": 16.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_04",
+          "missing_samples": 0,
+          "maximum_grade": 0.006581091873255617,
+          "length_m": 16.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_01",
+          "missing_samples": 0,
+          "maximum_grade": 0.029462165399178925,
+          "length_m": 6.9683349609374545,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_02",
+          "missing_samples": 0,
+          "maximum_grade": 0.04586335830786919,
+          "length_m": 6.9683349609374545,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_03",
+          "missing_samples": 0,
+          "maximum_grade": 0.027087237590851215,
+          "length_m": 11.968334960937455,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_04",
+          "missing_samples": 0,
+          "maximum_grade": 0.05038481967356804,
+          "length_m": 11.968334960937455,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "Apartment_Court_Spine",
+          "missing_samples": 0,
+          "maximum_grade": 0.11491998036702533,
+          "length_m": 270.0,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "Apartment_Exit_-198",
+          "missing_samples": 0,
+          "maximum_grade": 0.061233617787240985,
+          "length_m": 2.4000000000000057,
+          "carriage_overlap_m2": 0.0
+        }
+      ]
+    },
+    {
+      "check": "apartment_walk_grade",
+      "passed": true,
+      "detail": [
+        {
+          "name": "APT_V16_YELLOW_50_01",
+          "missing_samples": 0,
+          "maximum_grade": 0.01915282950909402,
+          "length_m": 12.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_YELLOW_50_02",
+          "missing_samples": 0,
+          "maximum_grade": 0.014598519906365352,
+          "length_m": 12.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_YELLOW_50_03",
+          "missing_samples": 0,
+          "maximum_grade": 0.029459719236304797,
+          "length_m": 17.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_YELLOW_50_04",
+          "missing_samples": 0,
+          "maximum_grade": 0.023962191557568947,
+          "length_m": 17.544873046874955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_01",
+          "missing_samples": 0,
+          "maximum_grade": 0.009340286254883645,
+          "length_m": 11.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_02",
+          "missing_samples": 0,
+          "maximum_grade": 0.00412940979004055,
+          "length_m": 11.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_03",
+          "missing_samples": 0,
+          "maximum_grade": 0.015293199354908603,
+          "length_m": 16.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_PINK_53_04",
+          "missing_samples": 0,
+          "maximum_grade": 0.006581091873255617,
+          "length_m": 16.573925781249955,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_01",
+          "missing_samples": 0,
+          "maximum_grade": 0.029462165399178925,
+          "length_m": 6.9683349609374545,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_02",
+          "missing_samples": 0,
+          "maximum_grade": 0.04586335830786919,
+          "length_m": 6.9683349609374545,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_03",
+          "missing_samples": 0,
+          "maximum_grade": 0.027087237590851215,
+          "length_m": 11.968334960937455,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "APT_V16_GRAY_54_04",
+          "missing_samples": 0,
+          "maximum_grade": 0.05038481967356804,
+          "length_m": 11.968334960937455,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "Apartment_Court_Spine",
+          "missing_samples": 0,
+          "maximum_grade": 0.11491998036702533,
+          "length_m": 270.0,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "Apartment_Exit_-198",
+          "missing_samples": 0,
+          "maximum_grade": 0.061233617787240985,
+          "length_m": 2.4000000000000057,
+          "carriage_overlap_m2": 0.0
+        }
+      ]
+    },
+    {
+      "check": "no_wide_foundation_rims",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "building_perimeter_levels": [
+    {
+      "name": "OLDTOWN_V17_ARCADE_05_01",
+      "samples": 20,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.932051200195019e-07,
+      "floor": 9.313974201493693
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_06_01",
+      "samples": 18,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.9294707520600696e-07,
+      "floor": 9.190498926467583
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_10_01",
+      "samples": 10,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.1198418781741566e-07,
+      "floor": 9.068492958889836
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_57_01",
+      "samples": 43,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 0.02946114759038565,
+      "floor": 8.885867205199716
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_56_01",
+      "samples": 36,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 0.035810222910708234,
+      "floor": 8.601827368891234
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_07_01",
+      "samples": 54,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.461067876742163e-08,
+      "floor": 8.242786754329751
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_05_02",
+      "samples": 20,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 0.014263396144174934,
+      "floor": 12.42909963376278
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_06_02",
+      "samples": 18,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.0572464265455892e-07,
+      "floor": 12.347406020849153
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_10_02",
+      "samples": 10,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.151142144413143e-07,
+      "floor": 12.266168237269977
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_57_02",
+      "samples": 43,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 0.01975340926480662,
+      "floor": 12.14368170342815
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_56_02",
+      "samples": 33,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.4965810868925473e-07,
+      "floor": 11.951532395703222
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_09_01",
+      "samples": 66,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 4.0724065009101196e-07,
+      "floor": 11.679361178419848
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_07_02",
+      "samples": 55,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.5890867405564677e-07,
+      "floor": 11.620641395078108
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_08_01",
+      "samples": 31,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 4.061573424252174e-07,
+      "floor": 11.860435461152228
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_09_02",
+      "samples": 61,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.2493703372438176e-07,
+      "floor": 12.142121067734884
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_12_01",
+      "samples": 36,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 4.7250340529103596e-07,
+      "floor": 12.417355437713365
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_13_01",
+      "samples": 43,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.0211309958995116e-08,
+      "floor": 12.584802988821895
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_08_02",
+      "samples": 43,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 6.729158208429453e-08,
+      "floor": 13.07994029098543
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_12_02",
+      "samples": 36,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.0487022567294844e-07,
+      "floor": 13.305893530675888
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_13_02",
+      "samples": 36,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.5834917255783694e-08,
+      "floor": 13.559511601997025
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_57_03",
+      "samples": 43,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.404508923665617e-07,
+      "floor": 13.769842869747764
+    },
+    {
+      "name": "OLDTOWN_V17_ARCADE_56_03",
+      "samples": 43,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.2777599184564679e-07,
+      "floor": 13.92801776996571
+    },
+    {
+      "name": "APT_V16_YELLOW_50_01",
+      "samples": 71,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.912609786103303e-07,
+      "floor": 13.606117438743906
+    },
+    {
+      "name": "APT_V16_YELLOW_50_02",
+      "samples": 71,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.3831355733250348e-07,
+      "floor": 15.814606809721113
+    },
+    {
+      "name": "APT_V16_YELLOW_50_03",
+      "samples": 71,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.912609786103303e-07,
+      "floor": 13.606117438743906
+    },
+    {
+      "name": "APT_V16_YELLOW_50_04",
+      "samples": 71,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.3831355733250348e-07,
+      "floor": 15.814606809721113
+    },
+    {
+      "name": "APT_V16_PINK_53_01",
+      "samples": 69,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 9.495873030118673e-07,
+      "floor": 17.4443105738502
+    },
+    {
+      "name": "APT_V16_PINK_53_02",
+      "samples": 69,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 4.242283040412076e-07,
+      "floor": 18.327162594638455
+    },
+    {
+      "name": "APT_V16_PINK_53_03",
+      "samples": 69,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 9.495873030118673e-07,
+      "floor": 17.4443105738502
+    },
+    {
+      "name": "APT_V16_PINK_53_04",
+      "samples": 69,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 4.242283040412076e-07,
+      "floor": 18.327162594638455
+    },
+    {
+      "name": "APT_V16_GRAY_54_01",
+      "samples": 87,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.1641163527874596e-08,
+      "floor": 18.466955588047412
+    },
+    {
+      "name": "APT_V16_GRAY_54_02",
+      "samples": 87,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.9070052559300166e-07,
+      "floor": 14.962049675022133
+    },
+    {
+      "name": "APT_V16_GRAY_54_03",
+      "samples": 87,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.1641167080588275e-08,
+      "floor": 18.466955588047412
+    },
+    {
+      "name": "APT_V16_GRAY_54_04",
+      "samples": 87,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.9070052559300166e-07,
+      "floor": 14.962049675022133
+    }
+  ],
+  "apartment_walks": [
+    {
+      "name": "APT_V16_YELLOW_50_01",
+      "missing_samples": 0,
+      "maximum_grade": 0.01915282950909402,
+      "length_m": 12.544873046874955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_YELLOW_50_02",
+      "missing_samples": 0,
+      "maximum_grade": 0.014598519906365352,
+      "length_m": 12.544873046874955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_YELLOW_50_03",
+      "missing_samples": 0,
+      "maximum_grade": 0.029459719236304797,
+      "length_m": 17.544873046874955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_YELLOW_50_04",
+      "missing_samples": 0,
+      "maximum_grade": 0.023962191557568947,
+      "length_m": 17.544873046874955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_PINK_53_01",
+      "missing_samples": 0,
+      "maximum_grade": 0.009340286254883645,
+      "length_m": 11.573925781249955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_PINK_53_02",
+      "missing_samples": 0,
+      "maximum_grade": 0.00412940979004055,
+      "length_m": 11.573925781249955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_PINK_53_03",
+      "missing_samples": 0,
+      "maximum_grade": 0.015293199354908603,
+      "length_m": 16.573925781249955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_PINK_53_04",
+      "missing_samples": 0,
+      "maximum_grade": 0.006581091873255617,
+      "length_m": 16.573925781249955,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_GRAY_54_01",
+      "missing_samples": 0,
+      "maximum_grade": 0.029462165399178925,
+      "length_m": 6.9683349609374545,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_GRAY_54_02",
+      "missing_samples": 0,
+      "maximum_grade": 0.04586335830786919,
+      "length_m": 6.9683349609374545,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_GRAY_54_03",
+      "missing_samples": 0,
+      "maximum_grade": 0.027087237590851215,
+      "length_m": 11.968334960937455,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "APT_V16_GRAY_54_04",
+      "missing_samples": 0,
+      "maximum_grade": 0.05038481967356804,
+      "length_m": 11.968334960937455,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "Apartment_Court_Spine",
+      "missing_samples": 0,
+      "maximum_grade": 0.11491998036702533,
+      "length_m": 270.0,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "Apartment_Exit_-198",
+      "missing_samples": 0,
+      "maximum_grade": 0.061233617787240985,
+      "length_m": 2.4000000000000057,
+      "carriage_overlap_m2": 0.0
+    }
+  ],
+  "changed_buildings_checked": 34,
+  "original_geometry_objects_checked": 1005
+}

@@ -1,0 +1,37 @@
+{
+  "status": "PASS",
+  "changed_district_files_checked": 5,
+  "part_compressed_and_glb_hashes_verified": true,
+  "districts": [
+    {
+      "id": 2,
+      "bytes": 66216584,
+      "sha256": "753e48f672b9b15eb4c912d84cd14c95ca33eea30ee03b7afd7ab4dbf0e7dc66",
+      "passed": true
+    },
+    {
+      "id": 3,
+      "bytes": 107821064,
+      "sha256": "ee9f5bd21e4258c965021cde329cada0386cb6a75b85c59fa3962b17ec1092f0",
+      "passed": true
+    },
+    {
+      "id": 4,
+      "bytes": 62201940,
+      "sha256": "2d1bf2cd41fec676840c49d410b91b65b50c0c6d80a63e1e2fe4f81f1e717d46",
+      "passed": true
+    },
+    {
+      "id": 6,
+      "bytes": 106364464,
+      "sha256": "89d05635a47ab748d6563afcbfef6d19d9922f94eec65baafe21eb89fa833907",
+      "passed": true
+    },
+    {
+      "id": 7,
+      "bytes": 155168528,
+      "sha256": "cf72c94d43dd0aeff3b3c4985e971490bc3f78a0efb3c8cd80c7f529aaf73257",
+      "passed": true
+    }
+  ]
+}

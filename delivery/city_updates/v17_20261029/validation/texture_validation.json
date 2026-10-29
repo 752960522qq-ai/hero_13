@@ -1,0 +1,211 @@
+{
+  "status": "PASS",
+  "instances_checked": 34,
+  "original_source_textures_preserved": true,
+  "checks": [
+    {
+      "instance": "APT_V16_YELLOW_50_01",
+      "template": "APT_V16_YELLOW_50_01",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_YELLOW_50_02",
+      "template": "APT_V16_YELLOW_50_02",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_YELLOW_50_03",
+      "template": "APT_V16_YELLOW_50_03",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_YELLOW_50_04",
+      "template": "APT_V16_YELLOW_50_04",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_PINK_53_01",
+      "template": "APT_V16_PINK_53_01",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_PINK_53_02",
+      "template": "APT_V16_PINK_53_02",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_PINK_53_03",
+      "template": "APT_V16_PINK_53_03",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_PINK_53_04",
+      "template": "APT_V16_PINK_53_04",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_GRAY_54_01",
+      "template": "APT_V16_GRAY_54_01",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_GRAY_54_02",
+      "template": "APT_V16_GRAY_54_02",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_GRAY_54_03",
+      "template": "APT_V16_GRAY_54_03",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "APT_V16_GRAY_54_04",
+      "template": "APT_V16_GRAY_54_04",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_05_01",
+      "template": "OLDTOWN_Connected_Arcade_05",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_06_01",
+      "template": "OLDTOWN_Connected_Arcade_06",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_10_01",
+      "template": "OLDTOWN_Corner_Shop_10",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_57_01",
+      "template": "01-modern-storefront-building-3d-model-57.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_56_01",
+      "template": "02-building-3d-model-56.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_07_01",
+      "template": "OLDTOWN_Connected_Arcade_07",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_05_02",
+      "template": "OLDTOWN_Connected_Arcade_05",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_06_02",
+      "template": "OLDTOWN_Connected_Arcade_06",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_10_02",
+      "template": "OLDTOWN_Corner_Shop_10",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_57_02",
+      "template": "01-modern-storefront-building-3d-model-57.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_56_02",
+      "template": "02-building-3d-model-56.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_09_01",
+      "template": "OLDTOWN_Connected_Shop_09",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_07_02",
+      "template": "OLDTOWN_Connected_Arcade_07",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_08_01",
+      "template": "OLDTOWN_Connected_Shop_08",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_09_02",
+      "template": "OLDTOWN_Connected_Shop_09",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_12_01",
+      "template": "OLDTOWN_Joined_Storefront_12",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_13_01",
+      "template": "OLDTOWN_Joined_Urban_Shopfront_13",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_08_02",
+      "template": "OLDTOWN_Connected_Shop_08",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_12_02",
+      "template": "OLDTOWN_Joined_Storefront_12",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_13_02",
+      "template": "OLDTOWN_Joined_Urban_Shopfront_13",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_57_03",
+      "template": "01-modern-storefront-building-3d-model-57.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V17_ARCADE_56_03",
+      "template": "02-building-3d-model-56.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    }
+  ]
+}

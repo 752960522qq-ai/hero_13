@@ -1,0 +1,212 @@
+[
+  {
+    "key": "05",
+    "file": "urban+building+facade+5.glb",
+    "baseline_source_instance": "OLDTOWN_Connected_Arcade_05",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Connected_Arcade_05",
+      "OLDTOWN_V17_ARCADE_05_01",
+      "OLDTOWN_V17_ARCADE_05_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 9.40380859375,
+    "depth_m": 8.693511962890625,
+    "target_height_m": 11.8,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "06",
+    "file": "old+building+facade+6.glb",
+    "baseline_source_instance": "OLDTOWN_Connected_Arcade_06",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Connected_Arcade_06",
+      "OLDTOWN_V17_ARCADE_06_01",
+      "OLDTOWN_V17_ARCADE_06_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 13.2266845703125,
+    "depth_m": 9.540740966796875,
+    "target_height_m": 11.8,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "07",
+    "file": "storefront+building+7.glb",
+    "baseline_source_instance": "OLDTOWN_Connected_Arcade_07",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Connected_Arcade_07",
+      "OLDTOWN_V17_ARCADE_07_01",
+      "OLDTOWN_V17_ARCADE_07_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 35.651702880859375,
+    "depth_m": 9.946380615234375,
+    "target_height_m": 11.5,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "08",
+    "file": "old+urban+building+8.glb",
+    "baseline_source_instance": "OLDTOWN_Connected_Shop_08",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Connected_Shop_08",
+      "OLDTOWN_V17_ARCADE_08_01",
+      "OLDTOWN_V17_ARCADE_08_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 23.2808837890625,
+    "depth_m": 11.732269287109375,
+    "target_height_m": 15.2,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "09",
+    "file": "city+street+building+9.glb",
+    "baseline_source_instance": "OLDTOWN_Connected_Shop_09",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Connected_Shop_09",
+      "OLDTOWN_V17_ARCADE_09_01",
+      "OLDTOWN_V17_ARCADE_09_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 42.29058837890625,
+    "depth_m": 13.17803955078125,
+    "target_height_m": 14.4,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "10",
+    "file": "urban+building+facade+10.glb",
+    "baseline_source_instance": "OLDTOWN_Corner_Shop_10",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Corner_Shop_10",
+      "OLDTOWN_V17_ARCADE_10_01",
+      "OLDTOWN_V17_ARCADE_10_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 7.66705322265625,
+    "depth_m": 7.870697021484375,
+    "target_height_m": 11.8,
+    "no_mirror": true,
+    "scale_policy": "Uniform; legacy corner adaptation retained in the approved template"
+  },
+  {
+    "key": "12",
+    "file": "storefront_12.glb",
+    "baseline_source_instance": "OLDTOWN_Joined_Storefront_12",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Joined_Storefront_12",
+      "OLDTOWN_V17_ARCADE_12_01",
+      "OLDTOWN_V17_ARCADE_12_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 28.0997314453125,
+    "depth_m": 7.31427001953125,
+    "target_height_m": 13.2,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "13",
+    "file": "urban_shopfront_13.glb",
+    "baseline_source_instance": "OLDTOWN_Joined_Urban_Shopfront_13",
+    "source_district": 3,
+    "new_source": false,
+    "sha256": null,
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_Joined_Urban_Shopfront_13",
+      "OLDTOWN_V17_ARCADE_13_01",
+      "OLDTOWN_V17_ARCADE_13_02"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 2,
+    "width_m": 28.251953125,
+    "depth_m": 7.386199951171875,
+    "target_height_m": 13.2,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "57",
+    "file": "01-modern-storefront-building-3d-model-57.glb",
+    "baseline_source_instance": null,
+    "source_district": null,
+    "new_source": true,
+    "sha256": "c0e6ccdfeb734b9ec9b886db1d31919d9fdd5e2df154aabcf3571bae0b80422c",
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_V17_ARCADE_57_01",
+      "OLDTOWN_V17_ARCADE_57_02",
+      "OLDTOWN_V17_ARCADE_57_03"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 3,
+    "width_m": 22.052716462789583,
+    "depth_m": 22.519045991936032,
+    "target_height_m": 10.2,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  },
+  {
+    "key": "56",
+    "file": "02-building-3d-model-56.glb",
+    "baseline_source_instance": null,
+    "source_district": null,
+    "new_source": true,
+    "sha256": "308ecd2f6189fa2cb128c170e9ccccb9eed1abda3e1e313f4ed8460e74523573",
+    "total_instance_limit": 3,
+    "instances": [
+      "OLDTOWN_V17_ARCADE_56_01",
+      "OLDTOWN_V17_ARCADE_56_02",
+      "OLDTOWN_V17_ARCADE_56_03"
+    ],
+    "instance_count": 3,
+    "replacements_this_version": 3,
+    "width_m": 22.678075152520368,
+    "depth_m": 17.749134013141536,
+    "target_height_m": 13.0,
+    "no_mirror": true,
+    "scale_policy": "Uniform; source proportions and textures retained"
+  }
+]

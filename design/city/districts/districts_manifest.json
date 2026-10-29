@@ -11,16 +11,16 @@
   "land_district_count": 16,
   "file_count": 18,
   "exported_district_ids": [
-    6,
-    7,
-    8
-  ],
-  "reused_district_ids": [
-    1,
     2,
     3,
     4,
+    6,
+    7
+  ],
+  "reused_district_ids": [
+    1,
     5,
+    8,
     9,
     10,
     11,
@@ -32,8 +32,8 @@
     17,
     18
   ],
-  "source_mesh_count": 1793,
-  "source_triangle_count": 3486022,
+  "source_mesh_count": 1834,
+  "source_triangle_count": 3965883,
   "districts": [
     {
       "id": 1,
@@ -80,9 +80,11 @@
       "id": 2,
       "name": "主岛南部偏西",
       "file": "02_main_south_west_center.glb",
-      "file_size_bytes": 66258636,
-      "mesh_objects": 192,
-      "triangles": 332826,
+      "file_size_bytes": 66216584,
+      "sha256": "753e48f672b9b15eb4c912d84cd14c95ca33eea30ee03b7afd7ab4dbf0e7dc66",
+      "base_sha256": "75585d6d1a2bbfe4390cf2ab47341c79d18aa6c6d0a772fdf0a01ea536ad825e",
+      "mesh_objects": 188,
+      "triangles": 331902,
       "bounds_blender": [
         [
           -505.5249938964844,
@@ -134,16 +136,17 @@
         0
       ],
       "common": false,
-      "sha256": "75585d6d1a2bbfe4390cf2ab47341c79d18aa6c6d0a772fdf0a01ea536ad825e",
       "reused_from": null
     },
     {
       "id": 3,
       "name": "主岛南部偏东／老城区街角",
       "file": "03_main_south_east_center.glb",
-      "file_size_bytes": 100031352,
-      "mesh_objects": 409,
-      "triangles": 876953,
+      "file_size_bytes": 107821064,
+      "sha256": "ee9f5bd21e4258c965021cde329cada0386cb6a75b85c59fa3962b17ec1092f0",
+      "base_sha256": "8117be047b1cbda5668ac431a0c47499ae2f461ec83c14df023b2d68c8097000",
+      "mesh_objects": 444,
+      "triangles": 1191186,
       "bounds_blender": [
         [
           -8.749429702758789,
@@ -230,7 +233,25 @@
         "OLDTOWN_Rear_27_02_Asset18",
         "OLDTOWN_Rear_28_01_Asset13",
         "OLDTOWN_Rear_29_01_Asset20",
-        "OLDTOWN_Rear_29_02_Asset19"
+        "OLDTOWN_Rear_29_02_Asset19",
+        "OLDTOWN_V17_ARCADE_05_01",
+        "OLDTOWN_V17_ARCADE_05_02",
+        "OLDTOWN_V17_ARCADE_06_01",
+        "OLDTOWN_V17_ARCADE_06_02",
+        "OLDTOWN_V17_ARCADE_08_01",
+        "OLDTOWN_V17_ARCADE_09_02",
+        "OLDTOWN_V17_ARCADE_10_01",
+        "OLDTOWN_V17_ARCADE_10_02",
+        "OLDTOWN_V17_ARCADE_12_01",
+        "OLDTOWN_V17_ARCADE_12_02",
+        "OLDTOWN_V17_ARCADE_13_01",
+        "OLDTOWN_V17_ARCADE_13_02",
+        "OLDTOWN_V17_ARCADE_56_01",
+        "OLDTOWN_V17_ARCADE_56_02",
+        "OLDTOWN_V17_ARCADE_56_03",
+        "OLDTOWN_V17_ARCADE_57_01",
+        "OLDTOWN_V17_ARCADE_57_02",
+        "OLDTOWN_V17_ARCADE_57_03"
       ],
       "root_translation": [
         0,
@@ -238,16 +259,17 @@
         0
       ],
       "common": false,
-      "sha256": "8117be047b1cbda5668ac431a0c47499ae2f461ec83c14df023b2d68c8097000",
       "reused_from": null
     },
     {
       "id": 4,
       "name": "主岛东南",
       "file": "04_main_se.glb",
-      "file_size_bytes": 41137704,
-      "mesh_objects": 132,
-      "triangles": 168571,
+      "file_size_bytes": 62201940,
+      "sha256": "2d1bf2cd41fec676840c49d410b91b65b50c0c6d80a63e1e2fe4f81f1e717d46",
+      "base_sha256": "bc26cbb62df4297fc50b876e7f8ab62c5fcaf2946939a2c41b927b4292d362a3",
+      "mesh_objects": 141,
+      "triangles": 321154,
       "bounds_blender": [
         [
           494.05120849609375,
@@ -282,7 +304,11 @@
         "OLDTOWN_Rear_26_02_Asset17",
         "OLDTOWN_Rear_30_01_Asset18",
         "OLDTOWN_Rear_30_02_Asset17",
-        "OLDTOWN_Rear_31_01_Asset14"
+        "OLDTOWN_Rear_31_01_Asset14",
+        "OLDTOWN_V17_ARCADE_07_01",
+        "OLDTOWN_V17_ARCADE_07_02",
+        "OLDTOWN_V17_ARCADE_08_02",
+        "OLDTOWN_V17_ARCADE_09_01"
       ],
       "root_translation": [
         0,
@@ -290,7 +316,6 @@
         0
       ],
       "common": false,
-      "sha256": "bc26cbb62df4297fc50b876e7f8ab62c5fcaf2946939a2c41b927b4292d362a3",
       "reused_from": null
     },
     {
@@ -338,11 +363,11 @@
       "id": 6,
       "name": "主岛北部偏西／CBD原建筑",
       "file": "06_main_north_west_center.glb",
-      "file_size_bytes": 100214308,
-      "sha256": "a5b78bd666fb2ee786f5850d71c99596ccf51fdd96b66a59711d6817dad71bac",
-      "base_sha256": "44a7fc596c751e5d40eec0d0b5fd8cc921a8bd9021c63494cb4224c6258ca2e3",
-      "mesh_objects": 142,
-      "triangles": 544181,
+      "file_size_bytes": 106364464,
+      "sha256": "89d05635a47ab748d6563afcbfef6d19d9922f94eec65baafe21eb89fa833907",
+      "base_sha256": "a5b78bd666fb2ee786f5850d71c99596ccf51fdd96b66a59711d6817dad71bac",
+      "mesh_objects": 151,
+      "triangles": 649309,
       "bounds_blender": [
         [
           -505.5249938964844,
@@ -369,6 +394,10 @@
       ],
       "source_building_instances": [
         "APT_V14_A36",
+        "APT_V16_GRAY_54_01",
+        "APT_V16_GRAY_54_02",
+        "APT_V16_GRAY_54_03",
+        "APT_V16_GRAY_54_04",
         "APT_V16_PINK_53_01",
         "APT_V16_PINK_53_02",
         "APT_V16_PINK_53_03",
@@ -401,11 +430,11 @@
       "id": 7,
       "name": "主岛北部偏东／CBD",
       "file": "07_main_north_east_center.glb",
-      "file_size_bytes": 160247952,
-      "sha256": "ef4c0fc2c54ce7c523e74370ca9154df54ec28e6127082082bfbabc04bd75cbb",
-      "base_sha256": "124c820cabb645bdab2973c3c31cdc5cc17f2413fe11ec692dfb1b42707eee55",
-      "mesh_objects": 192,
-      "triangles": 1111772,
+      "file_size_bytes": 155168528,
+      "sha256": "cf72c94d43dd0aeff3b3c4985e971490bc3f78a0efb3c8cd80c7f529aaf73257",
+      "base_sha256": "ef4c0fc2c54ce7c523e74370ca9154df54ec28e6127082082bfbabc04bd75cbb",
+      "mesh_objects": 184,
+      "triangles": 1020613,
       "bounds_blender": [
         [
           -6.1232099533081055,
@@ -433,10 +462,6 @@
       "source_building_instances": [
         "APT_V14_A32",
         "APT_V14_A35",
-        "APT_V16_GRAY_54_01",
-        "APT_V16_GRAY_54_02",
-        "APT_V16_GRAY_54_03",
-        "APT_V16_GRAY_54_04",
         "CBD_Imported_22",
         "CBD_Imported_25",
         "CBD_Imported_26A",
