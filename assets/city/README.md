@@ -1,5 +1,7 @@
 > 最新版本为 **v13**：CBD 收紧至现有 29 座，另预留 172×195 m 的天明大厦用地，未来合计 30 座。全城现有 652 座、净陆地 3.25 km²。完整工程见 [delivery/city_v13](../../delivery/city_v13/README.md)，说明见 [design/city/v13](../../design/city/v13/README.md)。
 
+> **后续上传方式（2026-10-29）**：只上传修改区块和必要的备注、清单，未改区块沿用现有文件。以 v13 完整交付为初始基准；后续按已验证的增量替换对应区块。详见 [区块增量上传约定](../../delivery/city_updates/README.md)。
+
 > 最新完整版本为 **v12**：新增两类后巷楼并加密至 80 栋，8 个写字楼素材各用一次，全城 3.25 km²、682 个建筑单元。完整工程与 18 个区块见 [delivery/city_v12](../../delivery/city_v12/README.md)，详细说明见 [design/city/v12](../../design/city/v12/README.md)。
 
 # 城市 v11 · 后巷素材替换完成
