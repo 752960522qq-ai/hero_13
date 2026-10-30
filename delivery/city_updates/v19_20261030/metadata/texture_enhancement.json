@@ -1,0 +1,18 @@
+{
+  "changed_assets": [
+    "S04-B02",
+    "S04-B03",
+    "S04-B04",
+    "S04-B06"
+  ],
+  "original_pixels": [
+    1024,
+    1024
+  ],
+  "enhanced_pixels": [
+    1254,
+    1254
+  ],
+  "uv_geometry_unchanged": true,
+  "not_an_original_detail_recovery": true
+}

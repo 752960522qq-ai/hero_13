@@ -1,0 +1,4465 @@
+{
+  "version": "v19",
+  "baseline_commit": "6a69d2b7d79dbc7d35570fd13cc96216e7472fad",
+  "changed_district_ids": [
+    4,
+    8,
+    9,
+    14
+  ],
+  "removed_placeholder_lots": [
+    {
+      "name": "MAIN_RESIDENTIAL_0086",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        646.0,
+        437.5
+      ],
+      "footprint": [
+        [
+          659.0,
+          420.5
+        ],
+        [
+          659.0,
+          454.5
+        ],
+        [
+          633.0,
+          454.5
+        ],
+        [
+          633.0,
+          420.5
+        ]
+      ],
+      "base": 16.726518790036906,
+      "height": 28.26168538314527,
+      "size": [
+        26.0,
+        34.0,
+        28.26168538314527
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0101",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        852.5,
+        437.5
+      ],
+      "footprint": [
+        [
+          865.5,
+          420.5
+        ],
+        [
+          865.5,
+          454.5
+        ],
+        [
+          839.5,
+          454.5
+        ],
+        [
+          839.5,
+          420.5
+        ]
+      ],
+      "base": 9.074581739571183,
+      "height": 20.12917463440575,
+      "size": [
+        26.0,
+        34.0,
+        20.12917463440575
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "ground_corrected_in": "v15"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0087",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        646.0,
+        482.5
+      ],
+      "footprint": [
+        [
+          659.0,
+          465.5
+        ],
+        [
+          659.0,
+          499.5
+        ],
+        [
+          633.0,
+          499.5
+        ],
+        [
+          633.0,
+          465.5
+        ]
+      ],
+      "base": 17.88399276768337,
+      "height": 16.613449652002338,
+      "size": [
+        26.0,
+        34.0,
+        16.613449652002338
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0102",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        852.5,
+        482.5
+      ],
+      "footprint": [
+        [
+          865.5,
+          465.5
+        ],
+        [
+          865.5,
+          499.5
+        ],
+        [
+          839.5,
+          499.5
+        ],
+        [
+          839.5,
+          465.5
+        ]
+      ],
+      "base": 9.61578219281289,
+      "height": 17.24705691910078,
+      "size": [
+        26.0,
+        34.0,
+        17.24705691910078
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0088",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        686.0,
+        437.5
+      ],
+      "footprint": [
+        [
+          699.0,
+          420.5
+        ],
+        [
+          699.0,
+          454.5
+        ],
+        [
+          673.0,
+          454.5
+        ],
+        [
+          673.0,
+          420.5
+        ]
+      ],
+      "base": 16.70316939220003,
+      "height": 29.363738260209743,
+      "size": [
+        26.0,
+        34.0,
+        29.363738260209743
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0103",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        852.5,
+        527.5
+      ],
+      "footprint": [
+        [
+          865.5,
+          510.5
+        ],
+        [
+          865.5,
+          544.5
+        ],
+        [
+          839.5,
+          544.5
+        ],
+        [
+          839.5,
+          510.5
+        ]
+      ],
+      "base": 10.361283964265734,
+      "height": 24.482614809941246,
+      "size": [
+        26.0,
+        34.0,
+        24.482614809941246
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0089",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        686.0,
+        482.5
+      ],
+      "footprint": [
+        [
+          699.0,
+          465.5
+        ],
+        [
+          699.0,
+          499.5
+        ],
+        [
+          673.0,
+          499.5
+        ],
+        [
+          673.0,
+          465.5
+        ]
+      ],
+      "base": 17.88156612236569,
+      "height": 24.087701239758488,
+      "size": [
+        26.0,
+        34.0,
+        24.087701239758488
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0104",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        852.5,
+        572.5
+      ],
+      "footprint": [
+        [
+          865.5,
+          555.5
+        ],
+        [
+          865.5,
+          589.5
+        ],
+        [
+          839.5,
+          589.5
+        ],
+        [
+          839.5,
+          555.5
+        ]
+      ],
+      "base": 10.787927000695582,
+      "height": 23.21755304363422,
+      "size": [
+        26.0,
+        34.0,
+        23.21755304363422
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0090",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        726.0,
+        437.5
+      ],
+      "footprint": [
+        [
+          739.0,
+          420.5
+        ],
+        [
+          739.0,
+          454.5
+        ],
+        [
+          713.0,
+          454.5
+        ],
+        [
+          713.0,
+          420.5
+        ]
+      ],
+      "base": 16.109051781416603,
+      "height": 18.547935641657467,
+      "size": [
+        26.0,
+        34.0,
+        18.547935641657467
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0105",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        852.5,
+        617.5
+      ],
+      "footprint": [
+        [
+          865.5,
+          600.5
+        ],
+        [
+          865.5,
+          634.5
+        ],
+        [
+          839.5,
+          634.5
+        ],
+        [
+          839.5,
+          600.5
+        ]
+      ],
+      "base": 10.831995319031813,
+      "height": 23.865989245312974,
+      "size": [
+        26.0,
+        34.0,
+        23.865989245312974
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0091",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        726.0,
+        482.5
+      ],
+      "footprint": [
+        [
+          739.0,
+          465.5
+        ],
+        [
+          739.0,
+          499.5
+        ],
+        [
+          713.0,
+          499.5
+        ],
+        [
+          713.0,
+          465.5
+        ]
+      ],
+      "base": 17.605428025614557,
+      "height": 16.007568790550717,
+      "size": [
+        26.0,
+        34.0,
+        16.007568790550717
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0106",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        892.5,
+        437.5
+      ],
+      "footprint": [
+        [
+          905.5,
+          420.5
+        ],
+        [
+          905.5,
+          454.5
+        ],
+        [
+          879.5,
+          454.5
+        ],
+        [
+          879.5,
+          420.5
+        ]
+      ],
+      "base": 7.845654081606486,
+      "height": 16.622130760982735,
+      "size": [
+        26.0,
+        34.0,
+        16.622130760982735
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0092",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        726.0,
+        527.5
+      ],
+      "footprint": [
+        [
+          739.0,
+          510.5
+        ],
+        [
+          739.0,
+          544.5
+        ],
+        [
+          713.0,
+          544.5
+        ],
+        [
+          713.0,
+          510.5
+        ]
+      ],
+      "base": 18.8870869348549,
+      "height": 28.663695199733823,
+      "size": [
+        26.0,
+        34.0,
+        28.663695199733823
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0107",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        892.5,
+        482.5
+      ],
+      "footprint": [
+        [
+          905.5,
+          465.5
+        ],
+        [
+          905.5,
+          499.5
+        ],
+        [
+          879.5,
+          499.5
+        ],
+        [
+          879.5,
+          465.5
+        ]
+      ],
+      "base": 8.801701446044845,
+      "height": 29.80324339008886,
+      "size": [
+        26.0,
+        34.0,
+        29.80324339008886
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0093",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        766.0,
+        437.5
+      ],
+      "footprint": [
+        [
+          779.0,
+          420.5
+        ],
+        [
+          779.0,
+          454.5
+        ],
+        [
+          753.0,
+          454.5
+        ],
+        [
+          753.0,
+          420.5
+        ]
+      ],
+      "base": 14.749867021622022,
+      "height": 25.248408408627565,
+      "size": [
+        26.0,
+        34.0,
+        25.248408408627565
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0108",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        892.5,
+        527.5
+      ],
+      "footprint": [
+        [
+          905.5,
+          510.5
+        ],
+        [
+          905.5,
+          544.5
+        ],
+        [
+          879.5,
+          544.5
+        ],
+        [
+          879.5,
+          510.5
+        ]
+      ],
+      "base": 9.526904604245733,
+      "height": 21.251634113594697,
+      "size": [
+        26.0,
+        34.0,
+        21.251634113594697
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0094",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        766.0,
+        482.5
+      ],
+      "footprint": [
+        [
+          779.0,
+          465.5
+        ],
+        [
+          779.0,
+          499.5
+        ],
+        [
+          753.0,
+          499.5
+        ],
+        [
+          753.0,
+          465.5
+        ]
+      ],
+      "base": 16.349427480790617,
+      "height": 25.968914365266777,
+      "size": [
+        26.0,
+        34.0,
+        25.968914365266777
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0109",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        892.5,
+        572.5
+      ],
+      "footprint": [
+        [
+          905.5,
+          555.5
+        ],
+        [
+          905.5,
+          589.5
+        ],
+        [
+          879.5,
+          589.5
+        ],
+        [
+          879.5,
+          555.5
+        ]
+      ],
+      "base": 9.919872976051698,
+      "height": 19.038710079458973,
+      "size": [
+        26.0,
+        34.0,
+        19.038710079458973
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0095",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        766.0,
+        527.5
+      ],
+      "footprint": [
+        [
+          779.0,
+          510.5
+        ],
+        [
+          779.0,
+          544.5
+        ],
+        [
+          753.0,
+          544.5
+        ],
+        [
+          753.0,
+          510.5
+        ]
+      ],
+      "base": 17.680423794068687,
+      "height": 19.288577430182748,
+      "size": [
+        26.0,
+        34.0,
+        19.288577430182748
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0110",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        892.5,
+        617.5
+      ],
+      "footprint": [
+        [
+          905.5,
+          600.5
+        ],
+        [
+          905.5,
+          634.5
+        ],
+        [
+          879.5,
+          634.5
+        ],
+        [
+          879.5,
+          600.5
+        ]
+      ],
+      "base": 9.954095423829802,
+      "height": 16.732436412095016,
+      "size": [
+        26.0,
+        34.0,
+        16.732436412095016
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0096",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        766.0,
+        572.5
+      ],
+      "footprint": [
+        [
+          779.0,
+          555.5
+        ],
+        [
+          779.0,
+          589.5
+        ],
+        [
+          753.0,
+          589.5
+        ],
+        [
+          753.0,
+          555.5
+        ]
+      ],
+      "base": 18.69129298747994,
+      "height": 17.101724240411944,
+      "size": [
+        26.0,
+        34.0,
+        17.101724240411944
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0111",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        932.5,
+        482.5
+      ],
+      "footprint": [
+        [
+          945.5,
+          465.5
+        ],
+        [
+          945.5,
+          499.5
+        ],
+        [
+          919.5,
+          499.5
+        ],
+        [
+          919.5,
+          465.5
+        ]
+      ],
+      "base": 6.395519212684753,
+      "height": 17.24745268497751,
+      "size": [
+        26.0,
+        34.0,
+        17.24745268497751
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0097",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        806.0,
+        437.5
+      ],
+      "footprint": [
+        [
+          819.0,
+          420.5
+        ],
+        [
+          819.0,
+          454.5
+        ],
+        [
+          793.0,
+          454.5
+        ],
+        [
+          793.0,
+          420.5
+        ]
+      ],
+      "base": 12.553820147434413,
+      "height": 20.01431313218513,
+      "size": [
+        26.0,
+        34.0,
+        20.01431313218513
+      ],
+      "block_id": 89,
+      "frontage_group": "89:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "MAIN_RESIDENTIAL_0112",
+      "region": "MAIN",
+      "zone": "RESIDENTIAL",
+      "center": [
+        932.5,
+        527.5
+      ],
+      "footprint": [
+        [
+          945.5,
+          510.5
+        ],
+        [
+          945.5,
+          544.5
+        ],
+        [
+          919.5,
+          544.5
+        ],
+        [
+          919.5,
+          510.5
+        ]
+      ],
+      "base": 6.91569995097413,
+      "height": 17.76983825940471,
+      "size": [
+        26.0,
+        34.0,
+        17.76983825940471
+      ],
+      "block_id": 94,
+      "frontage_group": "94:INTERIOR",
+      "typology": "residential",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "WEST_VILLAGE_0047",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1052.0,
+        -919.5
+      ],
+      "footprint": [
+        [
+          -1060.0,
+          -930.5
+        ],
+        [
+          -1044.0,
+          -930.5
+        ],
+        [
+          -1044.0,
+          -908.5
+        ],
+        [
+          -1060.0,
+          -908.5
+        ]
+      ],
+      "base": 12.546900845842503,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 90,
+      "access_alley": "WEST_VILLAGE_0047_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1063.0,
+            -905.5
+          ],
+          [
+            -1041.0,
+            -905.5
+          ],
+          [
+            -1041.0,
+            -908.44
+          ],
+          [
+            -1043.65,
+            -908.44
+          ],
+          [
+            -1043.65,
+            -908.15
+          ],
+          [
+            -1060.35,
+            -908.15
+          ],
+          [
+            -1060.35,
+            -930.85
+          ],
+          [
+            -1043.65,
+            -930.85
+          ],
+          [
+            -1043.65,
+            -930.56
+          ],
+          [
+            -1041.0,
+            -930.56
+          ],
+          [
+            -1041.0,
+            -933.5
+          ],
+          [
+            -1063.0,
+            -933.5
+          ],
+          [
+            -1063.0,
+            -905.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0044",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1091.0,
+        -919.5
+      ],
+      "footprint": [
+        [
+          -1099.0,
+          -930.5
+        ],
+        [
+          -1083.0,
+          -930.5
+        ],
+        [
+          -1083.0,
+          -908.5
+        ],
+        [
+          -1099.0,
+          -908.5
+        ]
+      ],
+      "base": 10.866485089674407,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 180,
+      "access_alley": "WEST_VILLAGE_0044_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1102.0,
+            -905.5
+          ],
+          [
+            -1099.06,
+            -905.5
+          ],
+          [
+            -1099.06,
+            -908.15
+          ],
+          [
+            -1099.35,
+            -908.15
+          ],
+          [
+            -1099.35,
+            -930.85
+          ],
+          [
+            -1082.65,
+            -930.85
+          ],
+          [
+            -1082.65,
+            -908.15
+          ],
+          [
+            -1082.94,
+            -908.15
+          ],
+          [
+            -1082.94,
+            -905.5
+          ],
+          [
+            -1080.0,
+            -905.5
+          ],
+          [
+            -1080.0,
+            -933.5
+          ],
+          [
+            -1102.0,
+            -933.5
+          ],
+          [
+            -1102.0,
+            -905.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0046",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1052.0,
+        -962.5
+      ],
+      "footprint": [
+        [
+          -1060.0,
+          -973.5
+        ],
+        [
+          -1044.0,
+          -973.5
+        ],
+        [
+          -1044.0,
+          -951.5
+        ],
+        [
+          -1060.0,
+          -951.5
+        ]
+      ],
+      "base": 9.400765901101753,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 90,
+      "access_alley": "WEST_VILLAGE_0046_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1063.0,
+            -948.5
+          ],
+          [
+            -1041.0,
+            -948.5
+          ],
+          [
+            -1041.0,
+            -951.44
+          ],
+          [
+            -1043.65,
+            -951.44
+          ],
+          [
+            -1043.65,
+            -951.15
+          ],
+          [
+            -1060.35,
+            -951.15
+          ],
+          [
+            -1060.35,
+            -973.85
+          ],
+          [
+            -1043.65,
+            -973.85
+          ],
+          [
+            -1043.65,
+            -973.56
+          ],
+          [
+            -1041.0,
+            -973.56
+          ],
+          [
+            -1041.0,
+            -976.5
+          ],
+          [
+            -1063.0,
+            -976.5
+          ],
+          [
+            -1063.0,
+            -948.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0043",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1091.0,
+        -962.5
+      ],
+      "footprint": [
+        [
+          -1099.0,
+          -973.5
+        ],
+        [
+          -1083.0,
+          -973.5
+        ],
+        [
+          -1083.0,
+          -951.5
+        ],
+        [
+          -1099.0,
+          -951.5
+        ]
+      ],
+      "base": 5.312907474733049,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 0,
+      "access_alley": "WEST_VILLAGE_0043_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1102.0,
+            -948.5
+          ],
+          [
+            -1080.0,
+            -948.5
+          ],
+          [
+            -1080.0,
+            -976.5
+          ],
+          [
+            -1082.94,
+            -976.5
+          ],
+          [
+            -1082.94,
+            -973.85
+          ],
+          [
+            -1082.65,
+            -973.85
+          ],
+          [
+            -1082.65,
+            -951.15
+          ],
+          [
+            -1099.35,
+            -951.15
+          ],
+          [
+            -1099.35,
+            -973.85
+          ],
+          [
+            -1099.06,
+            -973.85
+          ],
+          [
+            -1099.06,
+            -976.5
+          ],
+          [
+            -1102.0,
+            -976.5
+          ],
+          [
+            -1102.0,
+            -948.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0041",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1130.0,
+        -919.5
+      ],
+      "footprint": [
+        [
+          -1138.0,
+          -930.5
+        ],
+        [
+          -1122.0,
+          -930.5
+        ],
+        [
+          -1122.0,
+          -908.5
+        ],
+        [
+          -1138.0,
+          -908.5
+        ]
+      ],
+      "base": 8.596951449425891,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 180,
+      "access_alley": "WEST_VILLAGE_0041_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1141.0,
+            -905.5
+          ],
+          [
+            -1138.06,
+            -905.5
+          ],
+          [
+            -1138.06,
+            -908.15
+          ],
+          [
+            -1138.35,
+            -908.15
+          ],
+          [
+            -1138.35,
+            -930.85
+          ],
+          [
+            -1121.65,
+            -930.85
+          ],
+          [
+            -1121.65,
+            -908.15
+          ],
+          [
+            -1121.94,
+            -908.15
+          ],
+          [
+            -1121.94,
+            -905.5
+          ],
+          [
+            -1119.0,
+            -905.5
+          ],
+          [
+            -1119.0,
+            -933.5
+          ],
+          [
+            -1141.0,
+            -933.5
+          ],
+          [
+            -1141.0,
+            -905.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0045",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1052.0,
+        -1005.5
+      ],
+      "footprint": [
+        [
+          -1060.0,
+          -1016.5
+        ],
+        [
+          -1044.0,
+          -1016.5
+        ],
+        [
+          -1044.0,
+          -994.5
+        ],
+        [
+          -1060.0,
+          -994.5
+        ]
+      ],
+      "base": 5.687566596156949,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 0,
+      "access_alley": "WEST_VILLAGE_0045_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1063.0,
+            -991.5
+          ],
+          [
+            -1041.0,
+            -991.5
+          ],
+          [
+            -1041.0,
+            -1019.5
+          ],
+          [
+            -1043.94,
+            -1019.5
+          ],
+          [
+            -1043.94,
+            -1016.85
+          ],
+          [
+            -1043.65,
+            -1016.85
+          ],
+          [
+            -1043.65,
+            -994.15
+          ],
+          [
+            -1060.35,
+            -994.15
+          ],
+          [
+            -1060.35,
+            -1016.85
+          ],
+          [
+            -1060.06,
+            -1016.85
+          ],
+          [
+            -1060.06,
+            -1019.5
+          ],
+          [
+            -1063.0,
+            -1019.5
+          ],
+          [
+            -1063.0,
+            -991.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0040",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1130.0,
+        -962.5
+      ],
+      "footprint": [
+        [
+          -1138.0,
+          -973.5
+        ],
+        [
+          -1122.0,
+          -973.5
+        ],
+        [
+          -1122.0,
+          -951.5
+        ],
+        [
+          -1138.0,
+          -951.5
+        ]
+      ],
+      "base": 4.676563419494611,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 0,
+      "access_alley": "WEST_VILLAGE_0040_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1141.0,
+            -948.5
+          ],
+          [
+            -1119.0,
+            -948.5
+          ],
+          [
+            -1119.0,
+            -976.5
+          ],
+          [
+            -1121.94,
+            -976.5
+          ],
+          [
+            -1121.94,
+            -973.85
+          ],
+          [
+            -1121.65,
+            -973.85
+          ],
+          [
+            -1121.65,
+            -951.15
+          ],
+          [
+            -1138.35,
+            -951.15
+          ],
+          [
+            -1138.35,
+            -973.85
+          ],
+          [
+            -1138.06,
+            -973.85
+          ],
+          [
+            -1138.06,
+            -976.5
+          ],
+          [
+            -1141.0,
+            -976.5
+          ],
+          [
+            -1141.0,
+            -948.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0039",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1169.0,
+        -919.5
+      ],
+      "footprint": [
+        [
+          -1177.0,
+          -930.5
+        ],
+        [
+          -1161.0,
+          -930.5
+        ],
+        [
+          -1161.0,
+          -908.5
+        ],
+        [
+          -1177.0,
+          -908.5
+        ]
+      ],
+      "base": 4.937567988516201,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 0,
+      "access_alley": "WEST_VILLAGE_0039_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1180.0,
+            -905.5
+          ],
+          [
+            -1158.0,
+            -905.5
+          ],
+          [
+            -1158.0,
+            -933.5
+          ],
+          [
+            -1160.94,
+            -933.5
+          ],
+          [
+            -1160.94,
+            -930.85
+          ],
+          [
+            -1160.65,
+            -930.85
+          ],
+          [
+            -1160.65,
+            -908.15
+          ],
+          [
+            -1177.35,
+            -908.15
+          ],
+          [
+            -1177.35,
+            -930.85
+          ],
+          [
+            -1177.06,
+            -930.85
+          ],
+          [
+            -1177.06,
+            -933.5
+          ],
+          [
+            -1180.0,
+            -933.5
+          ],
+          [
+            -1180.0,
+            -905.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "WEST_VILLAGE_0042",
+      "region": "WEST",
+      "zone": "VILLA",
+      "center": [
+        -1091.0,
+        -1005.5
+      ],
+      "footprint": [
+        [
+          -1099.0,
+          -1016.5
+        ],
+        [
+          -1083.0,
+          -1016.5
+        ],
+        [
+          -1083.0,
+          -994.5
+        ],
+        [
+          -1099.0,
+          -994.5
+        ]
+      ],
+      "base": 4.385559888998855,
+      "height": 8.4,
+      "size": [
+        16.0,
+        22.0,
+        8.4
+      ],
+      "block_id": 13,
+      "frontage_group": "13:INTERIOR",
+      "typology": "villa_placeholder",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "added_or_modified_in": "v14",
+      "front_rotation_degrees": 0,
+      "access_alley": "WEST_VILLAGE_0042_Entrance_Walk",
+      "garden_polygon": [
+        [
+          [
+            -1102.0,
+            -991.5
+          ],
+          [
+            -1080.0,
+            -991.5
+          ],
+          [
+            -1080.0,
+            -1019.5
+          ],
+          [
+            -1082.94,
+            -1019.5
+          ],
+          [
+            -1082.94,
+            -1016.85
+          ],
+          [
+            -1082.65,
+            -1016.85
+          ],
+          [
+            -1082.65,
+            -994.15
+          ],
+          [
+            -1099.35,
+            -994.15
+          ],
+          [
+            -1099.35,
+            -1016.85
+          ],
+          [
+            -1099.06,
+            -1016.85
+          ],
+          [
+            -1099.06,
+            -1019.5
+          ],
+          [
+            -1102.0,
+            -1019.5
+          ],
+          [
+            -1102.0,
+            -991.5
+          ]
+        ]
+      ]
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0044",
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "center": [
+        863.5,
+        -839.5
+      ],
+      "footprint": [
+        [
+          894.5,
+          -860.5
+        ],
+        [
+          894.5,
+          -818.5
+        ],
+        [
+          832.5,
+          -818.5
+        ],
+        [
+          832.5,
+          -860.5
+        ]
+      ],
+      "base": 14.197875041711638,
+      "height": 12.345632518384152,
+      "size": [
+        62.0,
+        42.0,
+        12.345632518384152
+      ],
+      "block_id": 108,
+      "frontage_group": "108:INTERIOR",
+      "typology": "industrial",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "ground_corrected_in": "v15"
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0043",
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "center": [
+        863.5,
+        -896.5
+      ],
+      "footprint": [
+        [
+          894.5,
+          -917.5
+        ],
+        [
+          894.5,
+          -875.5
+        ],
+        [
+          832.5,
+          -875.5
+        ],
+        [
+          832.5,
+          -917.5
+        ]
+      ],
+      "base": 13.170240681620399,
+      "height": 16.591811877563785,
+      "size": [
+        62.0,
+        42.0,
+        16.591811877563785
+      ],
+      "block_id": 108,
+      "frontage_group": "108:INTERIOR",
+      "typology": "industrial",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing",
+      "ground_corrected_in": "v15"
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0047",
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "center": [
+        938.5,
+        -839.5
+      ],
+      "footprint": [
+        [
+          969.5,
+          -860.5
+        ],
+        [
+          969.5,
+          -818.5
+        ],
+        [
+          907.5,
+          -818.5
+        ],
+        [
+          907.5,
+          -860.5
+        ]
+      ],
+      "base": 12.793397689572235,
+      "height": 10.340238857699731,
+      "size": [
+        62.0,
+        42.0,
+        10.340238857699731
+      ],
+      "block_id": 108,
+      "frontage_group": "108:INTERIOR",
+      "typology": "industrial",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    },
+    {
+      "name": "EAST_INDUSTRIAL_0046",
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "center": [
+        938.5,
+        -896.5
+      ],
+      "footprint": [
+        [
+          969.5,
+          -917.5
+        ],
+        [
+          969.5,
+          -875.5
+        ],
+        [
+          907.5,
+          -875.5
+        ],
+        [
+          907.5,
+          -917.5
+        ]
+      ],
+      "base": 11.39326723346741,
+      "height": 11.724454342482586,
+      "size": [
+        62.0,
+        42.0,
+        11.724454342482586
+      ],
+      "block_id": 108,
+      "frontage_group": "108:INTERIOR",
+      "typology": "industrial",
+      "building_count_units": 1,
+      "count_basis": "one independent footprint; connected building massing"
+    }
+  ],
+  "placements": [
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S02-B01",
+      "initial_center": [
+        644,
+        451
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S02-B01-I01",
+      "name": "S02-B01-I01",
+      "display_name_zh": "亚洲白色沿街楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "RaoheBuilding_05.fbx_103",
+      "file": "S02-B01_Raohe_terraced_05.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "61b9589fb3ad014cafaeb36b53db6110a364bb8544d139042fb94029534ca307",
+      "center": [
+        644,
+        451
+      ],
+      "footprint_xy": [
+        [
+          637.0039013617554,
+          459.04467296284804
+        ],
+        [
+          637.0039013617554,
+          442.95532703715196
+        ],
+        [
+          650.9960986382446,
+          442.95532703715196
+        ],
+        [
+          650.9960986382446,
+          459.04467296284804
+        ],
+        [
+          637.0039013617554,
+          459.04467296284804
+        ]
+      ],
+      "height": 18.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0086"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S02-B02",
+      "initial_center": [
+        644,
+        472
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S02-B02-I01",
+      "name": "S02-B02-I01",
+      "display_name_zh": "亚洲绿色沿街楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "RaoheBuilding_04.fbx_270",
+      "file": "S02-B02_Raohe_terraced_04.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "48a169c713ba1c92f896c834042354ab1071b02ddbe83fb27d33799235262721",
+      "center": [
+        644,
+        472
+      ],
+      "footprint_xy": [
+        [
+          636.7927005479199,
+          480.2589524166196
+        ],
+        [
+          636.7927005479199,
+          463.7410475833804
+        ],
+        [
+          651.2072994520801,
+          463.7410475833804
+        ],
+        [
+          651.2072994520801,
+          480.2589524166196
+        ],
+        [
+          636.7927005479199,
+          480.2589524166196
+        ]
+      ],
+      "height": 16.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0087"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S02-B04",
+      "initial_center": [
+        644,
+        493
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S02-B04-I01",
+      "name": "S02-B04-I01",
+      "display_name_zh": "亚洲转角商住楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "e5f5c56c46ec4bdc850971cd7c21aec5.fbx_810",
+      "file": "S02-B04_Raohe_corner.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "97a7494d54ac5c0241d79cea2fce24537ddc8877ca88c0370f85a7d940081a62",
+      "center": [
+        644,
+        493
+      ],
+      "footprint_xy": [
+        [
+          637.5314470822722,
+          501.1832689314137
+        ],
+        [
+          637.5314470822722,
+          484.8167310685863
+        ],
+        [
+          650.4685529177278,
+          484.8167310685863
+        ],
+        [
+          650.4685529177278,
+          501.1832689314137
+        ],
+        [
+          637.5314470822722,
+          501.1832689314137
+        ]
+      ],
+      "height": 16.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0089"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S06-B03",
+      "initial_center": [
+        676,
+        435
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S06-B03-I01",
+      "name": "S06-B03-I01",
+      "display_name_zh": "红砖街面楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_4.001_155",
+      "file": "S06-B03_Soho_red_brick.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "75caad284a535ce9425d7835b09721143222f90df8d62b73f24ed73d11db7c29",
+      "center": [
+        676,
+        435
+      ],
+      "footprint_xy": [
+        [
+          665.1718417848954,
+          428.5427435721819
+        ],
+        [
+          686.8281582151046,
+          428.5427435721819
+        ],
+        [
+          686.8281582151046,
+          441.4572564278181
+        ],
+        [
+          665.1718417848954,
+          441.4572564278181
+        ],
+        [
+          665.1718417848954,
+          428.5427435721819
+        ]
+      ],
+      "height": 24.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0088"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S06-B04",
+      "initial_center": [
+        695.8,
+        435
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S06-B04-I01",
+      "name": "S06-B04-I01",
+      "display_name_zh": "灰色街面楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_6.003_156",
+      "file": "S06-B04_Soho_grey.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "3e48469cbbbeb22a066b4fdcf9211de466b9bd23d12dec368fd35acfb4873b35",
+      "center": [
+        695.8,
+        435.0
+      ],
+      "footprint_xy": [
+        [
+          689.2433050201136,
+          446.55468657588585
+        ],
+        [
+          689.2433050201136,
+          423.44531342411415
+        ],
+        [
+          702.3566949798864,
+          423.44531342411415
+        ],
+        [
+          702.3566949798864,
+          446.55468657588585
+        ],
+        [
+          689.2433050201136,
+          446.55468657588585
+        ]
+      ],
+      "height": 24.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        6.123233995736766e-17,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0091"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S06-B06",
+      "initial_center": [
+        710.5,
+        435
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S06-B06-I01",
+      "name": "S06-B06-I01",
+      "display_name_zh": "低层商业楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_7_158",
+      "file": "S06-B06_Soho_shops.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "1766bdf1d3b9139443f4ddcb05492e5be54a85ca8b080905ab29d01e6e1e6417",
+      "center": [
+        710.5,
+        435.0
+      ],
+      "footprint_xy": [
+        [
+          704.8184945877946,
+          448.18898174430547
+        ],
+        [
+          704.8184945877946,
+          421.81101825569453
+        ],
+        [
+          716.1815054122054,
+          421.81101825569453
+        ],
+        [
+          716.1815054122054,
+          448.18898174430547
+        ],
+        [
+          704.8184945877946,
+          448.18898174430547
+        ]
+      ],
+      "height": 22.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        6.123233995736766e-17,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0090"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S04-B03",
+      "initial_center": [
+        727,
+        435
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S04-B03-I01",
+      "name": "S04-B03-I01",
+      "display_name_zh": "转角店铺",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "LM_Liquor",
+      "file": "S04-B03_Corner_shop.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "8a795c3885891d27cd887e328501944ec8bc15b20ed92770196ff69e06188dec",
+      "center": [
+        727,
+        435
+      ],
+      "footprint_xy": [
+        [
+          718.6801506187719,
+          425.85448786441
+        ],
+        [
+          735.3198493812281,
+          425.85448786441
+        ],
+        [
+          735.3198493812281,
+          444.14551213559
+        ],
+        [
+          718.6801506187719,
+          444.14551213559
+        ],
+        [
+          718.6801506187719,
+          425.85448786441
+        ]
+      ],
+      "height": 14.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0093"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S06-B02",
+      "initial_center": [
+        754,
+        466
+      ],
+      "rotation_deg": 90,
+      "scale": 1,
+      "instance_id": "S06-B02-I01",
+      "name": "S06-B02-I01",
+      "display_name_zh": "棕石街面楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_0.002_154",
+      "file": "S06-B02_Soho_brownstone.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "6554ea93d271caf294ff4766f020a602ff1ac6af332e14e7bf07d34889de0b9a",
+      "center": [
+        754,
+        466
+      ],
+      "footprint_xy": [
+        [
+          770.9215066099574,
+          458.88072022301213
+        ],
+        [
+          770.9215066099574,
+          473.11927977698787
+        ],
+        [
+          737.0784933900426,
+          473.11927977698787
+        ],
+        [
+          737.0784933900426,
+          458.88072022301213
+        ],
+        [
+          770.9215066099574,
+          458.88072022301213
+        ]
+      ],
+      "height": 26.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0097"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S06-B05",
+      "initial_center": [
+        754,
+        487
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S06-B05-I01",
+      "name": "S06-B05-I01",
+      "display_name_zh": "街角多层楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_6.005_157",
+      "file": "S06-B05_Soho_corner.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "8df58aa74b26eb93f80de525b24627836a167fb7123640de669497cd46e59f9e",
+      "center": [
+        754,
+        487
+      ],
+      "footprint_xy": [
+        [
+          745.0037955887038,
+          476.31367026647916
+        ],
+        [
+          762.9962044112962,
+          476.31367026647916
+        ],
+        [
+          762.9962044112962,
+          497.68632973352084
+        ],
+        [
+          745.0037955887038,
+          497.68632973352084
+        ],
+        [
+          745.0037955887038,
+          476.31367026647916
+        ]
+      ],
+      "height": 29.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.0,
+        0.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0094"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S04-B04",
+      "initial_center": [
+        754,
+        511
+      ],
+      "rotation_deg": 90,
+      "scale": 1,
+      "instance_id": "S04-B04-I01",
+      "name": "S04-B04-I01",
+      "display_name_zh": "多层居民楼",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "Filler_Housing",
+      "file": "S04-B04_Walkup_apartment.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "d85ec9abbb81ca71e6e8483bfbb5b91c4746c99b9818f12dbf87c991d4f68a2b",
+      "center": [
+        754,
+        511
+      ],
+      "footprint_xy": [
+        [
+          763.569554751437,
+          501.4676969146739
+        ],
+        [
+          763.569554751437,
+          520.5323030853261
+        ],
+        [
+          744.430445248563,
+          520.5323030853261
+        ],
+        [
+          744.430445248563,
+          501.4676969146739
+        ],
+        [
+          763.569554751437,
+          501.4676969146739
+        ]
+      ],
+      "height": 18.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0095"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S02-B03",
+      "initial_center": [
+        682,
+        528
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S02-B03-I01",
+      "name": "S02-B03-I01",
+      "display_name_zh": "亚洲低层商住楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "RaoheBuilding_01.fbx_547",
+      "file": "S02-B03_Raohe_lowrise_01.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "eb1116ef8b388c2f070c02bcb15e3e5045f24868c093094bba6b7a04bbb14480",
+      "center": [
+        682,
+        528
+      ],
+      "footprint_xy": [
+        [
+          672.3102477797504,
+          521.6349117938736
+        ],
+        [
+          691.6897522202496,
+          521.6349117938736
+        ],
+        [
+          691.6897522202496,
+          534.3650882061264
+        ],
+        [
+          672.3102477797504,
+          534.3650882061264
+        ],
+        [
+          672.3102477797504,
+          521.6349117938736
+        ]
+      ],
+      "height": 12.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        0.0,
+        1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0096"
+      ]
+    },
+    {
+      "group": "NT_WEST_COURT",
+      "asset_id": "S04-B05",
+      "initial_center": [
+        718,
+        529
+      ],
+      "rotation_deg": 180,
+      "scale": 1,
+      "instance_id": "S04-B05-I01",
+      "name": "S04-B05-I01",
+      "display_name_zh": "社区诊所",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "LM_Clinic2",
+      "file": "S04-B05_Community_clinic.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "43e3dc1e3a7bc30596984157758e810e632137955be47304a70744af78ff5ec5",
+      "center": [
+        718,
+        529
+      ],
+      "footprint_xy": [
+        [
+          729.5579828344567,
+          534.711127853778
+        ],
+        [
+          706.4420171655433,
+          534.711127853778
+        ],
+        [
+          706.4420171655433,
+          523.288872146222
+        ],
+        [
+          729.5579828344567,
+          523.288872146222
+        ],
+        [
+          729.5579828344567,
+          534.711127853778
+        ]
+      ],
+      "height": 12.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.2246467991473532e-16,
+        1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0092"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S04-B01",
+      "initial_center": [
+        850,
+        444
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S04-B01-I01",
+      "name": "S04-B01-I01",
+      "display_name_zh": "街角百货楼",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "LM_Paramount1",
+      "file": "S04-B01_Paramount_store.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "13b4295b8bebe3f2e1146ebe312e319065a29ab91c0e9f9cffab1072da55bdd7",
+      "center": [
+        850,
+        444
+      ],
+      "footprint_xy": [
+        [
+          840.6663568407763,
+          452.1023663200614
+        ],
+        [
+          840.6663568407763,
+          435.8976336799386
+        ],
+        [
+          859.3336431592237,
+          435.8976336799386
+        ],
+        [
+          859.3336431592237,
+          452.1023663200614
+        ],
+        [
+          840.6663568407763,
+          452.1023663200614
+        ]
+      ],
+      "height": 18.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0101"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S02-B03",
+      "initial_center": [
+        850,
+        470
+      ],
+      "rotation_deg": 90,
+      "scale": 1,
+      "instance_id": "S02-B03-I02",
+      "name": "S02-B03-I02",
+      "display_name_zh": "亚洲低层商住楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "RaoheBuilding_01.fbx_547",
+      "file": "S02-B03_Raohe_lowrise_01.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "eb1116ef8b388c2f070c02bcb15e3e5045f24868c093094bba6b7a04bbb14480",
+      "center": [
+        850,
+        470
+      ],
+      "footprint_xy": [
+        [
+          856.3650882061264,
+          460.3102477797504
+        ],
+        [
+          856.3650882061264,
+          479.6897522202496
+        ],
+        [
+          843.6349117938736,
+          479.6897522202496
+        ],
+        [
+          843.6349117938736,
+          460.3102477797504
+        ],
+        [
+          856.3650882061264,
+          460.3102477797504
+        ]
+      ],
+      "height": 12.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0107"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S04-B06",
+      "initial_center": [
+        850,
+        490
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S04-B06-I01",
+      "name": "S04-B06-I01",
+      "display_name_zh": "社区店铺",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "group84",
+      "file": "S04-B06_Local_shop.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "6bb62871037587f37da6588c38215f312b6a1e1ce32ca23bb9ece26536018a46",
+      "center": [
+        850,
+        490
+      ],
+      "footprint_xy": [
+        [
+          841.1208350963044,
+          497.94573387564736
+        ],
+        [
+          841.1208350963044,
+          482.05426612435264
+        ],
+        [
+          858.8791649036956,
+          482.05426612435264
+        ],
+        [
+          858.8791649036956,
+          497.94573387564736
+        ],
+        [
+          841.1208350963044,
+          497.94573387564736
+        ]
+      ],
+      "height": 12.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0102"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S06-B04",
+      "initial_center": [
+        850,
+        510
+      ],
+      "rotation_deg": 180,
+      "scale": 1,
+      "instance_id": "S06-B04-I02",
+      "name": "S06-B04-I02",
+      "display_name_zh": "灰色街面楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_6.003_156",
+      "file": "S06-B04_Soho_grey.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "3e48469cbbbeb22a066b4fdcf9211de466b9bd23d12dec368fd35acfb4873b35",
+      "center": [
+        850,
+        510
+      ],
+      "footprint_xy": [
+        [
+          861.5546865758859,
+          516.5566949798864
+        ],
+        [
+          838.4453134241141,
+          516.5566949798864
+        ],
+        [
+          838.4453134241141,
+          503.4433050201136
+        ],
+        [
+          861.5546865758859,
+          503.4433050201136
+        ],
+        [
+          861.5546865758859,
+          516.5566949798864
+        ]
+      ],
+      "height": 24.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        1.2246467991473532e-16
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0103"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S04-B08",
+      "initial_center": [
+        850,
+        532
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S04-B08-I01",
+      "name": "S04-B08-I01",
+      "display_name_zh": "洗衣店",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "LM_Laundrette",
+      "file": "S04-B08_Laundrette.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "25e917ab88164c47a5277256a1442c4a1c4b7c2c11d8f42803f94940e501a3e2",
+      "center": [
+        850,
+        532
+      ],
+      "footprint_xy": [
+        [
+          842.0758825037286,
+          539.9241217953826
+        ],
+        [
+          842.0758825037286,
+          524.0758782046174
+        ],
+        [
+          857.9241174962714,
+          524.0758782046174
+        ],
+        [
+          857.9241174962714,
+          539.9241217953826
+        ],
+        [
+          842.0758825037286,
+          539.9241217953826
+        ]
+      ],
+      "height": 8.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0104"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S06-B03",
+      "initial_center": [
+        914,
+        446
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S06-B03-I02",
+      "name": "S06-B03-I02",
+      "display_name_zh": "红砖街面楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_4.001_155",
+      "file": "S06-B03_Soho_red_brick.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "75caad284a535ce9425d7835b09721143222f90df8d62b73f24ed73d11db7c29",
+      "center": [
+        914,
+        446
+      ],
+      "footprint_xy": [
+        [
+          903.1718417848954,
+          439.5427435721819
+        ],
+        [
+          924.8281582151046,
+          439.5427435721819
+        ],
+        [
+          924.8281582151046,
+          452.4572564278181
+        ],
+        [
+          903.1718417848954,
+          452.4572564278181
+        ],
+        [
+          903.1718417848954,
+          439.5427435721819
+        ]
+      ],
+      "height": 24.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0106"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S06-B05",
+      "initial_center": [
+        923,
+        471
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S06-B05-I02",
+      "name": "S06-B05-I02",
+      "display_name_zh": "街角多层楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_6.005_157",
+      "file": "S06-B05_Soho_corner.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "8df58aa74b26eb93f80de525b24627836a167fb7123640de669497cd46e59f9e",
+      "center": [
+        923,
+        471
+      ],
+      "footprint_xy": [
+        [
+          914.0037955887038,
+          460.31367026647916
+        ],
+        [
+          931.9962044112962,
+          460.31367026647916
+        ],
+        [
+          931.9962044112962,
+          481.68632973352084
+        ],
+        [
+          914.0037955887038,
+          481.68632973352084
+        ],
+        [
+          914.0037955887038,
+          460.31367026647916
+        ]
+      ],
+      "height": 29.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.0,
+        0.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0111"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S02-B02",
+      "initial_center": [
+        918,
+        498
+      ],
+      "rotation_deg": 90,
+      "scale": 1,
+      "instance_id": "S02-B02-I02",
+      "name": "S02-B02-I02",
+      "display_name_zh": "亚洲绿色沿街楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "RaoheBuilding_04.fbx_270",
+      "file": "S02-B02_Raohe_terraced_04.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "48a169c713ba1c92f896c834042354ab1071b02ddbe83fb27d33799235262721",
+      "center": [
+        918,
+        498
+      ],
+      "footprint_xy": [
+        [
+          925.2072994520801,
+          489.7410475833804
+        ],
+        [
+          925.2072994520801,
+          506.2589524166196
+        ],
+        [
+          910.7927005479199,
+          506.2589524166196
+        ],
+        [
+          910.7927005479199,
+          489.7410475833804
+        ],
+        [
+          925.2072994520801,
+          489.7410475833804
+        ]
+      ],
+      "height": 16.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0112"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S06-B06",
+      "initial_center": [
+        913,
+        527
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S06-B06-I02",
+      "name": "S06-B06-I02",
+      "display_name_zh": "低层商业楼",
+      "source_filename": "city (4).glb",
+      "source_node_name": "_gltfNode_7_158",
+      "file": "S06-B06_Soho_shops.glb",
+      "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+      "asset_sha256": "1766bdf1d3b9139443f4ddcb05492e5be54a85ca8b080905ab29d01e6e1e6417",
+      "center": [
+        913,
+        527
+      ],
+      "footprint_xy": [
+        [
+          899.8110182556945,
+          521.3184945877946
+        ],
+        [
+          926.1889817443055,
+          521.3184945877946
+        ],
+        [
+          926.1889817443055,
+          532.6815054122054
+        ],
+        [
+          899.8110182556945,
+          532.6815054122054
+        ],
+        [
+          899.8110182556945,
+          521.3184945877946
+        ]
+      ],
+      "height": 22.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.0,
+        0.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0108"
+      ]
+    },
+    {
+      "group": "NT_EAST_COURT",
+      "asset_id": "S04-B04",
+      "initial_center": [
+        901,
+        553
+      ],
+      "rotation_deg": 180,
+      "scale": 1,
+      "instance_id": "S04-B04-I02",
+      "name": "S04-B04-I02",
+      "display_name_zh": "多层居民楼",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "Filler_Housing",
+      "file": "S04-B04_Walkup_apartment.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "d85ec9abbb81ca71e6e8483bfbb5b91c4746c99b9818f12dbf87c991d4f68a2b",
+      "center": [
+        901,
+        553
+      ],
+      "footprint_xy": [
+        [
+          910.5323030853261,
+          562.569554751437
+        ],
+        [
+          891.4676969146739,
+          562.569554751437
+        ],
+        [
+          891.4676969146739,
+          543.430445248563
+        ],
+        [
+          910.5323030853261,
+          543.430445248563
+        ],
+        [
+          910.5323030853261,
+          562.569554751437
+        ]
+      ],
+      "height": 18.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 4,
+      "outward": [
+        1.2246467991473532e-16,
+        1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "MAIN_RESIDENTIAL_0109",
+        "MAIN_RESIDENTIAL_0110",
+        "MAIN_RESIDENTIAL_0105"
+      ]
+    },
+    {
+      "group": "NT_MIXED_PROMENADE",
+      "asset_id": "S03-B03",
+      "initial_center": [
+        777,
+        841
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S03-B03-I01",
+      "name": "S03-B03-I01",
+      "display_name_zh": "玻璃写字楼",
+      "source_filename": "beautiful_city.glb",
+      "source_node_name": "Atlas.003_41_28",
+      "file": "S03-B03_Twin_office.glb",
+      "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+      "asset_sha256": "f4ecfd20dce20623a85f6dfcc7c38bb2ce7bff12a981b26e2ef56878f915d45b",
+      "center": [
+        777,
+        841
+      ],
+      "footprint_xy": [
+        [
+          764.1193389927312,
+          827.1088208023556
+        ],
+        [
+          789.8806610072688,
+          827.1088208023556
+        ],
+        [
+          789.8806610072688,
+          854.8911791976444
+        ],
+        [
+          764.1193389927312,
+          854.8911791976444
+        ],
+        [
+          764.1193389927312,
+          827.1088208023556
+        ]
+      ],
+      "height": 56.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 8,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": []
+    },
+    {
+      "group": "NT_MIXED_PROMENADE",
+      "asset_id": "S03-B05",
+      "initial_center": [
+        739,
+        824
+      ],
+      "rotation_deg": -90,
+      "scale": 1,
+      "instance_id": "S03-B05-I01",
+      "name": "S03-B05-I01",
+      "display_name_zh": "低层办公楼",
+      "source_filename": "beautiful_city.glb",
+      "source_node_name": "Cube.033_1_123",
+      "file": "S03-B05_Low_office.glb",
+      "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+      "asset_sha256": "fb1cfb74b33035bb4e73a5bdc10d2ab5695f6e1fb360ed432653441b5467a422",
+      "center": [
+        739,
+        824
+      ],
+      "footprint_xy": [
+        [
+          732.0457194055774,
+          834.0411228702342
+        ],
+        [
+          732.0457194055774,
+          813.9588771297658
+        ],
+        [
+          745.9542805944226,
+          813.9588771297658
+        ],
+        [
+          745.9542805944226,
+          834.0411228702342
+        ],
+        [
+          732.0457194055774,
+          834.0411228702342
+        ]
+      ],
+      "height": 27.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 8,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": []
+    },
+    {
+      "group": "NT_MIXED_PROMENADE",
+      "asset_id": "S03-B02",
+      "initial_center": [
+        790,
+        787
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S03-B02-I01",
+      "name": "S03-B02-I01",
+      "display_name_zh": "窄体写字楼",
+      "source_filename": "beautiful_city.glb",
+      "source_node_name": "atlas.002_5_25",
+      "file": "S03-B02_Slim_office.glb",
+      "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+      "asset_sha256": "d801bdd38f970c270bf805faa49a77cd8fb3a8e00914a4f0234bee388e533518",
+      "center": [
+        790,
+        787
+      ],
+      "footprint_xy": [
+        [
+          780.025968350908,
+          778.494737733619
+        ],
+        [
+          799.974031649092,
+          778.494737733619
+        ],
+        [
+          799.974031649092,
+          795.505262266381
+        ],
+        [
+          780.025968350908,
+          795.505262266381
+        ],
+        [
+          780.025968350908,
+          778.494737733619
+        ]
+      ],
+      "height": 42.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 8,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": []
+    },
+    {
+      "group": "NT_MIXED_PROMENADE",
+      "asset_id": "S03-B04",
+      "initial_center": [
+        801,
+        755
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S03-B04-I01",
+      "name": "S03-B04-I01",
+      "display_name_zh": "深色写字楼",
+      "source_filename": "beautiful_city.glb",
+      "source_node_name": "Atlas.131_2_34",
+      "file": "S03-B04_Dark_office.glb",
+      "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+      "asset_sha256": "1acd891957912dd7c4f4b839e241924c4da2db644eb83921a5ad426b32142c99",
+      "center": [
+        801,
+        755
+      ],
+      "footprint_xy": [
+        [
+          789.4517190359117,
+          738.1701194148136
+        ],
+        [
+          812.5482809640883,
+          738.1701194148136
+        ],
+        [
+          812.5482809640883,
+          771.8298805851864
+        ],
+        [
+          789.4517190359117,
+          771.8298805851864
+        ],
+        [
+          789.4517190359117,
+          738.1701194148136
+        ]
+      ],
+      "height": 52.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 8,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": []
+    },
+    {
+      "group": "NT_MIXED_PROMENADE",
+      "asset_id": "S04-B02",
+      "initial_center": [
+        775,
+        868
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S04-B02-I01",
+      "name": "S04-B02-I01",
+      "display_name_zh": "沿街服务店铺",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "Filler_GunShop",
+      "file": "S04-B02_Service_shops.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "e32e265b3e1d66f183d2ca7ee0014bffa096f94d81d00acfb417d51d13f58a6b",
+      "center": [
+        775,
+        868
+      ],
+      "footprint_xy": [
+        [
+          759.4724794874703,
+          859.342955677074
+        ],
+        [
+          790.5275205125297,
+          859.342955677074
+        ],
+        [
+          790.5275205125297,
+          876.657044322926
+        ],
+        [
+          759.4724794874703,
+          876.657044322926
+        ],
+        [
+          759.4724794874703,
+          859.342955677074
+        ]
+      ],
+      "height": 15.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 8,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": []
+    },
+    {
+      "group": "NT_MIXED_PROMENADE",
+      "asset_id": "S04-B07",
+      "initial_center": [
+        729,
+        731
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S04-B07-I01",
+      "name": "S04-B07-I01",
+      "display_name_zh": "板式公寓",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "Projects",
+      "file": "S04-B07_Slab_apartment.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "6cafdbe07055501859d62cfdb60591a826b2a6a29dd06962b8a10f2a1ade0ac0",
+      "center": [
+        729,
+        731
+      ],
+      "footprint_xy": [
+        [
+          705.1187565461652,
+          723.0395898341897
+        ],
+        [
+          752.8812434538348,
+          723.0395898341897
+        ],
+        [
+          752.8812434538348,
+          738.9604101658103
+        ],
+        [
+          705.1187565461652,
+          738.9604101658103
+        ],
+        [
+          705.1187565461652,
+          723.0395898341897
+        ]
+      ],
+      "height": 28.0,
+      "region": "MAIN",
+      "zone": "NEW_TOWN",
+      "district_id": 8,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": []
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S02-B05",
+      "initial_center": [
+        -1158,
+        -920
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S02-B05-I01",
+      "name": "S02-B05-I01",
+      "display_name_zh": "坡顶双层住宅",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "Md_Houses_close_02_Material_#2097632178_0_830",
+      "file": "S02-B05_Pitched_roof_house.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "403881f21a36f2aed983527af2bd10ba5fb146af370050f7716fc7a23bc6cf8e",
+      "center": [
+        -1158,
+        -920
+      ],
+      "footprint_xy": [
+        [
+          -1164.7831104832107,
+          -923.3061980971004
+        ],
+        [
+          -1151.2168895167893,
+          -923.3061980971004
+        ],
+        [
+          -1151.2168895167893,
+          -916.6938019028996
+        ],
+        [
+          -1164.7831104832107,
+          -916.6938019028996
+        ],
+        [
+          -1164.7831104832107,
+          -923.3061980971004
+        ]
+      ],
+      "height": 8.0,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        0.0,
+        1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0039"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S02-B05",
+      "initial_center": [
+        -1131,
+        -920
+      ],
+      "rotation_deg": 0,
+      "scale": 1,
+      "instance_id": "S02-B05-I02",
+      "name": "S02-B05-I02",
+      "display_name_zh": "坡顶双层住宅",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "Md_Houses_close_02_Material_#2097632178_0_830",
+      "file": "S02-B05_Pitched_roof_house.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "403881f21a36f2aed983527af2bd10ba5fb146af370050f7716fc7a23bc6cf8e",
+      "center": [
+        -1131,
+        -920
+      ],
+      "footprint_xy": [
+        [
+          -1137.7831104832107,
+          -923.3061980971004
+        ],
+        [
+          -1124.2168895167893,
+          -923.3061980971004
+        ],
+        [
+          -1124.2168895167893,
+          -916.6938019028996
+        ],
+        [
+          -1137.7831104832107,
+          -916.6938019028996
+        ],
+        [
+          -1137.7831104832107,
+          -923.3061980971004
+        ]
+      ],
+      "height": 8.0,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        0.0,
+        1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0041"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S02-B03",
+      "initial_center": [
+        -1097,
+        -918
+      ],
+      "rotation_deg": 0,
+      "scale": 0.68,
+      "instance_id": "S02-B03-I03",
+      "name": "S02-B03-I03",
+      "display_name_zh": "亚洲低层商住楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "RaoheBuilding_01.fbx_547",
+      "file": "S02-B03_Raohe_lowrise_01.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "eb1116ef8b388c2f070c02bcb15e3e5045f24868c093094bba6b7a04bbb14480",
+      "center": [
+        -1097,
+        -918
+      ],
+      "footprint_xy": [
+        [
+          -1103.5890315097697,
+          -922.328259980166
+        ],
+        [
+          -1090.4109684902303,
+          -922.328259980166
+        ],
+        [
+          -1090.4109684902303,
+          -913.671740019834
+        ],
+        [
+          -1103.5890315097697,
+          -913.671740019834
+        ],
+        [
+          -1103.5890315097697,
+          -922.328259980166
+        ]
+      ],
+      "height": 8.16,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        0.0,
+        1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0044"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S02-B04",
+      "initial_center": [
+        -1052,
+        -922
+      ],
+      "rotation_deg": 90,
+      "scale": 0.65,
+      "instance_id": "S02-B04-I02",
+      "name": "S02-B04-I02",
+      "display_name_zh": "亚洲转角商住楼",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "e5f5c56c46ec4bdc850971cd7c21aec5.fbx_810",
+      "file": "S02-B04_Raohe_corner.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "97a7494d54ac5c0241d79cea2fce24537ddc8877ca88c0370f85a7d940081a62",
+      "center": [
+        -1052,
+        -922
+      ],
+      "footprint_xy": [
+        [
+          -1047.795440603477,
+          -927.3191248054189
+        ],
+        [
+          -1047.795440603477,
+          -916.6808751945811
+        ],
+        [
+          -1056.204559396523,
+          -916.6808751945811
+        ],
+        [
+          -1056.204559396523,
+          -927.3191248054189
+        ],
+        [
+          -1047.795440603477,
+          -927.3191248054189
+        ]
+      ],
+      "height": 10.4,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0047"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S02-B05",
+      "initial_center": [
+        -1145,
+        -960
+      ],
+      "rotation_deg": 180,
+      "scale": 1,
+      "instance_id": "S02-B05-I03",
+      "name": "S02-B05-I03",
+      "display_name_zh": "坡顶双层住宅",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "Md_Houses_close_02_Material_#2097632178_0_830",
+      "file": "S02-B05_Pitched_roof_house.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "403881f21a36f2aed983527af2bd10ba5fb146af370050f7716fc7a23bc6cf8e",
+      "center": [
+        -1145,
+        -960
+      ],
+      "footprint_xy": [
+        [
+          -1138.2168895167893,
+          -956.6938019028996
+        ],
+        [
+          -1151.7831104832107,
+          -956.6938019028996
+        ],
+        [
+          -1151.7831104832107,
+          -963.3061980971004
+        ],
+        [
+          -1138.2168895167893,
+          -963.3061980971004
+        ],
+        [
+          -1138.2168895167893,
+          -956.6938019028996
+        ]
+      ],
+      "height": 8.0,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        -1.2246467991473532e-16,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0040"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S02-B05",
+      "initial_center": [
+        -1108,
+        -963
+      ],
+      "rotation_deg": 180,
+      "scale": 1,
+      "instance_id": "S02-B05-I04",
+      "name": "S02-B05-I04",
+      "display_name_zh": "坡顶双层住宅",
+      "source_filename": "08-asian_buildings_set.glb",
+      "source_node_name": "Md_Houses_close_02_Material_#2097632178_0_830",
+      "file": "S02-B05_Pitched_roof_house.glb",
+      "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+      "asset_sha256": "403881f21a36f2aed983527af2bd10ba5fb146af370050f7716fc7a23bc6cf8e",
+      "center": [
+        -1108,
+        -963
+      ],
+      "footprint_xy": [
+        [
+          -1101.2168895167893,
+          -959.6938019028996
+        ],
+        [
+          -1114.7831104832107,
+          -959.6938019028996
+        ],
+        [
+          -1114.7831104832107,
+          -966.3061980971004
+        ],
+        [
+          -1101.2168895167893,
+          -966.3061980971004
+        ],
+        [
+          -1101.2168895167893,
+          -959.6938019028996
+        ]
+      ],
+      "height": 8.0,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        -1.2246467991473532e-16,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0043"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S04-B04",
+      "initial_center": [
+        -1052,
+        -963
+      ],
+      "rotation_deg": 90,
+      "scale": 0.6,
+      "instance_id": "S04-B04-I03",
+      "name": "S04-B04-I03",
+      "display_name_zh": "多层居民楼",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "Filler_Housing",
+      "file": "S04-B04_Walkup_apartment.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "d85ec9abbb81ca71e6e8483bfbb5b91c4746c99b9818f12dbf87c991d4f68a2b",
+      "center": [
+        -1052,
+        -963
+      ],
+      "footprint_xy": [
+        [
+          -1046.2582671491377,
+          -968.7193818511956
+        ],
+        [
+          -1046.2582671491377,
+          -957.2806181488044
+        ],
+        [
+          -1057.7417328508623,
+          -957.2806181488044
+        ],
+        [
+          -1057.7417328508623,
+          -968.7193818511956
+        ],
+        [
+          -1046.2582671491377,
+          -968.7193818511956
+        ]
+      ],
+      "height": 10.799999999999999,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0046"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S04-B08",
+      "initial_center": [
+        -1091,
+        -1003
+      ],
+      "rotation_deg": 0,
+      "scale": 0.8,
+      "instance_id": "S04-B08-I02",
+      "name": "S04-B08-I02",
+      "display_name_zh": "洗衣店",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "LM_Laundrette",
+      "file": "S04-B08_Laundrette.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "25e917ab88164c47a5277256a1442c4a1c4b7c2c11d8f42803f94940e501a3e2",
+      "center": [
+        -1091,
+        -1003
+      ],
+      "footprint_xy": [
+        [
+          -1097.339297436306,
+          -1009.3392939970171
+        ],
+        [
+          -1084.660702563694,
+          -1009.3392939970171
+        ],
+        [
+          -1084.660702563694,
+          -996.6607060029829
+        ],
+        [
+          -1097.339297436306,
+          -996.6607060029829
+        ],
+        [
+          -1097.339297436306,
+          -1009.3392939970171
+        ]
+      ],
+      "height": 6.4,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0042"
+      ]
+    },
+    {
+      "group": "WEST_GARDEN_LANES",
+      "asset_id": "S04-B10",
+      "initial_center": [
+        -1053,
+        -1004
+      ],
+      "rotation_deg": 0,
+      "scale": 0.8,
+      "instance_id": "S04-B10-I01",
+      "name": "S04-B10-I01",
+      "display_name_zh": "双层商铺",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "LM_PawnShop1",
+      "file": "S04-B10_Pawn_shop.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "ef83f9fd4940d0e051fb8ea9039c5cbc5b81de82ee08f945843f73a807c9ce42",
+      "center": [
+        -1053,
+        -1004
+      ],
+      "footprint_xy": [
+        [
+          -1059.0846295350777,
+          -1010.2583643266368
+        ],
+        [
+          -1046.9153704649223,
+          -1010.2583643266368
+        ],
+        [
+          -1046.9153704649223,
+          -997.7416356733632
+        ],
+        [
+          -1059.0846295350777,
+          -997.7416356733632
+        ],
+        [
+          -1059.0846295350777,
+          -1010.2583643266368
+        ]
+      ],
+      "height": 10.4,
+      "region": "WEST",
+      "zone": "VILLA",
+      "district_id": 9,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "WEST_VILLAGE_0045"
+      ]
+    },
+    {
+      "group": "EAST_LOADING_COURT",
+      "asset_id": "S04-B09",
+      "initial_center": [
+        860,
+        -839
+      ],
+      "rotation_deg": 0,
+      "scale": 0.9,
+      "instance_id": "S04-B09-I01",
+      "name": "S04-B09-I01",
+      "display_name_zh": "砖墙厂房",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "FFactory",
+      "file": "S04-B09_Brick_factory.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "5f432a343c025bf722ca506c8954a0bfbc5e58e9af9e4ff51f87ae306b2a90f9",
+      "center": [
+        860,
+        -839
+      ],
+      "footprint_xy": [
+        [
+          836.7425991975301,
+          -846.7524669341566
+        ],
+        [
+          883.2574008024699,
+          -846.7524669341566
+        ],
+        [
+          883.2574008024699,
+          -831.2475330658434
+        ],
+        [
+          836.7425991975301,
+          -831.2475330658434
+        ],
+        [
+          836.7425991975301,
+          -846.7524669341566
+        ]
+      ],
+      "height": 15.3,
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "district_id": 14,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "EAST_INDUSTRIAL_0044"
+      ]
+    },
+    {
+      "group": "EAST_LOADING_COURT",
+      "asset_id": "S04-B09",
+      "initial_center": [
+        939,
+        -896
+      ],
+      "rotation_deg": 0,
+      "scale": 0.9,
+      "instance_id": "S04-B09-I02",
+      "name": "S04-B09-I02",
+      "display_name_zh": "砖墙厂房",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "FFactory",
+      "file": "S04-B09_Brick_factory.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "5f432a343c025bf722ca506c8954a0bfbc5e58e9af9e4ff51f87ae306b2a90f9",
+      "center": [
+        939,
+        -896
+      ],
+      "footprint_xy": [
+        [
+          915.7425991975301,
+          -903.7524669341566
+        ],
+        [
+          962.2574008024699,
+          -903.7524669341566
+        ],
+        [
+          962.2574008024699,
+          -888.2475330658434
+        ],
+        [
+          915.7425991975301,
+          -888.2475330658434
+        ],
+        [
+          915.7425991975301,
+          -903.7524669341566
+        ]
+      ],
+      "height": 15.3,
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "district_id": 14,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "EAST_INDUSTRIAL_0046"
+      ]
+    },
+    {
+      "group": "EAST_LOADING_COURT",
+      "asset_id": "S04-B05",
+      "initial_center": [
+        939,
+        -837
+      ],
+      "rotation_deg": -90,
+      "scale": 0.9,
+      "instance_id": "S04-B05-I02",
+      "name": "S04-B05-I02",
+      "display_name_zh": "社区诊所",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "LM_Clinic2",
+      "file": "S04-B05_Community_clinic.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "43e3dc1e3a7bc30596984157758e810e632137955be47304a70744af78ff5ec5",
+      "center": [
+        939,
+        -837
+      ],
+      "footprint_xy": [
+        [
+          933.8599849315998,
+          -826.5978154489891
+        ],
+        [
+          933.8599849315998,
+          -847.4021845510109
+        ],
+        [
+          944.1400150684002,
+          -847.4021845510109
+        ],
+        [
+          944.1400150684002,
+          -826.5978154489891
+        ],
+        [
+          933.8599849315998,
+          -826.5978154489891
+        ]
+      ],
+      "height": 10.8,
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "district_id": 14,
+      "outward": [
+        -1.0,
+        -6.123233995736766e-17
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "EAST_INDUSTRIAL_0047"
+      ]
+    },
+    {
+      "group": "EAST_LOADING_COURT",
+      "asset_id": "S04-B02",
+      "initial_center": [
+        855,
+        -892
+      ],
+      "rotation_deg": 0,
+      "scale": 0.9,
+      "instance_id": "S04-B02-I02",
+      "name": "S04-B02-I02",
+      "display_name_zh": "沿街服务店铺",
+      "source_filename": "ccity_building_set_1.glb",
+      "source_node_name": "Filler_GunShop",
+      "file": "S04-B02_Service_shops.glb",
+      "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+      "asset_sha256": "e32e265b3e1d66f183d2ca7ee0014bffa096f94d81d00acfb417d51d13f58a6b",
+      "center": [
+        855,
+        -892
+      ],
+      "footprint_xy": [
+        [
+          841.0252315387232,
+          -899.7913398906335
+        ],
+        [
+          868.9747684612768,
+          -899.7913398906335
+        ],
+        [
+          868.9747684612768,
+          -884.2086601093665
+        ],
+        [
+          841.0252315387232,
+          -884.2086601093665
+        ],
+        [
+          841.0252315387232,
+          -899.7913398906335
+        ]
+      ],
+      "height": 13.5,
+      "region": "EAST",
+      "zone": "INDUSTRIAL",
+      "district_id": 14,
+      "outward": [
+        0.0,
+        -1.0
+      ],
+      "building_count_units": 1,
+      "added_in_version": "v19",
+      "replaces": [
+        "EAST_INDUSTRIAL_0043"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "id": "NT_WEST_COURT",
+      "name_zh": "西侧围合商住街坊",
+      "strategy": "南侧连续商街、西侧亚洲沿街楼、东侧较高公寓，中央留共享庭院",
+      "focus": [
+        705,
+        482
+      ],
+      "court": [
+        [
+          662,
+          456
+        ],
+        [
+          735,
+          456
+        ],
+        [
+          735,
+          512
+        ],
+        [
+          662,
+          512
+        ]
+      ],
+      "region": "MAIN"
+    },
+    {
+      "id": "NT_EAST_COURT",
+      "name_zh": "东侧错落住宅街坊",
+      "strategy": "街角较高、内侧较低，缩减两栋体块，留出中央口袋花园",
+      "focus": [
+        884,
+        485
+      ],
+      "court": [
+        [
+          868,
+          459
+        ],
+        [
+          903,
+          459
+        ],
+        [
+          903,
+          535
+        ],
+        [
+          868,
+          535
+        ]
+      ],
+      "region": "MAIN"
+    },
+    {
+      "id": "NT_MIXED_PROMENADE",
+      "name_zh": "弧线商务步行组团",
+      "strategy": "沿既有弯路布置不同高度的商务楼与板式公寓，配开放步行广场",
+      "focus": [
+        761,
+        815
+      ],
+      "court": [
+        [
+          719,
+          801
+        ],
+        [
+          767,
+          802
+        ],
+        [
+          781,
+          818
+        ],
+        [
+          751,
+          849
+        ],
+        [
+          716,
+          850
+        ]
+      ],
+      "region": "MAIN"
+    },
+    {
+      "id": "WEST_GARDEN_LANES",
+      "name_zh": "西岛花园巷",
+      "strategy": "坡顶住宅围绕共享绿院，低层店铺位于巷口，形成细尺度生活街区",
+      "focus": [
+        -1112,
+        -945
+      ],
+      "court": [
+        [
+          -1166,
+          -941
+        ],
+        [
+          -1066,
+          -941
+        ],
+        [
+          -1066,
+          -950
+        ],
+        [
+          -1166,
+          -950
+        ]
+      ],
+      "region": "WEST"
+    },
+    {
+      "id": "EAST_LOADING_COURT",
+      "name_zh": "东岛厂房装卸院",
+      "strategy": "厂房、办公室、服务楼围绕开放装卸场，打破相同大盒子排列",
+      "focus": [
+        902,
+        -865
+      ],
+      "court": [
+        [
+          884,
+          -879
+        ],
+        [
+          928,
+          -879
+        ],
+        [
+          928,
+          -856
+        ],
+        [
+          884,
+          -856
+        ]
+      ],
+      "region": "EAST"
+    }
+  ],
+  "city_building_units": 547
+}

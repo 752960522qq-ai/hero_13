@@ -1,0 +1,2823 @@
+[
+  {
+    "asset_id": "S02-B01",
+    "display_name_zh": "亚洲白色沿街楼",
+    "source_id": "S02",
+    "source_filename": "08-asian_buildings_set.glb",
+    "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+    "source_node_index": 3,
+    "source_node_name": "RaoheBuilding_05.fbx_103",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.9805408497011888,
+    "normalized_size_m": [
+      16.089345925696055,
+      13.992197276489065,
+      18
+    ],
+    "building_units": 1,
+    "source_mesh_count": 50,
+    "file": "S02-B01_Raohe_terraced_05.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 23958476,
+    "sha256": "61b9589fb3ad014cafaeb36b53db6110a364bb8544d139042fb94029534ca307",
+    "triangles": 37562,
+    "images": [
+      {
+        "name": "Image_20",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_27",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_29",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_32",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_36",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_40",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_1",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_11",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_19",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_26",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_30",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_0",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_5",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_10",
+        "size": [
+          128,
+          128
+        ]
+      },
+      {
+        "name": "Image_18",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_31",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_39",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_13",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_4",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_22",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_38",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_12",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_16",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_28",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_35",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_42",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_3",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_9",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_15",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_23",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_34",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_2",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_7",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_14",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_17",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_25",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_6",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_8",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_21",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_24",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_33",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_37",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_41",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S02-B01-I01"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S02-B02",
+    "display_name_zh": "亚洲绿色沿街楼",
+    "source_id": "S02",
+    "source_filename": "08-asian_buildings_set.glb",
+    "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+    "source_node_index": 157,
+    "source_node_name": "RaoheBuilding_04.fbx_270",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 1.0174934732496712,
+    "normalized_size_m": [
+      16.517904833239207,
+      14.414598904160046,
+      16
+    ],
+    "building_units": 1,
+    "source_mesh_count": 81,
+    "file": "S02-B02_Raohe_terraced_04.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 34107292,
+    "sha256": "48a169c713ba1c92f896c834042354ab1071b02ddbe83fb27d33799235262721",
+    "triangles": 41335,
+    "images": [
+      {
+        "name": "Image_45",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_50",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_66",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_74",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_75",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_84",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_96",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_100",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_101",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_49",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_1",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_56",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_65",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_70",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_73",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_81",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_90",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_95",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_99",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_0",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_55",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_69",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_83",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_88",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_89",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_52",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_60",
+        "size": [
+          128,
+          128
+        ]
+      },
+      {
+        "name": "Image_64",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_80",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_87",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_94",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_48",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_51",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_59",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_63",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_68",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_79",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_93",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_98",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_43",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_47",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_67",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_86",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_97",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_44",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_54",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_58",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_62",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_72",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_78",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_85",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_92",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_46",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_53",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_57",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_61",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_71",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_76",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_77",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_82",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_91",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_102",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S02-B02-I01",
+      "S02-B02-I02"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S02-B03",
+    "display_name_zh": "亚洲低层商住楼",
+    "source_id": "S02",
+    "source_filename": "08-asian_buildings_set.glb",
+    "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+    "source_node_index": 409,
+    "source_node_name": "RaoheBuilding_01.fbx_547",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 1.5117416938687132,
+    "normalized_size_m": [
+      19.379504440499147,
+      12.730176412252789,
+      12
+    ],
+    "building_units": 1,
+    "source_mesh_count": 115,
+    "file": "S02-B03_Raohe_lowrise_01.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 24792688,
+    "sha256": "eb1116ef8b388c2f070c02bcb15e3e5045f24868c093094bba6b7a04bbb14480",
+    "triangles": 30725,
+    "images": [
+      {
+        "name": "Image_108",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_126",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_137",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_141",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_147",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_154",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_119",
+        "size": [
+          1024,
+          512
+        ]
+      },
+      {
+        "name": "Image_131",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_136",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_146",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_150",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_112",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_118",
+        "size": [
+          1024,
+          512
+        ]
+      },
+      {
+        "name": "Image_123",
+        "size": [
+          128,
+          128
+        ]
+      },
+      {
+        "name": "Image_130",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_133",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_153",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_107",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_104",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_111",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_122",
+        "size": [
+          128,
+          128
+        ]
+      },
+      {
+        "name": "Image_132",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_135",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_144",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_152",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_103",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_106",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_115",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_134",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_105",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_110",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_121",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_125",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_129",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_139",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_145",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_149",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_109",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_114",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_117",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_120",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_124",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_128",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_138",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_143",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_148",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_113",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_116",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_127",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_140",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_142",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_151",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_155",
+        "size": [
+          256,
+          256
+        ]
+      }
+    ],
+    "map_instance_count": 3,
+    "instance_ids": [
+      "S02-B03-I01",
+      "S02-B03-I02",
+      "S02-B03-I03"
+    ],
+    "district_ids": [
+      4,
+      9
+    ]
+  },
+  {
+    "asset_id": "S02-B04",
+    "display_name_zh": "亚洲转角商住楼",
+    "source_id": "S02",
+    "source_filename": "08-asian_buildings_set.glb",
+    "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+    "source_node_index": 795,
+    "source_node_name": "e5f5c56c46ec4bdc850971cd7c21aec5.fbx_810",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 1.0575406898071287,
+    "normalized_size_m": [
+      16.366537862827418,
+      12.937105835455766,
+      16
+    ],
+    "building_units": 1,
+    "source_mesh_count": 127,
+    "file": "S02-B04_Raohe_corner.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 21400500,
+    "sha256": "97a7494d54ac5c0241d79cea2fce24537ddc8877ca88c0370f85a7d940081a62",
+    "triangles": 144000,
+    "images": [
+      {
+        "name": "Image_169",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_177",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_180",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_159",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_168",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_176",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_183",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_158",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_165",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_167",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_173",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_174",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_182",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_189",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_164",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_166",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_172",
+        "size": [
+          512,
+          512
+        ]
+      },
+      {
+        "name": "Image_175",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_179",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_188",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_157",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_171",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_178",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_184",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_191",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_156",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_161",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_170",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_185",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_187",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_190",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_160",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_163",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_186",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_162",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_181",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S02-B04-I01",
+      "S02-B04-I02"
+    ],
+    "district_ids": [
+      4,
+      9
+    ]
+  },
+  {
+    "asset_id": "S02-B05",
+    "display_name_zh": "坡顶双层住宅",
+    "source_id": "S02",
+    "source_filename": "08-asian_buildings_set.glb",
+    "source_sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+    "source_node_index": 1211,
+    "source_node_name": "Md_Houses_close_02_Material_#2097632178_0_830",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.7165636148359085,
+    "normalized_size_m": [
+      13.566220966421419,
+      6.6123961942006595,
+      8
+    ],
+    "building_units": 1,
+    "source_mesh_count": 1,
+    "file": "S02-B05_Pitched_roof_house.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 2804320,
+    "sha256": "403881f21a36f2aed983527af2bd10ba5fb146af370050f7716fc7a23bc6cf8e",
+    "triangles": 2523,
+    "images": [
+      {
+        "name": "Image_195",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_196",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "map_instance_count": 4,
+    "instance_ids": [
+      "S02-B05-I01",
+      "S02-B05-I02",
+      "S02-B05-I03",
+      "S02-B05-I04"
+    ],
+    "district_ids": [
+      9
+    ]
+  },
+  {
+    "asset_id": "S03-B01",
+    "display_name_zh": "阶梯写字楼",
+    "source_id": "S03",
+    "source_filename": "beautiful_city.glb",
+    "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+    "source_node_index": 22,
+    "source_node_name": "Atlas.001_40_14",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 9.54446051116173,
+    "normalized_size_m": [
+      46.2290850455374,
+      27.13573233756467,
+      64
+    ],
+    "building_units": 1,
+    "source_mesh_count": 2,
+    "file": "S03-B01_Stepped_office.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "reserve_not_placed",
+    "bytes": 6012168,
+    "sha256": "dca0958c2ced2e3abb592e49e87cba645ee9ec3b36841e969f376080a90c8e08",
+    "triangles": 16740,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_3",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_2",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "map_instance_count": 0,
+    "instance_ids": [],
+    "district_ids": []
+  },
+  {
+    "asset_id": "S03-B02",
+    "display_name_zh": "窄体写字楼",
+    "source_id": "S03",
+    "source_filename": "beautiful_city.glb",
+    "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+    "source_node_index": 32,
+    "source_node_name": "atlas.002_5_25",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 12.348210878848324,
+    "normalized_size_m": [
+      19.948063298183914,
+      17.01052453276199,
+      42
+    ],
+    "building_units": 1,
+    "source_mesh_count": 7,
+    "file": "S03-B02_Slim_office.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 5732248,
+    "sha256": "d801bdd38f970c270bf805faa49a77cd8fb3a8e00914a4f0234bee388e533518",
+    "triangles": 15806,
+    "images": [
+      {
+        "name": "Image_4",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_3",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_5",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_6",
+        "size": [
+          512,
+          512
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S03-B02-I01"
+    ],
+    "district_ids": [
+      8
+    ]
+  },
+  {
+    "asset_id": "S03-B03",
+    "display_name_zh": "玻璃写字楼",
+    "source_id": "S03",
+    "source_filename": "beautiful_city.glb",
+    "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+    "source_node_index": 47,
+    "source_node_name": "Atlas.003_41_28",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 11.513082643848694,
+    "normalized_size_m": [
+      25.76132201453756,
+      27.782358395288757,
+      56
+    ],
+    "building_units": 1,
+    "source_mesh_count": 2,
+    "file": "S03-B03_Twin_office.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 5147808,
+    "sha256": "f4ecfd20dce20623a85f6dfcc7c38bb2ce7bff12a981b26e2ef56878f915d45b",
+    "triangles": 6722,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_3",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_2",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S03-B03-I01"
+    ],
+    "district_ids": [
+      8
+    ]
+  },
+  {
+    "asset_id": "S03-B04",
+    "display_name_zh": "深色写字楼",
+    "source_id": "S03",
+    "source_filename": "beautiful_city.glb",
+    "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+    "source_node_index": 57,
+    "source_node_name": "Atlas.131_2_34",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 12.645359771742775,
+    "normalized_size_m": [
+      23.096561928176712,
+      33.65976117037284,
+      52
+    ],
+    "building_units": 1,
+    "source_mesh_count": 2,
+    "file": "S03-B04_Dark_office.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 5186620,
+    "sha256": "1acd891957912dd7c4f4b839e241924c4da2db644eb83921a5ad426b32142c99",
+    "triangles": 7106,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_3",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_2",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S03-B04-I01"
+    ],
+    "district_ids": [
+      8
+    ]
+  },
+  {
+    "asset_id": "S03-B05",
+    "display_name_zh": "低层办公楼",
+    "source_id": "S03",
+    "source_filename": "beautiful_city.glb",
+    "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+    "source_node_index": 194,
+    "source_node_name": "Cube.033_1_123",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 10.873044244690572,
+    "normalized_size_m": [
+      20.082245740468306,
+      13.908561188845178,
+      27
+    ],
+    "building_units": 1,
+    "source_mesh_count": 6,
+    "file": "S03-B05_Low_office.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 9649160,
+    "sha256": "fb1cfb74b33035bb4e73a5bdc10d2ab5695f6e1fb360ed432653441b5467a422",
+    "triangles": 57588,
+    "images": [
+      {
+        "name": "Image_15",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_16",
+        "size": [
+          1024,
+          512
+        ]
+      },
+      {
+        "name": "Image_14",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_3",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_6",
+        "size": [
+          512,
+          512
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S03-B05-I01"
+    ],
+    "district_ids": [
+      8
+    ]
+  },
+  {
+    "asset_id": "S03-B06",
+    "display_name_zh": "高层写字楼",
+    "source_id": "S03",
+    "source_filename": "beautiful_city.glb",
+    "source_sha256": "0306df40d8919fd6a3f2e93557918621e8e38ea4685c4fe14788dee696a35bec",
+    "source_node_index": 207,
+    "source_node_name": "Cube.035_0_126",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 12.085516939879863,
+    "normalized_size_m": [
+      31.930416466852098,
+      47.429347443073205,
+      72
+    ],
+    "building_units": 1,
+    "source_mesh_count": 2,
+    "file": "S03-B06_Tall_office.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "reserve_not_placed",
+    "bytes": 5156012,
+    "sha256": "09e9f4b5a75a4b144a995db463b5691abb4b3adbcfbc60a4c8e50f3c71e5e874",
+    "triangles": 6966,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          2048,
+          2048
+        ]
+      },
+      {
+        "name": "Image_3",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_2",
+        "size": [
+          2048,
+          2048
+        ]
+      }
+    ],
+    "map_instance_count": 0,
+    "instance_ids": [],
+    "district_ids": []
+  },
+  {
+    "asset_id": "S04-B01",
+    "display_name_zh": "街角百货楼",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 3,
+    "source_node_name": "LM_Paramount1",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.0087411626318054,
+    "normalized_size_m": [
+      16.204732640122728,
+      18.66728631844747,
+      18
+    ],
+    "building_units": 1,
+    "source_mesh_count": 52,
+    "file": "S04-B01_Paramount_store.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 1698488,
+    "sha256": "13b4295b8bebe3f2e1146ebe312e319065a29ab91c0e9f9cffab1072da55bdd7",
+    "triangles": 545,
+    "images": [
+      {
+        "name": "Image_0",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S04-B01-I01"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S04-B02",
+    "display_name_zh": "沿街服务店铺",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 112,
+    "source_node_name": "Filler_GunShop",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.008576887280664358,
+    "normalized_size_m": [
+      31.05504102505948,
+      17.31408864585207,
+      15
+    ],
+    "building_units": 1,
+    "source_mesh_count": 74,
+    "file": "S04-B02_Service_shops.glb",
+    "texture_policy": "FillerBuildings1 atlas detail reconstructed with image generation; other images retain source pixels",
+    "status": "placed_v19",
+    "bytes": 3380308,
+    "sha256": "e32e265b3e1d66f183d2ca7ee0014bffa096f94d81d00acfb417d51d13f58a6b",
+    "triangles": 494,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "original_extracted_sha256": "a66c6d736058449c07dac2d330befa3a16ad2541f4edde8ef40bc867178aa534",
+    "enhancement": {
+      "original_pixels": [
+        1024,
+        1024
+      ],
+      "enhanced_pixels": [
+        1254,
+        1254
+      ],
+      "file": "S04_FillerBuildings1_enhanced.png",
+      "method": "imagegen UV-atlas detail reconstruction; no UV changes",
+      "generated_sha256": "c95ef8fb117110bb21175b2b0ca1ac4fc41959185b88608a26ac3f44e837a530"
+    },
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S04-B02-I01",
+      "S04-B02-I02"
+    ],
+    "district_ids": [
+      8,
+      14
+    ]
+  },
+  {
+    "asset_id": "S04-B03",
+    "display_name_zh": "转角店铺",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 270,
+    "source_node_name": "LM_Liquor",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.008804455557116973,
+    "normalized_size_m": [
+      16.63969876245616,
+      18.291024271180003,
+      14
+    ],
+    "building_units": 1,
+    "source_mesh_count": 81,
+    "file": "S04-B03_Corner_shop.glb",
+    "texture_policy": "FillerBuildings1 atlas detail reconstructed with image generation; other images retain source pixels",
+    "status": "placed_v19",
+    "bytes": 3390304,
+    "sha256": "8a795c3885891d27cd887e328501944ec8bc15b20ed92770196ff69e06188dec",
+    "triangles": 592,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "original_extracted_sha256": "bcf05f2578097a8d3b40246d6e541efa31402b0c557eb90615e2f627676efea6",
+    "enhancement": {
+      "original_pixels": [
+        1024,
+        1024
+      ],
+      "enhanced_pixels": [
+        1254,
+        1254
+      ],
+      "file": "S04_FillerBuildings1_enhanced.png",
+      "method": "imagegen UV-atlas detail reconstruction; no UV changes",
+      "generated_sha256": "c95ef8fb117110bb21175b2b0ca1ac4fc41959185b88608a26ac3f44e837a530"
+    },
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S04-B03-I01"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S04-B04",
+    "display_name_zh": "多层居民楼",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 443,
+    "source_node_name": "Filler_Housing",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.010292264714347585,
+    "normalized_size_m": [
+      19.0646061706522,
+      19.139109502873982,
+      18
+    ],
+    "building_units": 1,
+    "source_mesh_count": 34,
+    "file": "S04-B04_Walkup_apartment.glb",
+    "texture_policy": "FillerBuildings1 atlas detail reconstructed with image generation; other images retain source pixels",
+    "status": "placed_v19",
+    "bytes": 3343704,
+    "sha256": "d85ec9abbb81ca71e6e8483bfbb5b91c4746c99b9818f12dbf87c991d4f68a2b",
+    "triangles": 506,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "original_extracted_sha256": "795e8de302a75c15b097b8bfdccd5eab61ce429231d06980e03327271213b42d",
+    "enhancement": {
+      "original_pixels": [
+        1024,
+        1024
+      ],
+      "enhanced_pixels": [
+        1254,
+        1254
+      ],
+      "file": "S04_FillerBuildings1_enhanced.png",
+      "method": "imagegen UV-atlas detail reconstruction; no UV changes",
+      "generated_sha256": "c95ef8fb117110bb21175b2b0ca1ac4fc41959185b88608a26ac3f44e837a530"
+    },
+    "map_instance_count": 3,
+    "instance_ids": [
+      "S04-B04-I01",
+      "S04-B04-I02",
+      "S04-B04-I03"
+    ],
+    "district_ids": [
+      4,
+      9
+    ]
+  },
+  {
+    "asset_id": "S04-B05",
+    "display_name_zh": "社区诊所",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 805,
+    "source_node_name": "LM_Clinic2",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.006150984839735715,
+    "normalized_size_m": [
+      23.115965668913276,
+      11.422255707556005,
+      12
+    ],
+    "building_units": 1,
+    "source_mesh_count": 1,
+    "file": "S04-B05_Community_clinic.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 1482752,
+    "sha256": "43e3dc1e3a7bc30596984157758e810e632137955be47304a70744af78ff5ec5",
+    "triangles": 668,
+    "images": [
+      {
+        "name": "Image_6",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S04-B05-I01",
+      "S04-B05-I02"
+    ],
+    "district_ids": [
+      4,
+      14
+    ]
+  },
+  {
+    "asset_id": "S04-B06",
+    "display_name_zh": "社区店铺",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 807,
+    "source_node_name": "group84",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.008619731197156236,
+    "normalized_size_m": [
+      15.891467751294693,
+      17.75832980739129,
+      12
+    ],
+    "building_units": 1,
+    "source_mesh_count": 7,
+    "file": "S04-B06_Local_shop.glb",
+    "texture_policy": "FillerBuildings1 atlas detail reconstructed with image generation; other images retain source pixels",
+    "status": "placed_v19",
+    "bytes": 3342332,
+    "sha256": "6bb62871037587f37da6588c38215f312b6a1e1ce32ca23bb9ece26536018a46",
+    "triangles": 786,
+    "images": [
+      {
+        "name": "Image_1",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "original_extracted_sha256": "5144cd8b94af1fc7b795fa169bf4398a54d407609914de93faf21d548cb21fef",
+    "enhancement": {
+      "original_pixels": [
+        1024,
+        1024
+      ],
+      "enhanced_pixels": [
+        1254,
+        1254
+      ],
+      "file": "S04_FillerBuildings1_enhanced.png",
+      "method": "imagegen UV-atlas detail reconstruction; no UV changes",
+      "generated_sha256": "c95ef8fb117110bb21175b2b0ca1ac4fc41959185b88608a26ac3f44e837a530"
+    },
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S04-B06-I01"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S04-B07",
+    "display_name_zh": "板式公寓",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 824,
+    "source_node_name": "Projects",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.008844904982901788,
+    "normalized_size_m": [
+      47.762486907669654,
+      15.920820331620696,
+      28
+    ],
+    "building_units": 1,
+    "source_mesh_count": 31,
+    "file": "S04-B07_Slab_apartment.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 2648164,
+    "sha256": "6cafdbe07055501859d62cfdb60591a826b2a6a29dd06962b8a10f2a1ade0ac0",
+    "triangles": 305,
+    "images": [
+      {
+        "name": "Image_8",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_7",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S04-B07-I01"
+    ],
+    "district_ids": [
+      8
+    ]
+  },
+  {
+    "asset_id": "S04-B08",
+    "display_name_zh": "洗衣店",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 2262,
+    "source_node_name": "LM_Laundrette",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.008804579772647297,
+    "normalized_size_m": [
+      15.848243590765135,
+      15.8482349925427,
+      8
+    ],
+    "building_units": 1,
+    "source_mesh_count": 32,
+    "file": "S04-B08_Laundrette.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 692368,
+    "sha256": "25e917ab88164c47a5277256a1442c4a1c4b7c2c11d8f42803f94940e501a3e2",
+    "triangles": 498,
+    "images": [
+      {
+        "name": "Image_9",
+        "size": [
+          1024,
+          512
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S04-B08-I01",
+      "S04-B08-I02"
+    ],
+    "district_ids": [
+      4,
+      9
+    ]
+  },
+  {
+    "asset_id": "S04-B09",
+    "display_name_zh": "砖墙厂房",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 2334,
+    "source_node_name": "FFactory",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.009570946832292117,
+    "normalized_size_m": [
+      51.68311289437744,
+      17.22770429812581,
+      17
+    ],
+    "building_units": 1,
+    "source_mesh_count": 51,
+    "file": "S04-B09_Brick_factory.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 2819988,
+    "sha256": "5f432a343c025bf722ca506c8954a0bfbc5e58e9af9e4ff51f87ae306b2a90f9",
+    "triangles": 513,
+    "images": [
+      {
+        "name": "Image_10",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_7",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S04-B09-I01",
+      "S04-B09-I02"
+    ],
+    "district_ids": [
+      14
+    ]
+  },
+  {
+    "asset_id": "S04-B10",
+    "display_name_zh": "双层商铺",
+    "source_id": "S04",
+    "source_filename": "ccity_building_set_1.glb",
+    "source_sha256": "9289894c493e1cd5c6a3c799d6ca17b66bd7db8a1bbc32f712efd23ed83ea039",
+    "source_node_index": 2546,
+    "source_node_name": "LM_PawnShop1",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.008450874354274579,
+    "normalized_size_m": [
+      15.211573837694242,
+      15.645910816591817,
+      13
+    ],
+    "building_units": 1,
+    "source_mesh_count": 17,
+    "file": "S04-B10_Pawn_shop.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 1783836,
+    "sha256": "ef83f9fd4940d0e051fb8ea9039c5cbc5b81de82ee08f945843f73a807c9ce42",
+    "triangles": 212,
+    "images": [
+      {
+        "name": "Image_7",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_11",
+        "size": [
+          1024,
+          512
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S04-B10-I01"
+    ],
+    "district_ids": [
+      9
+    ]
+  },
+  {
+    "asset_id": "S06-B01",
+    "display_name_zh": "铸铁立面街角楼",
+    "source_id": "S06",
+    "source_filename": "city (4).glb",
+    "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+    "source_node_index": 5,
+    "source_node_name": "CAST IRON STEEL SOHO.004_2",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.7482543263867327,
+    "normalized_size_m": [
+      16.87200130674613,
+      31.855994426256313,
+      31
+    ],
+    "building_units": 1,
+    "source_mesh_count": 4,
+    "file": "S06-B01_Soho_cast_iron.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "rejected_black_source_albedo",
+    "bytes": 24009004,
+    "sha256": "3dd23a0be620fb0712e2834ef5b6fe01554fe8556a18dd6d704557ec1eaaac47",
+    "triangles": 60893,
+    "images": [
+      {
+        "name": "Image_3",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_1",
+        "size": [
+          4096,
+          4096
+        ]
+      },
+      {
+        "name": "Image_0",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_2",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_4",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "reason_zh": "原文件铸铁立面基础颜色图为纯黑，缺少有效外观信息，本轮不放入地图。",
+    "map_instance_count": 0,
+    "instance_ids": [],
+    "district_ids": []
+  },
+  {
+    "asset_id": "S06-B02",
+    "display_name_zh": "棕石街面楼",
+    "source_id": "S06",
+    "source_filename": "city (4).glb",
+    "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+    "source_node_index": 187,
+    "source_node_name": "_gltfNode_0.002_154",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.7850639430436371,
+    "normalized_size_m": [
+      14.238559553975707,
+      33.84301321991482,
+      26
+    ],
+    "building_units": 1,
+    "source_mesh_count": 7,
+    "file": "S06-B02_Soho_brownstone.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 4104736,
+    "sha256": "6554ea93d271caf294ff4766f020a602ff1ac6af332e14e7bf07d34889de0b9a",
+    "triangles": 1211,
+    "images": [
+      {
+        "name": "Image_20",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_18",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_17",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_21",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_22",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_16",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_19",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 1,
+    "instance_ids": [
+      "S06-B02-I01"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S06-B03",
+    "display_name_zh": "红砖街面楼",
+    "source_id": "S06",
+    "source_filename": "city (4).glb",
+    "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+    "source_node_index": 195,
+    "source_node_name": "_gltfNode_4.001_155",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.8010882091953065,
+    "normalized_size_m": [
+      21.65631643020934,
+      12.914512855636184,
+      24
+    ],
+    "building_units": 1,
+    "source_mesh_count": 6,
+    "file": "S06-B03_Soho_red_brick.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 3480084,
+    "sha256": "75caad284a535ce9425d7835b09721143222f90df8d62b73f24ed73d11db7c29",
+    "triangles": 784,
+    "images": [
+      {
+        "name": "Image_20",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_22",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_18",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_24",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_23",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_19",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S06-B03-I01",
+      "S06-B03-I02"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S06-B04",
+    "display_name_zh": "灰色街面楼",
+    "source_id": "S06",
+    "source_filename": "city (4).glb",
+    "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+    "source_node_index": 202,
+    "source_node_name": "_gltfNode_6.003_156",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.8173476114776596,
+    "normalized_size_m": [
+      23.109373151771724,
+      13.113389959772809,
+      24
+    ],
+    "building_units": 1,
+    "source_mesh_count": 5,
+    "file": "S06-B04_Soho_grey.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 2206880,
+    "sha256": "3e48469cbbbeb22a066b4fdcf9211de466b9bd23d12dec368fd35acfb4873b35",
+    "triangles": 290,
+    "images": [
+      {
+        "name": "Image_20",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_18",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_21",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_22",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_16",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_19",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S06-B04-I01",
+      "S06-B04-I02"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S06-B05",
+    "display_name_zh": "街角多层楼",
+    "source_id": "S06",
+    "source_filename": "city (4).glb",
+    "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+    "source_node_index": 208,
+    "source_node_name": "_gltfNode_6.005_157",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.81166619831273,
+    "normalized_size_m": [
+      17.992408822592367,
+      21.37265946704169,
+      29
+    ],
+    "building_units": 1,
+    "source_mesh_count": 6,
+    "file": "S06-B05_Soho_corner.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 2173544,
+    "sha256": "8df58aa74b26eb93f80de525b24627836a167fb7123640de669497cd46e59f9e",
+    "triangles": 1672,
+    "images": [
+      {
+        "name": "Image_20",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_25",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_24",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_22",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_16",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_26",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S06-B05-I01",
+      "S06-B05-I02"
+    ],
+    "district_ids": [
+      4
+    ]
+  },
+  {
+    "asset_id": "S06-B06",
+    "display_name_zh": "低层商业楼",
+    "source_id": "S06",
+    "source_filename": "city (4).glb",
+    "source_sha256": "561b3fea433eab221a688743bd27e19b0b4451eb83543c5c477f6cb3d072a8d4",
+    "source_node_index": 215,
+    "source_node_name": "_gltfNode_7_158",
+    "extraction_method": "complete named hierarchy; world transforms baked; uniform scale; bottom-center origin",
+    "uniform_scale": 0.8806810442401442,
+    "normalized_size_m": [
+      26.37796348861088,
+      11.363010824410722,
+      22
+    ],
+    "building_units": 1,
+    "source_mesh_count": 7,
+    "file": "S06-B06_Soho_shops.glb",
+    "texture_policy": "original embedded pixels; no invented details",
+    "status": "placed_v19",
+    "bytes": 3856516,
+    "sha256": "1766bdf1d3b9139443f4ddcb05492e5be54a85ca8b080905ab29d01e6e1e6417",
+    "triangles": 454,
+    "images": [
+      {
+        "name": "Image_20",
+        "size": [
+          256,
+          256
+        ]
+      },
+      {
+        "name": "Image_24",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_22",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_21",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_27",
+        "size": [
+          1024,
+          1024
+        ]
+      },
+      {
+        "name": "Image_28",
+        "size": [
+          1024,
+          1024
+        ]
+      }
+    ],
+    "map_instance_count": 2,
+    "instance_ids": [
+      "S06-B06-I01",
+      "S06-B06-I02"
+    ],
+    "district_ids": [
+      4
+    ]
+  }
+]

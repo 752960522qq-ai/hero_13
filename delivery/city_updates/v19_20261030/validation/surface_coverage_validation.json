@@ -1,0 +1,9 @@
+{
+  "status": "PASS",
+  "method": "actual projected surface coverage; fill only uncovered polygons; boundary heights sampled from adjacent surfaces",
+  "polygons_filled": 59,
+  "filled_area_m2": 37.84126796923851,
+  "triangles": 2604,
+  "remaining_large_holes_m2": [],
+  "maximum_unfilled_fragment_m2": 0.0024321824312210083
+}

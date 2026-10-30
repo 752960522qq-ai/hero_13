@@ -1,0 +1,28 @@
+﻿模型编号,建筑名称,来源文件,原节点名称,分割文件,落位数量,地图实例编号,区块,状态,贴图处理
+S02-B01,亚洲白色沿街楼,08-asian_buildings_set.glb,RaoheBuilding_05.fbx_103,S02-B01_Raohe_terraced_05.glb,1,S02-B01-I01,4,已落位,保留原贴图
+S02-B02,亚洲绿色沿街楼,08-asian_buildings_set.glb,RaoheBuilding_04.fbx_270,S02-B02_Raohe_terraced_04.glb,2,S02-B02-I01 | S02-B02-I02,4,已落位,保留原贴图
+S02-B03,亚洲低层商住楼,08-asian_buildings_set.glb,RaoheBuilding_01.fbx_547,S02-B03_Raohe_lowrise_01.glb,3,S02-B03-I01 | S02-B03-I02 | S02-B03-I03,"4,9",已落位,保留原贴图
+S02-B04,亚洲转角商住楼,08-asian_buildings_set.glb,e5f5c56c46ec4bdc850971cd7c21aec5.fbx_810,S02-B04_Raohe_corner.glb,2,S02-B04-I01 | S02-B04-I02,"4,9",已落位,保留原贴图
+S02-B05,坡顶双层住宅,08-asian_buildings_set.glb,Md_Houses_close_02_Material_#2097632178_0_830,S02-B05_Pitched_roof_house.glb,4,S02-B05-I01 | S02-B05-I02 | S02-B05-I03 | S02-B05-I04,9,已落位,保留原贴图
+S03-B01,阶梯写字楼,beautiful_city.glb,Atlas.001_40_14,S03-B01_Stepped_office.glb,0,,,可用备用；未落位,保留原贴图
+S03-B02,窄体写字楼,beautiful_city.glb,atlas.002_5_25,S03-B02_Slim_office.glb,1,S03-B02-I01,8,已落位,保留原贴图
+S03-B03,玻璃写字楼,beautiful_city.glb,Atlas.003_41_28,S03-B03_Twin_office.glb,1,S03-B03-I01,8,已落位,保留原贴图
+S03-B04,深色写字楼,beautiful_city.glb,Atlas.131_2_34,S03-B04_Dark_office.glb,1,S03-B04-I01,8,已落位,保留原贴图
+S03-B05,低层办公楼,beautiful_city.glb,Cube.033_1_123,S03-B05_Low_office.glb,1,S03-B05-I01,8,已落位,保留原贴图
+S03-B06,高层写字楼,beautiful_city.glb,Cube.035_0_126,S03-B06_Tall_office.glb,0,,,可用备用；未落位,保留原贴图
+S04-B01,街角百货楼,ccity_building_set_1.glb,LM_Paramount1,S04-B01_Paramount_store.glb,1,S04-B01-I01,4,已落位,保留原贴图
+S04-B02,沿街服务店铺,ccity_building_set_1.glb,Filler_GunShop,S04-B02_Service_shops.glb,2,S04-B02-I01 | S04-B02-I02,"8,14",已落位,AI 细节增强
+S04-B03,转角店铺,ccity_building_set_1.glb,LM_Liquor,S04-B03_Corner_shop.glb,1,S04-B03-I01,4,已落位,AI 细节增强
+S04-B04,多层居民楼,ccity_building_set_1.glb,Filler_Housing,S04-B04_Walkup_apartment.glb,3,S04-B04-I01 | S04-B04-I02 | S04-B04-I03,"4,9",已落位,AI 细节增强
+S04-B05,社区诊所,ccity_building_set_1.glb,LM_Clinic2,S04-B05_Community_clinic.glb,2,S04-B05-I01 | S04-B05-I02,"4,14",已落位,保留原贴图
+S04-B06,社区店铺,ccity_building_set_1.glb,group84,S04-B06_Local_shop.glb,1,S04-B06-I01,4,已落位,AI 细节增强
+S04-B07,板式公寓,ccity_building_set_1.glb,Projects,S04-B07_Slab_apartment.glb,1,S04-B07-I01,8,已落位,保留原贴图
+S04-B08,洗衣店,ccity_building_set_1.glb,LM_Laundrette,S04-B08_Laundrette.glb,2,S04-B08-I01 | S04-B08-I02,"4,9",已落位,保留原贴图
+S04-B09,砖墙厂房,ccity_building_set_1.glb,FFactory,S04-B09_Brick_factory.glb,2,S04-B09-I01 | S04-B09-I02,14,已落位,保留原贴图
+S04-B10,双层商铺,ccity_building_set_1.glb,LM_PawnShop1,S04-B10_Pawn_shop.glb,1,S04-B10-I01,9,已落位,保留原贴图
+S06-B01,铸铁立面街角楼,city (4).glb,CAST IRON STEEL SOHO.004_2,不交付为可用模型,0,,,未采用；源贴图纯黑,保留原贴图
+S06-B02,棕石街面楼,city (4).glb,_gltfNode_0.002_154,S06-B02_Soho_brownstone.glb,1,S06-B02-I01,4,已落位,保留原贴图
+S06-B03,红砖街面楼,city (4).glb,_gltfNode_4.001_155,S06-B03_Soho_red_brick.glb,2,S06-B03-I01 | S06-B03-I02,4,已落位,保留原贴图
+S06-B04,灰色街面楼,city (4).glb,_gltfNode_6.003_156,S06-B04_Soho_grey.glb,2,S06-B04-I01 | S06-B04-I02,4,已落位,保留原贴图
+S06-B05,街角多层楼,city (4).glb,_gltfNode_6.005_157,S06-B05_Soho_corner.glb,2,S06-B05-I01 | S06-B05-I02,4,已落位,保留原贴图
+S06-B06,低层商业楼,city (4).glb,_gltfNode_7_158,S06-B06_Soho_shops.glb,2,S06-B06-I01 | S06-B06-I02,4,已落位,保留原贴图

@@ -1,0 +1,31 @@
+{
+  "status": "PASS",
+  "changed_districts": [
+    {
+      "id": 4,
+      "file": "04_main_se.glb",
+      "sha256": "079b8e279043896e076a8feaf749f2b1dfb94709091bce2b72cb5e103c25d37e",
+      "matches": true
+    },
+    {
+      "id": 8,
+      "file": "08_main_ne.glb",
+      "sha256": "93c105af0e1481dce825c27088ec84af932be1206d041233cda65a1abf82b889",
+      "matches": true
+    },
+    {
+      "id": 9,
+      "file": "09_west_sw.glb",
+      "sha256": "58831ee7584eaffc664f84c0553bf6ff7f25cf18c2f70866caa3541007f36650",
+      "matches": true
+    },
+    {
+      "id": 14,
+      "file": "14_east_se.glb",
+      "sha256": "1de211e20822b796a3b029dd15367ff9411965b00f3264964705909612764fe7",
+      "matches": true
+    }
+  ],
+  "unchanged_districts_verified_by_reference_hash": 14,
+  "building_bank_model_hashes_verified": 26
+}

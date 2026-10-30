@@ -1,0 +1,1141 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "checks": [
+    {
+      "check": "counts_and_budget",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_coasts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_lake",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_nodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_edges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_interchanges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_grade_separated_crossings",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_pedestrian_alleys",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_cbd_plan",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_arcade_asset_pool",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "existing_real_buildings_preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "oldtown_unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "oldtown_street_cap",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "untouched_geometry_and_uv_fingerprints",
+      "passed": true,
+      "detail": {
+        "objects": 267,
+        "failures": []
+      }
+    },
+    {
+      "check": "land_roads_neighbors_and_reserved_lot_clear",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "proportions_heights_and_footprints",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "every_source_mesh_marked",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "foundation_perimeter_ground_continuity",
+      "passed": true,
+      "detail": [
+        {
+          "instance_id": "S02-B01-I01",
+          "samples": 35,
+          "missing": 0,
+          "maximum_floor_error_m": 6.6923666963703e-07
+        },
+        {
+          "instance_id": "S02-B02-I01",
+          "samples": 35,
+          "missing": 0,
+          "maximum_floor_error_m": 5.8099413280388035e-08
+        },
+        {
+          "instance_id": "S02-B04-I01",
+          "samples": 33,
+          "missing": 0,
+          "maximum_floor_error_m": 5.848699835553361e-07
+        },
+        {
+          "instance_id": "S06-B03-I01",
+          "samples": 37,
+          "missing": 0,
+          "maximum_floor_error_m": 1.1394413235166212e-07
+        },
+        {
+          "instance_id": "S06-B04-I01",
+          "samples": 39,
+          "missing": 0,
+          "maximum_floor_error_m": 0.007110928310945397
+        },
+        {
+          "instance_id": "S06-B06-I01",
+          "samples": 41,
+          "missing": 0,
+          "maximum_floor_error_m": 2.9101073550918954e-07
+        },
+        {
+          "instance_id": "S04-B03-I01",
+          "samples": 39,
+          "missing": 0,
+          "maximum_floor_error_m": 0.030946608213998417
+        },
+        {
+          "instance_id": "S06-B02-I01",
+          "samples": 53,
+          "missing": 0,
+          "maximum_floor_error_m": 4.2049846271652314e-07
+        },
+        {
+          "instance_id": "S06-B05-I01",
+          "samples": 43,
+          "missing": 0,
+          "maximum_floor_error_m": 8.533031454760476e-07
+        },
+        {
+          "instance_id": "S04-B04-I01",
+          "samples": 41,
+          "missing": 0,
+          "maximum_floor_error_m": 8.767031438594586e-07
+        },
+        {
+          "instance_id": "S02-B03-I01",
+          "samples": 35,
+          "missing": 0,
+          "maximum_floor_error_m": 1.2579477015606244e-08
+        },
+        {
+          "instance_id": "S04-B05-I01",
+          "samples": 37,
+          "missing": 0,
+          "maximum_floor_error_m": 8.729508564897515e-07
+        },
+        {
+          "instance_id": "S04-B01-I01",
+          "samples": 39,
+          "missing": 0,
+          "maximum_floor_error_m": 2.562569108022217e-07
+        },
+        {
+          "instance_id": "S02-B03-I02",
+          "samples": 35,
+          "missing": 0,
+          "maximum_floor_error_m": 3.6983684559288577e-07
+        },
+        {
+          "instance_id": "S04-B06-I01",
+          "samples": 37,
+          "missing": 0,
+          "maximum_floor_error_m": 4.12872406485576e-07
+        },
+        {
+          "instance_id": "S06-B04-I02",
+          "samples": 39,
+          "missing": 0,
+          "maximum_floor_error_m": 2.1934396521317012e-07
+        },
+        {
+          "instance_id": "S04-B08-I01",
+          "samples": 37,
+          "missing": 0,
+          "maximum_floor_error_m": 1.4105884105219957e-07
+        },
+        {
+          "instance_id": "S06-B03-I02",
+          "samples": 37,
+          "missing": 0,
+          "maximum_floor_error_m": 1.0919178006218999e-07
+        },
+        {
+          "instance_id": "S06-B05-I02",
+          "samples": 43,
+          "missing": 0,
+          "maximum_floor_error_m": 2.0215139340251653e-07
+        },
+        {
+          "instance_id": "S02-B02-I02",
+          "samples": 35,
+          "missing": 0,
+          "maximum_floor_error_m": 1.198751773401341e-07
+        },
+        {
+          "instance_id": "S06-B06-I02",
+          "samples": 41,
+          "missing": 0,
+          "maximum_floor_error_m": 1.4945744553074292e-07
+        },
+        {
+          "instance_id": "S04-B04-I02",
+          "samples": 41,
+          "missing": 0,
+          "maximum_floor_error_m": 3.823129652857915e-07
+        },
+        {
+          "instance_id": "S03-B03-I01",
+          "samples": 55,
+          "missing": 0,
+          "maximum_floor_error_m": 1.622003118484372e-07
+        },
+        {
+          "instance_id": "S03-B05-I01",
+          "samples": 39,
+          "missing": 0,
+          "maximum_floor_error_m": 6.705694666209183e-08
+        },
+        {
+          "instance_id": "S03-B02-I01",
+          "samples": 41,
+          "missing": 0,
+          "maximum_floor_error_m": 4.021106416729481e-07
+        },
+        {
+          "instance_id": "S03-B04-I01",
+          "samples": 59,
+          "missing": 0,
+          "maximum_floor_error_m": 3.920452069650082e-07
+        },
+        {
+          "instance_id": "S04-B02-I01",
+          "samples": 51,
+          "missing": 0,
+          "maximum_floor_error_m": 1.0670425787395743e-07
+        },
+        {
+          "instance_id": "S04-B07-I01",
+          "samples": 67,
+          "missing": 0,
+          "maximum_floor_error_m": 4.7374849287962206e-07
+        },
+        {
+          "instance_id": "S02-B05-I01",
+          "samples": 23,
+          "missing": 0,
+          "maximum_floor_error_m": 6.811841135601071e-08
+        },
+        {
+          "instance_id": "S02-B05-I02",
+          "samples": 23,
+          "missing": 0,
+          "maximum_floor_error_m": 7.166979543171692e-08
+        },
+        {
+          "instance_id": "S02-B03-I03",
+          "samples": 25,
+          "missing": 0,
+          "maximum_floor_error_m": 2.9177183336059898e-08
+        },
+        {
+          "instance_id": "S02-B04-I02",
+          "samples": 23,
+          "missing": 0,
+          "maximum_floor_error_m": 4.76339655719471e-07
+        },
+        {
+          "instance_id": "S02-B05-I03",
+          "samples": 23,
+          "missing": 0,
+          "maximum_floor_error_m": 7.119652156717393e-08
+        },
+        {
+          "instance_id": "S02-B05-I04",
+          "samples": 23,
+          "missing": 0,
+          "maximum_floor_error_m": 9.893898322843597e-08
+        },
+        {
+          "instance_id": "S04-B04-I03",
+          "samples": 25,
+          "missing": 0,
+          "maximum_floor_error_m": 4.282148928780316e-07
+        },
+        {
+          "instance_id": "S04-B08-I02",
+          "samples": 29,
+          "missing": 0,
+          "maximum_floor_error_m": 1.7606031033068348e-07
+        },
+        {
+          "instance_id": "S04-B10-I01",
+          "samples": 29,
+          "missing": 0,
+          "maximum_floor_error_m": 6.493348081448858e-08
+        },
+        {
+          "instance_id": "S04-B09-I01",
+          "samples": 65,
+          "missing": 0,
+          "maximum_floor_error_m": 2.7961038817636563e-07
+        },
+        {
+          "instance_id": "S04-B09-I02",
+          "samples": 65,
+          "missing": 0,
+          "maximum_floor_error_m": 3.5914017360028083e-07
+        },
+        {
+          "instance_id": "S04-B05-I02",
+          "samples": 35,
+          "missing": 0,
+          "maximum_floor_error_m": 2.0522808341638665e-07
+        },
+        {
+          "instance_id": "S04-B02-I02",
+          "samples": 47,
+          "missing": 0,
+          "maximum_floor_error_m": 8.432322928797475e-08
+        }
+      ]
+    },
+    {
+      "check": "all_entrances_reach_public_walkways_without_crossing_buildings",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "all_used_assets_unique_and_traceable",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_EAST_INDUSTRIAL_0043",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_EAST_INDUSTRIAL_0044",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_EAST_INDUSTRIAL_0046",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_EAST_INDUSTRIAL_0047",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0086",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0087",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0088",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0089",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0090",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0091",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0092",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0093",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0094",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0095",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0096",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0097",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0101",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0102",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0103",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0104",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0105",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0106",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0107",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0108",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0109",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0110",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0111",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_MAIN_RESIDENTIAL_0112",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0039",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0040",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0041",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0042",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0043",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0044",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0045",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0046",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "removed_WEST_VILLAGE_0047",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "no_visible_surface_voids_in_modified_sites",
+      "passed": true,
+      "detail": {
+        "status": "PASS",
+        "method": "actual projected surface coverage; fill only uncovered polygons; boundary heights sampled from adjacent surfaces",
+        "polygons_filled": 59,
+        "filled_area_m2": 37.84126796923851,
+        "triangles": 2604,
+        "remaining_large_holes_m2": [],
+        "maximum_unfilled_fragment_m2": 0.0024321824312210083
+      }
+    }
+  ],
+  "site_levels": [
+    {
+      "instance_id": "S02-B01-I01",
+      "samples": 35,
+      "missing": 0,
+      "maximum_floor_error_m": 6.6923666963703e-07
+    },
+    {
+      "instance_id": "S02-B02-I01",
+      "samples": 35,
+      "missing": 0,
+      "maximum_floor_error_m": 5.8099413280388035e-08
+    },
+    {
+      "instance_id": "S02-B04-I01",
+      "samples": 33,
+      "missing": 0,
+      "maximum_floor_error_m": 5.848699835553361e-07
+    },
+    {
+      "instance_id": "S06-B03-I01",
+      "samples": 37,
+      "missing": 0,
+      "maximum_floor_error_m": 1.1394413235166212e-07
+    },
+    {
+      "instance_id": "S06-B04-I01",
+      "samples": 39,
+      "missing": 0,
+      "maximum_floor_error_m": 0.007110928310945397
+    },
+    {
+      "instance_id": "S06-B06-I01",
+      "samples": 41,
+      "missing": 0,
+      "maximum_floor_error_m": 2.9101073550918954e-07
+    },
+    {
+      "instance_id": "S04-B03-I01",
+      "samples": 39,
+      "missing": 0,
+      "maximum_floor_error_m": 0.030946608213998417
+    },
+    {
+      "instance_id": "S06-B02-I01",
+      "samples": 53,
+      "missing": 0,
+      "maximum_floor_error_m": 4.2049846271652314e-07
+    },
+    {
+      "instance_id": "S06-B05-I01",
+      "samples": 43,
+      "missing": 0,
+      "maximum_floor_error_m": 8.533031454760476e-07
+    },
+    {
+      "instance_id": "S04-B04-I01",
+      "samples": 41,
+      "missing": 0,
+      "maximum_floor_error_m": 8.767031438594586e-07
+    },
+    {
+      "instance_id": "S02-B03-I01",
+      "samples": 35,
+      "missing": 0,
+      "maximum_floor_error_m": 1.2579477015606244e-08
+    },
+    {
+      "instance_id": "S04-B05-I01",
+      "samples": 37,
+      "missing": 0,
+      "maximum_floor_error_m": 8.729508564897515e-07
+    },
+    {
+      "instance_id": "S04-B01-I01",
+      "samples": 39,
+      "missing": 0,
+      "maximum_floor_error_m": 2.562569108022217e-07
+    },
+    {
+      "instance_id": "S02-B03-I02",
+      "samples": 35,
+      "missing": 0,
+      "maximum_floor_error_m": 3.6983684559288577e-07
+    },
+    {
+      "instance_id": "S04-B06-I01",
+      "samples": 37,
+      "missing": 0,
+      "maximum_floor_error_m": 4.12872406485576e-07
+    },
+    {
+      "instance_id": "S06-B04-I02",
+      "samples": 39,
+      "missing": 0,
+      "maximum_floor_error_m": 2.1934396521317012e-07
+    },
+    {
+      "instance_id": "S04-B08-I01",
+      "samples": 37,
+      "missing": 0,
+      "maximum_floor_error_m": 1.4105884105219957e-07
+    },
+    {
+      "instance_id": "S06-B03-I02",
+      "samples": 37,
+      "missing": 0,
+      "maximum_floor_error_m": 1.0919178006218999e-07
+    },
+    {
+      "instance_id": "S06-B05-I02",
+      "samples": 43,
+      "missing": 0,
+      "maximum_floor_error_m": 2.0215139340251653e-07
+    },
+    {
+      "instance_id": "S02-B02-I02",
+      "samples": 35,
+      "missing": 0,
+      "maximum_floor_error_m": 1.198751773401341e-07
+    },
+    {
+      "instance_id": "S06-B06-I02",
+      "samples": 41,
+      "missing": 0,
+      "maximum_floor_error_m": 1.4945744553074292e-07
+    },
+    {
+      "instance_id": "S04-B04-I02",
+      "samples": 41,
+      "missing": 0,
+      "maximum_floor_error_m": 3.823129652857915e-07
+    },
+    {
+      "instance_id": "S03-B03-I01",
+      "samples": 55,
+      "missing": 0,
+      "maximum_floor_error_m": 1.622003118484372e-07
+    },
+    {
+      "instance_id": "S03-B05-I01",
+      "samples": 39,
+      "missing": 0,
+      "maximum_floor_error_m": 6.705694666209183e-08
+    },
+    {
+      "instance_id": "S03-B02-I01",
+      "samples": 41,
+      "missing": 0,
+      "maximum_floor_error_m": 4.021106416729481e-07
+    },
+    {
+      "instance_id": "S03-B04-I01",
+      "samples": 59,
+      "missing": 0,
+      "maximum_floor_error_m": 3.920452069650082e-07
+    },
+    {
+      "instance_id": "S04-B02-I01",
+      "samples": 51,
+      "missing": 0,
+      "maximum_floor_error_m": 1.0670425787395743e-07
+    },
+    {
+      "instance_id": "S04-B07-I01",
+      "samples": 67,
+      "missing": 0,
+      "maximum_floor_error_m": 4.7374849287962206e-07
+    },
+    {
+      "instance_id": "S02-B05-I01",
+      "samples": 23,
+      "missing": 0,
+      "maximum_floor_error_m": 6.811841135601071e-08
+    },
+    {
+      "instance_id": "S02-B05-I02",
+      "samples": 23,
+      "missing": 0,
+      "maximum_floor_error_m": 7.166979543171692e-08
+    },
+    {
+      "instance_id": "S02-B03-I03",
+      "samples": 25,
+      "missing": 0,
+      "maximum_floor_error_m": 2.9177183336059898e-08
+    },
+    {
+      "instance_id": "S02-B04-I02",
+      "samples": 23,
+      "missing": 0,
+      "maximum_floor_error_m": 4.76339655719471e-07
+    },
+    {
+      "instance_id": "S02-B05-I03",
+      "samples": 23,
+      "missing": 0,
+      "maximum_floor_error_m": 7.119652156717393e-08
+    },
+    {
+      "instance_id": "S02-B05-I04",
+      "samples": 23,
+      "missing": 0,
+      "maximum_floor_error_m": 9.893898322843597e-08
+    },
+    {
+      "instance_id": "S04-B04-I03",
+      "samples": 25,
+      "missing": 0,
+      "maximum_floor_error_m": 4.282148928780316e-07
+    },
+    {
+      "instance_id": "S04-B08-I02",
+      "samples": 29,
+      "missing": 0,
+      "maximum_floor_error_m": 1.7606031033068348e-07
+    },
+    {
+      "instance_id": "S04-B10-I01",
+      "samples": 29,
+      "missing": 0,
+      "maximum_floor_error_m": 6.493348081448858e-08
+    },
+    {
+      "instance_id": "S04-B09-I01",
+      "samples": 65,
+      "missing": 0,
+      "maximum_floor_error_m": 2.7961038817636563e-07
+    },
+    {
+      "instance_id": "S04-B09-I02",
+      "samples": 65,
+      "missing": 0,
+      "maximum_floor_error_m": 3.5914017360028083e-07
+    },
+    {
+      "instance_id": "S04-B05-I02",
+      "samples": 35,
+      "missing": 0,
+      "maximum_floor_error_m": 2.0522808341638665e-07
+    },
+    {
+      "instance_id": "S04-B02-I02",
+      "samples": 47,
+      "missing": 0,
+      "maximum_floor_error_m": 8.432322928797475e-08
+    }
+  ],
+  "walkways": [
+    {
+      "name": "S02-B01-I01_Entrance",
+      "length_m": 35.5,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.21695579704897314,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I01_Entrance",
+      "length_m": 60.64305760538533,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.10534322848282802,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B04-I01_Entrance",
+      "length_m": 73.09379334961154,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.0813429447758358,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B03-I01_Entrance",
+      "length_m": 47.77499999999998,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.23391737143893332,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B04-I01_Entrance",
+      "length_m": 67.57499999999993,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.07944343534498273,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B06-I01_Entrance",
+      "length_m": 82.27499999999998,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.053787756331015034,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B03-I01_Entrance",
+      "length_m": 98.04999999999995,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.08721455395271645,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B02-I01_Entrance",
+      "length_m": 50.5,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.2401533016724874,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B05-I01_Entrance",
+      "length_m": 61.403795588703815,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.12615726351610568,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B04-I01_Entrance",
+      "length_m": 60.830445248563024,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.1387790617687915,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B03-I01_Entrance",
+      "length_m": 53.77499999999998,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.07428873881357403,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B05-I01_Entrance",
+      "length_m": 93.86471641495027,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.04318621738182553,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B01-I01_Entrance",
+      "length_m": 5.06635684077628,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.07641465802959942,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B03-I02_Entrance",
+      "length_m": 8.034911793873562,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.13138224161352652,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B06-I01_Entrance",
+      "length_m": 5.520835096304381,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.2046024935465194,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B04-I02_Entrance",
+      "length_m": 94.5,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.03434606215683406,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B08-I01_Entrance",
+      "length_m": 6.475882503728599,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.1848205298011729,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B03-I02_Entrance",
+      "length_m": 23.392743572181928,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.07701742470125852,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B05-I02_Entrance",
+      "length_m": 16.72802001261991,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.13094138086399476,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I02_Entrance",
+      "length_m": 28.325794563030666,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.09877667594848055,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B06-I02_Entrance",
+      "length_m": 30.80967334860254,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.11791828363307198,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B04-I02_Entrance",
+      "length_m": 58.17944764709058,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.09099901640288208,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S03-B03-I01_Entrance",
+      "length_m": 48.049999999999955,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.18790562647458275,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S03-B05-I01_Entrance",
+      "length_m": 100.91170706601062,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.1047950161529434,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S03-B02-I01_Entrance",
+      "length_m": 35.049999999999955,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.29376071195702996,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S03-B04-I01_Entrance",
+      "length_m": 34.122895733795474,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.1904510732462404,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B02-I01_Entrance",
+      "length_m": 48.541438856653485,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.14872670879803043,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B07-I01_Entrance",
+      "length_m": 64.16458983418966,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.16381871757878763,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I01_Entrance",
+      "length_m": 38.0938019028996,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.010769183819109587,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I02_Entrance",
+      "length_m": 38.0938019028996,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.010769183819110954,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B03-I03_Entrance",
+      "length_m": 35.07174001983401,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.011248470647106159,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B04-I02_Entrance",
+      "length_m": 32.19544060347687,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.035038587126639584,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I03_Entrance",
+      "length_m": 15.294741317364789,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.08691647155770396,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I04_Entrance",
+      "length_m": 39.03567158621433,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.08589205673821664,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B04-I03_Entrance",
+      "length_m": 30.658267149137714,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.04478992793974329,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B08-I02_Entrance",
+      "length_m": 15.06070600298301,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.11808754210397567,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I01_Entrance",
+      "length_m": 14.14163567336334,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.13631985406863834,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B09-I01_Entrance",
+      "length_m": 32.049999999999955,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.2194133202383975,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B09-I02_Entrance",
+      "length_m": 17.64753306584339,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.13164333509026452,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B05-I02_Entrance",
+      "length_m": 103.60129605086851,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.03751185353151574,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B02-I02_Entrance",
+      "length_m": 21.608660109366497,
+      "missing_samples": 0,
+      "maximum_surface_grade": 0.044584063526248045,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    }
+  ],
+  "changed_districts": [
+    4,
+    8,
+    9,
+    14
+  ],
+  "city_buildings": 547,
+  "new_instances": 41,
+  "new_types_used": 24
+}

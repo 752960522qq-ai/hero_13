@@ -1,0 +1,248 @@
+{
+  "archive": "building_bank.tar.xz",
+  "bytes": 131197912,
+  "sha256": "bdd18161d38f335c903ab07012c8f6149d654f6697a5639d32fd1bbee23c12e9",
+  "parts": [
+    {
+      "file": "building_bank.tar.xz.part000",
+      "bytes": 8388608,
+      "sha256": "08b4b7d780292c80586df899d3919080b6d440bed7bfcf30c66251fb3e0fa603"
+    },
+    {
+      "file": "building_bank.tar.xz.part001",
+      "bytes": 8388608,
+      "sha256": "9859ac9623182ded75f8c3666f4b66c4179d3d983eb258076989c68fe8f00581"
+    },
+    {
+      "file": "building_bank.tar.xz.part002",
+      "bytes": 8388608,
+      "sha256": "c808a8ff4b8cdf15cbb1c26f690a601a69e9d3b846a8400f544af0c16202f133"
+    },
+    {
+      "file": "building_bank.tar.xz.part003",
+      "bytes": 8388608,
+      "sha256": "7cf70e7bbcd0be02d3f091e37dbbb1c44ce78ea5c1b262d8ce01e6c4fd47a9cb"
+    },
+    {
+      "file": "building_bank.tar.xz.part004",
+      "bytes": 8388608,
+      "sha256": "084facaa3d3ee4d9f4207117607cbf34546ab63caaed9cd990f656fb53e71920"
+    },
+    {
+      "file": "building_bank.tar.xz.part005",
+      "bytes": 8388608,
+      "sha256": "53361fe3f7bcc005053222695de308fd5334b253256520c650585106783845ce"
+    },
+    {
+      "file": "building_bank.tar.xz.part006",
+      "bytes": 8388608,
+      "sha256": "16d847f577109232dac1c59456dac06045e6ac804d487a06223cb8be1abe9a5f"
+    },
+    {
+      "file": "building_bank.tar.xz.part007",
+      "bytes": 8388608,
+      "sha256": "7e6e30a868d7c0f34648abcd67a70f0a67ec1779ed0d9528ab69348c699378ae"
+    },
+    {
+      "file": "building_bank.tar.xz.part008",
+      "bytes": 8388608,
+      "sha256": "5287f627a2a96b6bf8da7145f9bf0e851b042582a1a14cb8b5449641e2a6dd6d"
+    },
+    {
+      "file": "building_bank.tar.xz.part009",
+      "bytes": 8388608,
+      "sha256": "ac1ef36786320636ffe3419e03010b93566b193454a65fcdbb1b86e0ef39c888"
+    },
+    {
+      "file": "building_bank.tar.xz.part010",
+      "bytes": 8388608,
+      "sha256": "8033b91f552f0680d458c9df7a36f6eb0fcc2a35c2c5373938aa962dce42bd96"
+    },
+    {
+      "file": "building_bank.tar.xz.part011",
+      "bytes": 8388608,
+      "sha256": "b64f20f83c41a49fe2c2073f99329537787a06076ccea72c5883e8098a24010e"
+    },
+    {
+      "file": "building_bank.tar.xz.part012",
+      "bytes": 8388608,
+      "sha256": "00548fd4b941e08fb0bc8e339e3dbbfe495a22d0a52e71d9d280a662b4c61db0"
+    },
+    {
+      "file": "building_bank.tar.xz.part013",
+      "bytes": 8388608,
+      "sha256": "cb831e6ef098c47bdd37700c29501a4b9c68ec4b838e6df2b8912c751c286d77"
+    },
+    {
+      "file": "building_bank.tar.xz.part014",
+      "bytes": 8388608,
+      "sha256": "0fb7329c023dd02c14757514ce3327ad8f8e88b1fa01caa4d300b9a3248257d0"
+    },
+    {
+      "file": "building_bank.tar.xz.part015",
+      "bytes": 5368792,
+      "sha256": "a0bc2f3792c14b5fe94d1d8794d91a08efeabff2a7995e3272f8e975902359dd"
+    }
+  ],
+  "usable_models": 26,
+  "used_types": 24,
+  "map_instances": 41,
+  "models": [
+    {
+      "asset_id": "S02-B01",
+      "file": "extracted/S02-B01_Raohe_terraced_05.glb",
+      "bytes": 23958476,
+      "sha256": "61b9589fb3ad014cafaeb36b53db6110a364bb8544d139042fb94029534ca307"
+    },
+    {
+      "asset_id": "S02-B02",
+      "file": "extracted/S02-B02_Raohe_terraced_04.glb",
+      "bytes": 34107292,
+      "sha256": "48a169c713ba1c92f896c834042354ab1071b02ddbe83fb27d33799235262721"
+    },
+    {
+      "asset_id": "S02-B03",
+      "file": "extracted/S02-B03_Raohe_lowrise_01.glb",
+      "bytes": 24792688,
+      "sha256": "eb1116ef8b388c2f070c02bcb15e3e5045f24868c093094bba6b7a04bbb14480"
+    },
+    {
+      "asset_id": "S02-B04",
+      "file": "extracted/S02-B04_Raohe_corner.glb",
+      "bytes": 21400500,
+      "sha256": "97a7494d54ac5c0241d79cea2fce24537ddc8877ca88c0370f85a7d940081a62"
+    },
+    {
+      "asset_id": "S02-B05",
+      "file": "extracted/S02-B05_Pitched_roof_house.glb",
+      "bytes": 2804320,
+      "sha256": "403881f21a36f2aed983527af2bd10ba5fb146af370050f7716fc7a23bc6cf8e"
+    },
+    {
+      "asset_id": "S03-B01",
+      "file": "extracted/S03-B01_Stepped_office.glb",
+      "bytes": 6012168,
+      "sha256": "dca0958c2ced2e3abb592e49e87cba645ee9ec3b36841e969f376080a90c8e08"
+    },
+    {
+      "asset_id": "S03-B02",
+      "file": "extracted/S03-B02_Slim_office.glb",
+      "bytes": 5732248,
+      "sha256": "d801bdd38f970c270bf805faa49a77cd8fb3a8e00914a4f0234bee388e533518"
+    },
+    {
+      "asset_id": "S03-B03",
+      "file": "extracted/S03-B03_Twin_office.glb",
+      "bytes": 5147808,
+      "sha256": "f4ecfd20dce20623a85f6dfcc7c38bb2ce7bff12a981b26e2ef56878f915d45b"
+    },
+    {
+      "asset_id": "S03-B04",
+      "file": "extracted/S03-B04_Dark_office.glb",
+      "bytes": 5186620,
+      "sha256": "1acd891957912dd7c4f4b839e241924c4da2db644eb83921a5ad426b32142c99"
+    },
+    {
+      "asset_id": "S03-B05",
+      "file": "extracted/S03-B05_Low_office.glb",
+      "bytes": 9649160,
+      "sha256": "fb1cfb74b33035bb4e73a5bdc10d2ab5695f6e1fb360ed432653441b5467a422"
+    },
+    {
+      "asset_id": "S03-B06",
+      "file": "extracted/S03-B06_Tall_office.glb",
+      "bytes": 5156012,
+      "sha256": "09e9f4b5a75a4b144a995db463b5691abb4b3adbcfbc60a4c8e50f3c71e5e874"
+    },
+    {
+      "asset_id": "S04-B01",
+      "file": "extracted/S04-B01_Paramount_store.glb",
+      "bytes": 1698488,
+      "sha256": "13b4295b8bebe3f2e1146ebe312e319065a29ab91c0e9f9cffab1072da55bdd7"
+    },
+    {
+      "asset_id": "S04-B02",
+      "file": "extracted/S04-B02_Service_shops.glb",
+      "bytes": 3380308,
+      "sha256": "e32e265b3e1d66f183d2ca7ee0014bffa096f94d81d00acfb417d51d13f58a6b"
+    },
+    {
+      "asset_id": "S04-B03",
+      "file": "extracted/S04-B03_Corner_shop.glb",
+      "bytes": 3390304,
+      "sha256": "8a795c3885891d27cd887e328501944ec8bc15b20ed92770196ff69e06188dec"
+    },
+    {
+      "asset_id": "S04-B04",
+      "file": "extracted/S04-B04_Walkup_apartment.glb",
+      "bytes": 3343704,
+      "sha256": "d85ec9abbb81ca71e6e8483bfbb5b91c4746c99b9818f12dbf87c991d4f68a2b"
+    },
+    {
+      "asset_id": "S04-B05",
+      "file": "extracted/S04-B05_Community_clinic.glb",
+      "bytes": 1482752,
+      "sha256": "43e3dc1e3a7bc30596984157758e810e632137955be47304a70744af78ff5ec5"
+    },
+    {
+      "asset_id": "S04-B06",
+      "file": "extracted/S04-B06_Local_shop.glb",
+      "bytes": 3342332,
+      "sha256": "6bb62871037587f37da6588c38215f312b6a1e1ce32ca23bb9ece26536018a46"
+    },
+    {
+      "asset_id": "S04-B07",
+      "file": "extracted/S04-B07_Slab_apartment.glb",
+      "bytes": 2648164,
+      "sha256": "6cafdbe07055501859d62cfdb60591a826b2a6a29dd06962b8a10f2a1ade0ac0"
+    },
+    {
+      "asset_id": "S04-B08",
+      "file": "extracted/S04-B08_Laundrette.glb",
+      "bytes": 692368,
+      "sha256": "25e917ab88164c47a5277256a1442c4a1c4b7c2c11d8f42803f94940e501a3e2"
+    },
+    {
+      "asset_id": "S04-B09",
+      "file": "extracted/S04-B09_Brick_factory.glb",
+      "bytes": 2819988,
+      "sha256": "5f432a343c025bf722ca506c8954a0bfbc5e58e9af9e4ff51f87ae306b2a90f9"
+    },
+    {
+      "asset_id": "S04-B10",
+      "file": "extracted/S04-B10_Pawn_shop.glb",
+      "bytes": 1783836,
+      "sha256": "ef83f9fd4940d0e051fb8ea9039c5cbc5b81de82ee08f945843f73a807c9ce42"
+    },
+    {
+      "asset_id": "S06-B02",
+      "file": "extracted/S06-B02_Soho_brownstone.glb",
+      "bytes": 4104736,
+      "sha256": "6554ea93d271caf294ff4766f020a602ff1ac6af332e14e7bf07d34889de0b9a"
+    },
+    {
+      "asset_id": "S06-B03",
+      "file": "extracted/S06-B03_Soho_red_brick.glb",
+      "bytes": 3480084,
+      "sha256": "75caad284a535ce9425d7835b09721143222f90df8d62b73f24ed73d11db7c29"
+    },
+    {
+      "asset_id": "S06-B04",
+      "file": "extracted/S06-B04_Soho_grey.glb",
+      "bytes": 2206880,
+      "sha256": "3e48469cbbbeb22a066b4fdcf9211de466b9bd23d12dec368fd35acfb4873b35"
+    },
+    {
+      "asset_id": "S06-B05",
+      "file": "extracted/S06-B05_Soho_corner.glb",
+      "bytes": 2173544,
+      "sha256": "8df58aa74b26eb93f80de525b24627836a167fb7123640de669497cd46e59f9e"
+    },
+    {
+      "asset_id": "S06-B06",
+      "file": "extracted/S06-B06_Soho_shops.glb",
+      "bytes": 3856516,
+      "sha256": "1766bdf1d3b9139443f4ddcb05492e5be54a85ca8b080905ab29d01e6e1e6417"
+    }
+  ]
+}

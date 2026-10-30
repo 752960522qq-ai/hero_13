@@ -11,29 +11,29 @@
   "land_district_count": 16,
   "file_count": 18,
   "exported_district_ids": [
-    3,
-    8
+    4,
+    8,
+    9,
+    14
   ],
   "reused_district_ids": [
     1,
     2,
-    4,
+    3,
     5,
     6,
     7,
-    9,
     10,
     11,
     12,
     13,
-    14,
     15,
     16,
     17,
     18
   ],
-  "source_mesh_count": 1856,
-  "source_triangle_count": 4215949,
+  "source_mesh_count": 3430,
+  "source_triangle_count": 4905881,
   "districts": [
     {
       "id": 1,
@@ -273,11 +273,11 @@
       "id": 4,
       "name": "主岛东南",
       "file": "04_main_se.glb",
-      "file_size_bytes": 62201940,
-      "sha256": "2d1bf2cd41fec676840c49d410b91b65b50c0c6d80a63e1e2fe4f81f1e717d46",
-      "base_sha256": "bc26cbb62df4297fc50b876e7f8ab62c5fcaf2946939a2c41b927b4292d362a3",
-      "mesh_objects": 141,
-      "triangles": 321154,
+      "file_size_bytes": 188907772,
+      "sha256": "079b8e279043896e076a8feaf749f2b1dfb94709091bce2b72cb5e103c25d37e",
+      "base_sha256": "2d1bf2cd41fec676840c49d410b91b65b50c0c6d80a63e1e2fe4f81f1e717d46",
+      "mesh_objects": 1080,
+      "triangles": 712462,
       "bounds_blender": [
         [
           494.05120849609375,
@@ -286,19 +286,19 @@
         ],
         [
           1039.40576171875,
-          634.5,
-          47.55078125
+          627.4749755859375,
+          45.65728950500488
         ]
       ],
       "bounds_glb": [
         [
           494.05120849609375,
           -4.0,
-          -634.5
+          -627.4749755859375
         ],
         [
           1039.40576171875,
-          47.55078125,
+          45.65728950500488,
           -22.67948341369629
         ]
       ],
@@ -316,7 +316,29 @@
         "OLDTOWN_V17_ARCADE_07_01",
         "OLDTOWN_V17_ARCADE_07_02",
         "OLDTOWN_V17_ARCADE_08_02",
-        "OLDTOWN_V17_ARCADE_09_01"
+        "OLDTOWN_V17_ARCADE_09_01",
+        "S02-B01-I01",
+        "S02-B02-I01",
+        "S02-B02-I02",
+        "S02-B03-I01",
+        "S02-B03-I02",
+        "S02-B04-I01",
+        "S04-B01-I01",
+        "S04-B03-I01",
+        "S04-B04-I01",
+        "S04-B04-I02",
+        "S04-B05-I01",
+        "S04-B06-I01",
+        "S04-B08-I01",
+        "S06-B02-I01",
+        "S06-B03-I01",
+        "S06-B03-I02",
+        "S06-B04-I01",
+        "S06-B04-I02",
+        "S06-B05-I01",
+        "S06-B05-I02",
+        "S06-B06-I01",
+        "S06-B06-I02"
       ],
       "root_translation": [
         0,
@@ -502,11 +524,11 @@
       "id": 8,
       "name": "主岛东北",
       "file": "08_main_ne.glb",
-      "file_size_bytes": 46277972,
-      "sha256": "c4087acf20924cb9077737ecd2a0902b0e3d91c06354c74c13e7a59da554aee8",
-      "base_sha256": "1917300f1107ca37f34ed5c75cf93384dc633aa3334b8aa7c91ed6e2678667a6",
-      "mesh_objects": 83,
-      "triangles": 163691,
+      "file_size_bytes": 74051832,
+      "sha256": "93c105af0e1481dce825c27088ec84af932be1206d041233cda65a1abf82b889",
+      "base_sha256": "c4087acf20924cb9077737ecd2a0902b0e3d91c06354c74c13e7a59da554aee8",
+      "mesh_objects": 226,
+      "triangles": 260462,
       "bounds_blender": [
         [
           479.02716064453125,
@@ -516,7 +538,7 @@
         [
           1036.4569091796875,
           1142.87548828125,
-          44.45011901855469
+          67.13505840301514
         ]
       ],
       "bounds_glb": [
@@ -527,7 +549,7 @@
         ],
         [
           1036.4569091796875,
-          44.45011901855469,
+          67.13505840301514,
           -613.12451171875
         ]
       ],
@@ -535,7 +557,13 @@
         "GOV_V14_G33",
         "GOV_V16_DORM_52",
         "NEWTOWN_V18_MALL_64",
-        "NEWTOWN_V18_POLICE_HQ_65"
+        "NEWTOWN_V18_POLICE_HQ_65",
+        "S03-B02-I01",
+        "S03-B03-I01",
+        "S03-B04-I01",
+        "S03-B05-I01",
+        "S04-B02-I01",
+        "S04-B07-I01"
       ],
       "root_translation": [
         0,
@@ -549,9 +577,11 @@
       "id": 9,
       "name": "西岛西南",
       "file": "09_west_sw.glb",
-      "file_size_bytes": 23662328,
-      "mesh_objects": 90,
-      "triangles": 32000,
+      "file_size_bytes": 79091996,
+      "sha256": "58831ee7584eaffc664f84c0553bf6ff7f25cf18c2f70866caa3541007f36650",
+      "base_sha256": "5b41470e4876d25a11df73e4869625564f436c2a04fa257680aa08122a48cbd7",
+      "mesh_objects": 400,
+      "triangles": 224796,
       "bounds_blender": [
         [
           -1408.26025390625,
@@ -576,14 +606,23 @@
           1169.1539306640625
         ]
       ],
-      "source_building_instances": [],
+      "source_building_instances": [
+        "S02-B03-I03",
+        "S02-B04-I02",
+        "S02-B05-I01",
+        "S02-B05-I02",
+        "S02-B05-I03",
+        "S02-B05-I04",
+        "S04-B04-I03",
+        "S04-B08-I02",
+        "S04-B10-I01"
+      ],
       "root_translation": [
         0,
         0,
         0
       ],
       "common": false,
-      "sha256": "5b41470e4876d25a11df73e4869625564f436c2a04fa257680aa08122a48cbd7",
       "reused_from": null
     },
     {
@@ -754,9 +793,11 @@
       "id": 14,
       "name": "东岛东南",
       "file": "14_east_se.glb",
-      "file_size_bytes": 22771944,
-      "mesh_objects": 29,
-      "triangles": 23943,
+      "file_size_bytes": 31112392,
+      "sha256": "1de211e20822b796a3b029dd15367ff9411965b00f3264964705909612764fe7",
+      "base_sha256": "fa59c100e0aad62224bc780981237b36a9ec0d708afa2f0078ee0dde5de014f7",
+      "mesh_objects": 211,
+      "triangles": 33000,
       "bounds_blender": [
         [
           739.5,
@@ -766,7 +807,7 @@
         [
           1201.906982421875,
           -794.5250244140625,
-          29.762052536010742
+          29.329859137535095
         ]
       ],
       "bounds_glb": [
@@ -777,18 +818,22 @@
         ],
         [
           1201.906982421875,
-          29.762052536010742,
+          29.329859137535095,
           1181.8336181640625
         ]
       ],
-      "source_building_instances": [],
+      "source_building_instances": [
+        "S04-B02-I02",
+        "S04-B05-I02",
+        "S04-B09-I01",
+        "S04-B09-I02"
+      ],
       "root_translation": [
         0,
         0,
         0
       ],
       "common": false,
-      "sha256": "fa59c100e0aad62224bc780981237b36a9ec0d708afa2f0078ee0dde5de014f7",
       "reused_from": null
     },
     {
