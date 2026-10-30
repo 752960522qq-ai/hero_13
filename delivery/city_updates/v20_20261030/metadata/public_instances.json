@@ -1,0 +1,1217 @@
+[
+  {
+    "instance_id": "V20-P001",
+    "type": "street_lamp",
+    "center": [
+      637.175094388354,
+      606.4569651614671
+    ],
+    "z": 16.67769466682421,
+    "rotation_deg": 20.450313113788656,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P002",
+    "type": "street_lamp",
+    "center": [
+      691.6012857659053,
+      615.2
+    ],
+    "z": 14.145983917013957,
+    "rotation_deg": 0.0,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P003",
+    "type": "street_lamp",
+    "center": [
+      746.3559672064332,
+      613.2346252709323
+    ],
+    "z": 12.012276323816494,
+    "rotation_deg": -12.335669541808329,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P004",
+    "type": "bench",
+    "center": [
+      747.1037023260384,
+      616.6538199408668
+    ],
+    "z": 12.036533257543658,
+    "rotation_deg": -12.335669541808329,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P005",
+    "type": "street_lamp",
+    "center": [
+      772.554326465462,
+      605.9632082369735
+    ],
+    "z": 11.232389438477604,
+    "rotation_deg": -14.982272286136965,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P006",
+    "type": "street_lamp",
+    "center": [
+      823.4229871729999,
+      593.2728239219038
+    ],
+    "z": 9.34503164745134,
+    "rotation_deg": 2.248353714596192,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P007",
+    "type": "street_lamp",
+    "center": [
+      699.8,
+      633.0
+    ],
+    "z": 13.533942266862788,
+    "rotation_deg": 90.0,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P008",
+    "type": "bin",
+    "center": [
+      696.7,
+      634.8
+    ],
+    "z": 14.149915490775307,
+    "rotation_deg": 90.0,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P009",
+    "type": "bench",
+    "center": [
+      -908.6036024064877,
+      -921.688693420095
+    ],
+    "z": 11.531715120508746,
+    "rotation_deg": 82.37676510859869,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P010",
+    "type": "tree",
+    "center": [
+      -895.5,
+      -895.5319408395023
+    ],
+    "z": 12.73296772867069,
+    "rotation_deg": 90.0,
+    "scale": 1.0029628895557527,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P011",
+    "type": "shrub",
+    "center": [
+      660.8252497354306,
+      699.1351199630161
+    ],
+    "z": 18.984235816655605,
+    "rotation_deg": -64.92486385040277,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P012",
+    "type": "tree",
+    "center": [
+      647.0036821033609,
+      786.7427435782253
+    ],
+    "z": 21.44790523474881,
+    "rotation_deg": -20.218894163305904,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P013",
+    "type": "tree",
+    "center": [
+      650.2589954074596,
+      741.1118216089217
+    ],
+    "z": 20.528817030943273,
+    "rotation_deg": 50.38210790578674,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P014",
+    "type": "tree",
+    "center": [
+      699.4268218449688,
+      723.4456554269968
+    ],
+    "z": 20.48665522028404,
+    "rotation_deg": 141.10331734842757,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P015",
+    "type": "shrub",
+    "center": [
+      649.9914413535189,
+      696.3529685515483
+    ],
+    "z": 16.633432648557807,
+    "rotation_deg": -43.7868116293901,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P016",
+    "type": "tree",
+    "center": [
+      697.7320957811428,
+      702.480178865016
+    ],
+    "z": 19.25685962138302,
+    "rotation_deg": 160.35241033669084,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P017",
+    "type": "tree",
+    "center": [
+      681.1124570214419,
+      748.261786262289
+    ],
+    "z": 20.664498360938353,
+    "rotation_deg": -75.46866888932605,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P018",
+    "type": "tree",
+    "center": [
+      638.02589390884,
+      772.7110058446382
+    ],
+    "z": 21.460181553695985,
+    "rotation_deg": 102.50351340952722,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P019",
+    "type": "shrub",
+    "center": [
+      672.7413116710194,
+      791.9350089169076
+    ],
+    "z": 19.669841045513135,
+    "rotation_deg": -105.4236727335581,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P020",
+    "type": "tree",
+    "center": [
+      663.1005708235402,
+      685.2842178702422
+    ],
+    "z": 15.564004830899588,
+    "rotation_deg": -20.007400644698563,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P021",
+    "type": "tree",
+    "center": [
+      651.0183708104357,
+      788.9318420584157
+    ],
+    "z": 21.063390900453594,
+    "rotation_deg": -142.88111898615384,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P022",
+    "type": "tree",
+    "center": [
+      697.2603409845699,
+      761.2690957912994
+    ],
+    "z": 19.1881503619625,
+    "rotation_deg": -95.01682523933651,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P023",
+    "type": "shrub",
+    "center": [
+      680.3227433034031,
+      785.460342745411
+    ],
+    "z": 21.52118969691629,
+    "rotation_deg": 97.94774965875983,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P024",
+    "type": "tree",
+    "center": [
+      637.2710052239679,
+      702.7234649015912
+    ],
+    "z": 21.638575962390828,
+    "rotation_deg": -64.17628500272612,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P025",
+    "type": "tree",
+    "center": [
+      654.2759195238231,
+      746.8099573725419
+    ],
+    "z": 20.52602303782887,
+    "rotation_deg": -116.67059422052738,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P026",
+    "type": "tree",
+    "center": [
+      691.2017507315768,
+      778.2326287332316
+    ],
+    "z": 18.901865251307807,
+    "rotation_deg": 159.42837759977357,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P027",
+    "type": "shrub",
+    "center": [
+      673.7136709997794,
+      700.2900004037773
+    ],
+    "z": 20.428909901760562,
+    "rotation_deg": 94.83208000453591,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P028",
+    "type": "tree",
+    "center": [
+      637.0285929350609,
+      679.6738159551564
+    ],
+    "z": 15.757442186170163,
+    "rotation_deg": -165.8105846079279,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_STEPPED_CAMPUS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P029",
+    "type": "shrub",
+    "center": [
+      -920.8417184163295,
+      -916.4063086590277
+    ],
+    "z": 14.6621800431496,
+    "rotation_deg": 26.27528081317082,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P030",
+    "type": "tree",
+    "center": [
+      -957.3849844663163,
+      -918.5084198275044
+    ],
+    "z": 11.70794062221909,
+    "rotation_deg": 170.27783055604274,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P031",
+    "type": "tree",
+    "center": [
+      -953.9985479828399,
+      -923.825837024408
+    ],
+    "z": 12.32386239436228,
+    "rotation_deg": 158.6543537373239,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P032",
+    "type": "tree",
+    "center": [
+      -856.2322148244217,
+      -949.4312606800762
+    ],
+    "z": 10.689804046257843,
+    "rotation_deg": 8.138214768388387,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P033",
+    "type": "shrub",
+    "center": [
+      -951.3343471786826,
+      -916.934447475542
+    ],
+    "z": 13.835890261588585,
+    "rotation_deg": -146.23927031342438,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P034",
+    "type": "tree",
+    "center": [
+      -896.0962656710625,
+      -908.448378597653
+    ],
+    "z": 11.943130667497678,
+    "rotation_deg": -109.17802275812448,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P035",
+    "type": "tree",
+    "center": [
+      -819.5089714259789,
+      -948.4535686712294
+    ],
+    "z": 10.480509732788205,
+    "rotation_deg": -9.62770247639621,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P036",
+    "type": "tree",
+    "center": [
+      -911.2912627423234,
+      -933.6757869009878
+    ],
+    "z": 11.191555302221524,
+    "rotation_deg": -117.12477318690233,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P037",
+    "type": "shrub",
+    "center": [
+      -898.7222008447358,
+      -963.6708876735007
+    ],
+    "z": 11.085303172075728,
+    "rotation_deg": 31.1068099922093,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P038",
+    "type": "tree",
+    "center": [
+      -849.2930555992932,
+      -908.508054265663
+    ],
+    "z": 10.710538436930914,
+    "rotation_deg": 86.05898197055008,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P039",
+    "type": "tree",
+    "center": [
+      -957.6320477913479,
+      -961.1251713134927
+    ],
+    "z": 12.076254413267879,
+    "rotation_deg": -61.73349777837355,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P040",
+    "type": "tree",
+    "center": [
+      -892.9385562539392,
+      -900.9028349301384
+    ],
+    "z": 13.221684806342424,
+    "rotation_deg": -120.21329514265538,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P041",
+    "type": "shrub",
+    "center": [
+      -916.1682715616614,
+      -893.2397919767004
+    ],
+    "z": 14.397393812459816,
+    "rotation_deg": 99.85429306235831,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P042",
+    "type": "tree",
+    "center": [
+      -971.7106914419769,
+      -937.1365210620866
+    ],
+    "z": 11.47987509030742,
+    "rotation_deg": 155.18949380411146,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P043",
+    "type": "tree",
+    "center": [
+      -918.1148042125667,
+      -889.0154030005859
+    ],
+    "z": 13.97872399703741,
+    "rotation_deg": -79.97994318620164,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P044",
+    "type": "tree",
+    "center": [
+      -915.1690302164742,
+      -917.4716878776292
+    ],
+    "z": 13.62909533968925,
+    "rotation_deg": 3.6337383160741097,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P045",
+    "type": "shrub",
+    "center": [
+      -908.9498855719866,
+      -886.9956920558262
+    ],
+    "z": 12.916198018030926,
+    "rotation_deg": 92.0236261593024,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P046",
+    "type": "tree",
+    "center": [
+      -966.0087779624406,
+      -950.854717530239
+    ],
+    "z": 11.597220581013062,
+    "rotation_deg": -83.37416920283665,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P047",
+    "type": "shrub",
+    "center": [
+      837.0000041701539,
+      571.4282503759244
+    ],
+    "z": 8.959834410552892,
+    "rotation_deg": -157.19908446291848,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P048",
+    "type": "tree",
+    "center": [
+      895.7910627251513,
+      639.4274295684137
+    ],
+    "z": 6.731787260762115,
+    "rotation_deg": -66.86281530754013,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P049",
+    "type": "tree",
+    "center": [
+      632.9929479273638,
+      576.7459735281595
+    ],
+    "z": 18.96805158019255,
+    "rotation_deg": -45.655611991456915,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P050",
+    "type": "tree",
+    "center": [
+      818.5006718351444,
+      608.1885710079977
+    ],
+    "z": 9.95243525681738,
+    "rotation_deg": 134.69675510875848,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P051",
+    "type": "shrub",
+    "center": [
+      750.648658019863,
+      622.6625166606352
+    ],
+    "z": 11.911588758393545,
+    "rotation_deg": 7.0742382800383306,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P052",
+    "type": "tree",
+    "center": [
+      864.8969015908245,
+      621.337170154678
+    ],
+    "z": 8.06805978224899,
+    "rotation_deg": -54.49463045635464,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P053",
+    "type": "tree",
+    "center": [
+      801.9478154834795,
+      579.3842783251339
+    ],
+    "z": 10.157052572451162,
+    "rotation_deg": -32.91026890193234,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P054",
+    "type": "tree",
+    "center": [
+      858.1230429588946,
+      580.3670595615971
+    ],
+    "z": 8.380263131984897,
+    "rotation_deg": 134.81849257564824,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P055",
+    "type": "shrub",
+    "center": [
+      782.1827477246146,
+      621.6239425665724
+    ],
+    "z": 11.019795025765568,
+    "rotation_deg": 16.48958979975103,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P056",
+    "type": "tree",
+    "center": [
+      633.6890839262284,
+      582.941283653193
+    ],
+    "z": 18.039915867409476,
+    "rotation_deg": 153.5558887930154,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P057",
+    "type": "tree",
+    "center": [
+      637.9158868061495,
+      578.2353229837236
+    ],
+    "z": 17.415633191267563,
+    "rotation_deg": -139.351155825796,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P058",
+    "type": "tree",
+    "center": [
+      814.7593795508606,
+      610.9812597209618
+    ],
+    "z": 10.154431930458532,
+    "rotation_deg": -99.79054818624242,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P059",
+    "type": "shrub",
+    "center": [
+      632.0619968397161,
+      605.9061129062687
+    ],
+    "z": 16.976455016861188,
+    "rotation_deg": 77.32234594409321,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P060",
+    "type": "tree",
+    "center": [
+      746.485109158728,
+      597.1571803286745
+    ],
+    "z": 11.540930067270164,
+    "rotation_deg": 119.62593712048402,
+    "scale": 1,
+    "district_id": 4,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P061",
+    "type": "tree",
+    "center": [
+      897.6969993796067,
+      631.1275000302057
+    ],
+    "z": 6.94968907062752,
+    "rotation_deg": -0.2248032293052916,
+    "scale": 1,
+    "district_id": 8,
+    "group": "NT_CRESCENT_SHOPFRONTS",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P062",
+    "type": "bollard",
+    "center": [
+      706.3,
+      634.0
+    ],
+    "z": 12.277833750180866,
+    "rotation_deg": 0.0,
+    "scale": 1,
+    "district_id": 8,
+    "group": "V20_Newtown_Garden_Link",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P063",
+    "type": "bollard",
+    "center": [
+      -898.6549142936175,
+      -885.9822952267364
+    ],
+    "z": 12.83092496307618,
+    "rotation_deg": 0.0,
+    "scale": 1,
+    "district_id": 10,
+    "group": "V20_West_Garden_Link",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P064",
+    "type": "bollard",
+    "center": [
+      -905.2511136989257,
+      -885.7583456667644
+    ],
+    "z": 12.83232624390097,
+    "rotation_deg": 0.0,
+    "scale": 1,
+    "district_id": 10,
+    "group": "V20_West_Garden_Link",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P065",
+    "type": "utility_pole",
+    "center": [
+      -993.0,
+      -924.65
+    ],
+    "z": 11.606507156100413,
+    "rotation_deg": 90.0,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P066",
+    "type": "utility_pole",
+    "center": [
+      -972.7341110421562,
+      -924.7356649198035
+    ],
+    "z": 11.533042075778273,
+    "rotation_deg": 86.46415427203615,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P067",
+    "type": "utility_pole",
+    "center": [
+      -953.3610036365122,
+      -935.477553934491
+    ],
+    "z": 11.323981826359653,
+    "rotation_deg": 53.69404417937473,
+    "scale": 1,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P068",
+    "type": "utility_pole",
+    "center": [
+      -936.9971161979762,
+      -940.0931958275723
+    ],
+    "z": 11.262163372086466,
+    "rotation_deg": 87.22506613708863,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P069",
+    "type": "utility_pole",
+    "center": [
+      -917.1900803581999,
+      -940.6423070965878
+    ],
+    "z": 11.16224375765234,
+    "rotation_deg": 89.64736885269107,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P070",
+    "type": "utility_pole",
+    "center": [
+      -900.5359399251768,
+      -935.3410997452177
+    ],
+    "z": 10.982805175305945,
+    "rotation_deg": 119.13822087725195,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P071",
+    "type": "utility_pole",
+    "center": [
+      -880.6988738729037,
+      -927.3902182663609
+    ],
+    "z": 10.834555314623572,
+    "rotation_deg": 98.93066309720247,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P072",
+    "type": "utility_pole",
+    "center": [
+      -860.4777301823129,
+      -924.9552987533358
+    ],
+    "z": 10.719641739001435,
+    "rotation_deg": 94.00474911155072,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C01",
+    "type": "overhead_cable",
+    "start": "V20-P065",
+    "end": "V20-P066",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C02",
+    "type": "overhead_cable",
+    "start": "V20-P066",
+    "end": "V20-P067",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C03",
+    "type": "overhead_cable",
+    "start": "V20-P067",
+    "end": "V20-P068",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 9,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C04",
+    "type": "overhead_cable",
+    "start": "V20-P068",
+    "end": "V20-P069",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C05",
+    "type": "overhead_cable",
+    "start": "V20-P069",
+    "end": "V20-P070",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C06",
+    "type": "overhead_cable",
+    "start": "V20-P070",
+    "end": "V20-P071",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C07",
+    "type": "overhead_cable",
+    "start": "V20-P071",
+    "end": "V20-P072",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P073",
+    "type": "utility_pole",
+    "center": [
+      -906.8938848077992,
+      -926.6666461451016
+    ],
+    "z": 11.382459826239698,
+    "rotation_deg": 167.86478303770417,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P074",
+    "type": "utility_pole",
+    "center": [
+      -905.65,
+      -907.5319408395023
+    ],
+    "z": 12.177389739986484,
+    "rotation_deg": 180.0,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-P075",
+    "type": "utility_pole",
+    "center": [
+      -905.6473701452751,
+      -887.4802482438822
+    ],
+    "z": 12.781215084411784,
+    "rotation_deg": 179.1884731419096,
+    "scale": 1,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "source": "native low polygon geometry v20",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C08",
+    "type": "overhead_cable",
+    "start": "V20-P073",
+    "end": "V20-P074",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  },
+  {
+    "instance_id": "V20-C09",
+    "type": "overhead_cable",
+    "start": "V20-P074",
+    "end": "V20-P075",
+    "minimum_cable_height_m": 7.46,
+    "district_id": 10,
+    "group": "WEST_MARKET_STREET",
+    "building_count_units": 0
+  }
+]

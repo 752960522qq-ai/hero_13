@@ -1,0 +1,30 @@
+{
+  "status": "PASS",
+  "actual_reassembled_districts": 4,
+  "checks": [
+    {
+      "id": 4,
+      "file": "04_main_se.glb",
+      "sha256": "5ee1109b54b6fbd6c0e398e7128d2d8b7d51ff349b5e38e86aa6f2d50562512f",
+      "passed": true
+    },
+    {
+      "id": 8,
+      "file": "08_main_ne.glb",
+      "sha256": "1f5e6cbbce7c06f6e221233d8e5ffa9216086c53cc9013498eead7b726cd98d4",
+      "passed": true
+    },
+    {
+      "id": 9,
+      "file": "09_west_sw.glb",
+      "sha256": "a5e01ede123552f694566061acb2fe546eae5bffbba68b96874e4378d861d568",
+      "passed": true
+    },
+    {
+      "id": 10,
+      "file": "10_west_se.glb",
+      "sha256": "f0d1c59c256c00e30fbfe489cf4e646bf53d9fc3583b662323e0251cbb85e40a",
+      "passed": true
+    }
+  ]
+}

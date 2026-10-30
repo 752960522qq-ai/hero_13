@@ -1,0 +1,1233 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "checks": [
+    {
+      "check": "count_budget",
+      "passed": true,
+      "detail": {
+        "total": 585,
+        "new": 49,
+        "removed": 11
+      }
+    },
+    {
+      "check": "preserve_coasts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "preserve_lake",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "preserve_interchanges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "preserve_grade_separated_crossings",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "preserve_pedestrian_alleys",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "preserve_cbd_plan",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "preserve_arcade_asset_pool",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "existing_real_buildings_preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "oldtown_120_street_80_rear",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_geometry_and_uv",
+      "passed": true,
+      "detail": {
+        "objects": 1714,
+        "failures": []
+      }
+    },
+    {
+      "check": "new_buildings_land_road_neighbor_reserve_clear",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "source_proportions_and_ground_level",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "all_source_parts_annotated",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "foundation_perimeters_continuous",
+      "passed": true,
+      "detail": [
+        {
+          "name": "S02-B02-I03",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 1.3619881684273638e-08
+        },
+        {
+          "name": "S04-B10-I02",
+          "samples": 33,
+          "missing": 0,
+          "max_floor_error_m": 4.181451802760805e-07
+        },
+        {
+          "name": "S04-B04-I04",
+          "samples": 41,
+          "missing": 0,
+          "max_floor_error_m": 3.289584866901507e-07
+        },
+        {
+          "name": "S02-B02-I04",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 3.1470073167880197e-07
+        },
+        {
+          "name": "S04-B10-I03",
+          "samples": 33,
+          "missing": 0,
+          "max_floor_error_m": 3.3688676516832605e-07
+        },
+        {
+          "name": "S04-B04-I05",
+          "samples": 41,
+          "missing": 0,
+          "max_floor_error_m": 3.5750452774194197e-07
+        },
+        {
+          "name": "S02-B03-I04",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 2.1109352623185917e-07
+        },
+        {
+          "name": "S02-B01-I02",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 3.3712433776186823e-07
+        },
+        {
+          "name": "S04-B10-I04",
+          "samples": 33,
+          "missing": 0,
+          "max_floor_error_m": 3.093929641546922e-07
+        },
+        {
+          "name": "S02-B03-I05",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 2.0797162790173185e-07
+        },
+        {
+          "name": "S02-B02-I05",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 2.2232422967546905e-07
+        },
+        {
+          "name": "S06-B04-I03",
+          "samples": 39,
+          "missing": 0,
+          "max_floor_error_m": 3.8100257598178144e-08
+        },
+        {
+          "name": "S04-B08-I03",
+          "samples": 37,
+          "missing": 0,
+          "max_floor_error_m": 2.834282795301235e-07
+        },
+        {
+          "name": "S04-B06-I02",
+          "samples": 37,
+          "missing": 0,
+          "max_floor_error_m": 3.5011614720262263e-07
+        },
+        {
+          "name": "S02-B01-I03",
+          "samples": 31,
+          "missing": 0,
+          "max_floor_error_m": 2.595510202492435e-07
+        },
+        {
+          "name": "S06-B04-I04",
+          "samples": 39,
+          "missing": 0,
+          "max_floor_error_m": 1.8016268256773604e-07
+        },
+        {
+          "name": "S04-B08-I04",
+          "samples": 33,
+          "missing": 0,
+          "max_floor_error_m": 1.66052492218266e-07
+        },
+        {
+          "name": "S04-B06-I03",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 6.135041587598811e-08
+        },
+        {
+          "name": "S02-B01-I04",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 1.6610471533298754e-07
+        },
+        {
+          "name": "S06-B04-I05",
+          "samples": 39,
+          "missing": 0,
+          "max_floor_error_m": 8.924744008750873e-08
+        },
+        {
+          "name": "S04-B08-I05",
+          "samples": 37,
+          "missing": 0,
+          "max_floor_error_m": 4.8539845493716927e-08
+        },
+        {
+          "name": "S02-B01-I05",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 2.7525262026942277e-07
+        },
+        {
+          "name": "S06-B04-I06",
+          "samples": 39,
+          "missing": 0,
+          "max_floor_error_m": 2.5309730772998806e-08
+        },
+        {
+          "name": "S04-B08-I06",
+          "samples": 37,
+          "missing": 0,
+          "max_floor_error_m": 1.3418991386474066e-07
+        },
+        {
+          "name": "S02-B02-I06",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 1.8125882260064397e-07
+        },
+        {
+          "name": "S02-B02-I07",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 2.3720162410298395e-07
+        },
+        {
+          "name": "S02-B03-I06",
+          "samples": 31,
+          "missing": 0,
+          "max_floor_error_m": 4.548095415661535e-07
+        },
+        {
+          "name": "S02-B02-I08",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 3.659892257659725e-08
+        },
+        {
+          "name": "S04-B10-I05",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 1.4372119921252091e-08
+        },
+        {
+          "name": "S02-B01-I06",
+          "samples": 27,
+          "missing": 0,
+          "max_floor_error_m": 1.0158849541100357e-07
+        },
+        {
+          "name": "S04-B08-I07",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 2.582028906066014e-07
+        },
+        {
+          "name": "S02-B04-I03",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 1.1828658450993568e-07
+        },
+        {
+          "name": "S02-B02-I09",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 4.170840797006192e-07
+        },
+        {
+          "name": "S04-B10-I06",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 2.944174543988154e-07
+        },
+        {
+          "name": "S02-B05-I05",
+          "samples": 19,
+          "missing": 0,
+          "max_floor_error_m": 2.3720162232662712e-07
+        },
+        {
+          "name": "S02-B05-I06",
+          "samples": 23,
+          "missing": 0,
+          "max_floor_error_m": 3.982018825614275e-07
+        },
+        {
+          "name": "S02-B05-I07",
+          "samples": 19,
+          "missing": 0,
+          "max_floor_error_m": 1.4005599304270366e-07
+        },
+        {
+          "name": "S04-B06-I04",
+          "samples": 33,
+          "missing": 0,
+          "max_floor_error_m": 1.3957629498365098e-07
+        },
+        {
+          "name": "S02-B02-I10",
+          "samples": 31,
+          "missing": 0,
+          "max_floor_error_m": 3.937491306511831e-07
+        },
+        {
+          "name": "S04-B10-I07",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 3.29263926773099e-07
+        },
+        {
+          "name": "S02-B05-I08",
+          "samples": 19,
+          "missing": 0,
+          "max_floor_error_m": 2.8617764115737576e-07
+        },
+        {
+          "name": "S02-B03-I07",
+          "samples": 31,
+          "missing": 0,
+          "max_floor_error_m": 3.5824833275951984e-07
+        },
+        {
+          "name": "S02-B02-I11",
+          "samples": 31,
+          "missing": 0,
+          "max_floor_error_m": 2.2429784209479497e-07
+        },
+        {
+          "name": "S04-B10-I08",
+          "samples": 29,
+          "missing": 0,
+          "max_floor_error_m": 2.0860935777064493e-07
+        },
+        {
+          "name": "S02-B05-I09",
+          "samples": 23,
+          "missing": 0,
+          "max_floor_error_m": 3.5683281083762064e-07
+        },
+        {
+          "name": "S03-B01-I01",
+          "samples": 77,
+          "missing": 0,
+          "max_floor_error_m": 8.103062083368584e-07
+        },
+        {
+          "name": "S03-B06-I01",
+          "samples": 65,
+          "missing": 0,
+          "max_floor_error_m": 3.03042359633271e-07
+        },
+        {
+          "name": "S04-B04-I06",
+          "samples": 41,
+          "missing": 0,
+          "max_floor_error_m": 2.8609261938997155e-07
+        },
+        {
+          "name": "S04-B05-I03",
+          "samples": 35,
+          "missing": 0,
+          "max_floor_error_m": 2.7499750167650494e-07
+        }
+      ]
+    },
+    {
+      "check": "all_building_entrances_walkable",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "public_furniture_does_not_obstruct_roads_or_buildings",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "cables_clearance",
+      "passed": true,
+      "detail": [
+        {
+          "instance_id": "V20-C01",
+          "minimum_measured_ground_clearance_m": 7.423948153141014
+        },
+        {
+          "instance_id": "V20-C02",
+          "minimum_measured_ground_clearance_m": 7.438126375185295
+        },
+        {
+          "instance_id": "V20-C03",
+          "minimum_measured_ground_clearance_m": 7.463542938232422
+        },
+        {
+          "instance_id": "V20-C04",
+          "minimum_measured_ground_clearance_m": 7.496878891222522
+        },
+        {
+          "instance_id": "V20-C05",
+          "minimum_measured_ground_clearance_m": 7.3349660370906555
+        },
+        {
+          "instance_id": "V20-C06",
+          "minimum_measured_ground_clearance_m": 7.4465368456917815
+        },
+        {
+          "instance_id": "V20-C07",
+          "minimum_measured_ground_clearance_m": 7.429306609572258
+        },
+        {
+          "instance_id": "V20-C08",
+          "minimum_measured_ground_clearance_m": 7.369818484899739
+        },
+        {
+          "instance_id": "V20-C09",
+          "minimum_measured_ground_clearance_m": 7.421904088774076
+        }
+      ]
+    },
+    {
+      "check": "road_graph_connections_and_adjacency",
+      "passed": true,
+      "detail": {
+        "components": [
+          179
+        ],
+        "bad_edges": []
+      }
+    },
+    {
+      "check": "new_roads_have_surfaces_and_reasonable_grades",
+      "passed": true,
+      "detail": [
+        {
+          "name": "V20_Newtown_Crescent",
+          "segments": 3,
+          "length_m": 327.1799499340386,
+          "max_design_grade": 0.06373566992976097,
+          "max_actual_surface_grade": 0.12660984492358776,
+          "missing_surface_samples": 0
+        },
+        {
+          "name": "V20_Newtown_Garden_Link",
+          "segments": 1,
+          "length_m": 39.0,
+          "max_design_grade": 0.09981120578826476,
+          "max_actual_surface_grade": 0.1395523853791033,
+          "missing_surface_samples": 0
+        },
+        {
+          "name": "V20_West_Market_Bend",
+          "segments": 1,
+          "length_m": 227.18081456704488,
+          "max_design_grade": 0.009617233977121087,
+          "max_actual_surface_grade": 0.016607135713008325,
+          "missing_surface_samples": 0
+        },
+        {
+          "name": "V20_West_Garden_Link",
+          "segments": 1,
+          "length_m": 74.66222573191756,
+          "max_design_grade": 0.06747736815841675,
+          "max_actual_surface_grade": 0.13660109163108208,
+          "missing_surface_samples": 0
+        }
+      ]
+    },
+    {
+      "check": "surface_coverage_modified_areas",
+      "passed": true,
+      "detail": {
+        "samples": 4106,
+        "missing_samples": [],
+        "total_missing": 0
+      }
+    }
+  ],
+  "site_levels": [
+    {
+      "name": "S02-B02-I03",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 1.3619881684273638e-08
+    },
+    {
+      "name": "S04-B10-I02",
+      "samples": 33,
+      "missing": 0,
+      "max_floor_error_m": 4.181451802760805e-07
+    },
+    {
+      "name": "S04-B04-I04",
+      "samples": 41,
+      "missing": 0,
+      "max_floor_error_m": 3.289584866901507e-07
+    },
+    {
+      "name": "S02-B02-I04",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 3.1470073167880197e-07
+    },
+    {
+      "name": "S04-B10-I03",
+      "samples": 33,
+      "missing": 0,
+      "max_floor_error_m": 3.3688676516832605e-07
+    },
+    {
+      "name": "S04-B04-I05",
+      "samples": 41,
+      "missing": 0,
+      "max_floor_error_m": 3.5750452774194197e-07
+    },
+    {
+      "name": "S02-B03-I04",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 2.1109352623185917e-07
+    },
+    {
+      "name": "S02-B01-I02",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 3.3712433776186823e-07
+    },
+    {
+      "name": "S04-B10-I04",
+      "samples": 33,
+      "missing": 0,
+      "max_floor_error_m": 3.093929641546922e-07
+    },
+    {
+      "name": "S02-B03-I05",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 2.0797162790173185e-07
+    },
+    {
+      "name": "S02-B02-I05",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 2.2232422967546905e-07
+    },
+    {
+      "name": "S06-B04-I03",
+      "samples": 39,
+      "missing": 0,
+      "max_floor_error_m": 3.8100257598178144e-08
+    },
+    {
+      "name": "S04-B08-I03",
+      "samples": 37,
+      "missing": 0,
+      "max_floor_error_m": 2.834282795301235e-07
+    },
+    {
+      "name": "S04-B06-I02",
+      "samples": 37,
+      "missing": 0,
+      "max_floor_error_m": 3.5011614720262263e-07
+    },
+    {
+      "name": "S02-B01-I03",
+      "samples": 31,
+      "missing": 0,
+      "max_floor_error_m": 2.595510202492435e-07
+    },
+    {
+      "name": "S06-B04-I04",
+      "samples": 39,
+      "missing": 0,
+      "max_floor_error_m": 1.8016268256773604e-07
+    },
+    {
+      "name": "S04-B08-I04",
+      "samples": 33,
+      "missing": 0,
+      "max_floor_error_m": 1.66052492218266e-07
+    },
+    {
+      "name": "S04-B06-I03",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 6.135041587598811e-08
+    },
+    {
+      "name": "S02-B01-I04",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 1.6610471533298754e-07
+    },
+    {
+      "name": "S06-B04-I05",
+      "samples": 39,
+      "missing": 0,
+      "max_floor_error_m": 8.924744008750873e-08
+    },
+    {
+      "name": "S04-B08-I05",
+      "samples": 37,
+      "missing": 0,
+      "max_floor_error_m": 4.8539845493716927e-08
+    },
+    {
+      "name": "S02-B01-I05",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 2.7525262026942277e-07
+    },
+    {
+      "name": "S06-B04-I06",
+      "samples": 39,
+      "missing": 0,
+      "max_floor_error_m": 2.5309730772998806e-08
+    },
+    {
+      "name": "S04-B08-I06",
+      "samples": 37,
+      "missing": 0,
+      "max_floor_error_m": 1.3418991386474066e-07
+    },
+    {
+      "name": "S02-B02-I06",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 1.8125882260064397e-07
+    },
+    {
+      "name": "S02-B02-I07",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 2.3720162410298395e-07
+    },
+    {
+      "name": "S02-B03-I06",
+      "samples": 31,
+      "missing": 0,
+      "max_floor_error_m": 4.548095415661535e-07
+    },
+    {
+      "name": "S02-B02-I08",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 3.659892257659725e-08
+    },
+    {
+      "name": "S04-B10-I05",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 1.4372119921252091e-08
+    },
+    {
+      "name": "S02-B01-I06",
+      "samples": 27,
+      "missing": 0,
+      "max_floor_error_m": 1.0158849541100357e-07
+    },
+    {
+      "name": "S04-B08-I07",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 2.582028906066014e-07
+    },
+    {
+      "name": "S02-B04-I03",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 1.1828658450993568e-07
+    },
+    {
+      "name": "S02-B02-I09",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 4.170840797006192e-07
+    },
+    {
+      "name": "S04-B10-I06",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 2.944174543988154e-07
+    },
+    {
+      "name": "S02-B05-I05",
+      "samples": 19,
+      "missing": 0,
+      "max_floor_error_m": 2.3720162232662712e-07
+    },
+    {
+      "name": "S02-B05-I06",
+      "samples": 23,
+      "missing": 0,
+      "max_floor_error_m": 3.982018825614275e-07
+    },
+    {
+      "name": "S02-B05-I07",
+      "samples": 19,
+      "missing": 0,
+      "max_floor_error_m": 1.4005599304270366e-07
+    },
+    {
+      "name": "S04-B06-I04",
+      "samples": 33,
+      "missing": 0,
+      "max_floor_error_m": 1.3957629498365098e-07
+    },
+    {
+      "name": "S02-B02-I10",
+      "samples": 31,
+      "missing": 0,
+      "max_floor_error_m": 3.937491306511831e-07
+    },
+    {
+      "name": "S04-B10-I07",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 3.29263926773099e-07
+    },
+    {
+      "name": "S02-B05-I08",
+      "samples": 19,
+      "missing": 0,
+      "max_floor_error_m": 2.8617764115737576e-07
+    },
+    {
+      "name": "S02-B03-I07",
+      "samples": 31,
+      "missing": 0,
+      "max_floor_error_m": 3.5824833275951984e-07
+    },
+    {
+      "name": "S02-B02-I11",
+      "samples": 31,
+      "missing": 0,
+      "max_floor_error_m": 2.2429784209479497e-07
+    },
+    {
+      "name": "S04-B10-I08",
+      "samples": 29,
+      "missing": 0,
+      "max_floor_error_m": 2.0860935777064493e-07
+    },
+    {
+      "name": "S02-B05-I09",
+      "samples": 23,
+      "missing": 0,
+      "max_floor_error_m": 3.5683281083762064e-07
+    },
+    {
+      "name": "S03-B01-I01",
+      "samples": 77,
+      "missing": 0,
+      "max_floor_error_m": 8.103062083368584e-07
+    },
+    {
+      "name": "S03-B06-I01",
+      "samples": 65,
+      "missing": 0,
+      "max_floor_error_m": 3.03042359633271e-07
+    },
+    {
+      "name": "S04-B04-I06",
+      "samples": 41,
+      "missing": 0,
+      "max_floor_error_m": 2.8609261938997155e-07
+    },
+    {
+      "name": "S04-B05-I03",
+      "samples": 35,
+      "missing": 0,
+      "max_floor_error_m": 2.7499750167650494e-07
+    }
+  ],
+  "walkways": [
+    {
+      "name": "S02-B02-I03_Entrance",
+      "length_m": 1.7499997279367319,
+      "missing": 0,
+      "max_grade": 0.015384405082795325,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I02_Entrance",
+      "length_m": 1.7499723724669003,
+      "missing": 0,
+      "max_grade": 0.015386293840540891,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B04-I04_Entrance",
+      "length_m": 1.7500000055392775,
+      "missing": 0,
+      "max_grade": 0.015385218720459313,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I04_Entrance",
+      "length_m": 1.750000001380613,
+      "missing": 0,
+      "max_grade": 0.015385219081401464,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I03_Entrance",
+      "length_m": 1.7499804891746515,
+      "missing": 0,
+      "max_grade": 0.015385442438467574,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B04-I05_Entrance",
+      "length_m": 1.7499920961245072,
+      "missing": 0,
+      "max_grade": 0.015386099730499068,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B03-I04_Entrance",
+      "length_m": 1.7499470784892617,
+      "missing": 0,
+      "max_grade": 0.015385633660469328,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B01-I02_Entrance",
+      "length_m": 1.749963394977154,
+      "missing": 0,
+      "max_grade": 0.015385450772389656,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I04_Entrance",
+      "length_m": 1.749974584991764,
+      "missing": 0,
+      "max_grade": 0.015385644253053075,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B03-I05_Entrance",
+      "length_m": 1.7497690312743706,
+      "missing": 0,
+      "max_grade": 0.015387582469109044,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I05_Entrance",
+      "length_m": 1.7499932137119814,
+      "missing": 0,
+      "max_grade": 0.015384936166139026,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B04-I03_Entrance",
+      "length_m": 1.7499403253180688,
+      "missing": 0,
+      "max_grade": 0.01538582932534423,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B08-I03_Entrance",
+      "length_m": 1.749930534825902,
+      "missing": 0,
+      "max_grade": 0.015385937706649219,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B06-I02_Entrance",
+      "length_m": 1.75,
+      "missing": 0,
+      "max_grade": 0.015385218921141228,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B01-I03_Entrance",
+      "length_m": 1.75,
+      "missing": 0,
+      "max_grade": 0.015385218863867425,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B04-I04_Entrance",
+      "length_m": 1.75,
+      "missing": 0,
+      "max_grade": 0.015385218906889772,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B08-I04_Entrance",
+      "length_m": 1.7494033400099798,
+      "missing": 0,
+      "max_grade": 0.015392002483393088,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B06-I03_Entrance",
+      "length_m": 1.749999881485003,
+      "missing": 0,
+      "max_grade": 0.015384188337518909,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B01-I04_Entrance",
+      "length_m": 1.7499327959208733,
+      "missing": 0,
+      "max_grade": 0.015387075068909656,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B04-I05_Entrance",
+      "length_m": 1.7499796941338688,
+      "missing": 0,
+      "max_grade": 0.015384754197054406,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B08-I05_Entrance",
+      "length_m": 1.7497459596133276,
+      "missing": 0,
+      "max_grade": 0.015388481532594311,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B01-I05_Entrance",
+      "length_m": 1.7499975502045524,
+      "missing": 0,
+      "max_grade": 0.015384206877394576,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S06-B04-I06_Entrance",
+      "length_m": 1.7499338238787632,
+      "missing": 0,
+      "max_grade": 0.015386118548329296,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B08-I06_Entrance",
+      "length_m": 1.749834360620526,
+      "missing": 0,
+      "max_grade": 0.01538691578171755,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I06_Entrance",
+      "length_m": 1.7494242341199837,
+      "missing": 0,
+      "max_grade": 0.015391972513863234,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I07_Entrance",
+      "length_m": 1.6599999999999682,
+      "missing": 0,
+      "max_grade": 0.016530375892682695,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B03-I06_Entrance",
+      "length_m": 1.6587483266844045,
+      "missing": 0,
+      "max_grade": 0.016549293594171916,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I08_Entrance",
+      "length_m": 1.6599949927787683,
+      "missing": 0,
+      "max_grade": 0.016530684193140167,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I05_Entrance",
+      "length_m": 1.6599986280129164,
+      "missing": 0,
+      "max_grade": 0.01653088660895766,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B01-I06_Entrance",
+      "length_m": 1.6585067842191785,
+      "missing": 0,
+      "max_grade": 0.016550157825924658,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B08-I07_Entrance",
+      "length_m": 1.6599466182321978,
+      "missing": 0,
+      "max_grade": 0.016530054830090155,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B04-I03_Entrance",
+      "length_m": 1.659891720984346,
+      "missing": 0,
+      "max_grade": 0.016530932482816466,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I09_Entrance",
+      "length_m": 1.6599999999999682,
+      "missing": 0,
+      "max_grade": 0.016530365952583618,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I06_Entrance",
+      "length_m": 1.6599999999999682,
+      "missing": 0,
+      "max_grade": 0.016530366207595692,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I05_Entrance",
+      "length_m": 1.6599999999999682,
+      "missing": 0,
+      "max_grade": 0.016530357451928553,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I06_Entrance",
+      "length_m": 1.6599990498617305,
+      "missing": 0,
+      "max_grade": 0.016529542385626008,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I07_Entrance",
+      "length_m": 1.6541207048333575,
+      "missing": 0,
+      "max_grade": 0.01661642589701285,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B06-I04_Entrance",
+      "length_m": 1.6599945679942367,
+      "missing": 0,
+      "max_grade": 0.016528176587350618,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I10_Entrance",
+      "length_m": 1.657740744810488,
+      "missing": 0,
+      "max_grade": 0.016564775926251437,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I07_Entrance",
+      "length_m": 1.6599783674210427,
+      "missing": 0,
+      "max_grade": 0.016531149321291055,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I08_Entrance",
+      "length_m": 1.6598753626154987,
+      "missing": 0,
+      "max_grade": 0.01653058264666384,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B03-I07_Entrance",
+      "length_m": 1.65997609581111,
+      "missing": 0,
+      "max_grade": 0.01653081573890261,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B02-I11_Entrance",
+      "length_m": 1.6599999999999682,
+      "missing": 0,
+      "max_grade": 0.016528077491526016,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B10-I08_Entrance",
+      "length_m": 1.6599999999999682,
+      "missing": 0,
+      "max_grade": 0.01653037335948227,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S02-B05-I09_Entrance",
+      "length_m": 1.6599999999998545,
+      "missing": 0,
+      "max_grade": 0.01653036459156897,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S03-B01-I01_Entrance",
+      "length_m": 31.625,
+      "missing": 0,
+      "max_grade": 0.140946298721398,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S03-B06-I01_Entrance",
+      "length_m": 72.99777575000445,
+      "missing": 0,
+      "max_grade": 0.050317101883820214,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B04-I06_Entrance",
+      "length_m": 21.625,
+      "missing": 0,
+      "max_grade": 0.16282401374043945,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    },
+    {
+      "name": "S04-B05-I03_Entrance",
+      "length_m": 24.984984931599797,
+      "missing": 0,
+      "max_grade": 0.20704079643903517,
+      "carriage_overlap_m2": 0.0,
+      "building_crossings": []
+    }
+  ],
+  "new_roads": [
+    {
+      "name": "V20_Newtown_Crescent",
+      "segments": 3,
+      "length_m": 327.1799499340386,
+      "max_design_grade": 0.06373566992976097,
+      "max_actual_surface_grade": 0.12660984492358776,
+      "missing_surface_samples": 0
+    },
+    {
+      "name": "V20_Newtown_Garden_Link",
+      "segments": 1,
+      "length_m": 39.0,
+      "max_design_grade": 0.09981120578826476,
+      "max_actual_surface_grade": 0.1395523853791033,
+      "missing_surface_samples": 0
+    },
+    {
+      "name": "V20_West_Market_Bend",
+      "segments": 1,
+      "length_m": 227.18081456704488,
+      "max_design_grade": 0.009617233977121087,
+      "max_actual_surface_grade": 0.016607135713008325,
+      "missing_surface_samples": 0
+    },
+    {
+      "name": "V20_West_Garden_Link",
+      "segments": 1,
+      "length_m": 74.66222573191756,
+      "max_design_grade": 0.06747736815841675,
+      "max_actual_surface_grade": 0.13660109163108208,
+      "missing_surface_samples": 0
+    }
+  ],
+  "public_counts": {
+    "street_lamp": 6,
+    "bench": 2,
+    "bin": 1,
+    "tree": 38,
+    "shrub": 14,
+    "bollard": 3,
+    "utility_pole": 11,
+    "overhead_cable": 9
+  },
+  "city_buildings": 585,
+  "changed_districts": [
+    4,
+    8,
+    9,
+    10
+  ]
+}

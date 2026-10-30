@@ -1,0 +1,5 @@
+{
+  "policy": "Reuse byte-identical packed images; pixels and UVs unchanged; v19 enhanced atlas retained",
+  "canonical_images": 209,
+  "image_node_rebindings": 352
+}

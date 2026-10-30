@@ -1,0 +1,16 @@
+[
+  {
+    "upload_name": "01-asian_buildings_set.glb",
+    "canonical_source": "asian_buildings_set.glb",
+    "source_id": "S02",
+    "sha256": "44bdfda9df8fef261da576372fc4a0b79b12c6f01db4d171ef04a6dd2a9602c4",
+    "policy": "Byte-identical to the original v19 source; keep source identity and avoid duplicate types."
+  },
+  {
+    "upload_name": "city_street(1).glb",
+    "canonical_source": "city_street.glb",
+    "source_id": "S08",
+    "sha256": "fe26a0cbc3125be3ab4601ef8fcf9ff452381c8acd580c22ee9849f0fb89de23",
+    "policy": "Byte-identical to the original v19 source; keep source identity and avoid duplicate types."
+  }
+]
