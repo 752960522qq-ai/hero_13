@@ -11,16 +11,16 @@
   "land_district_count": 16,
   "file_count": 18,
   "exported_district_ids": [
-    2,
     3,
-    4,
-    6,
-    7
+    8
   ],
   "reused_district_ids": [
     1,
+    2,
+    4,
     5,
-    8,
+    6,
+    7,
     9,
     10,
     11,
@@ -32,8 +32,8 @@
     17,
     18
   ],
-  "source_mesh_count": 1834,
-  "source_triangle_count": 3965883,
+  "source_mesh_count": 1856,
+  "source_triangle_count": 4215949,
   "districts": [
     {
       "id": 1,
@@ -142,11 +142,11 @@
       "id": 3,
       "name": "主岛南部偏东／老城区街角",
       "file": "03_main_south_east_center.glb",
-      "file_size_bytes": 107821064,
-      "sha256": "ee9f5bd21e4258c965021cde329cada0386cb6a75b85c59fa3962b17ec1092f0",
-      "base_sha256": "8117be047b1cbda5668ac431a0c47499ae2f461ec83c14df023b2d68c8097000",
-      "mesh_objects": 444,
-      "triangles": 1191186,
+      "file_size_bytes": 131678452,
+      "sha256": "542db44838dbf9e868647ce9fe285782fc60fc894d0f0faf61953e73673b508b",
+      "base_sha256": "ee9f5bd21e4258c965021cde329cada0386cb6a75b85c59fa3962b17ec1092f0",
+      "mesh_objects": 461,
+      "triangles": 1372863,
       "bounds_blender": [
         [
           -8.749429702758789,
@@ -251,7 +251,15 @@
         "OLDTOWN_V17_ARCADE_56_03",
         "OLDTOWN_V17_ARCADE_57_01",
         "OLDTOWN_V17_ARCADE_57_02",
-        "OLDTOWN_V17_ARCADE_57_03"
+        "OLDTOWN_V17_ARCADE_57_03",
+        "OLDTOWN_V18_ARCADE_58",
+        "OLDTOWN_V18_ARCADE_59",
+        "OLDTOWN_V18_ARCADE_60",
+        "OLDTOWN_V18_ARCADE_61",
+        "OLDTOWN_V18_ARCADE_62",
+        "OLDTOWN_V18_ARCADE_63",
+        "OLDTOWN_V18_ARCADE_66",
+        "OLDTOWN_V18_ARCADE_H57"
       ],
       "root_translation": [
         0,
@@ -494,11 +502,11 @@
       "id": 8,
       "name": "主岛东北",
       "file": "08_main_ne.glb",
-      "file_size_bytes": 35002728,
-      "sha256": "1917300f1107ca37f34ed5c75cf93384dc633aa3334b8aa7c91ed6e2678667a6",
-      "base_sha256": "3baa5efd151d8b4b0430302a8190d9a0fbd0895c2ce6134b7dd65ef2d8267215",
-      "mesh_objects": 78,
-      "triangles": 95302,
+      "file_size_bytes": 46277972,
+      "sha256": "c4087acf20924cb9077737ecd2a0902b0e3d91c06354c74c13e7a59da554aee8",
+      "base_sha256": "1917300f1107ca37f34ed5c75cf93384dc633aa3334b8aa7c91ed6e2678667a6",
+      "mesh_objects": 83,
+      "triangles": 163691,
       "bounds_blender": [
         [
           479.02716064453125,
@@ -525,7 +533,9 @@
       ],
       "source_building_instances": [
         "GOV_V14_G33",
-        "GOV_V16_DORM_52"
+        "GOV_V16_DORM_52",
+        "NEWTOWN_V18_MALL_64",
+        "NEWTOWN_V18_POLICE_HQ_65"
       ],
       "root_translation": [
         0,

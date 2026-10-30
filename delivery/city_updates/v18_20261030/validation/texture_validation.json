@@ -1,0 +1,67 @@
+{
+  "status": "PASS",
+  "instances_checked": 10,
+  "original_source_textures_preserved": true,
+  "checks": [
+    {
+      "instance": "OLDTOWN_V18_ARCADE_58",
+      "template": "urban_facade_58.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V18_ARCADE_63",
+      "template": "urban_building_63.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V18_ARCADE_62",
+      "template": "city_building_62.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V18_ARCADE_60",
+      "template": "three_story_60.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V18_ARCADE_61",
+      "template": "historic_storefront_61.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V18_ARCADE_H57",
+      "template": "historic_facade_57b.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V18_ARCADE_59",
+      "template": "historic_building_59.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "OLDTOWN_V18_ARCADE_66",
+      "template": "architectural_facade_66.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "NEWTOWN_V18_MALL_64",
+      "template": "shopping_mall_64.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    },
+    {
+      "instance": "NEWTOWN_V18_POLICE_HQ_65",
+      "template": "police_headquarters_65.glb",
+      "texture_count": 1,
+      "decoded_rgba_pixels_match": true
+    }
+  ]
+}

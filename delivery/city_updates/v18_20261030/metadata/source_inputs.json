@@ -1,0 +1,62 @@
+[
+  {
+    "key": "66",
+    "file": "architectural_facade_66.glb",
+    "original_upload_name": "architectural facade 66.glb",
+    "sha256": "19dc48ce44bc8b0c95e5504539e27e2c6b50e15280581e1a8ca593fb393f594c"
+  },
+  {
+    "key": "62",
+    "file": "city_building_62.glb",
+    "original_upload_name": "city building 62.glb",
+    "sha256": "abb0d53ee7f83cf26cd55e029e6eba8a1c4861510e5241f89444df019baedf6d"
+  },
+  {
+    "key": "59",
+    "file": "historic_building_59.glb",
+    "original_upload_name": "historic building 59.glb",
+    "sha256": "b95c832434d15b7a715b8bc2b012ca18d8f6ca933abf325ec969216f6fed243b"
+  },
+  {
+    "key": "H57",
+    "file": "historic_facade_57b.glb",
+    "original_upload_name": "historic building facade 3d model57.glb",
+    "sha256": "1f83e4ebbfb93d118cec9f3e1e7cae5d33a3e8b2c5159615b9e3085e97abea58"
+  },
+  {
+    "key": "61",
+    "file": "historic_storefront_61.glb",
+    "original_upload_name": "historic storefront building 61.glb",
+    "sha256": "67211a00aae4893d1b6b71fbb262a0cdfabd32831946e68664807a242c61399b"
+  },
+  {
+    "key": "65",
+    "file": "police_headquarters_65.glb",
+    "original_upload_name": "police headquarters 65.glb",
+    "sha256": "6d74b7e8d225d09ff9e4a347db8a7fc7364a1db3b12ff5d2f2925bb7a0a0970a"
+  },
+  {
+    "key": "64",
+    "file": "shopping_mall_64.glb",
+    "original_upload_name": "shopping mall 64.glb",
+    "sha256": "30ed456bd59d99cda708616fc059f10c7f7fc08e2aa8d2c33ce690283d5ca246"
+  },
+  {
+    "key": "60",
+    "file": "three_story_60.glb",
+    "original_upload_name": "three-story building60.glb",
+    "sha256": "5cbda342cbe5c34d7b993bc71e86f99055cf3c883a38befaf2769b42e88f9c54"
+  },
+  {
+    "key": "63",
+    "file": "urban_building_63.glb",
+    "original_upload_name": "urban building 63.glb",
+    "sha256": "30ecf753600a53c397bd0c3e1f674c825952cdd503e4be94552b8dd34dd6d588"
+  },
+  {
+    "key": "58",
+    "file": "urban_facade_58.glb",
+    "original_upload_name": "urban building facade 58.glb",
+    "sha256": "cca470cf0cbc2ff26395f109d27e9b6d7dfeb19441a174571e9b407022b3383e"
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "status": "PASS",
+  "changed_districts_reimported": 2,
+  "reused_districts": 16,
+  "source_triangle_count": 4215949,
+  "districts": [
+    {
+      "id": 3,
+      "file": "03_main_south_east_center.glb",
+      "meshes": 461,
+      "triangles": 1372863,
+      "maximum_world_position_error_m": 0.0,
+      "embedded_images": 28,
+      "passed": true
+    },
+    {
+      "id": 8,
+      "file": "08_main_ne.glb",
+      "meshes": 83,
+      "triangles": 163691,
+      "maximum_world_position_error_m": 4.786483233336218e-06,
+      "embedded_images": 5,
+      "passed": true
+    }
+  ],
+  "maximum_world_position_error_m": 4.786483233336218e-06,
+  "external_images": false,
+  "coordinate_space_preserved": true
+}

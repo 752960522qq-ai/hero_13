@@ -1,0 +1,19 @@
+{
+  "status": "PASS",
+  "changed_district_files_checked": 2,
+  "part_compressed_and_glb_hashes_verified": true,
+  "districts": [
+    {
+      "id": 3,
+      "bytes": 131678452,
+      "sha256": "542db44838dbf9e868647ce9fe285782fc60fc894d0f0faf61953e73673b508b",
+      "passed": true
+    },
+    {
+      "id": 8,
+      "bytes": 46277972,
+      "sha256": "c4087acf20924cb9077737ecd2a0902b0e3d91c06354c74c13e7a59da554aee8",
+      "passed": true
+    }
+  ]
+}

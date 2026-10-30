@@ -1,0 +1,3343 @@
+{
+  "schema": "hero13.city.district-update.v1",
+  "update_id": "v18_20261030",
+  "date": "2026-10-30",
+  "baseline_version": "v17",
+  "baseline_commit": "9ce7807e5da5532a841e9dafa0583a207068d938",
+  "depends_on_updates": [
+    "v17_20261029"
+  ],
+  "changed_district_ids": [
+    3,
+    8
+  ],
+  "unchanged_district_ids": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "changed_districts": [
+    {
+      "id": 3,
+      "name": "主岛南部偏东／老城区街角",
+      "file": "03_main_south_east_center.glb",
+      "bytes": 131678452,
+      "sha256": "542db44838dbf9e868647ce9fe285782fc60fc894d0f0faf61953e73673b508b",
+      "base_sha256": "ee9f5bd21e4258c965021cde329cada0386cb6a75b85c59fa3962b17ec1092f0",
+      "compression": "xz",
+      "compressed_bytes": 94764916,
+      "compressed_sha256": "8895b847de03a3a660d6e1ba7265a0e10b6bcf3904ea7511a7de32962674ee96",
+      "parts": [
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part000",
+          "bytes": 8388608,
+          "sha256": "02e638fe247c3799e67a947ae0c8dcba2af12895ef840756a7478fe1aeb267b0"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part001",
+          "bytes": 8388608,
+          "sha256": "09c61b859b52bcbc094238fe5e9705a845d8bdba09bf9a6677912e14efbbe92d"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part002",
+          "bytes": 8388608,
+          "sha256": "a252b53dfefa68cdea63cb7d6305fa2672c28f4b604a5fe1fc3aab846ccd02cd"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part003",
+          "bytes": 8388608,
+          "sha256": "6488e88e91edcf247669a05769813faf8b13d860af6d76a530a012d50ffcde2d"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part004",
+          "bytes": 8388608,
+          "sha256": "1833f7b35e39f39354a2bec746b3b50907eae33f86f5fe89b26d48b9925eeff4"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part005",
+          "bytes": 8388608,
+          "sha256": "348ef31c300f878c9ff3ed69cab4f58337dcc58ee6781c1f6e19f5d8a64d1435"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part006",
+          "bytes": 8388608,
+          "sha256": "ce739fac7a22082072732e77547b337d90ad1c1966d0ad93c39b8902583c9431"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part007",
+          "bytes": 8388608,
+          "sha256": "2266137fce7fd3ce0825d6228195bc428fc16c625700b5c5ddab38a532c93973"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part008",
+          "bytes": 8388608,
+          "sha256": "04d059f9e6fee0b5764fe53e63609a61becdeb25fed002f780a2992ba79b7902"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part009",
+          "bytes": 8388608,
+          "sha256": "ef7469d010548f96535db33aa3970ec7687b3420cb66ee1fe51c9a11b015d470"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part010",
+          "bytes": 8388608,
+          "sha256": "96e82a6c4e6d7da269b556ce19155681167356832a3432b8262ace162f904cde"
+        },
+        {
+          "file": "districts/03_main_south_east_center.glb.xz.part011",
+          "bytes": 2490228,
+          "sha256": "b000de99b10ddf7d8380e4362b192a48e1cd0988f1ab7b561485b739f9c26648"
+        }
+      ],
+      "building_units_before": 160,
+      "building_units_after": 160,
+      "change_notes": "8栋新上传的骑楼/商住楼替换老城占位楼，沿街总数仍为120；新增类型各使用一次。"
+    },
+    {
+      "id": 8,
+      "name": "主岛东北",
+      "file": "08_main_ne.glb",
+      "bytes": 46277972,
+      "sha256": "c4087acf20924cb9077737ecd2a0902b0e3d91c06354c74c13e7a59da554aee8",
+      "base_sha256": "1917300f1107ca37f34ed5c75cf93384dc633aa3334b8aa7c91ed6e2678667a6",
+      "compression": "xz",
+      "compressed_bytes": 40347812,
+      "compressed_sha256": "a7b8955aa822080411dec0b7b63c8ffde9e78da7ff54e42b3850dfceb6ed76c1",
+      "parts": [
+        {
+          "file": "districts/08_main_ne.glb.xz.part000",
+          "bytes": 8388608,
+          "sha256": "96be613d2b98fd25bd96e5b5a83ab6254e7cf28359c9794218bfc59526bff406"
+        },
+        {
+          "file": "districts/08_main_ne.glb.xz.part001",
+          "bytes": 8388608,
+          "sha256": "dd1ebe70c79e6979fddd3fd9fdf1c1e6acd006e5d1812e61c6ec6cfc18f513ef"
+        },
+        {
+          "file": "districts/08_main_ne.glb.xz.part002",
+          "bytes": 8388608,
+          "sha256": "579e7973f3a2dc94a38b5be11d2a114cd99212c2a8564a0769ecc09c4b80d7cb"
+        },
+        {
+          "file": "districts/08_main_ne.glb.xz.part003",
+          "bytes": 8388608,
+          "sha256": "2724981d086744508ae619f945f89f62769b736743f0510995582693aba0f3dd"
+        },
+        {
+          "file": "districts/08_main_ne.glb.xz.part004",
+          "bytes": 6793380,
+          "sha256": "953fc28a9b7490f173038727e705400ca6147de723ba27b8e01d38888c39e997"
+        }
+      ],
+      "building_units_before": 3,
+      "building_units_after": 5,
+      "change_notes": "在东部新城区落位64号商场、65号警察总部，完成场地及道路人行道接入；原有市政区保留。"
+    }
+  ],
+  "all_districts": [
+    {
+      "id": 1,
+      "name": "主岛西南",
+      "file": "01_main_sw.glb",
+      "file_size_bytes": 24944076,
+      "mesh_objects": 76,
+      "triangles": 46800,
+      "bounds_blender": [
+        [
+          -946.7494506835938,
+          13.632200241088867,
+          -4.0
+        ],
+        [
+          -491.5249938964844,
+          625.5900268554688,
+          51.26513671875
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -946.7494506835938,
+          -4.0,
+          -625.5900268554688
+        ],
+        [
+          -491.5249938964844,
+          51.26513671875,
+          -13.632200241088867
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "72c7c39ed8381eecc147bb186ef55f96c8887d3c204a32045c6a6b6c3ebe3e9c",
+      "reused_from": null,
+      "base_sha256": "72c7c39ed8381eecc147bb186ef55f96c8887d3c204a32045c6a6b6c3ebe3e9c",
+      "building_count_units": 44
+    },
+    {
+      "id": 2,
+      "name": "主岛南部偏西",
+      "file": "02_main_south_west_center.glb",
+      "file_size_bytes": 66216584,
+      "sha256": "753e48f672b9b15eb4c912d84cd14c95ca33eea30ee03b7afd7ab4dbf0e7dc66",
+      "base_sha256": "753e48f672b9b15eb4c912d84cd14c95ca33eea30ee03b7afd7ab4dbf0e7dc66",
+      "mesh_objects": 188,
+      "triangles": 331902,
+      "bounds_blender": [
+        [
+          -505.5249938964844,
+          -77.42237091064453,
+          -4.0
+        ],
+        [
+          13.836792945861816,
+          624.4749755859375,
+          51.56327438354492
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -505.5249938964844,
+          -4.0,
+          -624.4749755859375
+        ],
+        [
+          13.836792945861816,
+          51.56327438354492,
+          77.42237091064453
+        ]
+      ],
+      "source_building_instances": [
+        "OLDTOWN_Apartment_02",
+        "OLDTOWN_Apartment_03",
+        "OLDTOWN_Apartment_11",
+        "OLDTOWN_Infill_03_Asset27",
+        "OLDTOWN_Infill_04_Asset28",
+        "OLDTOWN_Infill_05_Asset27",
+        "OLDTOWN_Infill_07_Asset27",
+        "OLDTOWN_Infill_11_Asset27",
+        "OLDTOWN_Rear_05_01_Asset20",
+        "OLDTOWN_Rear_05_02_Asset19",
+        "OLDTOWN_Rear_07_01_Asset15",
+        "OLDTOWN_Rear_11_02_Asset18",
+        "OLDTOWN_Rear_13_01_Asset14",
+        "OLDTOWN_Rear_15_01_Asset19",
+        "OLDTOWN_Rear_15_02_Asset18",
+        "OLDTOWN_Rear_32_01_Asset17",
+        "OLDTOWN_Rear_32_02_Asset20",
+        "OLDTOWN_Rear_33_01_Asset20",
+        "OLDTOWN_Rear_33_02_Asset19"
+      ],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "reused_from": null,
+      "building_count_units": 62
+    },
+    {
+      "id": 3,
+      "name": "主岛南部偏东／老城区街角",
+      "file": "03_main_south_east_center.glb",
+      "file_size_bytes": 131678452,
+      "sha256": "542db44838dbf9e868647ce9fe285782fc60fc894d0f0faf61953e73673b508b",
+      "base_sha256": "ee9f5bd21e4258c965021cde329cada0386cb6a75b85c59fa3962b17ec1092f0",
+      "mesh_objects": 461,
+      "triangles": 1372863,
+      "bounds_blender": [
+        [
+          -8.749429702758789,
+          -73.3663101196289,
+          -4.0
+        ],
+        [
+          514.7532348632812,
+          627.4749755859375,
+          42.75483322143555
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -8.749429702758789,
+          -4.0,
+          -627.4749755859375
+        ],
+        [
+          514.7532348632812,
+          42.75483322143555,
+          73.3663101196289
+        ]
+      ],
+      "source_building_instances": [
+        "OLDTOWN_Backlane_Apartment_13",
+        "OLDTOWN_Backlane_Apartment_14",
+        "OLDTOWN_Connected_Arcade_05",
+        "OLDTOWN_Connected_Arcade_06",
+        "OLDTOWN_Connected_Arcade_07",
+        "OLDTOWN_Connected_Shop_08",
+        "OLDTOWN_Connected_Shop_09",
+        "OLDTOWN_Corner_Shop_10",
+        "OLDTOWN_Infill_01_Asset28",
+        "OLDTOWN_Infill_02_Asset27",
+        "OLDTOWN_Infill_06_Asset28",
+        "OLDTOWN_Infill_08_Asset28",
+        "OLDTOWN_Infill_09_Asset27",
+        "OLDTOWN_Infill_10_Asset28",
+        "OLDTOWN_Infill_12_Asset27",
+        "OLDTOWN_Infill_13_Asset28",
+        "OLDTOWN_Infill_14_Asset27",
+        "OLDTOWN_Infill_15_Asset28",
+        "OLDTOWN_Infill_16_Asset27",
+        "OLDTOWN_Infill_17_Asset28",
+        "OLDTOWN_Infill_18_Asset28",
+        "OLDTOWN_Joined_Storefront_12",
+        "OLDTOWN_Joined_Urban_Shopfront_13",
+        "OLDTOWN_Rear_00_01_Asset20",
+        "OLDTOWN_Rear_00_02_Asset19",
+        "OLDTOWN_Rear_00_03_Asset18",
+        "OLDTOWN_Rear_00_04_Asset17",
+        "OLDTOWN_Rear_00_05_Asset15",
+        "OLDTOWN_Rear_01_01_Asset13",
+        "OLDTOWN_Rear_02_01_Asset18",
+        "OLDTOWN_Rear_02_02_Asset17",
+        "OLDTOWN_Rear_03_01_Asset19",
+        "OLDTOWN_Rear_03_02_Asset18",
+        "OLDTOWN_Rear_04_01_Asset14",
+        "OLDTOWN_Rear_06_01_Asset18",
+        "OLDTOWN_Rear_06_02_Asset17",
+        "OLDTOWN_Rear_08_01_Asset17",
+        "OLDTOWN_Rear_08_02_Asset20",
+        "OLDTOWN_Rear_09_01_Asset20",
+        "OLDTOWN_Rear_09_02_Asset19",
+        "OLDTOWN_Rear_10_01_Asset13",
+        "OLDTOWN_Rear_11_01_Asset19",
+        "OLDTOWN_Rear_12_01_Asset17",
+        "OLDTOWN_Rear_12_02_Asset20",
+        "OLDTOWN_Rear_14_01_Asset18",
+        "OLDTOWN_Rear_14_02_Asset17",
+        "OLDTOWN_Rear_16_01_Asset15",
+        "OLDTOWN_Rear_17_01_Asset20",
+        "OLDTOWN_Rear_17_02_Asset19",
+        "OLDTOWN_Rear_18_01_Asset18",
+        "OLDTOWN_Rear_18_02_Asset17",
+        "OLDTOWN_Rear_19_01_Asset13",
+        "OLDTOWN_Rear_22_01_Asset14",
+        "OLDTOWN_Rear_23_01_Asset19",
+        "OLDTOWN_Rear_23_02_Asset18",
+        "OLDTOWN_Rear_24_01_Asset17",
+        "OLDTOWN_Rear_24_02_Asset20",
+        "OLDTOWN_Rear_27_01_Asset19",
+        "OLDTOWN_Rear_27_02_Asset18",
+        "OLDTOWN_Rear_28_01_Asset13",
+        "OLDTOWN_Rear_29_01_Asset20",
+        "OLDTOWN_Rear_29_02_Asset19",
+        "OLDTOWN_V17_ARCADE_05_01",
+        "OLDTOWN_V17_ARCADE_05_02",
+        "OLDTOWN_V17_ARCADE_06_01",
+        "OLDTOWN_V17_ARCADE_06_02",
+        "OLDTOWN_V17_ARCADE_08_01",
+        "OLDTOWN_V17_ARCADE_09_02",
+        "OLDTOWN_V17_ARCADE_10_01",
+        "OLDTOWN_V17_ARCADE_10_02",
+        "OLDTOWN_V17_ARCADE_12_01",
+        "OLDTOWN_V17_ARCADE_12_02",
+        "OLDTOWN_V17_ARCADE_13_01",
+        "OLDTOWN_V17_ARCADE_13_02",
+        "OLDTOWN_V17_ARCADE_56_01",
+        "OLDTOWN_V17_ARCADE_56_02",
+        "OLDTOWN_V17_ARCADE_56_03",
+        "OLDTOWN_V17_ARCADE_57_01",
+        "OLDTOWN_V17_ARCADE_57_02",
+        "OLDTOWN_V17_ARCADE_57_03",
+        "OLDTOWN_V18_ARCADE_58",
+        "OLDTOWN_V18_ARCADE_59",
+        "OLDTOWN_V18_ARCADE_60",
+        "OLDTOWN_V18_ARCADE_61",
+        "OLDTOWN_V18_ARCADE_62",
+        "OLDTOWN_V18_ARCADE_63",
+        "OLDTOWN_V18_ARCADE_66",
+        "OLDTOWN_V18_ARCADE_H57"
+      ],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "reused_from": null,
+      "building_count_units": 160
+    },
+    {
+      "id": 4,
+      "name": "主岛东南",
+      "file": "04_main_se.glb",
+      "file_size_bytes": 62201940,
+      "sha256": "2d1bf2cd41fec676840c49d410b91b65b50c0c6d80a63e1e2fe4f81f1e717d46",
+      "base_sha256": "2d1bf2cd41fec676840c49d410b91b65b50c0c6d80a63e1e2fe4f81f1e717d46",
+      "mesh_objects": 141,
+      "triangles": 321154,
+      "bounds_blender": [
+        [
+          494.05120849609375,
+          22.67948341369629,
+          -4.0
+        ],
+        [
+          1039.40576171875,
+          634.5,
+          47.55078125
+        ]
+      ],
+      "bounds_glb": [
+        [
+          494.05120849609375,
+          -4.0,
+          -634.5
+        ],
+        [
+          1039.40576171875,
+          47.55078125,
+          -22.67948341369629
+        ]
+      ],
+      "source_building_instances": [
+        "OLDTOWN_Rear_20_01_Asset17",
+        "OLDTOWN_Rear_20_02_Asset20",
+        "OLDTOWN_Rear_21_01_Asset20",
+        "OLDTOWN_Rear_21_02_Asset19",
+        "OLDTOWN_Rear_25_01_Asset15",
+        "OLDTOWN_Rear_26_01_Asset18",
+        "OLDTOWN_Rear_26_02_Asset17",
+        "OLDTOWN_Rear_30_01_Asset18",
+        "OLDTOWN_Rear_30_02_Asset17",
+        "OLDTOWN_Rear_31_01_Asset14",
+        "OLDTOWN_V17_ARCADE_07_01",
+        "OLDTOWN_V17_ARCADE_07_02",
+        "OLDTOWN_V17_ARCADE_08_02",
+        "OLDTOWN_V17_ARCADE_09_01"
+      ],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "reused_from": null,
+      "building_count_units": 52
+    },
+    {
+      "id": 5,
+      "name": "主岛西北",
+      "file": "05_main_nw.glb",
+      "file_size_bytes": 23588448,
+      "mesh_objects": 80,
+      "triangles": 32779,
+      "bounds_blender": [
+        [
+          -880.4920043945312,
+          615.3261108398438,
+          -4.0
+        ],
+        [
+          -491.5249938964844,
+          1158.144287109375,
+          40.75039291381836
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -880.4920043945312,
+          -4.0,
+          -1158.144287109375
+        ],
+        [
+          -491.5249938964844,
+          40.75039291381836,
+          -615.3261108398438
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "43f6a32507d9a404a4b3c9ef6d1ab84bec690167356e6bd0bcd95054d19f9ab4",
+      "reused_from": null,
+      "base_sha256": "43f6a32507d9a404a4b3c9ef6d1ab84bec690167356e6bd0bcd95054d19f9ab4",
+      "building_count_units": 12
+    },
+    {
+      "id": 6,
+      "name": "主岛北部偏西／CBD原建筑",
+      "file": "06_main_north_west_center.glb",
+      "file_size_bytes": 106364464,
+      "sha256": "89d05635a47ab748d6563afcbfef6d19d9922f94eec65baafe21eb89fa833907",
+      "base_sha256": "89d05635a47ab748d6563afcbfef6d19d9922f94eec65baafe21eb89fa833907",
+      "mesh_objects": 151,
+      "triangles": 649309,
+      "bounds_blender": [
+        [
+          -505.5249938964844,
+          615.3261108398438,
+          -4.0
+        ],
+        [
+          7.8767900466918945,
+          1227.09228515625,
+          118.22416687011719
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -505.5249938964844,
+          -4.0,
+          -1227.09228515625
+        ],
+        [
+          7.8767900466918945,
+          118.22416687011719,
+          -615.3261108398438
+        ]
+      ],
+      "source_building_instances": [
+        "APT_V14_A36",
+        "APT_V16_GRAY_54_01",
+        "APT_V16_GRAY_54_02",
+        "APT_V16_GRAY_54_03",
+        "APT_V16_GRAY_54_04",
+        "APT_V16_PINK_53_01",
+        "APT_V16_PINK_53_02",
+        "APT_V16_PINK_53_03",
+        "APT_V16_PINK_53_04",
+        "APT_V16_YELLOW_50_01",
+        "APT_V16_YELLOW_50_02",
+        "APT_V16_YELLOW_50_03",
+        "APT_V16_YELLOW_50_04",
+        "CBD_Imported_21",
+        "CBD_Imported_23",
+        "CBD_Imported_24",
+        "CBD_Imported_Office30",
+        "CBD_Office_Building_01",
+        "CBD_V14_G48",
+        "CBD_V14_M38",
+        "CBD_V14_O40",
+        "CBD_V14_O42",
+        "CBD_V14_O46",
+        "CBD_V14_O47"
+      ],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "reused_from": null,
+      "building_count_units": 24
+    },
+    {
+      "id": 7,
+      "name": "主岛北部偏东／CBD",
+      "file": "07_main_north_east_center.glb",
+      "file_size_bytes": 155168528,
+      "sha256": "cf72c94d43dd0aeff3b3c4985e971490bc3f78a0efb3c8cd80c7f529aaf73257",
+      "base_sha256": "cf72c94d43dd0aeff3b3c4985e971490bc3f78a0efb3c8cd80c7f529aaf73257",
+      "mesh_objects": 184,
+      "triangles": 1020613,
+      "bounds_blender": [
+        [
+          -6.1232099533081055,
+          613.4749755859375,
+          -4.0
+        ],
+        [
+          509.2505798339844,
+          1210.57177734375,
+          122.33853912353516
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -6.1232099533081055,
+          -4.0,
+          -1210.57177734375
+        ],
+        [
+          509.2505798339844,
+          122.33853912353516,
+          -613.4749755859375
+        ]
+      ],
+      "source_building_instances": [
+        "APT_V14_A32",
+        "APT_V14_A35",
+        "CBD_Imported_22",
+        "CBD_Imported_25",
+        "CBD_Imported_26A",
+        "CBD_Imported_26B",
+        "CBD_Imported_26C",
+        "CBD_Imported_Office27",
+        "CBD_Imported_Office28",
+        "CBD_Imported_Office29",
+        "CBD_Modern_Glass_02",
+        "CBD_V14_G41",
+        "CBD_V14_G42",
+        "CBD_V14_G44",
+        "CBD_V14_G45",
+        "CBD_V14_O34",
+        "CBD_V14_O37",
+        "CBD_V14_O39",
+        "CBD_V14_O43",
+        "CBD_V14_U31",
+        "GOV_V16_OFFICE_51"
+      ],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "reused_from": null,
+      "building_count_units": 24
+    },
+    {
+      "id": 8,
+      "name": "主岛东北",
+      "file": "08_main_ne.glb",
+      "file_size_bytes": 46277972,
+      "sha256": "c4087acf20924cb9077737ecd2a0902b0e3d91c06354c74c13e7a59da554aee8",
+      "base_sha256": "1917300f1107ca37f34ed5c75cf93384dc633aa3334b8aa7c91ed6e2678667a6",
+      "mesh_objects": 83,
+      "triangles": 163691,
+      "bounds_blender": [
+        [
+          479.02716064453125,
+          613.12451171875,
+          -4.0
+        ],
+        [
+          1036.4569091796875,
+          1142.87548828125,
+          44.45011901855469
+        ]
+      ],
+      "bounds_glb": [
+        [
+          479.02716064453125,
+          -4.0,
+          -1142.87548828125
+        ],
+        [
+          1036.4569091796875,
+          44.45011901855469,
+          -613.12451171875
+        ]
+      ],
+      "source_building_instances": [
+        "GOV_V14_G33",
+        "GOV_V16_DORM_52",
+        "NEWTOWN_V18_MALL_64",
+        "NEWTOWN_V18_POLICE_HQ_65"
+      ],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "reused_from": null,
+      "building_count_units": 5
+    },
+    {
+      "id": 9,
+      "name": "西岛西南",
+      "file": "09_west_sw.glb",
+      "file_size_bytes": 23662328,
+      "mesh_objects": 90,
+      "triangles": 32000,
+      "bounds_blender": [
+        [
+          -1408.26025390625,
+          -1169.1539306640625,
+          -4.0
+        ],
+        [
+          -947.5250244140625,
+          -717.7412719726562,
+          26.944561004638672
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -1408.26025390625,
+          -4.0,
+          717.7412719726562
+        ],
+        [
+          -947.5250244140625,
+          26.944561004638672,
+          1169.1539306640625
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "5b41470e4876d25a11df73e4869625564f436c2a04fa257680aa08122a48cbd7",
+      "reused_from": null,
+      "base_sha256": "5b41470e4876d25a11df73e4869625564f436c2a04fa257680aa08122a48cbd7",
+      "building_count_units": 20
+    },
+    {
+      "id": 10,
+      "name": "西岛东南",
+      "file": "10_west_se.glb",
+      "file_size_bytes": 23371520,
+      "mesh_objects": 43,
+      "triangles": 30416,
+      "bounds_blender": [
+        [
+          -961.5900268554688,
+          -1169.473388671875,
+          -4.0
+        ],
+        [
+          -454.9646911621094,
+          -711.842041015625,
+          28.861783981323242
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -961.5900268554688,
+          -4.0,
+          711.842041015625
+        ],
+        [
+          -454.9646911621094,
+          28.861783981323242,
+          1169.473388671875
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "711424fd145602b6a2777458b50929a4082d769eb5d0f220cec7a45c555a9ed0",
+      "reused_from": null,
+      "base_sha256": "711424fd145602b6a2777458b50929a4082d769eb5d0f220cec7a45c555a9ed0",
+      "building_count_units": 29
+    },
+    {
+      "id": 11,
+      "name": "西岛西北",
+      "file": "11_west_nw.glb",
+      "file_size_bytes": 23438724,
+      "mesh_objects": 46,
+      "triangles": 31090,
+      "bounds_blender": [
+        [
+          -1412.8333740234375,
+          -728.5900268554688,
+          -4.0
+        ],
+        [
+          -947.13037109375,
+          -279.2508850097656,
+          31.123004913330078
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -1412.8333740234375,
+          -4.0,
+          279.2508850097656
+        ],
+        [
+          -947.13037109375,
+          31.123004913330078,
+          728.5900268554688
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "e82fc8cce41e74cc79e52d62ecfa5f826520f41e85235b7ced9cc752716cad67",
+      "reused_from": null,
+      "base_sha256": "e82fc8cce41e74cc79e52d62ecfa5f826520f41e85235b7ced9cc752716cad67",
+      "building_count_units": 25
+    },
+    {
+      "id": 12,
+      "name": "西岛东北／湖区",
+      "file": "12_west_ne.glb",
+      "file_size_bytes": 23356996,
+      "mesh_objects": 35,
+      "triangles": 30460,
+      "bounds_blender": [
+        [
+          -961.5900268554688,
+          -728.5,
+          -4.0
+        ],
+        [
+          -454.9211120605469,
+          -284.6963806152344,
+          28.741718292236328
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -961.5900268554688,
+          -4.0,
+          284.6963806152344
+        ],
+        [
+          -454.9211120605469,
+          28.741718292236328,
+          728.5
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "97a8a8a71d1a52a5ee72c7c11ee5178f2ad1901fe226037af65b0af0b0dd671b",
+      "reused_from": null,
+      "base_sha256": "97a8a8a71d1a52a5ee72c7c11ee5178f2ad1901fe226037af65b0af0b0dd671b",
+      "building_count_units": 26
+    },
+    {
+      "id": 13,
+      "name": "东岛西南",
+      "file": "13_east_sw.glb",
+      "file_size_bytes": 22670212,
+      "mesh_objects": 31,
+      "triangles": 22955,
+      "bounds_blender": [
+        [
+          239.73455810546875,
+          -1181.8336181640625,
+          -4.0
+        ],
+        [
+          756.0,
+          -794.5250244140625,
+          31.101587295532227
+        ]
+      ],
+      "bounds_glb": [
+        [
+          239.73455810546875,
+          -4.0,
+          794.5250244140625
+        ],
+        [
+          756.0,
+          31.101587295532227,
+          1181.8336181640625
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "9881628d845d6a7dcd792c8f7c9ad73a5fda0daeea19c080bf8d8ae0c11481be",
+      "reused_from": null,
+      "base_sha256": "9881628d845d6a7dcd792c8f7c9ad73a5fda0daeea19c080bf8d8ae0c11481be",
+      "building_count_units": 13
+    },
+    {
+      "id": 14,
+      "name": "东岛东南",
+      "file": "14_east_se.glb",
+      "file_size_bytes": 22771944,
+      "mesh_objects": 29,
+      "triangles": 23943,
+      "bounds_blender": [
+        [
+          739.5,
+          -1181.8336181640625,
+          -4.0
+        ],
+        [
+          1201.906982421875,
+          -794.5250244140625,
+          29.762052536010742
+        ]
+      ],
+      "bounds_glb": [
+        [
+          739.5,
+          -4.0,
+          794.5250244140625
+        ],
+        [
+          1201.906982421875,
+          29.762052536010742,
+          1181.8336181640625
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "fa59c100e0aad62224bc780981237b36a9ec0d708afa2f0078ee0dde5de014f7",
+      "reused_from": null,
+      "base_sha256": "fa59c100e0aad62224bc780981237b36a9ec0d708afa2f0078ee0dde5de014f7",
+      "building_count_units": 13
+    },
+    {
+      "id": 15,
+      "name": "东岛西北",
+      "file": "15_east_nw.glb",
+      "file_size_bytes": 23569716,
+      "mesh_objects": 50,
+      "triangles": 32635,
+      "bounds_blender": [
+        [
+          205.06541442871094,
+          -808.5250244140625,
+          -4.0
+        ],
+        [
+          754.4749755859375,
+          -342.75799560546875,
+          32.11262512207031
+        ]
+      ],
+      "bounds_glb": [
+        [
+          205.06541442871094,
+          -4.0,
+          342.75799560546875
+        ],
+        [
+          754.4749755859375,
+          32.11262512207031,
+          808.5250244140625
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "f02afa28cc5c6f0eedb030bf49916cf5db79d68cd65adabdd27a2c121f6adf4c",
+      "reused_from": null,
+      "base_sha256": "f02afa28cc5c6f0eedb030bf49916cf5db79d68cd65adabdd27a2c121f6adf4c",
+      "building_count_units": 20
+    },
+    {
+      "id": 16,
+      "name": "东岛东北／港区",
+      "file": "16_east_ne.glb",
+      "file_size_bytes": 22650076,
+      "mesh_objects": 36,
+      "triangles": 22612,
+      "bounds_blender": [
+        [
+          739.4099731445312,
+          -808.5250244140625,
+          -4.0
+        ],
+        [
+          1201.48876953125,
+          -373.1330261230469,
+          31.895448684692383
+        ]
+      ],
+      "bounds_glb": [
+        [
+          739.4099731445312,
+          -4.0,
+          373.1330261230469
+        ],
+        [
+          1201.48876953125,
+          31.895448684692383,
+          808.5250244140625
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": false,
+      "sha256": "8012094ba11e218bd874a108874e2a859f4b2e991647cbda1e7ef7d392a94624",
+      "reused_from": null,
+      "base_sha256": "8012094ba11e218bd874a108874e2a859f4b2e991647cbda1e7ef7d392a94624",
+      "building_count_units": 14
+    },
+    {
+      "id": 17,
+      "name": "公共桥梁及引道",
+      "file": "17_shared_bridges.glb",
+      "file_size_bytes": 23851620,
+      "mesh_objects": 130,
+      "triangles": 50526,
+      "bounds_blender": [
+        [
+          -1010.0763549804688,
+          -859.898193359375,
+          -4.0
+        ],
+        [
+          648.399169921875,
+          132.81790161132812,
+          11.050000190734863
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -1010.0763549804688,
+          -4.0,
+          -132.81790161132812
+        ],
+        [
+          648.399169921875,
+          11.050000190734863,
+          859.898193359375
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": true,
+      "reused_from": "v14",
+      "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54",
+      "base_sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54",
+      "building_count_units": 0
+    },
+    {
+      "id": 18,
+      "name": "公共海面与湖水",
+      "file": "18_shared_water.glb",
+      "file_size_bytes": 18052,
+      "mesh_objects": 2,
+      "triangles": 201,
+      "bounds_blender": [
+        [
+          -2700.0,
+          -2400.0,
+          -0.07999999821186066
+        ],
+        [
+          2700.0,
+          2400.0,
+          9.960000038146973
+        ]
+      ],
+      "bounds_glb": [
+        [
+          -2700.0,
+          -0.07999999821186066,
+          -2400.0
+        ],
+        [
+          2700.0,
+          9.960000038146973,
+          2400.0
+        ]
+      ],
+      "source_building_instances": [],
+      "root_translation": [
+        0,
+        0,
+        0
+      ],
+      "common": true,
+      "reused_from": "v14",
+      "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde",
+      "base_sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde",
+      "building_count_units": 0
+    }
+  ],
+  "resolved_districts_manifest": {
+    "schema": "hero13.city.districts.v1",
+    "units": "metres",
+    "blender_axes": "X east, Y north, Z up",
+    "glb_axes": "X east, Y up, -Z north",
+    "placement": "Every GLB is already in city world coordinates. Keep imported root transforms at identity; do not center or add offsets.",
+    "common_models": [
+      17,
+      18
+    ],
+    "land_district_count": 16,
+    "file_count": 18,
+    "exported_district_ids": [
+      3,
+      8
+    ],
+    "reused_district_ids": [
+      1,
+      2,
+      4,
+      5,
+      6,
+      7,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "source_mesh_count": 1856,
+    "source_triangle_count": 4215949,
+    "districts": [
+      {
+        "id": 1,
+        "name": "主岛西南",
+        "file": "01_main_sw.glb",
+        "file_size_bytes": 24944076,
+        "mesh_objects": 76,
+        "triangles": 46800,
+        "bounds_blender": [
+          [
+            -946.7494506835938,
+            13.632200241088867,
+            -4.0
+          ],
+          [
+            -491.5249938964844,
+            625.5900268554688,
+            51.26513671875
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -946.7494506835938,
+            -4.0,
+            -625.5900268554688
+          ],
+          [
+            -491.5249938964844,
+            51.26513671875,
+            -13.632200241088867
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "72c7c39ed8381eecc147bb186ef55f96c8887d3c204a32045c6a6b6c3ebe3e9c",
+        "reused_from": null
+      },
+      {
+        "id": 2,
+        "name": "主岛南部偏西",
+        "file": "02_main_south_west_center.glb",
+        "file_size_bytes": 66216584,
+        "sha256": "753e48f672b9b15eb4c912d84cd14c95ca33eea30ee03b7afd7ab4dbf0e7dc66",
+        "base_sha256": "75585d6d1a2bbfe4390cf2ab47341c79d18aa6c6d0a772fdf0a01ea536ad825e",
+        "mesh_objects": 188,
+        "triangles": 331902,
+        "bounds_blender": [
+          [
+            -505.5249938964844,
+            -77.42237091064453,
+            -4.0
+          ],
+          [
+            13.836792945861816,
+            624.4749755859375,
+            51.56327438354492
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -505.5249938964844,
+            -4.0,
+            -624.4749755859375
+          ],
+          [
+            13.836792945861816,
+            51.56327438354492,
+            77.42237091064453
+          ]
+        ],
+        "source_building_instances": [
+          "OLDTOWN_Apartment_02",
+          "OLDTOWN_Apartment_03",
+          "OLDTOWN_Apartment_11",
+          "OLDTOWN_Infill_03_Asset27",
+          "OLDTOWN_Infill_04_Asset28",
+          "OLDTOWN_Infill_05_Asset27",
+          "OLDTOWN_Infill_07_Asset27",
+          "OLDTOWN_Infill_11_Asset27",
+          "OLDTOWN_Rear_05_01_Asset20",
+          "OLDTOWN_Rear_05_02_Asset19",
+          "OLDTOWN_Rear_07_01_Asset15",
+          "OLDTOWN_Rear_11_02_Asset18",
+          "OLDTOWN_Rear_13_01_Asset14",
+          "OLDTOWN_Rear_15_01_Asset19",
+          "OLDTOWN_Rear_15_02_Asset18",
+          "OLDTOWN_Rear_32_01_Asset17",
+          "OLDTOWN_Rear_32_02_Asset20",
+          "OLDTOWN_Rear_33_01_Asset20",
+          "OLDTOWN_Rear_33_02_Asset19"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": null
+      },
+      {
+        "id": 3,
+        "name": "主岛南部偏东／老城区街角",
+        "file": "03_main_south_east_center.glb",
+        "file_size_bytes": 131678452,
+        "sha256": "542db44838dbf9e868647ce9fe285782fc60fc894d0f0faf61953e73673b508b",
+        "base_sha256": "ee9f5bd21e4258c965021cde329cada0386cb6a75b85c59fa3962b17ec1092f0",
+        "mesh_objects": 461,
+        "triangles": 1372863,
+        "bounds_blender": [
+          [
+            -8.749429702758789,
+            -73.3663101196289,
+            -4.0
+          ],
+          [
+            514.7532348632812,
+            627.4749755859375,
+            42.75483322143555
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -8.749429702758789,
+            -4.0,
+            -627.4749755859375
+          ],
+          [
+            514.7532348632812,
+            42.75483322143555,
+            73.3663101196289
+          ]
+        ],
+        "source_building_instances": [
+          "OLDTOWN_Backlane_Apartment_13",
+          "OLDTOWN_Backlane_Apartment_14",
+          "OLDTOWN_Connected_Arcade_05",
+          "OLDTOWN_Connected_Arcade_06",
+          "OLDTOWN_Connected_Arcade_07",
+          "OLDTOWN_Connected_Shop_08",
+          "OLDTOWN_Connected_Shop_09",
+          "OLDTOWN_Corner_Shop_10",
+          "OLDTOWN_Infill_01_Asset28",
+          "OLDTOWN_Infill_02_Asset27",
+          "OLDTOWN_Infill_06_Asset28",
+          "OLDTOWN_Infill_08_Asset28",
+          "OLDTOWN_Infill_09_Asset27",
+          "OLDTOWN_Infill_10_Asset28",
+          "OLDTOWN_Infill_12_Asset27",
+          "OLDTOWN_Infill_13_Asset28",
+          "OLDTOWN_Infill_14_Asset27",
+          "OLDTOWN_Infill_15_Asset28",
+          "OLDTOWN_Infill_16_Asset27",
+          "OLDTOWN_Infill_17_Asset28",
+          "OLDTOWN_Infill_18_Asset28",
+          "OLDTOWN_Joined_Storefront_12",
+          "OLDTOWN_Joined_Urban_Shopfront_13",
+          "OLDTOWN_Rear_00_01_Asset20",
+          "OLDTOWN_Rear_00_02_Asset19",
+          "OLDTOWN_Rear_00_03_Asset18",
+          "OLDTOWN_Rear_00_04_Asset17",
+          "OLDTOWN_Rear_00_05_Asset15",
+          "OLDTOWN_Rear_01_01_Asset13",
+          "OLDTOWN_Rear_02_01_Asset18",
+          "OLDTOWN_Rear_02_02_Asset17",
+          "OLDTOWN_Rear_03_01_Asset19",
+          "OLDTOWN_Rear_03_02_Asset18",
+          "OLDTOWN_Rear_04_01_Asset14",
+          "OLDTOWN_Rear_06_01_Asset18",
+          "OLDTOWN_Rear_06_02_Asset17",
+          "OLDTOWN_Rear_08_01_Asset17",
+          "OLDTOWN_Rear_08_02_Asset20",
+          "OLDTOWN_Rear_09_01_Asset20",
+          "OLDTOWN_Rear_09_02_Asset19",
+          "OLDTOWN_Rear_10_01_Asset13",
+          "OLDTOWN_Rear_11_01_Asset19",
+          "OLDTOWN_Rear_12_01_Asset17",
+          "OLDTOWN_Rear_12_02_Asset20",
+          "OLDTOWN_Rear_14_01_Asset18",
+          "OLDTOWN_Rear_14_02_Asset17",
+          "OLDTOWN_Rear_16_01_Asset15",
+          "OLDTOWN_Rear_17_01_Asset20",
+          "OLDTOWN_Rear_17_02_Asset19",
+          "OLDTOWN_Rear_18_01_Asset18",
+          "OLDTOWN_Rear_18_02_Asset17",
+          "OLDTOWN_Rear_19_01_Asset13",
+          "OLDTOWN_Rear_22_01_Asset14",
+          "OLDTOWN_Rear_23_01_Asset19",
+          "OLDTOWN_Rear_23_02_Asset18",
+          "OLDTOWN_Rear_24_01_Asset17",
+          "OLDTOWN_Rear_24_02_Asset20",
+          "OLDTOWN_Rear_27_01_Asset19",
+          "OLDTOWN_Rear_27_02_Asset18",
+          "OLDTOWN_Rear_28_01_Asset13",
+          "OLDTOWN_Rear_29_01_Asset20",
+          "OLDTOWN_Rear_29_02_Asset19",
+          "OLDTOWN_V17_ARCADE_05_01",
+          "OLDTOWN_V17_ARCADE_05_02",
+          "OLDTOWN_V17_ARCADE_06_01",
+          "OLDTOWN_V17_ARCADE_06_02",
+          "OLDTOWN_V17_ARCADE_08_01",
+          "OLDTOWN_V17_ARCADE_09_02",
+          "OLDTOWN_V17_ARCADE_10_01",
+          "OLDTOWN_V17_ARCADE_10_02",
+          "OLDTOWN_V17_ARCADE_12_01",
+          "OLDTOWN_V17_ARCADE_12_02",
+          "OLDTOWN_V17_ARCADE_13_01",
+          "OLDTOWN_V17_ARCADE_13_02",
+          "OLDTOWN_V17_ARCADE_56_01",
+          "OLDTOWN_V17_ARCADE_56_02",
+          "OLDTOWN_V17_ARCADE_56_03",
+          "OLDTOWN_V17_ARCADE_57_01",
+          "OLDTOWN_V17_ARCADE_57_02",
+          "OLDTOWN_V17_ARCADE_57_03",
+          "OLDTOWN_V18_ARCADE_58",
+          "OLDTOWN_V18_ARCADE_59",
+          "OLDTOWN_V18_ARCADE_60",
+          "OLDTOWN_V18_ARCADE_61",
+          "OLDTOWN_V18_ARCADE_62",
+          "OLDTOWN_V18_ARCADE_63",
+          "OLDTOWN_V18_ARCADE_66",
+          "OLDTOWN_V18_ARCADE_H57"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": null
+      },
+      {
+        "id": 4,
+        "name": "主岛东南",
+        "file": "04_main_se.glb",
+        "file_size_bytes": 62201940,
+        "sha256": "2d1bf2cd41fec676840c49d410b91b65b50c0c6d80a63e1e2fe4f81f1e717d46",
+        "base_sha256": "bc26cbb62df4297fc50b876e7f8ab62c5fcaf2946939a2c41b927b4292d362a3",
+        "mesh_objects": 141,
+        "triangles": 321154,
+        "bounds_blender": [
+          [
+            494.05120849609375,
+            22.67948341369629,
+            -4.0
+          ],
+          [
+            1039.40576171875,
+            634.5,
+            47.55078125
+          ]
+        ],
+        "bounds_glb": [
+          [
+            494.05120849609375,
+            -4.0,
+            -634.5
+          ],
+          [
+            1039.40576171875,
+            47.55078125,
+            -22.67948341369629
+          ]
+        ],
+        "source_building_instances": [
+          "OLDTOWN_Rear_20_01_Asset17",
+          "OLDTOWN_Rear_20_02_Asset20",
+          "OLDTOWN_Rear_21_01_Asset20",
+          "OLDTOWN_Rear_21_02_Asset19",
+          "OLDTOWN_Rear_25_01_Asset15",
+          "OLDTOWN_Rear_26_01_Asset18",
+          "OLDTOWN_Rear_26_02_Asset17",
+          "OLDTOWN_Rear_30_01_Asset18",
+          "OLDTOWN_Rear_30_02_Asset17",
+          "OLDTOWN_Rear_31_01_Asset14",
+          "OLDTOWN_V17_ARCADE_07_01",
+          "OLDTOWN_V17_ARCADE_07_02",
+          "OLDTOWN_V17_ARCADE_08_02",
+          "OLDTOWN_V17_ARCADE_09_01"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": null
+      },
+      {
+        "id": 5,
+        "name": "主岛西北",
+        "file": "05_main_nw.glb",
+        "file_size_bytes": 23588448,
+        "mesh_objects": 80,
+        "triangles": 32779,
+        "bounds_blender": [
+          [
+            -880.4920043945312,
+            615.3261108398438,
+            -4.0
+          ],
+          [
+            -491.5249938964844,
+            1158.144287109375,
+            40.75039291381836
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -880.4920043945312,
+            -4.0,
+            -1158.144287109375
+          ],
+          [
+            -491.5249938964844,
+            40.75039291381836,
+            -615.3261108398438
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "43f6a32507d9a404a4b3c9ef6d1ab84bec690167356e6bd0bcd95054d19f9ab4",
+        "reused_from": null
+      },
+      {
+        "id": 6,
+        "name": "主岛北部偏西／CBD原建筑",
+        "file": "06_main_north_west_center.glb",
+        "file_size_bytes": 106364464,
+        "sha256": "89d05635a47ab748d6563afcbfef6d19d9922f94eec65baafe21eb89fa833907",
+        "base_sha256": "a5b78bd666fb2ee786f5850d71c99596ccf51fdd96b66a59711d6817dad71bac",
+        "mesh_objects": 151,
+        "triangles": 649309,
+        "bounds_blender": [
+          [
+            -505.5249938964844,
+            615.3261108398438,
+            -4.0
+          ],
+          [
+            7.8767900466918945,
+            1227.09228515625,
+            118.22416687011719
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -505.5249938964844,
+            -4.0,
+            -1227.09228515625
+          ],
+          [
+            7.8767900466918945,
+            118.22416687011719,
+            -615.3261108398438
+          ]
+        ],
+        "source_building_instances": [
+          "APT_V14_A36",
+          "APT_V16_GRAY_54_01",
+          "APT_V16_GRAY_54_02",
+          "APT_V16_GRAY_54_03",
+          "APT_V16_GRAY_54_04",
+          "APT_V16_PINK_53_01",
+          "APT_V16_PINK_53_02",
+          "APT_V16_PINK_53_03",
+          "APT_V16_PINK_53_04",
+          "APT_V16_YELLOW_50_01",
+          "APT_V16_YELLOW_50_02",
+          "APT_V16_YELLOW_50_03",
+          "APT_V16_YELLOW_50_04",
+          "CBD_Imported_21",
+          "CBD_Imported_23",
+          "CBD_Imported_24",
+          "CBD_Imported_Office30",
+          "CBD_Office_Building_01",
+          "CBD_V14_G48",
+          "CBD_V14_M38",
+          "CBD_V14_O40",
+          "CBD_V14_O42",
+          "CBD_V14_O46",
+          "CBD_V14_O47"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": null
+      },
+      {
+        "id": 7,
+        "name": "主岛北部偏东／CBD",
+        "file": "07_main_north_east_center.glb",
+        "file_size_bytes": 155168528,
+        "sha256": "cf72c94d43dd0aeff3b3c4985e971490bc3f78a0efb3c8cd80c7f529aaf73257",
+        "base_sha256": "ef4c0fc2c54ce7c523e74370ca9154df54ec28e6127082082bfbabc04bd75cbb",
+        "mesh_objects": 184,
+        "triangles": 1020613,
+        "bounds_blender": [
+          [
+            -6.1232099533081055,
+            613.4749755859375,
+            -4.0
+          ],
+          [
+            509.2505798339844,
+            1210.57177734375,
+            122.33853912353516
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -6.1232099533081055,
+            -4.0,
+            -1210.57177734375
+          ],
+          [
+            509.2505798339844,
+            122.33853912353516,
+            -613.4749755859375
+          ]
+        ],
+        "source_building_instances": [
+          "APT_V14_A32",
+          "APT_V14_A35",
+          "CBD_Imported_22",
+          "CBD_Imported_25",
+          "CBD_Imported_26A",
+          "CBD_Imported_26B",
+          "CBD_Imported_26C",
+          "CBD_Imported_Office27",
+          "CBD_Imported_Office28",
+          "CBD_Imported_Office29",
+          "CBD_Modern_Glass_02",
+          "CBD_V14_G41",
+          "CBD_V14_G42",
+          "CBD_V14_G44",
+          "CBD_V14_G45",
+          "CBD_V14_O34",
+          "CBD_V14_O37",
+          "CBD_V14_O39",
+          "CBD_V14_O43",
+          "CBD_V14_U31",
+          "GOV_V16_OFFICE_51"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": null
+      },
+      {
+        "id": 8,
+        "name": "主岛东北",
+        "file": "08_main_ne.glb",
+        "file_size_bytes": 46277972,
+        "sha256": "c4087acf20924cb9077737ecd2a0902b0e3d91c06354c74c13e7a59da554aee8",
+        "base_sha256": "1917300f1107ca37f34ed5c75cf93384dc633aa3334b8aa7c91ed6e2678667a6",
+        "mesh_objects": 83,
+        "triangles": 163691,
+        "bounds_blender": [
+          [
+            479.02716064453125,
+            613.12451171875,
+            -4.0
+          ],
+          [
+            1036.4569091796875,
+            1142.87548828125,
+            44.45011901855469
+          ]
+        ],
+        "bounds_glb": [
+          [
+            479.02716064453125,
+            -4.0,
+            -1142.87548828125
+          ],
+          [
+            1036.4569091796875,
+            44.45011901855469,
+            -613.12451171875
+          ]
+        ],
+        "source_building_instances": [
+          "GOV_V14_G33",
+          "GOV_V16_DORM_52",
+          "NEWTOWN_V18_MALL_64",
+          "NEWTOWN_V18_POLICE_HQ_65"
+        ],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "reused_from": null
+      },
+      {
+        "id": 9,
+        "name": "西岛西南",
+        "file": "09_west_sw.glb",
+        "file_size_bytes": 23662328,
+        "mesh_objects": 90,
+        "triangles": 32000,
+        "bounds_blender": [
+          [
+            -1408.26025390625,
+            -1169.1539306640625,
+            -4.0
+          ],
+          [
+            -947.5250244140625,
+            -717.7412719726562,
+            26.944561004638672
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -1408.26025390625,
+            -4.0,
+            717.7412719726562
+          ],
+          [
+            -947.5250244140625,
+            26.944561004638672,
+            1169.1539306640625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "5b41470e4876d25a11df73e4869625564f436c2a04fa257680aa08122a48cbd7",
+        "reused_from": null
+      },
+      {
+        "id": 10,
+        "name": "西岛东南",
+        "file": "10_west_se.glb",
+        "file_size_bytes": 23371520,
+        "mesh_objects": 43,
+        "triangles": 30416,
+        "bounds_blender": [
+          [
+            -961.5900268554688,
+            -1169.473388671875,
+            -4.0
+          ],
+          [
+            -454.9646911621094,
+            -711.842041015625,
+            28.861783981323242
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -961.5900268554688,
+            -4.0,
+            711.842041015625
+          ],
+          [
+            -454.9646911621094,
+            28.861783981323242,
+            1169.473388671875
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "711424fd145602b6a2777458b50929a4082d769eb5d0f220cec7a45c555a9ed0",
+        "reused_from": null
+      },
+      {
+        "id": 11,
+        "name": "西岛西北",
+        "file": "11_west_nw.glb",
+        "file_size_bytes": 23438724,
+        "mesh_objects": 46,
+        "triangles": 31090,
+        "bounds_blender": [
+          [
+            -1412.8333740234375,
+            -728.5900268554688,
+            -4.0
+          ],
+          [
+            -947.13037109375,
+            -279.2508850097656,
+            31.123004913330078
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -1412.8333740234375,
+            -4.0,
+            279.2508850097656
+          ],
+          [
+            -947.13037109375,
+            31.123004913330078,
+            728.5900268554688
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "e82fc8cce41e74cc79e52d62ecfa5f826520f41e85235b7ced9cc752716cad67",
+        "reused_from": null
+      },
+      {
+        "id": 12,
+        "name": "西岛东北／湖区",
+        "file": "12_west_ne.glb",
+        "file_size_bytes": 23356996,
+        "mesh_objects": 35,
+        "triangles": 30460,
+        "bounds_blender": [
+          [
+            -961.5900268554688,
+            -728.5,
+            -4.0
+          ],
+          [
+            -454.9211120605469,
+            -284.6963806152344,
+            28.741718292236328
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -961.5900268554688,
+            -4.0,
+            284.6963806152344
+          ],
+          [
+            -454.9211120605469,
+            28.741718292236328,
+            728.5
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "97a8a8a71d1a52a5ee72c7c11ee5178f2ad1901fe226037af65b0af0b0dd671b",
+        "reused_from": null
+      },
+      {
+        "id": 13,
+        "name": "东岛西南",
+        "file": "13_east_sw.glb",
+        "file_size_bytes": 22670212,
+        "mesh_objects": 31,
+        "triangles": 22955,
+        "bounds_blender": [
+          [
+            239.73455810546875,
+            -1181.8336181640625,
+            -4.0
+          ],
+          [
+            756.0,
+            -794.5250244140625,
+            31.101587295532227
+          ]
+        ],
+        "bounds_glb": [
+          [
+            239.73455810546875,
+            -4.0,
+            794.5250244140625
+          ],
+          [
+            756.0,
+            31.101587295532227,
+            1181.8336181640625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "9881628d845d6a7dcd792c8f7c9ad73a5fda0daeea19c080bf8d8ae0c11481be",
+        "reused_from": null
+      },
+      {
+        "id": 14,
+        "name": "东岛东南",
+        "file": "14_east_se.glb",
+        "file_size_bytes": 22771944,
+        "mesh_objects": 29,
+        "triangles": 23943,
+        "bounds_blender": [
+          [
+            739.5,
+            -1181.8336181640625,
+            -4.0
+          ],
+          [
+            1201.906982421875,
+            -794.5250244140625,
+            29.762052536010742
+          ]
+        ],
+        "bounds_glb": [
+          [
+            739.5,
+            -4.0,
+            794.5250244140625
+          ],
+          [
+            1201.906982421875,
+            29.762052536010742,
+            1181.8336181640625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "fa59c100e0aad62224bc780981237b36a9ec0d708afa2f0078ee0dde5de014f7",
+        "reused_from": null
+      },
+      {
+        "id": 15,
+        "name": "东岛西北",
+        "file": "15_east_nw.glb",
+        "file_size_bytes": 23569716,
+        "mesh_objects": 50,
+        "triangles": 32635,
+        "bounds_blender": [
+          [
+            205.06541442871094,
+            -808.5250244140625,
+            -4.0
+          ],
+          [
+            754.4749755859375,
+            -342.75799560546875,
+            32.11262512207031
+          ]
+        ],
+        "bounds_glb": [
+          [
+            205.06541442871094,
+            -4.0,
+            342.75799560546875
+          ],
+          [
+            754.4749755859375,
+            32.11262512207031,
+            808.5250244140625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "f02afa28cc5c6f0eedb030bf49916cf5db79d68cd65adabdd27a2c121f6adf4c",
+        "reused_from": null
+      },
+      {
+        "id": 16,
+        "name": "东岛东北／港区",
+        "file": "16_east_ne.glb",
+        "file_size_bytes": 22650076,
+        "mesh_objects": 36,
+        "triangles": 22612,
+        "bounds_blender": [
+          [
+            739.4099731445312,
+            -808.5250244140625,
+            -4.0
+          ],
+          [
+            1201.48876953125,
+            -373.1330261230469,
+            31.895448684692383
+          ]
+        ],
+        "bounds_glb": [
+          [
+            739.4099731445312,
+            -4.0,
+            373.1330261230469
+          ],
+          [
+            1201.48876953125,
+            31.895448684692383,
+            808.5250244140625
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": false,
+        "sha256": "8012094ba11e218bd874a108874e2a859f4b2e991647cbda1e7ef7d392a94624",
+        "reused_from": null
+      },
+      {
+        "id": 17,
+        "name": "公共桥梁及引道",
+        "file": "17_shared_bridges.glb",
+        "file_size_bytes": 23851620,
+        "mesh_objects": 130,
+        "triangles": 50526,
+        "bounds_blender": [
+          [
+            -1010.0763549804688,
+            -859.898193359375,
+            -4.0
+          ],
+          [
+            648.399169921875,
+            132.81790161132812,
+            11.050000190734863
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -1010.0763549804688,
+            -4.0,
+            -132.81790161132812
+          ],
+          [
+            648.399169921875,
+            11.050000190734863,
+            859.898193359375
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": true,
+        "reused_from": "v14",
+        "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54"
+      },
+      {
+        "id": 18,
+        "name": "公共海面与湖水",
+        "file": "18_shared_water.glb",
+        "file_size_bytes": 18052,
+        "mesh_objects": 2,
+        "triangles": 201,
+        "bounds_blender": [
+          [
+            -2700.0,
+            -2400.0,
+            -0.07999999821186066
+          ],
+          [
+            2700.0,
+            2400.0,
+            9.960000038146973
+          ]
+        ],
+        "bounds_glb": [
+          [
+            -2700.0,
+            -0.07999999821186066,
+            -2400.0
+          ],
+          [
+            2700.0,
+            9.960000038146973,
+            2400.0
+          ]
+        ],
+        "source_building_instances": [],
+        "root_translation": [
+          0,
+          0,
+          0
+        ],
+        "common": true,
+        "reused_from": "v14",
+        "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde"
+      }
+    ]
+  },
+  "city_building_units": 543,
+  "oldtown_street_buildings": 120,
+  "oldtown_rear_buildings": 80,
+  "new_source_types": 10,
+  "new_source_instances": 10,
+  "maximum_instances_per_arcade_type": 3,
+  "new_town": {
+    "name_zh": "东部新城区",
+    "island": "MAIN",
+    "polygon": [
+      [
+        600.0,
+        940.0
+      ],
+      [
+        730.0,
+        940.0
+      ],
+      [
+        830.0,
+        840.0
+      ],
+      [
+        940.0,
+        650.0
+      ],
+      [
+        940.0,
+        420.0
+      ],
+      [
+        600.0,
+        420.0
+      ],
+      [
+        600.0,
+        940.0
+      ]
+    ],
+    "area_m2": 150350.0,
+    "boundary_basis": "East-side main-island neighborhoods north of MAIN_EW_410, organized along MAIN_NS_620 and MAIN_NS_830, inside the coastal road belt.",
+    "existing_residential_lots": [
+      "MAIN_RESIDENTIAL_0086",
+      "MAIN_RESIDENTIAL_0101",
+      "MAIN_RESIDENTIAL_0087",
+      "MAIN_RESIDENTIAL_0102",
+      "MAIN_RESIDENTIAL_0088",
+      "MAIN_RESIDENTIAL_0103",
+      "MAIN_RESIDENTIAL_0089",
+      "MAIN_RESIDENTIAL_0104",
+      "MAIN_RESIDENTIAL_0090",
+      "MAIN_RESIDENTIAL_0105",
+      "MAIN_RESIDENTIAL_0091",
+      "MAIN_RESIDENTIAL_0106",
+      "MAIN_RESIDENTIAL_0092",
+      "MAIN_RESIDENTIAL_0107",
+      "MAIN_RESIDENTIAL_0093",
+      "MAIN_RESIDENTIAL_0108",
+      "MAIN_RESIDENTIAL_0094",
+      "MAIN_RESIDENTIAL_0109",
+      "MAIN_RESIDENTIAL_0095",
+      "MAIN_RESIDENTIAL_0110",
+      "MAIN_RESIDENTIAL_0096",
+      "MAIN_RESIDENTIAL_0097"
+    ],
+    "existing_residential_units": 22,
+    "new_source_buildings": [
+      "NEWTOWN_V18_MALL_64",
+      "NEWTOWN_V18_POLICE_HQ_65"
+    ],
+    "new_source_building_units": 2,
+    "building_units": 24,
+    "land_use_parcels": [
+      {
+        "name": "Commercial_Center",
+        "role": "commercial",
+        "status": "initial_assets_placed",
+        "polygon": [
+          [
+            635.0,
+            882.0
+          ],
+          [
+            725.0,
+            882.0
+          ],
+          [
+            725.0,
+            810.0
+          ],
+          [
+            680.0851216706039,
+            810.0
+          ],
+          [
+            679.4771567444083,
+            810.1255042172081
+          ],
+          [
+            679.3031620232263,
+            810.1574283827659
+          ],
+          [
+            676.0828997956979,
+            810.6749496596024
+          ],
+          [
+            675.888388374198,
+            810.7013310303921
+          ],
+          [
+            672.6209342103853,
+            811.0630918432879
+          ],
+          [
+            672.4033124191457,
+            811.0811888815007
+          ],
+          [
+            669.0918427252858,
+            811.2657201152126
+          ],
+          [
+            668.8487114455967,
+            811.2718632846193
+          ],
+          [
+            665.4996226583869,
+            811.2546344583786
+          ],
+          [
+            665.229165797426,
+            811.2440857435661
+          ],
+          [
+            661.8534318973307,
+            810.9978197713501
+          ],
+          [
+            661.5549819405969,
+            810.9647465720412
+          ],
+          [
+            658.1697356951859,
+            810.460352217236
+          ],
+          [
+            657.8445041696729,
+            810.3980347287994
+          ],
+          [
+            656.1500423890252,
+            810.0
+          ],
+          [
+            635.0,
+            810.0
+          ],
+          [
+            635.0,
+            882.0
+          ]
+        ],
+        "holes": [],
+        "area_m2": 6459.618394576984
+      },
+      {
+        "name": "Public_Service",
+        "role": "civic",
+        "status": "initial_assets_placed",
+        "polygon": [
+          [
+            635.0,
+            884.0
+          ],
+          [
+            635.0,
+            935.985
+          ],
+          [
+            719.4566955628266,
+            935.985
+          ],
+          [
+            720.9532570638409,
+            934.9752796077701
+          ],
+          [
+            723.4524249232479,
+            933.2785506113897
+          ],
+          [
+            725.9486641259767,
+            931.5732718785662
+          ],
+          [
+            728.0,
+            930.1642222660817
+          ],
+          [
+            728.0,
+            884.0
+          ],
+          [
+            635.0,
+            884.0
+          ]
+        ],
+        "holes": [],
+        "area_m2": 4809.826289581517
+      },
+      {
+        "name": "Existing_Residential_1",
+        "role": "residential",
+        "status": "existing_placeholder_massing",
+        "polygon": [
+          [
+            600.0,
+            498.1455985306614
+          ],
+          [
+            602.3433469752672,
+            500.2839418591766
+          ],
+          [
+            602.5974566076048,
+            500.5376395206878
+          ],
+          [
+            604.9148500503976,
+            503.0689412009223
+          ],
+          [
+            605.1004250689618,
+            503.2868074673581
+          ],
+          [
+            605.985,
+            504.40391556049593
+          ],
+          [
+            605.985,
+            421.515
+          ],
+          [
+            600.0,
+            421.515
+          ],
+          [
+            600.0,
+            498.1455985306614
+          ]
+        ],
+        "holes": [],
+        "area_m2": 476.16722272469406
+      },
+      {
+        "name": "Existing_Residential_2",
+        "role": "residential",
+        "status": "existing_placeholder_massing",
+        "polygon": [
+          [
+            600.0,
+            620.0
+          ],
+          [
+            605.985,
+            620.0
+          ],
+          [
+            605.985,
+            547.563559843362
+          ],
+          [
+            605.8445157248808,
+            547.075556729707
+          ],
+          [
+            605.0040992629786,
+            544.2766895860354
+          ],
+          [
+            604.1336526226886,
+            541.4997897384076
+          ],
+          [
+            603.2303150126922,
+            538.7542506183651
+          ],
+          [
+            602.2893931037189,
+            536.0452935671306
+          ],
+          [
+            601.3058756733293,
+            533.3792080095287
+          ],
+          [
+            600.2744599495976,
+            530.7635656032145
+          ],
+          [
+            600.0,
+            530.1168795342145
+          ],
+          [
+            600.0,
+            620.0
+          ]
+        ],
+        "holes": [],
+        "area_m2": 488.82128647428124
+      },
+      {
+        "name": "Existing_Residential_3",
+        "role": "residential",
+        "status": "existing_placeholder_massing",
+        "polygon": [
+          [
+            819.485,
+            620.0
+          ],
+          [
+            819.485,
+            421.515
+          ],
+          [
+            634.015,
+            421.515
+          ],
+          [
+            634.015,
+            620.0
+          ],
+          [
+            819.485,
+            620.0
+          ]
+        ],
+        "holes": [],
+        "area_m2": 36813.01295000001
+      },
+      {
+        "name": "Existing_Residential_4",
+        "role": "residential",
+        "status": "existing_placeholder_massing",
+        "polygon": [
+          [
+            940.0,
+            620.0
+          ],
+          [
+            940.0,
+            454.3911480696971
+          ],
+          [
+            939.8296290554399,
+            453.7075688742261
+          ],
+          [
+            939.106158181277,
+            450.8831121607224
+          ],
+          [
+            938.3643628945476,
+            448.0635842202666
+          ],
+          [
+            937.6042441128063,
+            445.2491202116374
+          ],
+          [
+            936.8258018792392,
+            442.4398562933428
+          ],
+          [
+            936.0304936153691,
+            439.64106138448886
+          ],
+          [
+            935.2150907993712,
+            436.84946198719837
+          ],
+          [
+            934.3794188573729,
+            434.0585051718088
+          ],
+          [
+            933.5251008820786,
+            431.27222153273703
+          ],
+          [
+            932.6524682636398,
+            428.4918709595458
+          ],
+          [
+            931.7615167912837,
+            425.7175962282258
+          ],
+          [
+            930.852241544232,
+            422.9495414187511
+          ],
+          [
+            930.3704034250123,
+            421.515
+          ],
+          [
+            840.515,
+            421.515
+          ],
+          [
+            840.515,
+            620.0
+          ],
+          [
+            940.0,
+            620.0
+          ]
+        ],
+        "holes": [],
+        "area_m2": 19595.701597450876
+      },
+      {
+        "name": "Future_Mixed_Use_1",
+        "role": "mixed_use",
+        "status": "reserved_unbuilt",
+        "polygon": [
+          [
+            787.954205967803,
+            717.1346669030357
+          ],
+          [
+            786.6440161832605,
+            719.9531120605321
+          ],
+          [
+            786.6161302605076,
+            720.0118459868145
+          ],
+          [
+            785.2590985503133,
+            722.8111074120322
+          ],
+          [
+            785.2292948582362,
+            722.8712934357349
+          ],
+          [
+            783.8242855040419,
+            725.6496901905269
+          ],
+          [
+            783.7925413881236,
+            725.7111389274182
+          ],
+          [
+            782.3385785565488,
+            728.4669580112677
+          ],
+          [
+            782.3048854410952,
+            728.5294685863178
+          ],
+          [
+            780.8011637642381,
+            731.2609772373248
+          ],
+          [
+            780.7655286102507,
+            731.3243387229112
+          ],
+          [
+            779.2114224199391,
+            734.029798274766
+          ],
+          [
+            779.1738689627934,
+            734.0937914678238
+          ],
+          [
+            777.5689398369603,
+            736.771472582073
+          ],
+          [
+            777.5295095424857,
+            736.835872097656
+          ],
+          [
+            775.8735118419052,
+            739.4840711240652
+          ],
+          [
+            775.8322645240289,
+            739.5486477674382
+          ],
+          [
+            774.1251486333887,
+            742.1657039226554
+          ],
+          [
+            774.0821626848341,
+            742.2302272870145
+          ],
+          [
+            772.3240757250421,
+            744.8145402848824
+          ],
+          [
+            772.2794479245462,
+            744.8787815081668
+          ],
+          [
+            770.4707317710455,
+            747.4288292298854
+          ],
+          [
+            770.4245766458179,
+            747.4925638329491
+          ],
+          [
+            768.5657631688497,
+            750.0069195944914
+          ],
+          [
+            768.5182119087608,
+            750.0699303151782
+          ],
+          [
+            766.6085970549341,
+            752.549120722127
+          ],
+          [
+            766.557474714027,
+            752.614091148227
+          ],
+          [
+            764.5957027514028,
+            755.0549383566522
+          ],
+          [
+            764.5434946672724,
+            755.1185448076855
+          ],
+          [
+            762.533261387703,
+            757.5169273790517
+          ],
+          [
+            762.4816532523414,
+            757.5772734395431
+          ],
+          [
+            760.4256704112283,
+            759.9336039664553
+          ],
+          [
+            760.3732675157042,
+            759.9924809435137
+          ],
+          [
+            758.2718662787325,
+            762.3071692811725
+          ],
+          [
+            758.2188591147069,
+            762.3644244086262
+          ],
+          [
+            756.073503660312,
+            764.6368420051115
+          ],
+          [
+            756.0200867664627,
+            764.6923421640598
+          ],
+          [
+            753.832398822701,
+            766.9219775611289
+          ],
+          [
+            753.7788625754592,
+            766.9755171747886
+          ],
+          [
+            751.5508064776653,
+            769.161930523044
+          ],
+          [
+            751.4976560658919,
+            769.2131336458152
+          ],
+          [
+            749.2315709317343,
+            771.3562422434982
+          ],
+          [
+            749.1792488538456,
+            771.4048474420009
+          ],
+          [
+            746.8750841267415,
+            773.5073222658115
+          ],
+          [
+            746.8199034351713,
+            773.55674427151
+          ],
+          [
+            744.4743977686819,
+            775.6186514392772
+          ],
+          [
+            744.4158822248178,
+            775.6690983517198
+          ],
+          [
+            742.0345820716143,
+            777.6822839277904
+          ],
+          [
+            741.983340524086,
+            777.724877528635
+          ],
+          [
+            739.5744703291762,
+            779.6935124100562
+          ],
+          [
+            739.5231973745622,
+            779.7347164559185
+          ],
+          [
+            737.0829714441161,
+            781.6629284909791
+          ],
+          [
+            737.0314162909663,
+            781.7029871253683
+          ],
+          [
+            734.5603524911072,
+            783.590877936582
+          ],
+          [
+            734.5082625569115,
+            783.6300069290908
+          ],
+          [
+            732.0062471146069,
+            785.4777942816077
+          ],
+          [
+            731.9526217040792,
+            785.5167154361473
+          ],
+          [
+            729.4120051478402,
+            787.3287497578358
+          ],
+          [
+            729.3453138492218,
+            787.3753001503069
+          ],
+          [
+            726.7678763156323,
+            789.1356497269296
+          ],
+          [
+            726.7120283482474,
+            789.1731084876782
+          ],
+          [
+            724.1121137872633,
+            790.8854325421672
+          ],
+          [
+            724.0545044959971,
+            790.9226701808184
+          ],
+          [
+            721.4240225599344,
+            792.5911638006853
+          ],
+          [
+            721.3643001348147,
+            792.6283130026823
+          ],
+          [
+            718.7028123105025,
+            794.2515636430226
+          ],
+          [
+            718.6405832909714,
+            794.2887479113583
+          ],
+          [
+            715.9474951175753,
+            795.8650333998855
+          ],
+          [
+            715.8823140710156,
+            795.9023671465326
+          ],
+          [
+            713.1514684221959,
+            797.432641040863
+          ],
+          [
+            713.0741161129707,
+            797.4748737545568
+          ],
+          [
+            710.3031208799946,
+            798.9483869159925
+          ],
+          [
+            710.2250956397775,
+            798.9887849182513
+          ],
+          [
+            707.4233712502022,
+            800.4005917442997
+          ],
+          [
+            707.345677458068,
+            800.4386940075177
+          ],
+          [
+            704.5120318938492,
+            801.79053446418
+          ],
+          [
+            704.4288871973826,
+            801.8290373588223
+          ],
+          [
+            701.5587794099674,
+            803.118421695949
+          ],
+          [
+            701.4693029125028,
+            803.157314263827
+          ],
+          [
+            700.0,
+            803.7747796099386
+          ],
+          [
+            700.0,
+            817.1060038734668
+          ],
+          [
+            700.023111684958,
+            817.1060038734668
+          ],
+          [
+            700.023111684958,
+            872.8939961265332
+          ],
+          [
+            700.0,
+            872.8939961265332
+          ],
+          [
+            700.0,
+            880.0
+          ],
+          [
+            790.0,
+            880.0
+          ],
+          [
+            815.0,
+            855.0
+          ],
+          [
+            815.0,
+            715.0
+          ],
+          [
+            788.9066407099558,
+            715.0
+          ],
+          [
+            787.9802092389381,
+            717.0775618761589
+          ],
+          [
+            787.954205967803,
+            717.1346669030357
+          ]
+        ],
+        "holes": [],
+        "area_m2": 13706.733846285742
+      },
+      {
+        "name": "Future_Mixed_Use_2",
+        "role": "mixed_use",
+        "status": "reserved_unbuilt",
+        "polygon": [
+          [
+            701.9739405039056,
+            782.9568453747321
+          ],
+          [
+            704.4724045433062,
+            781.628254260024
+          ],
+          [
+            706.9534835049856,
+            780.2379412020629
+          ],
+          [
+            709.4231501250771,
+            778.7924260892618
+          ],
+          [
+            711.8707837410925,
+            777.2996058711035
+          ],
+          [
+            714.2955079991972,
+            775.7616226980884
+          ],
+          [
+            716.696454650211,
+            774.1803404645216
+          ],
+          [
+            719.0587111760406,
+            772.5669561551347
+          ],
+          [
+            721.3885869265782,
+            770.9052276999388
+          ],
+          [
+            723.7052106017308,
+            769.1943557943902
+          ],
+          [
+            725.9944923274423,
+            767.4453463457077
+          ],
+          [
+            728.2543626542678,
+            765.659647280923
+          ],
+          [
+            730.4834200184239,
+            763.8379633690877
+          ],
+          [
+            732.672001423765,
+            761.9877050086027
+          ],
+          [
+            734.8181641532345,
+            760.1010379336468
+          ],
+          [
+            736.9338375365447,
+            758.1705552856434
+          ],
+          [
+            739.0148828197969,
+            756.2024447449229
+          ],
+          [
+            741.0557769408082,
+            754.1996952840933
+          ],
+          [
+            743.0558472573077,
+            752.16127495682
+          ],
+          [
+            745.014519393495,
+            750.086597299605
+          ],
+          [
+            746.9310197369014,
+            747.9755768452749
+          ],
+          [
+            748.8045601136939,
+            745.8283408397211
+          ],
+          [
+            750.6326287141459,
+            743.6472965225537
+          ],
+          [
+            752.413154881142,
+            741.4319563061367
+          ],
+          [
+            754.1498079874326,
+            739.1773164698967
+          ],
+          [
+            755.8442748279414,
+            736.8852669899646
+          ],
+          [
+            757.4937783117272,
+            734.55968782562
+          ],
+          [
+            759.0982175866413,
+            732.2012303845041
+          ],
+          [
+            760.6576212995818,
+            729.810621107304
+          ],
+          [
+            762.1721493381389,
+            727.3886541711364
+          ],
+          [
+            763.6420933658233,
+            724.9361836547885
+          ],
+          [
+            765.0678761907599,
+            722.4541153208206
+          ],
+          [
+            766.4500500305446,
+            719.9433981723797
+          ],
+          [
+            767.7892937560824,
+            717.4050159409954
+          ],
+          [
+            769.0054879113112,
+            715.0
+          ],
+          [
+            700.0,
+            715.0
+          ],
+          [
+            700.0,
+            783.95152661033
+          ],
+          [
+            701.9739405039056,
+            782.9568453747321
+          ]
+        ],
+        "holes": [],
+        "area_m2": 2899.092407570625
+      },
+      {
+        "name": "Interchange_Green_Buffer_1",
+        "role": "green_buffer",
+        "status": "reserved_unbuilt",
+        "polygon": [
+          [
+            819.485,
+            625.0
+          ],
+          [
+            670.0,
+            625.0
+          ],
+          [
+            670.0,
+            635.985
+          ],
+          [
+            819.485,
+            635.985
+          ],
+          [
+            819.485,
+            625.0
+          ]
+        ],
+        "holes": [],
+        "area_m2": 1642.0927250000022
+      },
+      {
+        "name": "Interchange_Green_Buffer_2",
+        "role": "green_buffer",
+        "status": "reserved_unbuilt",
+        "polygon": [
+          [
+            778.0794372623835,
+            693.4838817578994
+          ],
+          [
+            779.0511299563973,
+            690.7250424219573
+          ],
+          [
+            779.9942529387422,
+            687.9495340905827
+          ],
+          [
+            780.910577036078,
+            685.1582325138563
+          ],
+          [
+            781.8019241700715,
+            682.351980157866
+          ],
+          [
+            782.6701622438832,
+            679.5315857621761
+          ],
+          [
+            783.5172004647026,
+            676.6978245208708
+          ],
+          [
+            784.3449851176682,
+            673.8514388430993
+          ],
+          [
+            785.1554957938665,
+            670.9931396501515
+          ],
+          [
+            785.950742064342,
+            668.1236081661275
+          ],
+          [
+            786.7327605824639,
+            665.2434981598957
+          ],
+          [
+            787.0604321236367,
+            664.015
+          ],
+          [
+            670.0,
+            664.015
+          ],
+          [
+            670.0,
+            695.0
+          ],
+          [
+            777.5252710438833,
+            695.0
+          ],
+          [
+            778.0794372623835,
+            693.4838817578994
+          ]
+        ],
+        "holes": [],
+        "area_m2": 3487.3165309800324
+      },
+      {
+        "name": "Interchange_Green_Buffer_3",
+        "role": "green_buffer",
+        "status": "reserved_unbuilt",
+        "polygon": [
+          [
+            805.7089751090181,
+            664.015
+          ],
+          [
+            805.7088810756702,
+            664.0153600915011
+          ],
+          [
+            804.935137603752,
+            666.9603378291861
+          ],
+          [
+            804.9313187396888,
+            666.9747634287802
+          ],
+          [
+            804.1456329474269,
+            669.9204374613655
+          ],
+          [
+            804.140981729134,
+            669.9377203251489
+          ],
+          [
+            803.341146660387,
+            672.8834472247686
+          ],
+          [
+            803.3356249129805,
+            672.9035755527758
+          ],
+          [
+            802.5194350524513,
+            675.8486789612203
+          ],
+          [
+            802.5129987122599,
+            675.8716374737777
+          ],
+          [
+            801.6782529011331,
+            678.8154028655571
+          ],
+          [
+            801.6708522695061,
+            678.841172133208
+          ],
+          [
+            800.815357206364,
+            681.7828416681631
+          ],
+          [
+            800.8069372712943,
+            681.8113973624493
+          ],
+          [
+            799.9285116720602,
+            684.7501648882779
+          ],
+          [
+            799.9190125091452,
+            684.7814769617165
+          ],
+          [
+            799.0154919941248,
+            687.7164832391624
+          ],
+          [
+            799.0048492588846,
+            687.7505150453335
+          ],
+          [
+            798.0740920274679,
+            690.6808432798737
+          ],
+          [
+            798.0622375510742,
+            690.7175506474877
+          ],
+          [
+            797.1021308936015,
+            693.6422224253236
+          ],
+          [
+            797.0889933935141,
+            693.6815527035008
+          ],
+          [
+            796.6409825076224,
+            695.0
+          ],
+          [
+            819.485,
+            695.0
+          ],
+          [
+            819.485,
+            664.015
+          ],
+          [
+            805.7089751090181,
+            664.015
+          ]
+        ],
+        "holes": [],
+        "area_m2": 561.0853563721697
+      },
+      {
+        "name": "Interchange_Green_Buffer_4",
+        "role": "green_buffer",
+        "status": "reserved_unbuilt",
+        "polygon": [
+          [
+            840.515,
+            664.015
+          ],
+          [
+            840.515,
+            695.0
+          ],
+          [
+            900.0,
+            695.0
+          ],
+          [
+            900.0,
+            664.015
+          ],
+          [
+            840.515,
+            664.015
+          ]
+        ],
+        "holes": [],
+        "area_m2": 1843.1427250000013
+      },
+      {
+        "name": "Interchange_Green_Buffer_5",
+        "role": "green_buffer",
+        "status": "reserved_unbuilt",
+        "polygon": [
+          [
+            868.5,
+            634.5
+          ],
+          [
+            868.4855541800166,
+            634.7940514209887
+          ],
+          [
+            868.4423558412097,
+            635.0852709660484
+          ],
+          [
+            868.3708210071966,
+            635.3708540317634
+          ],
+          [
+            868.2716385975339,
+            635.6480502970953
+          ],
+          [
+            868.145763793045,
+            635.914190210478
+          ],
+          [
+            868.1033220385267,
+            635.985
+          ],
+          [
+            876.8966779614733,
+            635.985
+          ],
+          [
+            876.854236206955,
+            635.914190210478
+          ],
+          [
+            876.7283614024661,
+            635.6480502970953
+          ],
+          [
+            876.6291789928034,
+            635.3708540317634
+          ],
+          [
+            876.5576441587903,
+            635.0852709660484
+          ],
+          [
+            876.5144458199834,
+            634.7940514209887
+          ],
+          [
+            876.5,
+            634.5
+          ],
+          [
+            876.5,
+            625.0
+          ],
+          [
+            868.5,
+            625.0
+          ],
+          [
+            868.5,
+            634.5
+          ]
+        ],
+        "holes": [],
+        "area_m2": 88.26592876689188
+      }
+    ],
+    "future_parcels_are_unbuilt": true
+  }
+}

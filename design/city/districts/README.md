@@ -1,3 +1,5 @@
+> 最新增量为 **v18**：十栋正式模型落位，八栋替换老城占位；商场和警察总部进入约 0.150 km² 的东部新城区。老城沿街仍为120栋，全城543栋。仅替换03/08，其余16区块沿用；详见 `delivery/city_updates/v18_20261030/README.md`，来源见 `design/city/districts/current_sources_v18.json`。
+
 > 最新增量为 **v17**：56/57 加入骑楼池，10 型各最多 3 栋；替换 22 栋，老城沿街收紧至 120 栋；12 栋公寓迁入用户圈定内陆地块。仅替换 02/03/04/06/07，其余 13 区块沿用；详见 `delivery/city_updates/v17_20261029/README.md`，来源清单见 `design/city/districts/current_sources_v17.json`。
 
 > 最新增量为 **v16**：12 栋公寓按黄/粉/灰三组布置，剩余高楼改归 CBD；市政区加入办公楼和宿舍并收紧，修复平台黑边。仅替换 06/07/08；详见 `delivery/city_updates/v16_20261029/README.md`，来源清单见 `design/city/districts/current_sources_v16.json`。

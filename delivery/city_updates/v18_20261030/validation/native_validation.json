@@ -1,0 +1,326 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "checks": [
+    {
+      "check": "global_and_zone_counts",
+      "passed": true,
+      "detail": {
+        "OLDTOWN": 200,
+        "RESIDENTIAL": 110,
+        "UNIVERSITY": 20,
+        "VILLAGE": 91,
+        "VILLA": 9,
+        "INDUSTRIAL": 60,
+        "GOVERNMENT": 7,
+        "CBD": 32,
+        "APARTMENT": 12,
+        "NEW_TOWN": 2
+      }
+    },
+    {
+      "check": "oldtown_street_cap_includes_all_source_buildings",
+      "passed": true,
+      "detail": {
+        "actual": 120,
+        "limit": 120,
+        "rear": 80
+      }
+    },
+    {
+      "check": "arcade_pool_cap_and_all_types_used",
+      "passed": true,
+      "detail": {
+        "05": 3,
+        "06": 3,
+        "07": 3,
+        "08": 3,
+        "09": 3,
+        "10": 3,
+        "12": 3,
+        "13": 3,
+        "57": 3,
+        "56": 3,
+        "58": 1,
+        "63": 1,
+        "62": 1,
+        "60": 1,
+        "61": 1,
+        "H57": 1,
+        "59": 1,
+        "66": 1
+      }
+    },
+    {
+      "check": "oldtown_street_envelope_does_not_expand",
+      "passed": true,
+      "detail": {
+        "before_m2": 225707.2166192102,
+        "after_m2": 225707.2166192102
+      }
+    },
+    {
+      "check": "unchanged_coasts",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_lake",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_nodes",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_edges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_interchanges",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_grade_separated_crossings",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_pedestrian_alleys",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "unchanged_cbd_plan",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "municipal_campus_unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "untouched_original_geometry_uv_and_transforms",
+      "passed": true,
+      "detail": {
+        "checked": 514,
+        "failures": []
+      }
+    },
+    {
+      "check": "changed_buildings_land_roads_reserved_lot_and_neighbors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "changed_buildings_perimeter_ground_continuity",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "source_heights_uvs_and_uniform_nonmirrored_scale",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "check": "all_previous_real_building_records_preserved",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "existing_apartments_unchanged",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "ten_distinct_uploads_used_once",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "newtown_boundary_on_main_island",
+      "passed": true,
+      "detail": {
+        "area_m2": 150350.0
+      }
+    },
+    {
+      "check": "newtown_anchors_inside_boundary",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "newtown_keeps_CBD_and_civic_campus_clear",
+      "passed": true,
+      "detail": null
+    },
+    {
+      "check": "newtown_existing_phase_is_real_existing_massing",
+      "passed": true,
+      "detail": {
+        "units": 22
+      }
+    },
+    {
+      "check": "future_parcels_clear_of_existing_buildings_and_roads",
+      "passed": true,
+      "detail": [
+        {
+          "name": "Future_Mixed_Use_1",
+          "roads_overlap_m2": 0.0,
+          "buildings_overlap_m2": 0.0
+        },
+        {
+          "name": "Future_Mixed_Use_2",
+          "roads_overlap_m2": 0.0,
+          "buildings_overlap_m2": 0.0
+        },
+        {
+          "name": "Interchange_Green_Buffer_1",
+          "roads_overlap_m2": 0.0,
+          "buildings_overlap_m2": 0.0
+        },
+        {
+          "name": "Interchange_Green_Buffer_2",
+          "roads_overlap_m2": 0.0,
+          "buildings_overlap_m2": 0.0
+        },
+        {
+          "name": "Interchange_Green_Buffer_3",
+          "roads_overlap_m2": 0.0,
+          "buildings_overlap_m2": 0.0
+        },
+        {
+          "name": "Interchange_Green_Buffer_4",
+          "roads_overlap_m2": 0.0,
+          "buildings_overlap_m2": 0.0
+        },
+        {
+          "name": "Interchange_Green_Buffer_5",
+          "roads_overlap_m2": 0.0,
+          "buildings_overlap_m2": 0.0
+        }
+      ]
+    },
+    {
+      "check": "newtown_walks_connected_clear_and_graded",
+      "passed": true,
+      "detail": [
+        {
+          "name": "NEWTOWN_V18_MALL_64_Entrance_Walk",
+          "missing_samples": 0,
+          "maximum_grade": 0.12386450356719846,
+          "length_m": 31.953242757807768,
+          "carriage_overlap_m2": 0.0
+        },
+        {
+          "name": "NEWTOWN_V18_POLICE_HQ_65_Entrance_Walk",
+          "missing_samples": 0,
+          "maximum_grade": 0.08640368116059768,
+          "length_m": 34.52197741232703,
+          "carriage_overlap_m2": 0.0
+        }
+      ]
+    },
+    {
+      "check": "no_wide_foundation_rims",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "building_perimeter_levels": [
+    {
+      "name": "OLDTOWN_V18_ARCADE_58",
+      "samples": 59,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.821048680739068e-07,
+      "floor": 12.16539057822303
+    },
+    {
+      "name": "OLDTOWN_V18_ARCADE_63",
+      "samples": 57,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.8210486985026364e-07,
+      "floor": 12.165390578223032
+    },
+    {
+      "name": "OLDTOWN_V18_ARCADE_62",
+      "samples": 49,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.8437703630524993e-07,
+      "floor": 12.17223950068156
+    },
+    {
+      "name": "OLDTOWN_V18_ARCADE_60",
+      "samples": 45,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.8437703630524993e-07,
+      "floor": 12.17223950068156
+    },
+    {
+      "name": "OLDTOWN_V18_ARCADE_61",
+      "samples": 53,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.2888183792701966e-07,
+      "floor": 9.729470405578613
+    },
+    {
+      "name": "OLDTOWN_V18_ARCADE_H57",
+      "samples": 41,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.2888183792701966e-07,
+      "floor": 9.729470405578613
+    },
+    {
+      "name": "OLDTOWN_V18_ARCADE_59",
+      "samples": 35,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 2.2888183792701966e-07,
+      "floor": 9.729470405578613
+    },
+    {
+      "name": "OLDTOWN_V18_ARCADE_66",
+      "samples": 33,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.1122356070056867e-07,
+      "floor": 13.20452029577107
+    },
+    {
+      "name": "NEWTOWN_V18_MALL_64",
+      "samples": 115,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 3.361021292391797e-07,
+      "floor": 14.711373093060136
+    },
+    {
+      "name": "NEWTOWN_V18_POLICE_HQ_65",
+      "samples": 103,
+      "missing": 0,
+      "maximum_perimeter_floor_error_m": 1.7587091960535872e-07,
+      "floor": 9.625791755281426
+    }
+  ],
+  "newtown_walks": [
+    {
+      "name": "NEWTOWN_V18_MALL_64_Entrance_Walk",
+      "missing_samples": 0,
+      "maximum_grade": 0.12386450356719846,
+      "length_m": 31.953242757807768,
+      "carriage_overlap_m2": 0.0
+    },
+    {
+      "name": "NEWTOWN_V18_POLICE_HQ_65_Entrance_Walk",
+      "missing_samples": 0,
+      "maximum_grade": 0.08640368116059768,
+      "length_m": 34.52197741232703,
+      "carriage_overlap_m2": 0.0
+    }
+  ],
+  "changed_buildings_checked": 10,
+  "original_geometry_objects_checked": 514
+}

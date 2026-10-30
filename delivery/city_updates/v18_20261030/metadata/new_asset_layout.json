@@ -1,0 +1,888 @@
+[
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_58",
+    "file": "urban_facade_58.glb",
+    "source_filename": "urban_facade_58.glb",
+    "source_sha256": "cca470cf0cbc2ff26395f109d27e9b6d7dfeb19441a174571e9b407022b3383e",
+    "original_upload_name": "urban building facade 58.glb",
+    "uniform_scale": 30.01306903622693,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.492340087890625,
+        -0.22017669677734375,
+        0.0
+      ],
+      [
+        0.492340087890625,
+        0.22017669677734375,
+        0.44647216796875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 13.4,
+    "floor": 12.16539057822303,
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      169.04666666666668,
+      308.2818215994532
+    ],
+    "anchor": [
+      169.04666666666668,
+      314.89000000000004
+    ],
+    "footprint_xy": [
+      [
+        183.82330371383006,
+        314.89000000000004
+      ],
+      [
+        154.27002961950333,
+        314.89000000000004
+      ],
+      [
+        154.27002961950333,
+        301.6736431989064
+      ],
+      [
+        183.82330371383006,
+        301.6736431989064
+      ]
+    ],
+    "pad_xy": [
+      [
+        183.85830371383005,
+        314.92500000000007
+      ],
+      [
+        183.85830371383005,
+        301.6386431989064
+      ],
+      [
+        154.23502961950334,
+        301.6386431989064
+      ],
+      [
+        154.23502961950334,
+        314.92500000000007
+      ],
+      [
+        183.85830371383005,
+        314.92500000000007
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0189",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_58_Entrance_Walk",
+    "arcade_pool_key": "58",
+    "frontage_group": "74:H1"
+  },
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_63",
+    "file": "urban_building_63.glb",
+    "source_filename": "urban_building_63.glb",
+    "source_sha256": "30ecf753600a53c397bd0c3e1f674c825952cdd503e4be94552b8dd34dd6d588",
+    "original_upload_name": "urban building 63.glb",
+    "uniform_scale": 26.29730336314483,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.48919677734375,
+        -0.2771453857421875,
+        0.0
+      ],
+      [
+        0.48919677734375,
+        0.2771453857421875,
+        0.4487152099609375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 11.8,
+    "floor": 12.165390578223032,
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      169.04666666666665,
+      332.3981762845581
+    ],
+    "anchor": [
+      169.04666666666665,
+      325.10999999999996
+    ],
+    "footprint_xy": [
+      [
+        156.18211060858525,
+        325.10999999999996
+      ],
+      [
+        181.91122272474806,
+        325.10999999999996
+      ],
+      [
+        181.91122272474806,
+        339.68635256911614
+      ],
+      [
+        156.18211060858525,
+        339.68635256911614
+      ]
+    ],
+    "pad_xy": [
+      [
+        156.14711060858525,
+        325.07499999999993
+      ],
+      [
+        156.14711060858525,
+        339.72135256911616
+      ],
+      [
+        181.94622272474805,
+        339.72135256911616
+      ],
+      [
+        181.94622272474805,
+        325.07499999999993
+      ],
+      [
+        156.14711060858525,
+        325.07499999999993
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0171",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_63_Entrance_Walk",
+    "arcade_pool_key": "63",
+    "frontage_group": "71:H-1"
+  },
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_62",
+    "file": "city_building_62.glb",
+    "source_filename": "city_building_62.glb",
+    "source_sha256": "abb0d53ee7f83cf26cd55e029e6eba8a1c4861510e5241f89444df019baedf6d",
+    "original_upload_name": "city building 62.glb",
+    "uniform_scale": 24.060751666612994,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.4897156059741974,
+        -0.22138220071792603,
+        0.0
+      ],
+      [
+        0.4897156059741974,
+        0.22138220071792603,
+        0.4738006591796875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 11.4,
+    "floor": 12.17223950068156,
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      209.79000000000002,
+      309.5633778451177
+    ],
+    "anchor": [
+      209.79,
+      314.89000000000004
+    ],
+    "footprint_xy": [
+      [
+        221.57292558261005,
+        314.89000000000004
+      ],
+      [
+        198.00707441738993,
+        314.89000000000004
+      ],
+      [
+        198.00707441738993,
+        304.23675569023544
+      ],
+      [
+        221.57292558261005,
+        304.23675569023544
+      ]
+    ],
+    "pad_xy": [
+      [
+        221.60792558261005,
+        314.92500000000007
+      ],
+      [
+        221.60792558261005,
+        304.2017556902354
+      ],
+      [
+        197.97207441738993,
+        304.2017556902354
+      ],
+      [
+        197.97207441738993,
+        314.92500000000007
+      ],
+      [
+        221.60792558261005,
+        314.92500000000007
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0148",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_62_Entrance_Walk",
+    "arcade_pool_key": "62",
+    "frontage_group": "68:H1"
+  },
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_60",
+    "file": "three_story_60.glb",
+    "source_filename": "three_story_60.glb",
+    "source_sha256": "5cbda342cbe5c34d7b993bc71e86f99055cf3c883a38befaf2769b42e88f9c54",
+    "original_upload_name": "three-story building60.glb",
+    "uniform_scale": 22.426380463524655,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.490478515625,
+        -0.21440130472183228,
+        0.0
+      ],
+      [
+        0.490478515625,
+        0.21440130472183228,
+        0.4904937744140625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 11.0,
+    "floor": 12.17223950068156,
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      209.79,
+      329.9182452315679
+    ],
+    "anchor": [
+      209.79,
+      325.10999999999996
+    ],
+    "footprint_xy": [
+      [
+        198.7903421994089,
+        325.10999999999996
+      ],
+      [
+        220.78965780059104,
+        325.10999999999996
+      ],
+      [
+        220.78965780059104,
+        334.72649046313575
+      ],
+      [
+        198.7903421994089,
+        334.72649046313575
+      ]
+    ],
+    "pad_xy": [
+      [
+        198.75534219940891,
+        325.07499999999993
+      ],
+      [
+        198.75534219940891,
+        334.7614904631358
+      ],
+      [
+        220.82465780059104,
+        334.7614904631358
+      ],
+      [
+        220.82465780059104,
+        325.07499999999993
+      ],
+      [
+        198.75534219940891,
+        325.07499999999993
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0136",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_60_Entrance_Walk",
+    "arcade_pool_key": "60",
+    "frontage_group": "67:H-1"
+  },
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_61",
+    "file": "historic_storefront_61.glb",
+    "source_filename": "historic_storefront_61.glb",
+    "source_sha256": "67211a00aae4893d1b6b71fbb262a0cdfabd32831946e68664807a242c61399b",
+    "original_upload_name": "historic storefront building 61.glb",
+    "uniform_scale": 21.35267688715135,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.4886016547679901,
+        -0.36383056640625,
+        0.0
+      ],
+      [
+        0.4886016547679901,
+        0.36383056640625,
+        0.5385741591453552
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 11.5,
+    "floor": 9.729470405578613,
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      169.0466666666667,
+      214.62124347385804
+    ],
+    "anchor": [
+      169.04666666666668,
+      222.39
+    ],
+    "footprint_xy": [
+      [
+        179.47961992745505,
+        222.39
+      ],
+      [
+        158.61371340587831,
+        222.39
+      ],
+      [
+        158.61371340587831,
+        206.85248694771616
+      ],
+      [
+        179.47961992745505,
+        206.85248694771616
+      ]
+    ],
+    "pad_xy": [
+      [
+        179.51461992745504,
+        222.42499999999998
+      ],
+      [
+        179.51461992745504,
+        206.81748694771616
+      ],
+      [
+        158.57871340587832,
+        206.81748694771616
+      ],
+      [
+        158.57871340587832,
+        222.42499999999998
+      ],
+      [
+        179.51461992745504,
+        222.42499999999998
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0179",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_61_Entrance_Walk",
+    "arcade_pool_key": "61",
+    "frontage_group": "72:H1"
+  },
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_H57",
+    "file": "historic_facade_57b.glb",
+    "source_filename": "historic_facade_57b.glb",
+    "source_sha256": "1f83e4ebbfb93d118cec9f3e1e7cae5d33a3e8b2c5159615b9e3085e97abea58",
+    "original_upload_name": "historic building facade 3d model57.glb",
+    "uniform_scale": 20.617810014856243,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.489837646484375,
+        -0.20149990916252136,
+        0.0
+      ],
+      [
+        0.489837646484375,
+        0.20149990916252136,
+        0.69842529296875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 14.4,
+    "floor": 9.729470405578613,
+    "theta": 0.0,
+    "angle": 0.0,
+    "center": [
+      169.04666666666665,
+      241.76448684512363
+    ],
+    "anchor": [
+      169.04666666666665,
+      237.61
+    ],
+    "footprint_xy": [
+      [
+        158.9472871333275,
+        237.61
+      ],
+      [
+        179.14604620000583,
+        237.61
+      ],
+      [
+        179.14604620000583,
+        245.91897369024733
+      ],
+      [
+        158.9472871333275,
+        245.91897369024733
+      ]
+    ],
+    "pad_xy": [
+      [
+        158.9122871333275,
+        237.57500000000002
+      ],
+      [
+        158.9122871333275,
+        245.95397369024732
+      ],
+      [
+        179.18104620000582,
+        245.95397369024732
+      ],
+      [
+        179.18104620000582,
+        237.57500000000002
+      ],
+      [
+        158.9122871333275,
+        237.57500000000002
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0187",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_H57_Entrance_Walk",
+    "arcade_pool_key": "H57",
+    "frontage_group": "74:H-1"
+  },
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_59",
+    "file": "historic_building_59.glb",
+    "source_filename": "historic_building_59.glb",
+    "source_sha256": "b95c832434d15b7a715b8bc2b012ca18d8f6ca933abf325ec969216f6fed243b",
+    "original_upload_name": "historic building 59.glb",
+    "uniform_scale": 17.57764471057884,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.38629150390625,
+        -0.287841796875,
+        0.0
+      ],
+      [
+        0.38629150390625,
+        0.287841796875,
+        0.978515625
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 17.2,
+    "floor": 9.729470405578613,
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      209.78999999999996,
+      217.33041916167664
+    ],
+    "anchor": [
+      209.79,
+      222.39
+    ],
+    "footprint_xy": [
+      [
+        216.58009481037922,
+        222.39
+      ],
+      [
+        202.99990518962073,
+        222.39
+      ],
+      [
+        202.99990518962073,
+        212.27083832335327
+      ],
+      [
+        216.58009481037922,
+        212.27083832335327
+      ]
+    ],
+    "pad_xy": [
+      [
+        216.61509481037922,
+        222.42499999999998
+      ],
+      [
+        216.61509481037922,
+        212.23583832335328
+      ],
+      [
+        202.96490518962074,
+        212.23583832335328
+      ],
+      [
+        202.96490518962074,
+        222.42499999999998
+      ],
+      [
+        216.61509481037922,
+        222.42499999999998
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0159",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_59_Entrance_Walk",
+    "arcade_pool_key": "59",
+    "frontage_group": "69:H1"
+  },
+  {
+    "instance_name": "OLDTOWN_V18_ARCADE_66",
+    "file": "architectural_facade_66.glb",
+    "source_filename": "architectural_facade_66.glb",
+    "source_sha256": "19dc48ce44bc8b0c95e5504539e27e2c6b50e15280581e1a8ca593fb393f594c",
+    "original_upload_name": "architectural facade 66.glb",
+    "uniform_scale": 17.332711036435484,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.365447998046875,
+        -0.2677764892578125,
+        0.0
+      ],
+      [
+        0.365447998046875,
+        0.2677764892578125,
+        0.980804443359375
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 17.0,
+    "floor": 13.20452029577107,
+    "theta": 3.141592653589793,
+    "angle": 180.0,
+    "center": [
+      169.04666666666665,
+      397.7487074893433
+    ],
+    "anchor": [
+      169.04666666666665,
+      402.39000000000004
+    ],
+    "footprint_xy": [
+      [
+        175.38087121565698,
+        402.39000000000004
+      ],
+      [
+        162.71246211767632,
+        402.39000000000004
+      ],
+      [
+        162.71246211767632,
+        393.1074149786864
+      ],
+      [
+        175.38087121565698,
+        393.1074149786864
+      ]
+    ],
+    "pad_xy": [
+      [
+        175.41587121565698,
+        402.42500000000007
+      ],
+      [
+        175.41587121565698,
+        393.07241497868637
+      ],
+      [
+        162.67746211767633,
+        393.07241497868637
+      ],
+      [
+        162.67746211767633,
+        402.42500000000007
+      ],
+      [
+        175.41587121565698,
+        402.42500000000007
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "OLDTOWN",
+    "typology": "arcade_street_source",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": "MAIN_OLDTOWN_0173",
+    "direct_sidewalk_frontage": true,
+    "no_mirror": true,
+    "access_alley": "OLDTOWN_V18_ARCADE_66_Entrance_Walk",
+    "arcade_pool_key": "66",
+    "frontage_group": "71:H1"
+  },
+  {
+    "instance_name": "NEWTOWN_V18_MALL_64",
+    "file": "shopping_mall_64.glb",
+    "source_filename": "shopping_mall_64.glb",
+    "source_sha256": "30ed456bd59d99cda708616fc059f10c7f7fc08e2aa8d2c33ce690283d5ca246",
+    "original_upload_name": "shopping mall 64.glb",
+    "uniform_scale": 50.770303421562296,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.490325927734375,
+        -0.335296630859375,
+        0.0
+      ],
+      [
+        0.490325927734375,
+        0.335296630859375,
+        0.3545379638671875
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 18.0,
+    "floor": 14.711373093060136,
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      679.9999999999999,
+      845.0
+    ],
+    "anchor": [
+      662.976888315042,
+      845.0
+    ],
+    "footprint_xy": [
+      [
+        662.976888315042,
+        869.8939961265332
+      ],
+      [
+        662.976888315042,
+        820.1060038734668
+      ],
+      [
+        697.023111684958,
+        820.1060038734668
+      ],
+      [
+        697.023111684958,
+        869.8939961265332
+      ]
+    ],
+    "pad_xy": [
+      [
+        662.941888315042,
+        869.9289961265332
+      ],
+      [
+        697.058111684958,
+        869.9289961265332
+      ],
+      [
+        697.058111684958,
+        820.0710038734668
+      ],
+      [
+        662.941888315042,
+        820.0710038734668
+      ],
+      [
+        662.941888315042,
+        869.9289961265332
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "NEW_TOWN",
+    "typology": "shopping_mall",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": null,
+    "direct_sidewalk_frontage": false,
+    "no_mirror": true,
+    "access_alley": "NEWTOWN_V18_MALL_64_Entrance_Walk"
+  },
+  {
+    "instance_name": "NEWTOWN_V18_POLICE_HQ_65",
+    "file": "police_headquarters_65.glb",
+    "source_filename": "police_headquarters_65.glb",
+    "source_sha256": "6d74b7e8d225d09ff9e4a347db8a7fc7364a1db3b12ff5d2f2925bb7a0a0970a",
+    "original_upload_name": "police headquarters 65.glb",
+    "uniform_scale": 46.70392816386019,
+    "local_axis_scale": [
+      1,
+      1,
+      1
+    ],
+    "source_bounds": [
+      [
+        -0.4893035888671875,
+        -0.304107666015625,
+        0.0
+      ],
+      [
+        0.4893035888671875,
+        0.304107666015625,
+        0.3854065537452698
+      ]
+    ],
+    "source_floor_reference": 0.0,
+    "target_height_m": 18.0,
+    "floor": 9.625791755281426,
+    "theta": -1.5707963267948966,
+    "angle": -90.0,
+    "center": [
+      679.9999999999999,
+      909.9999999999999
+    ],
+    "anchor": [
+      665.796977412327,
+      910.0
+    ],
+    "footprint_xy": [
+      [
+        665.796977412327,
+        932.8523996647721
+      ],
+      [
+        665.796977412327,
+        887.1476003352278
+      ],
+      [
+        694.2030225876729,
+        887.1476003352278
+      ],
+      [
+        694.2030225876729,
+        932.8523996647721
+      ]
+    ],
+    "pad_xy": [
+      [
+        665.761977412327,
+        932.887399664772
+      ],
+      [
+        694.2380225876728,
+        932.887399664772
+      ],
+      [
+        694.2380225876728,
+        887.1126003352279
+      ],
+      [
+        665.761977412327,
+        887.1126003352279
+      ],
+      [
+        665.761977412327,
+        932.887399664772
+      ]
+    ],
+    "region": "MAIN",
+    "zone": "NEW_TOWN",
+    "typology": "police_headquarters",
+    "building_count_units": 1,
+    "added_in_version": "v18",
+    "replaced_placeholder": null,
+    "direct_sidewalk_frontage": false,
+    "no_mirror": true,
+    "access_alley": "NEWTOWN_V18_POLICE_HQ_65_Entrance_Walk"
+  }
+]
