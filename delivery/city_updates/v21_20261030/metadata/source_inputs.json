@@ -1,0 +1,60 @@
+[
+  {
+    "source_id": "S05",
+    "filename": "city (1)(1).glb",
+    "sha256": "b6ad0330bd3e05b11caf38dc37cdc4a62ace515ac04eb58a05011ffb47d92acb",
+    "adopted_assets": [
+      "S05-B01",
+      "S05-B02",
+      "S05-B03",
+      "S05-B04",
+      "S05-B05",
+      "S05-B06"
+    ],
+    "adopted_asset_count": 6,
+    "maximum_instances_per_asset": 1
+  },
+  {
+    "source_id": "S07",
+    "filename": "city.glb",
+    "sha256": "83e66d1f5f72cabc3ede7c5631c69613304b42e919ddbdb41f98fb80f8520bd5",
+    "adopted_assets": [
+      "S07-B01",
+      "S07-B02",
+      "S07-B03",
+      "S07-B04",
+      "S07-B05",
+      "S07-B06"
+    ],
+    "adopted_asset_count": 6,
+    "maximum_instances_per_asset": 1
+  },
+  {
+    "source_id": "S08",
+    "filename": "city_street(1).glb",
+    "sha256": "fe26a0cbc3125be3ab4601ef8fcf9ff452381c8acd580c22ee9849f0fb89de23",
+    "adopted_assets": [
+      "S08-B01",
+      "S08-B02",
+      "S08-B03",
+      "S08-B04"
+    ],
+    "adopted_asset_count": 4,
+    "maximum_instances_per_asset": 1
+  },
+  {
+    "source_id": "S09",
+    "filename": "london_city.glb",
+    "sha256": "6306a615f7d5482e891412a054cec0725d2ff4273f1f617d40c3bf92e72bfc69",
+    "adopted_assets": [
+      "S09-B01",
+      "S09-B02",
+      "S09-B03",
+      "S09-B04",
+      "S09-B05",
+      "S09-B06"
+    ],
+    "adopted_asset_count": 6,
+    "maximum_instances_per_asset": 1
+  }
+]

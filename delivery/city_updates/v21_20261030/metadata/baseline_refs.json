@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "file": "01_main_sw.glb",
+    "version": "v15",
+    "bytes": 24944076,
+    "sha256": "72c7c39ed8381eecc147bb186ef55f96c8887d3c204a32045c6a6b6c3ebe3e9c",
+    "building_units": 44,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v15_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 2,
+    "file": "02_main_south_west_center.glb",
+    "version": "v17",
+    "bytes": 66216584,
+    "sha256": "753e48f672b9b15eb4c912d84cd14c95ca33eea30ee03b7afd7ab4dbf0e7dc66",
+    "building_units": 62,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v17_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 3,
+    "file": "03_main_south_east_center.glb",
+    "version": "v18",
+    "bytes": 131678452,
+    "sha256": "542db44838dbf9e868647ce9fe285782fc60fc894d0f0faf61953e73673b508b",
+    "building_units": 160,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v18_20261030/manifest.json"
+    }
+  },
+  {
+    "id": 4,
+    "file": "04_main_se.glb",
+    "version": "v20",
+    "bytes": 187415564,
+    "sha256": "5ee1109b54b6fbd6c0e398e7128d2d8b7d51ff349b5e38e86aa6f2d50562512f",
+    "building_units": 69,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v20_20261030/manifest.json"
+    }
+  },
+  {
+    "id": 5,
+    "file": "05_main_nw.glb",
+    "version": "v15",
+    "bytes": 23588448,
+    "sha256": "43f6a32507d9a404a4b3c9ef6d1ab84bec690167356e6bd0bcd95054d19f9ab4",
+    "building_units": 12,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v15_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 6,
+    "file": "06_main_north_west_center.glb",
+    "version": "v17",
+    "bytes": 106364464,
+    "sha256": "89d05635a47ab748d6563afcbfef6d19d9922f94eec65baafe21eb89fa833907",
+    "building_units": 24,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v17_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 7,
+    "file": "07_main_north_east_center.glb",
+    "version": "v17",
+    "bytes": 155168528,
+    "sha256": "cf72c94d43dd0aeff3b3c4985e971490bc3f78a0efb3c8cd80c7f529aaf73257",
+    "building_units": 24,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v17_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 8,
+    "file": "08_main_ne.glb",
+    "version": "v20",
+    "bytes": 113426976,
+    "sha256": "1f5e6cbbce7c06f6e221233d8e5ffa9216086c53cc9013498eead7b726cd98d4",
+    "building_units": 21,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v20_20261030/manifest.json"
+    }
+  },
+  {
+    "id": 9,
+    "file": "09_west_sw.glb",
+    "version": "v20",
+    "bytes": 113188224,
+    "sha256": "a5e01ede123552f694566061acb2fe546eae5bffbba68b96874e4378d861d568",
+    "building_units": 22,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v20_20261030/manifest.json"
+    }
+  },
+  {
+    "id": 10,
+    "file": "10_west_se.glb",
+    "version": "v20",
+    "bytes": 122424920,
+    "sha256": "f0d1c59c256c00e30fbfe489cf4e646bf53d9fc3583b662323e0251cbb85e40a",
+    "building_units": 36,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v20_20261030/manifest.json"
+    }
+  },
+  {
+    "id": 11,
+    "file": "11_west_nw.glb",
+    "version": "v15",
+    "bytes": 23438724,
+    "sha256": "e82fc8cce41e74cc79e52d62ecfa5f826520f41e85235b7ced9cc752716cad67",
+    "building_units": 25,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v15_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 12,
+    "file": "12_west_ne.glb",
+    "version": "v15",
+    "bytes": 23356996,
+    "sha256": "97a8a8a71d1a52a5ee72c7c11ee5178f2ad1901fe226037af65b0af0b0dd671b",
+    "building_units": 26,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v15_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 13,
+    "file": "13_east_sw.glb",
+    "version": "v15",
+    "bytes": 22670212,
+    "sha256": "9881628d845d6a7dcd792c8f7c9ad73a5fda0daeea19c080bf8d8ae0c11481be",
+    "building_units": 13,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v15_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 14,
+    "file": "14_east_se.glb",
+    "version": "v19",
+    "bytes": 31112392,
+    "sha256": "1de211e20822b796a3b029dd15367ff9411965b00f3264964705909612764fe7",
+    "building_units": 13,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v19_20261030/manifest.json"
+    }
+  },
+  {
+    "id": 15,
+    "file": "15_east_nw.glb",
+    "version": "v15",
+    "bytes": 23569716,
+    "sha256": "f02afa28cc5c6f0eedb030bf49916cf5db79d68cd65adabdd27a2c121f6adf4c",
+    "building_units": 20,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v15_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 16,
+    "file": "16_east_ne.glb",
+    "version": "v15",
+    "bytes": 22650076,
+    "sha256": "8012094ba11e218bd874a108874e2a859f4b2e991647cbda1e7ef7d392a94624",
+    "building_units": 14,
+    "source": {
+      "type": "incremental_district_parts",
+      "manifest": "delivery/city_updates/v15_20261029/manifest.json"
+    }
+  },
+  {
+    "id": 17,
+    "file": "17_shared_bridges.glb",
+    "version": "v13",
+    "bytes": 23851620,
+    "sha256": "510fefec1c4400eb67ffa8781ac3df21c0e5670df9cff7f2f16214a6968a1f54",
+    "building_units": 0,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/17_shared_bridges.glb"
+    }
+  },
+  {
+    "id": 18,
+    "file": "18_shared_water.glb",
+    "version": "v13",
+    "bytes": 18052,
+    "sha256": "7c8741e3428eb5ed15a26a10ae0b09b3532f8d859b01a0e0feb467d7c67ffbde",
+    "building_units": 0,
+    "source": {
+      "type": "baseline_archive",
+      "commit": "0a2235ddb51c6cc5f29cf8c53b6bfa609cd11b3a",
+      "manifest": "delivery/city_v13/manifest.json",
+      "archive_inner_file": "huizhou_city_v13/districts/18_shared_water.glb"
+    }
+  }
+]

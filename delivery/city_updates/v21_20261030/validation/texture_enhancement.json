@@ -1,0 +1,81 @@
+{
+  "status": "PASS",
+  "method": "built-in image generation edit, shared atlas detail restoration",
+  "source_size_px": [
+    1024,
+    1024
+  ],
+  "output_size_px": [
+    1254,
+    1254
+  ],
+  "layout_review": "Atlas partition positions checked against source; AI fine detail is interpretive.",
+  "assets": [
+    {
+      "asset_id": "S09-B01",
+      "geometry_and_uv_buffer_views_unchanged": true,
+      "views_checked": 15,
+      "original_atlas_sha256": "10255730796d61cec49cec00ddfc175db17ec029aa6181fc858a3f128c081e38",
+      "enhanced_atlas_sha256": "e5d076bafea959bcfb8d7509d093003178595b75ebbef327305f8ee62e0f7063",
+      "enhanced_atlas_size_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset_id": "S09-B02",
+      "geometry_and_uv_buffer_views_unchanged": true,
+      "views_checked": 5,
+      "original_atlas_sha256": "10255730796d61cec49cec00ddfc175db17ec029aa6181fc858a3f128c081e38",
+      "enhanced_atlas_sha256": "e5d076bafea959bcfb8d7509d093003178595b75ebbef327305f8ee62e0f7063",
+      "enhanced_atlas_size_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset_id": "S09-B03",
+      "geometry_and_uv_buffer_views_unchanged": true,
+      "views_checked": 9,
+      "original_atlas_sha256": "10255730796d61cec49cec00ddfc175db17ec029aa6181fc858a3f128c081e38",
+      "enhanced_atlas_sha256": "e5d076bafea959bcfb8d7509d093003178595b75ebbef327305f8ee62e0f7063",
+      "enhanced_atlas_size_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset_id": "S09-B04",
+      "geometry_and_uv_buffer_views_unchanged": true,
+      "views_checked": 15,
+      "original_atlas_sha256": "10255730796d61cec49cec00ddfc175db17ec029aa6181fc858a3f128c081e38",
+      "enhanced_atlas_sha256": "e5d076bafea959bcfb8d7509d093003178595b75ebbef327305f8ee62e0f7063",
+      "enhanced_atlas_size_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset_id": "S09-B05",
+      "geometry_and_uv_buffer_views_unchanged": true,
+      "views_checked": 5,
+      "original_atlas_sha256": "10255730796d61cec49cec00ddfc175db17ec029aa6181fc858a3f128c081e38",
+      "enhanced_atlas_sha256": "e5d076bafea959bcfb8d7509d093003178595b75ebbef327305f8ee62e0f7063",
+      "enhanced_atlas_size_px": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "asset_id": "S09-B06",
+      "geometry_and_uv_buffer_views_unchanged": true,
+      "views_checked": 5,
+      "original_atlas_sha256": "10255730796d61cec49cec00ddfc175db17ec029aa6181fc858a3f128c081e38",
+      "enhanced_atlas_sha256": "e5d076bafea959bcfb8d7509d093003178595b75ebbef327305f8ee62e0f7063",
+      "enhanced_atlas_size_px": [
+        1254,
+        1254
+      ]
+    }
+  ]
+}

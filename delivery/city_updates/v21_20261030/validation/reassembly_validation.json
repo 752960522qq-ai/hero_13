@@ -1,0 +1,209 @@
+{
+  "status": "PASS",
+  "method": "actual xz part reassembly, SHA256 verification and bank extraction",
+  "districts": [
+    {
+      "id": 4,
+      "file": "04_main_se.glb",
+      "bytes": 191083340,
+      "sha256": "4269b4aa6b3b9bdfd2061c0989cdff42a527010659bd2443265f2292e7bb0f6f",
+      "passed": true
+    },
+    {
+      "id": 8,
+      "file": "08_main_ne.glb",
+      "bytes": 136936340,
+      "sha256": "0cf3b6859d40d22ae7eeab7b8a38b94af32cd27a1e5471c24538eb9b0eb23556",
+      "passed": true
+    },
+    {
+      "id": 9,
+      "file": "09_west_sw.glb",
+      "bytes": 118623816,
+      "sha256": "2c9539eaac64dcf1331b1192405ec01ab125441408579f78a4c2dcdda62cc73a",
+      "passed": true
+    },
+    {
+      "id": 10,
+      "file": "10_west_se.glb",
+      "bytes": 122769420,
+      "sha256": "b1bdfce4b5e1a706e8db2d8218a5a91a896b102683ad45411f93696bc60980f5",
+      "passed": true
+    }
+  ],
+  "building_bank_assets": [
+    {
+      "asset_id": "S05-B01",
+      "file": "S05-B01.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S05-B02",
+      "file": "S05-B02.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S05-B03",
+      "file": "S05-B03.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S05-B04",
+      "file": "S05-B04.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S05-B05",
+      "file": "S05-B05.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S05-B06",
+      "file": "S05-B06.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S07-B01",
+      "file": "S07-B01.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S07-B02",
+      "file": "S07-B02.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S07-B03",
+      "file": "S07-B03.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S07-B04",
+      "file": "S07-B04.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S07-B05",
+      "file": "S07-B05.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S07-B06",
+      "file": "S07-B06.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S08-B01",
+      "file": "S08-B01.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S08-B02",
+      "file": "S08-B02.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S08-B03",
+      "file": "S08-B03.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S08-B04",
+      "file": "S08-B04.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S09-B01",
+      "file": "S09-B01.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S09-B02",
+      "file": "S09-B02.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S09-B03",
+      "file": "S09-B03.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S09-B04",
+      "file": "S09-B04.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S09-B05",
+      "file": "S09-B05.glb",
+      "passed": true
+    },
+    {
+      "asset_id": "S09-B06",
+      "file": "S09-B06.glb",
+      "passed": true
+    }
+  ],
+  "previews_png_crc_checked": [
+    {
+      "file": "06_south_mixed_clean.png",
+      "passed": true
+    },
+    {
+      "file": "05_newtown_plan_annotated.png",
+      "passed": true
+    },
+    {
+      "file": "02_newtown_east_clean.png",
+      "passed": true
+    },
+    {
+      "file": "04_west_street_clean.png",
+      "passed": true
+    },
+    {
+      "file": "08_before_after_v21.png",
+      "passed": true
+    },
+    {
+      "file": "05_newtown_plan_clean.png",
+      "passed": true
+    },
+    {
+      "file": "03_west_courts_annotated.png",
+      "passed": true
+    },
+    {
+      "file": "07_new_models_catalog_1.png",
+      "passed": true
+    },
+    {
+      "file": "02_newtown_east_annotated.png",
+      "passed": true
+    },
+    {
+      "file": "01_newtown_north_clean.png",
+      "passed": true
+    },
+    {
+      "file": "07_new_models_catalog_2.png",
+      "passed": true
+    },
+    {
+      "file": "04_west_street_annotated.png",
+      "passed": true
+    },
+    {
+      "file": "06_south_mixed_annotated.png",
+      "passed": true
+    },
+    {
+      "file": "01_newtown_north_annotated.png",
+      "passed": true
+    },
+    {
+      "file": "03_west_courts_clean.png",
+      "passed": true
+    }
+  ],
+  "single_use_model_count": 22
+}

@@ -1,0 +1,578 @@
+{
+  "status": "PASS",
+  "failures": [],
+  "checks": {
+    "each_new_model_used_once": {
+      "passed": true,
+      "details": {
+        "S05-B02": 1,
+        "S09-B06": 1,
+        "S05-B05": 1,
+        "S09-B02": 1,
+        "S09-B01": 1,
+        "S05-B01": 1,
+        "S07-B02": 1,
+        "S07-B03": 1,
+        "S07-B06": 1,
+        "S07-B04": 1,
+        "S07-B01": 1,
+        "S07-B05": 1,
+        "S05-B06": 1,
+        "S08-B03": 1,
+        "S08-B02": 1,
+        "S05-B03": 1,
+        "S09-B04": 1,
+        "S09-B05": 1,
+        "S09-B03": 1,
+        "S08-B04": 1,
+        "S05-B04": 1,
+        "S08-B01": 1
+      }
+    },
+    "city_building_count": {
+      "passed": true,
+      "details": 604
+    },
+    "all_new_instance_ids_unique": {
+      "passed": true,
+      "details": null
+    },
+    "original_roads_graph_unchanged": {
+      "passed": true,
+      "details": null
+    },
+    "land_area_unchanged": {
+      "passed": true,
+      "details": null
+    },
+    "protected_counts_unchanged": {
+      "passed": true,
+      "details": null
+    },
+    "original_source_building_records_preserved": {
+      "passed": true,
+      "details": null
+    },
+    "remaining_placeholder_records_preserved": {
+      "passed": true,
+      "details": null
+    },
+    "placement_clearances": {
+      "passed": true,
+      "details": [
+        {
+          "instance_id": "S05-B02-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B06-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B05-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B02-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B01-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B01-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B02-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B03-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B06-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B04-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B01-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B05-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B06-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B03-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B02-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B03-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B04-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B05-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B03-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B04-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B04-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B01-I01",
+          "inside_land": true,
+          "road_intersection_m2": 0.0,
+          "neighbor_intersection_m2": 0.0,
+          "reserve_intersection_m2": 0.0,
+          "passed": true
+        }
+      ]
+    },
+    "all_new_meshes_labeled": {
+      "passed": true,
+      "details": null
+    },
+    "source_files_expanded": {
+      "passed": true,
+      "details": null
+    },
+    "source_bank_checksums": {
+      "passed": true,
+      "details": null
+    },
+    "unchanged_mesh_geometry_and_uvs_preserved": {
+      "passed": true,
+      "details": 4162
+    },
+    "original_source_meshes_not_modified": {
+      "passed": true,
+      "details": 3332
+    },
+    "entrances_have_continuous_ground": {
+      "passed": true,
+      "details": [
+        {
+          "instance_id": "S05-B02-I01",
+          "samples": 20,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.0068087577819880485,
+          "front_difference_m": 0.004000319000205366,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B06-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.03293878891888919,
+          "front_difference_m": 0.008000002580391907,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B05-I01",
+          "samples": 20,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.0068088190418151475,
+          "front_difference_m": 0.004000123170230907,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B02-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.0247345887029983,
+          "front_difference_m": 0.007999852386847195,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B01-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.013756055705460653,
+          "front_difference_m": 0.0039996545619462864,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B01-I01",
+          "samples": 20,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.006809147124974699,
+          "front_difference_m": 0.003999634160523513,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B02-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.022857179032996555,
+          "front_difference_m": 0.0079998823162164,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B03-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.022854454591369297,
+          "front_difference_m": 0.007999613862484267,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B06-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.022862083985899062,
+          "front_difference_m": 0.008000431098043492,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B04-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.02285717903298383,
+          "front_difference_m": 0.007999785749706945,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B01-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.00914538331885225,
+          "front_difference_m": 0.003999953955974078,
+          "passed": true
+        },
+        {
+          "instance_id": "S07-B05-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.012995141777750345,
+          "front_difference_m": 0.003999747670945908,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B06-I01",
+          "samples": 20,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.006808757781987725,
+          "front_difference_m": 0.0040001688341400055,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B03-I01",
+          "samples": 17,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.02430346230575675,
+          "front_difference_m": 0.007999828920388197,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B02-I01",
+          "samples": 17,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.02430676440027136,
+          "front_difference_m": 0.008000154495238831,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B03-I01",
+          "samples": 20,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.006808645197564992,
+          "front_difference_m": 0.004000070556632984,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B04-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.013977886469357048,
+          "front_difference_m": 0.0040002613107290586,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B05-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.03294664270737724,
+          "front_difference_m": 0.008000247433471941,
+          "passed": true
+        },
+        {
+          "instance_id": "S09-B03-I01",
+          "samples": 15,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.009413206282180677,
+          "front_difference_m": 0.0040001538077110155,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B04-I01",
+          "samples": 17,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.02430346230577114,
+          "front_difference_m": 0.00799979344268209,
+          "passed": true
+        },
+        {
+          "instance_id": "S05-B04-I01",
+          "samples": 20,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.006808645197565322,
+          "front_difference_m": 0.004000070556632984,
+          "passed": true
+        },
+        {
+          "instance_id": "S08-B01-I01",
+          "samples": 17,
+          "missing_samples": 0,
+          "maximum_surface_grade": 0.024302340525666384,
+          "front_difference_m": 0.007999559515930343,
+          "passed": true
+        }
+      ]
+    },
+    "perimeter_apron_ground_present": {
+      "passed": true,
+      "details": {
+        "samples": 2218,
+        "missing": 0,
+        "maximum_difference_m": 0.0015058160449186175
+      }
+    },
+    "enhanced_atlas_uv_bytes_preserved": {
+      "passed": true,
+      "details": null
+    }
+  },
+  "city_buildings": 604,
+  "new_source_types": 22,
+  "new_source_instances": 22,
+  "maximum_instances_per_new_asset": 1,
+  "changed_district_ids": [
+    4,
+    8,
+    9,
+    10
+  ],
+  "known_open_geometry": [
+    {
+      "asset_id": "S05-B01",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S05-B02",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S05-B03",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S05-B04",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S05-B05",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S05-B06",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S07-B01",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S07-B02",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S07-B03",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S07-B04",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S07-B05",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S07-B06",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S08-B01",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S08-B02",
+      "label": "未封口",
+      "note": "正面和侧面照片立面，背面及屋顶未封口；保留原状。"
+    },
+    {
+      "asset_id": "S08-B03",
+      "label": "未封口",
+      "note": "开放楼板和外墙框架，部分外墙缺失，未封口；作为施工楼使用。"
+    },
+    {
+      "asset_id": "S08-B04",
+      "label": "未封口",
+      "note": "保留原有店铺、窗框与屋顶；背面、底面封口未处理，内构件保留。"
+    },
+    {
+      "asset_id": "S09-B01",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S09-B02",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S09-B03",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S09-B04",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S09-B05",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    },
+    {
+      "asset_id": "S09-B06",
+      "label": "未封口",
+      "note": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。"
+    }
+  ],
+  "runtime_validation": "Static city model only. Runtime collision, navigation, traffic and target-device performance are not tested."
+}

@@ -1,0 +1,1149 @@
+[
+  {
+    "asset_id": "S05-B01",
+    "source_id": "S05",
+    "display_name_zh": "圆弧商务楼",
+    "source_filename": "city (1)(1).glb",
+    "upload_filename": "city (1)(1).glb",
+    "source_sha256": "b6ad0330bd3e05b11caf38dc37cdc4a62ace515ac04eb58a05011ffb47d92acb",
+    "source_node_name": "Object_6722",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 1,
+    "uniform_scale": 21.10782630117631,
+    "normalized_size_m": [
+      17.545215316623203,
+      24.539421233978082,
+      42.0
+    ],
+    "placement_size_m": [
+      17.545215316623203,
+      24.539421233978082,
+      42.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S05-B01.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 40,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        128
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 10604,
+    "sha256": "97814fe5659fa31e9748d95b483e793a1271e7f556944bb5613f2f31b2ca22e9",
+    "triangles": 66,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S05-B02",
+    "source_id": "S05",
+    "display_name_zh": "折角高层楼",
+    "source_filename": "city (1)(1).glb",
+    "upload_filename": "city (1)(1).glb",
+    "source_sha256": "b6ad0330bd3e05b11caf38dc37cdc4a62ace515ac04eb58a05011ffb47d92acb",
+    "source_node_name": "Object_8345",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 1,
+    "uniform_scale": 20.102692919772213,
+    "normalized_size_m": [
+      27.555822837129604,
+      26.394322239610304,
+      40.0
+    ],
+    "placement_size_m": [
+      27.555822837129604,
+      26.394322239610304,
+      40.0
+    ],
+    "source_front": [
+      0,
+      1
+    ],
+    "building_units": 1,
+    "file": "S05-B02.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 56,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        128
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 14048,
+    "sha256": "0a5471ffb4990c8c6429353f0360e5f145fdce2b048e62d7a7baf9a409ff0589",
+    "triangles": 110,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S05-B03",
+    "source_id": "S05",
+    "display_name_zh": "灰格窗高层楼",
+    "source_filename": "city (1)(1).glb",
+    "upload_filename": "city (1)(1).glb",
+    "source_sha256": "b6ad0330bd3e05b11caf38dc37cdc4a62ace515ac04eb58a05011ffb47d92acb",
+    "source_node_name": "Object_6287",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 2,
+    "source_mesh_count": 1,
+    "uniform_scale": 21.110692691369543,
+    "normalized_size_m": [
+      9.54430352434297,
+      21.19894449325383,
+      44.0
+    ],
+    "placement_size_m": [
+      9.54430352434297,
+      21.19894449325383,
+      44.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S05-B03.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 53,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        256,
+        256
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 27020,
+    "sha256": "f383bfc3f5542299c83700388e6c7303181f1cc3a5712ef9b87c0becd8e79814",
+    "triangles": 84,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S05-B04",
+    "source_id": "S05",
+    "display_name_zh": "方形商务楼",
+    "source_filename": "city (1)(1).glb",
+    "upload_filename": "city (1)(1).glb",
+    "source_sha256": "b6ad0330bd3e05b11caf38dc37cdc4a62ace515ac04eb58a05011ffb47d92acb",
+    "source_node_name": "Object_6014",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 1,
+    "uniform_scale": 22.28277134351459,
+    "normalized_size_m": [
+      12.895556563314926,
+      12.74600346589862,
+      36.0
+    ],
+    "placement_size_m": [
+      12.895556563314926,
+      12.74600346589862,
+      36.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S05-B04.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 18,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        256,
+        256
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 17812,
+    "sha256": "23d602d3897615cd44bee51bba409a649e72189cb730d95b6cdba635a4b79d7d",
+    "triangles": 28,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S05-B05",
+    "source_id": "S05",
+    "display_name_zh": "曲面办公楼",
+    "source_filename": "city (1)(1).glb",
+    "upload_filename": "city (1)(1).glb",
+    "source_sha256": "b6ad0330bd3e05b11caf38dc37cdc4a62ace515ac04eb58a05011ffb47d92acb",
+    "source_node_name": "Object_6725",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 2,
+    "uniform_scale": 21.634503391021706,
+    "normalized_size_m": [
+      18.643819714388318,
+      27.66064792875996,
+      34.0
+    ],
+    "placement_size_m": [
+      18.643819714388318,
+      27.66064792875996,
+      34.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S05-B05.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 36,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        128
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 17496,
+    "sha256": "6c93e71be1d2e09e5240e2e767085eab74e21c9ceac43228baefff88c8783598",
+    "triangles": 56,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S05-B06",
+    "source_id": "S05",
+    "display_name_zh": "玻璃转角楼",
+    "source_filename": "city (1)(1).glb",
+    "upload_filename": "city (1)(1).glb",
+    "source_sha256": "b6ad0330bd3e05b11caf38dc37cdc4a62ace515ac04eb58a05011ffb47d92acb",
+    "source_node_name": "Object_8054",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 2,
+    "uniform_scale": 19.96705098162954,
+    "normalized_size_m": [
+      17.3163195469536,
+      15.63260777863839,
+      32.0
+    ],
+    "placement_size_m": [
+      17.3163195469536,
+      15.63260777863839,
+      32.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S05-B06.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 21,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        256,
+        256
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 33924,
+    "sha256": "13d0fb5519e69a51e88984167896a1dc484fa1e7e88e0902f9c28d1ca527d5a4",
+    "triangles": 28,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S07-B01",
+    "source_id": "S07",
+    "display_name_zh": "砖石商住楼",
+    "source_filename": "city.glb",
+    "upload_filename": "city.glb",
+    "source_sha256": "83e66d1f5f72cabc3ede7c5631c69613304b42e919ddbdb41f98fb80f8520bd5",
+    "source_node_name": "Object_4493",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 1,
+    "source_mesh_count": 4,
+    "uniform_scale": 28.656783857225985,
+    "normalized_size_m": [
+      22.76577513881925,
+      11.951923314156053,
+      18.0
+    ],
+    "placement_size_m": [
+      22.76577513881925,
+      11.951923314156053,
+      18.0
+    ],
+    "source_front": [
+      0,
+      1
+    ],
+    "building_units": 1,
+    "file": "S07-B01.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 68,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        64
+      ],
+      [
+        128,
+        128
+      ],
+      [
+        256,
+        128
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 46296,
+    "sha256": "fcf8a2c423b7f9de9c2e9748daa694f5eb5a7d0880d3b516959c925f983b4af4",
+    "triangles": 232,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S07-B02",
+    "source_id": "S07",
+    "display_name_zh": "转角社区楼",
+    "source_filename": "city.glb",
+    "upload_filename": "city.glb",
+    "source_sha256": "83e66d1f5f72cabc3ede7c5631c69613304b42e919ddbdb41f98fb80f8520bd5",
+    "source_node_name": "Object_4496",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 4,
+    "uniform_scale": 31.55123288538273,
+    "normalized_size_m": [
+      19.922474908424697,
+      20.693340382449104,
+      16.0
+    ],
+    "placement_size_m": [
+      19.922474908424697,
+      20.693340382449104,
+      16.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S07-B02.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 64,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        128
+      ],
+      [
+        128,
+        256
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 40900,
+    "sha256": "53a1b9d6fe670b857babf8e188a12a5fa58390cd9607984fa84b34599fa64c06",
+    "triangles": 186,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S07-B03",
+    "source_id": "S07",
+    "display_name_zh": "砖红中层楼",
+    "source_filename": "city.glb",
+    "upload_filename": "city.glb",
+    "source_sha256": "83e66d1f5f72cabc3ede7c5631c69613304b42e919ddbdb41f98fb80f8520bd5",
+    "source_node_name": "Object_5285",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 2,
+    "uniform_scale": 28.77651314802979,
+    "normalized_size_m": [
+      23.916557633708848,
+      16.16464180461222,
+      24.0
+    ],
+    "placement_size_m": [
+      23.916557633708848,
+      16.16464180461222,
+      24.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S07-B03.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 38,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        128
+      ],
+      [
+        256,
+        256
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 42232,
+    "sha256": "0f9482fc2aa183b4dc07bf3b81818a5320b61515e8834e1d903bcc4043527798",
+    "triangles": 104,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S07-B04",
+    "source_id": "S07",
+    "display_name_zh": "低层街坊楼",
+    "source_filename": "city.glb",
+    "upload_filename": "city.glb",
+    "source_sha256": "83e66d1f5f72cabc3ede7c5631c69613304b42e919ddbdb41f98fb80f8520bd5",
+    "source_node_name": "Object_6017",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 2,
+    "uniform_scale": 31.243046673049204,
+    "normalized_size_m": [
+      17.089706019338724,
+      17.171457947009372,
+      12.0
+    ],
+    "placement_size_m": [
+      17.089706019338724,
+      17.171457947009372,
+      12.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S07-B04.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 36,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        128
+      ],
+      [
+        256,
+        128
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 28292,
+    "sha256": "e8a1538493a1eba6da8bbe5f9a0324d00f3c767972621f25316667642c89cf36",
+    "triangles": 144,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S07-B05",
+    "source_id": "S07",
+    "display_name_zh": "灰色沿街楼",
+    "source_filename": "city.glb",
+    "upload_filename": "city.glb",
+    "source_sha256": "83e66d1f5f72cabc3ede7c5631c69613304b42e919ddbdb41f98fb80f8520bd5",
+    "source_node_name": "Object_5534",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 0,
+    "source_mesh_count": 6,
+    "uniform_scale": 30.680076171427007,
+    "normalized_size_m": [
+      20.343205223894717,
+      13.328700351250378,
+      18.0
+    ],
+    "placement_size_m": [
+      20.343205223894717,
+      13.328700351250378,
+      18.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S07-B05.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 70,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        128,
+        128
+      ],
+      [
+        256,
+        128
+      ],
+      [
+        256,
+        256
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 109440,
+    "sha256": "40769621ac96fcf85cd4a7c08fca24f6874691ca78573cab80814dc6ce547466",
+    "triangles": 122,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S07-B06",
+    "source_id": "S07",
+    "display_name_zh": "转折街面楼",
+    "source_filename": "city.glb",
+    "upload_filename": "city.glb",
+    "source_sha256": "83e66d1f5f72cabc3ede7c5631c69613304b42e919ddbdb41f98fb80f8520bd5",
+    "source_node_name": "Object_3836",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 2,
+    "source_mesh_count": 3,
+    "uniform_scale": 28.906702730421625,
+    "normalized_size_m": [
+      16.266526234734137,
+      21.596717821158986,
+      18.0
+    ],
+    "placement_size_m": [
+      16.266526234734137,
+      21.596717821158986,
+      18.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S07-B06.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 66,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        256,
+        128
+      ]
+    ],
+    "low_resolution_texture": true,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 46776,
+    "sha256": "912729546b9dcfc233dce84ea1c514f552e312d04c6338641daa4dda28b6c7f5",
+    "triangles": 68,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S08-B01",
+    "source_id": "S08",
+    "display_name_zh": "红砖屋顶街面楼",
+    "source_filename": "city_street.glb",
+    "upload_filename": "city_street(1).glb",
+    "source_sha256": "fe26a0cbc3125be3ab4601ef8fcf9ff452381c8acd580c22ee9849f0fb89de23",
+    "source_node_name": "spatial_building_selection_1",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": null,
+    "source_mesh_count": 43,
+    "uniform_scale": 2.991969419923146,
+    "normalized_size_m": [
+      12.264772384625816,
+      13.085102341977292,
+      20.0
+    ],
+    "placement_size_m": [
+      12.264772384625816,
+      13.085102341977292,
+      20.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S08-B01.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 2015,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        512,
+        1024
+      ],
+      [
+        1024,
+        512
+      ],
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 7937460,
+    "sha256": "6ea4438ff638dbead555fda34597f3010cc3b1a621adc114130aa2a4b640bfd7",
+    "triangles": 69579,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S08-B02",
+    "source_id": "S08",
+    "display_name_zh": "浅色正侧立面楼",
+    "source_filename": "city_street.glb",
+    "upload_filename": "city_street(1).glb",
+    "source_sha256": "fe26a0cbc3125be3ab4601ef8fcf9ff452381c8acd580c22ee9849f0fb89de23",
+    "source_node_name": "spatial_building_selection_2",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": null,
+    "source_mesh_count": 19,
+    "uniform_scale": 3.3879410077343897,
+    "normalized_size_m": [
+      15.223202402081244,
+      16.456861910820976,
+      20.0
+    ],
+    "placement_size_m": [
+      15.223202402081244,
+      16.456861910820976,
+      20.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S08-B02.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 1155,
+    "issue_note_zh": "正面和侧面照片立面，背面及屋顶未封口；保留原状。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        1024,
+        512
+      ],
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 4415920,
+    "sha256": "fad2e8f0844639e525e3e0d741d8cdfacb66240c62c5e81e742a3d109f301ad5",
+    "triangles": 37313,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S08-B03",
+    "source_id": "S08",
+    "display_name_zh": "开放楼板施工楼",
+    "source_filename": "city_street.glb",
+    "upload_filename": "city_street(1).glb",
+    "source_sha256": "fe26a0cbc3125be3ab4601ef8fcf9ff452381c8acd580c22ee9849f0fb89de23",
+    "source_node_name": "spatial_building_selection_3",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": null,
+    "source_mesh_count": 7,
+    "uniform_scale": 3.909587730526138,
+    "normalized_size_m": [
+      15.905026254019598,
+      15.880999971389144,
+      18.0
+    ],
+    "placement_size_m": [
+      15.905026254019598,
+      15.880999971389144,
+      18.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S08-B03.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 445,
+    "issue_note_zh": "开放楼板和外墙框架，部分外墙缺失，未封口；作为施工楼使用。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        512,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 1324752,
+    "sha256": "19c0c5e2f2e8c0be7711afce494584bf4f0119d93837db0189eb5209089b7f28",
+    "triangles": 10793,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S08-B04",
+    "source_id": "S08",
+    "display_name_zh": "灰色店铺商住楼",
+    "source_filename": "city_street.glb",
+    "upload_filename": "city_street(1).glb",
+    "source_sha256": "fe26a0cbc3125be3ab4601ef8fcf9ff452381c8acd580c22ee9849f0fb89de23",
+    "source_node_name": "Cube.080_55",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": null,
+    "source_mesh_count": 17,
+    "uniform_scale": 3.50161211503373,
+    "normalized_size_m": [
+      14.551125905013258,
+      11.743003346452017,
+      20.0
+    ],
+    "placement_size_m": [
+      14.551125905013258,
+      11.743003346452017,
+      20.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S08-B04.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 38122,
+    "issue_note_zh": "保留原有店铺、窗框与屋顶；背面、底面封口未处理，内构件保留。",
+    "texture_policy": "source UVs and embedded diffuse textures retained; S09 duplicate lightmap overlay excluded",
+    "original_texture_sizes": [
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [
+      {
+        "source_mesh": "Object_119",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_120",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_121",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_122",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_123",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_124",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_125",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_126",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_127",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_128",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_129",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_130",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      },
+      {
+        "source_mesh": "Object_135",
+        "ratio": "target <= 9000 triangles per detail mesh"
+      }
+    ],
+    "added_in_version": "v21",
+    "bytes": 11839048,
+    "sha256": "64c5547ebf1d54ad33b9054e12a2908b5a5ab673ab86ad13a8f53a556d1ff194",
+    "triangles": 120114,
+    "quality_label_zh": "未封口"
+  },
+  {
+    "asset_id": "S09-B01",
+    "source_id": "S09",
+    "display_name_zh": "纵深石墙街面楼",
+    "source_filename": "london_city.glb",
+    "upload_filename": "london_city.glb",
+    "source_sha256": "6306a615f7d5482e891412a054cec0725d2ff4273f1f617d40c3bf92e72bfc69",
+    "source_node_name": "Object_8",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 5,
+    "source_mesh_count": 3,
+    "uniform_scale": 0.561164214235987,
+    "normalized_size_m": [
+      15.216641852120478,
+      29.187659013991677,
+      14.999999999999998
+    ],
+    "placement_size_m": [
+      15.216641852120478,
+      29.187659013991677,
+      14.999999999999998
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S09-B01.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 58,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "AI-restored shared S09 diffuse atlas; normalized atlas regions retained; source geometry and UV accessor bytes unchanged; no duplicate lightmap overlay",
+    "original_texture_sizes": [
+      [
+        512,
+        512
+      ],
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 4377340,
+    "sha256": "160455bef87b8f709d58e2a38b03ff91987e6a8efd523ca95d2ae2ff062aefb1",
+    "triangles": 374,
+    "quality_label_zh": "未封口",
+    "texture_enhanced": true,
+    "enhanced_atlas_size_px": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "asset_id": "S09-B02",
+    "source_id": "S09",
+    "display_name_zh": "石墙转角商住楼",
+    "source_filename": "london_city.glb",
+    "upload_filename": "london_city.glb",
+    "source_sha256": "6306a615f7d5482e891412a054cec0725d2ff4273f1f617d40c3bf92e72bfc69",
+    "source_node_name": "Object_14",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 5,
+    "source_mesh_count": 1,
+    "uniform_scale": 0.4612678026380611,
+    "normalized_size_m": [
+      16.529993179450813,
+      27.48888926510501,
+      18.0
+    ],
+    "placement_size_m": [
+      16.529993179450813,
+      27.48888926510501,
+      18.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S09-B02.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 67,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "AI-restored shared S09 diffuse atlas; normalized atlas regions retained; source geometry and UV accessor bytes unchanged; no duplicate lightmap overlay",
+    "original_texture_sizes": [
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 3676668,
+    "sha256": "470466b232863fcd69e1660184f66c8144160f15f342775921da73b15963f4d2",
+    "triangles": 873,
+    "quality_label_zh": "未封口",
+    "texture_enhanced": true,
+    "enhanced_atlas_size_px": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "asset_id": "S09-B03",
+    "source_id": "S09",
+    "display_name_zh": "方形社区楼",
+    "source_filename": "london_city.glb",
+    "upload_filename": "london_city.glb",
+    "source_sha256": "6306a615f7d5482e891412a054cec0725d2ff4273f1f617d40c3bf92e72bfc69",
+    "source_node_name": "Object_20",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 4,
+    "source_mesh_count": 2,
+    "uniform_scale": 0.5099426673706745,
+    "normalized_size_m": [
+      13.208072212204298,
+      13.418395550507359,
+      16.0
+    ],
+    "placement_size_m": [
+      13.208072212204298,
+      13.418395550507359,
+      16.0
+    ],
+    "source_front": [
+      1,
+      0
+    ],
+    "building_units": 1,
+    "file": "S09-B03.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 41,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "AI-restored shared S09 diffuse atlas; normalized atlas regions retained; source geometry and UV accessor bytes unchanged; no duplicate lightmap overlay",
+    "original_texture_sizes": [
+      [
+        512,
+        512
+      ],
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 4117300,
+    "sha256": "9b6edf91311482f17ac50b4e7ac476ff02402dd95d8f470bade54b2f2a1ae982",
+    "triangles": 231,
+    "quality_label_zh": "未封口",
+    "texture_enhanced": true,
+    "enhanced_atlas_size_px": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "asset_id": "S09-B04",
+    "source_id": "S09",
+    "display_name_zh": "低层服务楼",
+    "source_filename": "london_city.glb",
+    "upload_filename": "london_city.glb",
+    "source_sha256": "6306a615f7d5482e891412a054cec0725d2ff4273f1f617d40c3bf92e72bfc69",
+    "source_node_name": "Object_14",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 9,
+    "source_mesh_count": 3,
+    "uniform_scale": 0.5238366866317871,
+    "normalized_size_m": [
+      14.204461095812684,
+      14.171230725556859,
+      14.0
+    ],
+    "placement_size_m": [
+      14.204461095812684,
+      14.171230725556859,
+      14.0
+    ],
+    "source_front": [
+      0,
+      1
+    ],
+    "building_units": 1,
+    "file": "S09-B04.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 46,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "AI-restored shared S09 diffuse atlas; normalized atlas regions retained; source geometry and UV accessor bytes unchanged; no duplicate lightmap overlay",
+    "original_texture_sizes": [
+      [
+        512,
+        512
+      ],
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 4363712,
+    "sha256": "5866c19ca2590845ba00149a996eb575121ca989834b6b1c0a951ea6af85ddd3",
+    "triangles": 208,
+    "quality_label_zh": "未封口",
+    "texture_enhanced": true,
+    "enhanced_atlas_size_px": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "asset_id": "S09-B05",
+    "source_id": "S09",
+    "display_name_zh": "窄体条窗楼",
+    "source_filename": "london_city.glb",
+    "upload_filename": "london_city.glb",
+    "source_sha256": "6306a615f7d5482e891412a054cec0725d2ff4273f1f617d40c3bf92e72bfc69",
+    "source_node_name": "Object_14",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 12,
+    "source_mesh_count": 1,
+    "uniform_scale": 0.5452845487494463,
+    "normalized_size_m": [
+      13.474580807921049,
+      13.475274519762662,
+      28.0
+    ],
+    "placement_size_m": [
+      13.474580807921049,
+      13.475274519762662,
+      28.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S09-B05.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 14,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "AI-restored shared S09 diffuse atlas; normalized atlas regions retained; source geometry and UV accessor bytes unchanged; no duplicate lightmap overlay",
+    "original_texture_sizes": [
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 3588448,
+    "sha256": "dd75ef0a1f90b298b2dd638471451bffee5aaf27ddcbddd550ab17db4b13076b",
+    "triangles": 158,
+    "quality_label_zh": "未封口",
+    "texture_enhanced": true,
+    "enhanced_atlas_size_px": [
+      1254,
+      1254
+    ]
+  },
+  {
+    "asset_id": "S09-B06",
+    "source_id": "S09",
+    "display_name_zh": "高层退台楼",
+    "source_filename": "london_city.glb",
+    "upload_filename": "london_city.glb",
+    "source_sha256": "6306a615f7d5482e891412a054cec0725d2ff4273f1f617d40c3bf92e72bfc69",
+    "source_node_name": "Object_32",
+    "extraction_method": "spatial shell-component face selection across source materials; source world transforms baked; UVs retained; no cap geometry added",
+    "source_component": 3,
+    "source_mesh_count": 1,
+    "uniform_scale": 0.5565904700499772,
+    "normalized_size_m": [
+      26.554094266197815,
+      26.55939383366167,
+      48.0
+    ],
+    "placement_size_m": [
+      26.554094266197815,
+      26.55939383366167,
+      48.0
+    ],
+    "source_front": [
+      0,
+      -1
+    ],
+    "building_units": 1,
+    "file": "S09-B06.glb",
+    "geometry_status": "OPEN_SHELL",
+    "open_boundary_edge_count": 13,
+    "issue_note_zh": "源楼壳存在开放边；保留原状，未补封口，背面/屋顶待后续检查。",
+    "texture_policy": "AI-restored shared S09 diffuse atlas; normalized atlas regions retained; source geometry and UV accessor bytes unchanged; no duplicate lightmap overlay",
+    "original_texture_sizes": [
+      [
+        1024,
+        1024
+      ]
+    ],
+    "low_resolution_texture": false,
+    "source_detail_reduction": [],
+    "added_in_version": "v21",
+    "bytes": 3611516,
+    "sha256": "9f1af2271f61550bc8ba5d2e9864d6b3716a045e3a9f65266a7f45af0f39292a",
+    "triangles": 397,
+    "quality_label_zh": "未封口",
+    "texture_enhanced": true,
+    "enhanced_atlas_size_px": [
+      1254,
+      1254
+    ]
+  }
+]

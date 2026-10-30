@@ -1,3 +1,5 @@
+> 最新增量为 **v21**：从另外 4 个来源提取 22 款房屋，每款仅放一栋；替换 3 栋占位楼，全城 604 栋。未封口模型已标注。仅更新 **04/08/09/10**，详见 `delivery/city_updates/v21_20261030/README.md`；当前来源为 `design/city/districts/current_sources_v21.json`。
+
 > 最新增量为 **v20**：新增 49 栋素材建筑、替换 11 栋西岛占位楼，全城 585 栋；参考 city（1）的道路关系加入弧线生活街、错位支路和公共设施。仅替换 **04/08/09/10**，详见 `delivery/city_updates/v20_20261030/README.md`；当前来源为 `design/city/districts/current_sources_v20.json`。
 
 > 最新增量为 **v18**：十栋正式模型落位，八栋替换老城占位；商场和警察总部进入约 0.150 km² 的东部新城区。老城沿街仍为120栋，全城543栋。仅替换03/08，其余16区块沿用；详见 `delivery/city_updates/v18_20261030/README.md`，来源见 `design/city/districts/current_sources_v18.json`。

@@ -2,42 +2,42 @@
   "status": "PASS",
   "changed_districts_reimported": 4,
   "reused_districts": 14,
-  "source_triangle_count": 5825500,
+  "source_triangle_count": 6073910,
   "districts": [
     {
       "id": 4,
       "file": "04_main_se.glb",
-      "meshes": 1976,
-      "triangles": 1026858,
+      "meshes": 1982,
+      "triangles": 1027953,
       "maximum_world_position_error_m": 3.621357256053663e-06,
-      "embedded_images": 193,
+      "embedded_images": 195,
       "passed": true
     },
     {
       "id": 8,
       "file": "08_main_ne.glb",
-      "meshes": 656,
-      "triangles": 380743,
+      "meshes": 762,
+      "triangles": 621638,
       "maximum_world_position_error_m": 4.292759809817329e-06,
-      "embedded_images": 80,
+      "embedded_images": 90,
       "passed": true
     },
     {
       "id": 9,
       "file": "09_west_sw.glb",
-      "meshes": 652,
-      "triangles": 307232,
-      "maximum_world_position_error_m": 6.910169769094284e-07,
-      "embedded_images": 148,
+      "meshes": 679,
+      "triangles": 312015,
+      "maximum_world_position_error_m": 2.0149525775613296e-06,
+      "embedded_images": 163,
       "passed": true
     },
     {
       "id": 10,
       "file": "10_west_se.glb",
-      "meshes": 895,
-      "triangles": 432922,
-      "maximum_world_position_error_m": 7.823737670079101e-07,
-      "embedded_images": 171,
+      "meshes": 912,
+      "triangles": 434559,
+      "maximum_world_position_error_m": 2.6915294360428074e-06,
+      "embedded_images": 181,
       "passed": true
     }
   ],

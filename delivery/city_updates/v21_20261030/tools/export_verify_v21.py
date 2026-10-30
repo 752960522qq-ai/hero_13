@@ -1,0 +1,26 @@
+import os
+"""Export only districts 04/08/09/10 and verify every reimported mesh in world space."""
+import bpy,sys,json,hashlib,struct
+from pathlib import Path
+import numpy as np
+R=Path(__file__).resolve().parents[1];sys.path.insert(0,str(R/'deps311'));sys.path.insert(0,os.environ.get('HERO13_CITY_DEPS',str(R.parent/'tools_runtime/blender_deps')))
+from scipy.spatial import cKDTree
+v=json.load(open(R/'validation/native_validation.json'));assert v['status']=='PASS',v['failures'];base=json.load(open(R/'baseline_districts_manifest.json'));out=R/'districts';out.mkdir(exist_ok=True);(R/'expectations').mkdir(exist_ok=True)
+bpy.ops.wm.open_mainfile(filepath=str(R/'model/city_v21.blend'));bpy.context.view_layer.update();bpy.data.orphans_purge(do_recursive=True);sc=bpy.context.scene;expected={};records={};entries=[]
+for d in [4,8,9,10]:
+ obs=[o for o in sc.objects if o.type=='MESH' and int(o.get('district_id',0))==d and len(o.data.polygons)>0];expect={};record={};bpy.ops.object.select_all(action='DESELECT')
+ root=bpy.data.objects[f'District_{d:02d}'];root.select_set(True)
+ for o in obs:
+  o.select_set(True);o.data.calc_loop_triangles();M=np.array(o.matrix_world);co=np.array([v.co[:] for v in o.data.vertices]);co=co@M[:3,:3].T+M[:3,3];expect[o.name]=co;record[o.name]={'triangles':len(o.data.loop_triangles),'instance':o.get('source_instance'),'v21':o.get('added_in_version')=='v21','issue_label':o.get('quality_label_zh'),'bounds':[co.min(0).tolist(),co.max(0).tolist()]}
+ bpy.context.view_layer.objects.active=root;prior=base['districts'][d-1];file=out/prior['file'];bpy.ops.export_scene.gltf(filepath=str(file),export_format='GLB',use_selection=True,export_yup=True,export_extras=True,export_animations=False,export_cameras=False,export_lights=False,export_image_format='AUTO',export_copyright='Road Modular by mortalityrexotable, CC BY 4.0. Building models supplied by the user. World coordinates in metres.')
+ np.savez_compressed(R/'expectations'/(file.stem+'.npz'),**expect);expected[d]=expect;records[d]=record;bounds=np.array([r['bounds'] for r in record.values()]);lo=bounds[:,0].min(0);hi=bounds[:,1].max(0);entries.append({'id':d,'name':prior['name'],'file':prior['file'],'file_size_bytes':file.stat().st_size,'sha256':hashlib.sha256(file.read_bytes()).hexdigest(),'base_sha256':prior['sha256'],'mesh_objects':len(obs),'triangles':sum(r['triangles'] for r in record.values()),'bounds_blender':[lo.tolist(),hi.tolist()],'bounds_glb':[[float(lo[0]),float(lo[2]),float(-hi[1])],[float(hi[0]),float(hi[2]),float(-lo[1])]],'source_building_instances':sorted({r['instance'] for r in record.values() if r['instance']}),'root_translation':[0,0,0],'common':False,'reused_from':None});print('EXPORTED',d,file.stat().st_size,flush=True)
+checks=[]
+for d,entry in zip([4,8,9,10],entries):
+ bpy.ops.wm.read_factory_settings(use_empty=True);file=out/entry['file'];bpy.ops.import_scene.gltf(filepath=str(file));bpy.context.view_layer.update();obs=[o for o in bpy.context.scene.objects if o.type=='MESH'];record=records[d];expect=expected[d];assert {o.name for o in obs}==set(record);maxerr=0.;tris=0
+ for o in obs:
+  o.data.calc_loop_triangles();assert len(o.data.loop_triangles)==record[o.name]['triangles'];tris+=len(o.data.loop_triangles);M=np.array(o.matrix_world);co=np.array([v.co[:] for v in o.data.vertices]);co=co@M[:3,:3].T+M[:3,3];err=float(cKDTree(expect[o.name]).query(co)[0].max(initial=0));maxerr=max(maxerr,err);assert err<.001,(o.name,err);assert o.get('source_instance')==record[o.name]['instance']
+  if record[o.name]['v21']:assert o.get('quality_label_zh')==record[o.name]['issue_label'] and o.get('maximum_instances_per_asset')==1
+ assert tris==entry['triangles'];data=file.read_bytes();n=struct.unpack_from('<I',data,12)[0];meta=json.loads(data[20:20+n]);assert all('bufferView' in im and 'uri' not in im for im in meta.get('images',[]));new_nodes=[n for n in meta.get('nodes',[]) if n.get('extras',{}).get('instance_id')];assert all(all(k in n['extras'] for k in ['asset_id','instance_id','source_filename','source_node_name','source_mesh_name','replaces_lots','layout_group']) for n in new_nodes);checks.append({'id':d,'file':entry['file'],'meshes':len(obs),'triangles':tris,'maximum_world_position_error_m':maxerr,'embedded_images':len(meta.get('images',[])),'passed':True});print('REIMPORT_PASS',d,maxerr,flush=True)
+manifest=dict(base);manifest.update(exported_district_ids=[4,8,9,10],reused_district_ids=[i for i in range(1,19) if i not in [4,8,9,10]])
+for entry in entries:manifest['districts'][entry['id']-1]=entry
+manifest['source_triangle_count']=sum(d['triangles'] for d in manifest['districts']);manifest['source_mesh_count']=sum(d['mesh_objects'] for d in manifest['districts']);(out/'districts_manifest.json').write_text(json.dumps(manifest,ensure_ascii=False,indent=2));(R/'validation/districts_validation.json').write_text(json.dumps({'status':'PASS','changed_districts_reimported':4,'reused_districts':14,'source_triangle_count':manifest['source_triangle_count'],'districts':checks,'maximum_world_position_error_m':max(c['maximum_world_position_error_m'] for c in checks),'external_images':False,'coordinate_space_preserved':True},indent=2));print('DISTRICTS_VALIDATION_PASS',flush=True)
